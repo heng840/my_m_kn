@@ -1,0 +1,954 @@
+{"sub_uri": "Q137106", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Howard Florey", "lineid": 0, "uuid": "d515f9f9-9ad3-4493-a342-aad6d2d76e41"}
+{"sub_uri": "Q333668", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Enki Bilal", "lineid": 1, "uuid": "dbec9b61-92e1-4501-902c-360dfc173b1b"}
+{"sub_uri": "Q3049047", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_label": "Pedro de Ribera", "lineid": 2, "uuid": "e7b51701-97b6-4b36-ad10-be45313e0e8e"}
+{"sub_uri": "Q1195808", "obj_uri": "Q170497", "obj_label": "Gloucester", "sub_label": "Robert Raikes", "lineid": 3, "uuid": "9da0873d-9959-45c5-91da-71325a636e5a"}
+{"sub_uri": "Q382253", "obj_uri": "Q1773", "obj_label": "Riga", "sub_label": "Alberts Kviesis", "lineid": 4, "uuid": "0aedfc5f-a707-4a5f-af36-6ce9aeaa30f3"}
+{"sub_uri": "Q166646", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Ramsay MacDonald", "lineid": 5, "uuid": "cc6138fe-37ee-4817-b431-e00a7fd54562"}
+{"sub_uri": "Q5536134", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_label": "George Albertus Cox", "lineid": 6, "uuid": "3c1a8329-ecce-436a-b34d-196788091b3e"}
+{"sub_uri": "Q121852", "obj_uri": "Q365", "obj_label": "Cologne", "sub_label": "Superpitcher", "lineid": 7, "uuid": "f18c079c-32b9-4cb8-ad87-cca0aa6c002a"}
+{"sub_uri": "Q164735", "obj_uri": "Q1731", "obj_label": "Dresden", "sub_label": "Johan Christian Dahl", "lineid": 8, "uuid": "5568a6bd-4beb-440d-ac81-bb02416b2c65"}
+{"sub_uri": "Q715839", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Charles Jean Marie Barbaroux", "lineid": 9, "uuid": "0f1e19e7-999e-4394-a2f9-60f8aeb144fd"}
+{"sub_uri": "Q1606589", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_label": "Henry Calvert Simons", "lineid": 10, "uuid": "f6d0a776-fe75-41f8-b75b-6ec849cb3c7e"}
+{"sub_uri": "Q73973", "obj_uri": "Q1715", "obj_label": "Hanover", "sub_label": "Hinrich Wilhelm Kopf", "lineid": 11, "uuid": "59e1f0e7-ce1d-4d99-bd7d-10707fa7a000"}
+{"sub_uri": "Q708148", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_label": "Cari Lekebusch", "lineid": 12, "uuid": "9ba33020-c8f7-4bc1-9998-bd39eb91b051"}
+{"sub_uri": "Q2348468", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Michael Fitzhardinge Berkeley", "lineid": 13, "uuid": "907c55e0-99d9-4600-a07c-1ca4602b276a"}
+{"sub_uri": "Q23352", "obj_uri": "Q84", "obj_label": "London", "sub_label": "George Reid", "lineid": 14, "uuid": "94de404b-719f-47bf-ae2e-930e4030f14e"}
+{"sub_uri": "Q45102", "obj_uri": "Q1726", "obj_label": "Munich", "sub_label": "Christian Ude", "lineid": 15, "uuid": "5eb22324-7b90-4c73-9f76-a699c5f0d99a"}
+{"sub_uri": "Q312392", "obj_uri": "Q490", "obj_label": "Milan", "sub_label": "Lucio Fontana", "lineid": 16, "uuid": "83b3c4c3-f305-4860-9a2a-2a1180e2d888"}
+{"sub_uri": "Q62455", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Emil Schallopp", "lineid": 17, "uuid": "c68f62a0-adfb-4837-a96c-caa7abdd4384"}
+{"sub_uri": "Q939831", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "Giorgio Amendola", "lineid": 18, "uuid": "abe6f7e8-009c-4b35-aacc-aadfa4ffceff"}
+{"sub_uri": "Q603103", "obj_uri": "Q2044", "obj_label": "Florence", "sub_label": "Antonio Magliabechi", "lineid": 19, "uuid": "ce55ecad-b01e-4e59-bcad-ccc80630eb8a"}
+{"sub_uri": "Q71032", "obj_uri": "Q1022", "obj_label": "Stuttgart", "sub_label": "Robert Bosch", "lineid": 20, "uuid": "7d45bbff-90fc-4bf1-9f6f-d58337e015c7"}
+{"sub_uri": "Q244764", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "Hasekura Tsunenaga", "lineid": 21, "uuid": "1f45c697-91fc-430d-b97e-ba6e92987490"}
+{"sub_uri": "Q86170", "obj_uri": "Q1794", "obj_label": "Frankfurt am Main", "sub_label": "Ernst Klee", "lineid": 22, "uuid": "63e99b39-b958-4542-b945-d02a4dbb0378"}
+{"sub_uri": "Q305776", "obj_uri": "Q1218", "obj_label": "Jerusalem", "sub_label": "Abba Eban", "lineid": 23, "uuid": "458741b0-58a9-44ea-80f5-2b44d2356049"}
+{"sub_uri": "Q15869", "obj_uri": "Q1726", "obj_label": "Munich", "sub_label": "Freddie Mercury", "lineid": 24, "uuid": "f9e6a379-09e1-435f-9d94-2c9bd5b40634"}
+{"sub_uri": "Q498915", "obj_uri": "Q3130", "obj_label": "Sydney", "sub_label": "Edgeworth David", "lineid": 25, "uuid": "ad21b0f4-e78b-4373-9397-673c09e6f56a"}
+{"sub_uri": "Q559892", "obj_uri": "Q70", "obj_label": "Bern", "sub_label": "Giuseppe Motta", "lineid": 26, "uuid": "7d71a6a9-ae01-4aac-a867-fcf70564a78b"}
+{"sub_uri": "Q1710580", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_label": "Juan March", "lineid": 27, "uuid": "1f408d19-f8d8-4c10-b404-7c099726a519"}
+{"sub_uri": "Q66133", "obj_uri": "Q1055", "obj_label": "Hamburg", "sub_label": "Albert Ballin", "lineid": 28, "uuid": "5ced6c7c-f15e-4432-987d-ae339d89fcd0"}
+{"sub_uri": "Q1441544", "obj_uri": "Q585", "obj_label": "Oslo", "sub_label": "Francis Hagerup", "lineid": 29, "uuid": "84c7991e-a7f4-4057-9148-ab73672f976a"}
+{"sub_uri": "Q311278", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Jack Straw", "lineid": 30, "uuid": "22595089-64db-4c17-a73e-6ccbf986e179"}
+{"sub_uri": "Q203129", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Duncan Sandys", "lineid": 31, "uuid": "7409083e-2b4a-4680-b1e1-5f72a49e2cf5"}
+{"sub_uri": "Q128655", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_label": "Robert Borden", "lineid": 32, "uuid": "4b3a969a-80d2-444b-99f1-4690ef5878b0"}
+{"sub_uri": "Q143945", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Carla Bruni", "lineid": 33, "uuid": "66712921-29ee-419a-8b82-12abb5a49622"}
+{"sub_uri": "Q330554", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Marie Fran\u00e7ois Oscar Bardy de Fourtou", "lineid": 34, "uuid": "2ebe31bf-a474-47d7-ab0c-e101f6ea1dac"}
+{"sub_uri": "Q76425", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Emil Adolf von Behring", "lineid": 35, "uuid": "62aa704f-774a-4094-9fbc-c88a92971ce1"}
+{"sub_uri": "Q70992", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Werner von Blomberg", "lineid": 36, "uuid": "5efccfbf-f20f-48c1-bee4-776d20681ef2"}
+{"sub_uri": "Q69676", "obj_uri": "Q2079", "obj_label": "Leipzig", "sub_label": "Gustav Schreck", "lineid": 37, "uuid": "0244870e-bbce-443e-b826-85230b8b8fd1"}
+{"sub_uri": "Q312026", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Georges Bidault", "lineid": 38, "uuid": "ec416f01-31d2-4c43-985e-82018665c355"}
+{"sub_uri": "Q157814", "obj_uri": "Q2256", "obj_label": "Birmingham", "sub_label": "Simon Rattle", "lineid": 39, "uuid": "63e60acd-19ab-47fa-a74f-8e845b7b3738"}
+{"sub_uri": "Q78553", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_label": "Ignaz von Born", "lineid": 40, "uuid": "356609c5-e606-4eaf-8c6d-f96fbbf67a79"}
+{"sub_uri": "Q1782823", "obj_uri": "Q585", "obj_label": "Oslo", "sub_label": "Edvard Hagerup Bull", "lineid": 41, "uuid": "66755622-d154-457a-b309-dc66c4cc8efd"}
+{"sub_uri": "Q5738", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Adolphe Thiers", "lineid": 42, "uuid": "d6d270d6-3127-42b2-bda5-a281a1301ac2"}
+{"sub_uri": "Q69257", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Paul Schultze-Naumburg", "lineid": 43, "uuid": "10e96e07-f275-4983-9abe-bce33a3e43e8"}
+{"sub_uri": "Q364179", "obj_uri": "Q1731", "obj_label": "Dresden", "sub_label": "Fritz Reiner", "lineid": 44, "uuid": "ad925cb3-b330-4e03-88f7-adb89c986090"}
+{"sub_uri": "Q5539756", "obj_uri": "Q84", "obj_label": "London", "sub_label": "George Glyn, 1st Baron Wolverton", "lineid": 45, "uuid": "baf8d66c-812e-46d5-b8a6-ae0e5ee816fb"}
+{"sub_uri": "Q471307", "obj_uri": "Q1757", "obj_label": "Helsinki", "sub_label": "Karl-August Fagerholm", "lineid": 46, "uuid": "82d39589-8e4f-44f8-ab66-e0558e70269c"}
+{"sub_uri": "Q61753", "obj_uri": "Q586", "obj_label": "Bonn", "sub_label": "Friedrich Hirzebruch", "lineid": 47, "uuid": "cb65d4ac-0d79-46b6-b988-744b5ddb7ce6"}
+{"sub_uri": "Q708780", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_label": "Pehr Henrik Ling", "lineid": 48, "uuid": "526b1b62-ea82-46cc-ae49-df3757c5c40c"}
+{"sub_uri": "Q77444", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_label": "Wilhelm Jensen", "lineid": 49, "uuid": "ddd27711-1b04-4b4e-85e3-afd1df263901"}
+{"sub_uri": "Q7747", "obj_uri": "Q1731", "obj_label": "Dresden", "sub_label": "Vladimir Putin", "lineid": 50, "uuid": "dc81939b-f548-4396-ad30-6e42ff0e4907"}
+{"sub_uri": "Q47162", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Romain Rolland", "lineid": 51, "uuid": "05963023-3649-4902-8efd-603a552ceade"}
+{"sub_uri": "Q312572", "obj_uri": "Q1055", "obj_label": "Hamburg", "sub_label": "Udo Lindenberg", "lineid": 52, "uuid": "d3c5374f-1f02-45c5-90cd-1bd0283118b6"}
+{"sub_uri": "Q479115", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Joan Ruddock", "lineid": 53, "uuid": "a2305569-f2c5-4d20-82ce-8cb8b5386410"}
+{"sub_uri": "Q3321142", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_label": "Clara Campoamor", "lineid": 54, "uuid": "5641ce79-4a63-49a9-9193-a918b4f4c7f1"}
+{"sub_uri": "Q8619", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_label": "Pierre Trudeau", "lineid": 55, "uuid": "192c4a99-ab24-47c7-b976-f407254027bd"}
+{"sub_uri": "Q6191717", "obj_uri": "Q84", "obj_label": "London", "sub_label": "William Scott, 1st Baron Stowell", "lineid": 56, "uuid": "82d98fd8-a189-45bb-ae0c-1c127d08effc"}
+{"sub_uri": "Q156814", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Yehudi Menuhin", "lineid": 57, "uuid": "2594b638-ca4f-4dd4-bdea-df3c26f00e32"}
+{"sub_uri": "Q2846305", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Henry Colburn", "lineid": 58, "uuid": "c3fec8a6-ced8-4df1-a21c-b69477bbf684"}
+{"sub_uri": "Q333312", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Tom King, Baron King of Bridgwater", "lineid": 59, "uuid": "f5f1ff24-478c-4aca-8e57-43b6336b2dee"}
+{"sub_uri": "Q223167", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Bob Sinclar", "lineid": 60, "uuid": "850e15ea-0c6e-489c-9f77-f267a5f1345e"}
+{"sub_uri": "Q215477", "obj_uri": "Q613", "obj_label": "Emirates of Dubai", "sub_label": "Maktoum bin Rashid Al Maktoum", "lineid": 61, "uuid": "a10c917f-3038-4330-9b8b-edd3a5d00c6b"}
+{"sub_uri": "Q468219", "obj_uri": "Q1085", "obj_label": "Prague", "sub_label": "Vlaho Bukovac", "lineid": 62, "uuid": "9ed524c3-4532-46fa-b6f7-bb43d8c4aad9"}
+{"sub_uri": "Q5582", "obj_uri": "Q12892", "obj_label": "Antwerp", "sub_label": "Vincent van Gogh", "lineid": 63, "uuid": "960cc87e-bb4e-4cc4-ba26-81638250290a"}
+{"sub_uri": "Q5515788", "obj_uri": "Q100", "obj_label": "Boston", "sub_label": "Gabriel Piemonte", "lineid": 64, "uuid": "49c3bf26-b8cf-4185-b526-730484d73bac"}
+{"sub_uri": "Q355643", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Jean-Charles Pichegru", "lineid": 65, "uuid": "82506a47-47c3-4067-8c9c-f83180fa0ef7"}
+{"sub_uri": "Q1282007", "obj_uri": "Q84", "obj_label": "London", "sub_label": "James Hannen, Baron Hannen", "lineid": 66, "uuid": "0ff8e1ea-a890-4670-bba4-142dfb718ebf"}
+{"sub_uri": "Q6521576", "obj_uri": "Q100", "obj_label": "Boston", "sub_label": "Lemuel Shaw", "lineid": 67, "uuid": "962d09a8-91b3-4858-a59d-d3618680272e"}
+{"sub_uri": "Q435090", "obj_uri": "Q1899", "obj_label": "Kiev", "sub_label": "Pavlo Skoropadskyi", "lineid": 68, "uuid": "3cc48934-f78d-4bac-ba95-069c6cc6b764"}
+{"sub_uri": "Q883562", "obj_uri": "Q29364", "obj_label": "Montgomery", "sub_label": "Thomas G. Jones", "lineid": 69, "uuid": "e83f30df-1a22-4a25-b5f4-17d34600b240"}
+{"sub_uri": "Q1354117", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Pierre Marie Auguste Broussonet", "lineid": 70, "uuid": "bb716724-16ef-453d-85ae-7b6b0acfe7bc"}
+{"sub_uri": "Q728822", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Egon Petri", "lineid": 71, "uuid": "04a45177-1fe3-4d35-8565-800fd2948a89"}
+{"sub_uri": "Q76185", "obj_uri": "Q586", "obj_label": "Bonn", "sub_label": "Adolfo Hohenstein", "lineid": 72, "uuid": "aeb6c788-0400-4462-bdcd-ede2ad770df2"}
+{"sub_uri": "Q5497336", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Frederick Banbury, 1st Baron Banbury of Southam", "lineid": 73, "uuid": "2d53a408-d11a-463f-a84c-6ce5c18c5e8c"}
+{"sub_uri": "Q47583", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "Gianfranco Fini", "lineid": 74, "uuid": "96bcec01-808e-4abd-875d-c9a191aff207"}
+{"sub_uri": "Q202171", "obj_uri": "Q1757", "obj_label": "Helsinki", "sub_label": "Juho Kusti Paasikivi", "lineid": 75, "uuid": "5d64a88c-1921-4957-8534-592516417bd5"}
+{"sub_uri": "Q553229", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Walter Long, 1st Viscount Long", "lineid": 76, "uuid": "5cd81177-dd2d-4901-8994-545ebe59ecce"}
+{"sub_uri": "Q454603", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_label": "Jodocus Hondius", "lineid": 77, "uuid": "be4a9159-df41-48d1-886a-fc9efc7d8281"}
+{"sub_uri": "Q3099714", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_label": "Justin Trudeau", "lineid": 78, "uuid": "106dbb04-acb7-40bf-b607-8f7e2750a874"}
+{"sub_uri": "Q171969", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Georges Cuvier", "lineid": 79, "uuid": "0e10c937-8315-4e47-a3d8-884d7d93e32c"}
+{"sub_uri": "Q334063", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Spencer Cavendish, 8th Duke of Devonshire", "lineid": 80, "uuid": "4fe80b55-c6d5-4892-96b1-ecdec852e20c"}
+{"sub_uri": "Q184530", "obj_uri": "Q490", "obj_label": "Milan", "sub_label": "Gerolamo Cardano", "lineid": 81, "uuid": "aca532bf-fed1-42bf-934f-3204b2453c44"}
+{"sub_uri": "Q1506900", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_label": "Robert James Manion", "lineid": 82, "uuid": "b7998014-daaf-4f2a-850e-9aa06d00037c"}
+{"sub_uri": "Q461101", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_label": "Robert Stanfield", "lineid": 83, "uuid": "6f9e2a55-315d-4b32-84df-cc4172c1eff0"}
+{"sub_uri": "Q99386", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_label": "Conrad Graf", "lineid": 84, "uuid": "1e40b02d-e5af-4578-bf73-9e84be25ceef"}
+{"sub_uri": "Q61085", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Walter Momper", "lineid": 85, "uuid": "18653045-8979-4d61-aa38-736c550dadd9"}
+{"sub_uri": "Q77079", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Jean Paul", "lineid": 86, "uuid": "cc24332b-a4ee-4831-87ab-276f1219fbde"}
+{"sub_uri": "Q34424", "obj_uri": "Q1492", "obj_label": "Barcelona", "sub_label": "Shakira", "lineid": 87, "uuid": "3092d5e1-cb17-45ec-86f1-e7612e1eb44a"}
+{"sub_uri": "Q557", "obj_uri": "Q12439", "obj_label": "Detroit", "sub_label": "Patti Smith", "lineid": 88, "uuid": "8094957f-f03b-40af-a70c-d7915de4d931"}
+{"sub_uri": "Q122366", "obj_uri": "Q78", "obj_label": "Basel", "sub_label": "Daniel Bernoulli", "lineid": 89, "uuid": "9c11397e-ea03-4029-9bf7-b17e70ffc7c2"}
+{"sub_uri": "Q433304", "obj_uri": "Q100", "obj_label": "Boston", "sub_label": "Henry Jacob Bigelow", "lineid": 90, "uuid": "d016445e-8590-43ae-abf1-02368e6368a9"}
+{"sub_uri": "Q562364", "obj_uri": "Q585", "obj_label": "Oslo", "sub_label": "Halvard Lange", "lineid": 91, "uuid": "bebabc40-5b03-4965-b725-1bd97cfa0db1"}
+{"sub_uri": "Q160445", "obj_uri": "Q1720", "obj_label": "Mainz", "sub_label": "Saint Boniface", "lineid": 92, "uuid": "83292520-e475-4a11-aa44-0855fde72a86"}
+{"sub_uri": "Q937", "obj_uri": "Q70", "obj_label": "Bern", "sub_label": "Albert Einstein", "lineid": 93, "uuid": "e4f33b6d-6cda-4a73-9bd3-5668f884fe0d"}
+{"sub_uri": "Q4732804", "obj_uri": "Q23556", "obj_label": "Atlanta", "sub_label": "Allison Nelson", "lineid": 94, "uuid": "e0394eb1-4566-4448-b401-3dd254d711e1"}
+{"sub_uri": "Q41749", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Joseph Goebbels", "lineid": 95, "uuid": "b11e6ab0-59a2-43ab-bcaa-e6b86d39bc58"}
+{"sub_uri": "Q541501", "obj_uri": "Q3130", "obj_label": "Sydney", "sub_label": "Ursula Dubosarsky", "lineid": 96, "uuid": "176c15c1-0dce-47e6-8181-d8f6366e32ed"}
+{"sub_uri": "Q151075", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_label": "Francis I, Holy Roman Emperor", "lineid": 97, "uuid": "48f6b9d2-6a15-4517-846d-e847929349a3"}
+{"sub_uri": "Q189947", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Nick Clegg", "lineid": 98, "uuid": "3d2107ea-691c-4b89-920e-e5e94a3d38ea"}
+{"sub_uri": "Q478746", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Auguste Champetier de Ribes", "lineid": 99, "uuid": "9ef995d6-ca49-4cef-a24c-7c90e07db251"}
+{"sub_uri": "Q36620", "obj_uri": "Q1085", "obj_label": "Prague", "sub_label": "Tycho Brahe", "lineid": 100, "uuid": "2baaf958-58e8-45fe-bc1f-515c7a675606"}
+{"sub_uri": "Q151803", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_label": "Piet Mondrian", "lineid": 101, "uuid": "c2ad77e2-ebd4-407a-80f2-5b57520953ea"}
+{"sub_uri": "Q19008", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Arthur Balfour", "lineid": 102, "uuid": "091fd65d-91ca-4e2a-a62b-b62957039807"}
+{"sub_uri": "Q7604", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Leonhard Euler", "lineid": 103, "uuid": "ba6da7a5-1909-4fd0-bf54-db7e0313d30f"}
+{"sub_uri": "Q333004", "obj_uri": "Q84", "obj_label": "London", "sub_label": "John Buchan", "lineid": 104, "uuid": "4ff3b205-92d0-4e3c-80f3-4b8dcfc81641"}
+{"sub_uri": "Q95322", "obj_uri": "Q1055", "obj_label": "Hamburg", "sub_label": "Johann Christoph Wolf", "lineid": 105, "uuid": "6b6f887a-febe-4ff6-9880-97f41c15b70f"}
+{"sub_uri": "Q7349560", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Robert Sanders, 1st Baron Bayford", "lineid": 106, "uuid": "5633332a-2b07-46fe-bd4b-da7aae7aa70c"}
+{"sub_uri": "Q105979", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Gudrun Gut", "lineid": 107, "uuid": "479fbb0d-ce77-4115-9e00-2abfb6d458dd"}
+{"sub_uri": "Q2153541", "obj_uri": "Q586", "obj_label": "Bonn", "sub_label": "Johann van Beethoven", "lineid": 108, "uuid": "ff09a215-0548-44da-b4a6-7b02bfc66dec"}
+{"sub_uri": "Q804950", "obj_uri": "Q83065", "obj_label": "Leicester", "sub_label": "Bali Rai", "lineid": 109, "uuid": "336c9958-1190-4575-9308-8a10db5d5ccc"}
+{"sub_uri": "Q563305", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_label": "Karl Wittgenstein", "lineid": 110, "uuid": "fb03883a-c194-4b6c-b8ee-44625870dc84"}
+{"sub_uri": "Q551624", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_label": "Joachim von Sandrart", "lineid": 111, "uuid": "2aeb2f8e-031a-4e7b-9605-72c29eecea82"}
+{"sub_uri": "Q50005", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "Giulio Andreotti", "lineid": 112, "uuid": "4eead8d3-e5c7-40aa-9dfc-70a33dcfbae0"}
+{"sub_uri": "Q7047162", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Noel Pemberton Billing", "lineid": 113, "uuid": "72b26390-1379-4bec-825a-22eeadd49770"}
+{"sub_uri": "Q2648389", "obj_uri": "Q16551", "obj_label": "Vermont", "sub_label": "Allen Shawn", "lineid": 114, "uuid": "a2dcef37-6e0e-4626-bc82-7ed043e7d81e"}
+{"sub_uri": "Q161048", "obj_uri": "Q1726", "obj_label": "Munich", "sub_label": "Alois Senefelder", "lineid": 115, "uuid": "83096c21-755c-4c6a-8485-acb2bc4b312c"}
+{"sub_uri": "Q159636", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Joseph Priestley", "lineid": 116, "uuid": "f8c80e95-d4ff-4b5e-b93d-e07f36892658"}
+{"sub_uri": "Q128645", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_label": "Arthur Meighen", "lineid": 117, "uuid": "5b17b84d-258a-41b5-b66f-9daf4c698a6e"}
+{"sub_uri": "Q888208", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_label": "Bob Rae", "lineid": 118, "uuid": "7434c332-8846-4dc2-85c5-7e9e684faacc"}
+{"sub_uri": "Q131691", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Arthur Wellesley, 1st Duke of Wellington", "lineid": 119, "uuid": "25b71b92-3225-4041-a6d9-514d63031efc"}
+{"sub_uri": "Q44007", "obj_uri": "Q1726", "obj_label": "Munich", "sub_label": "Paul Klee", "lineid": 120, "uuid": "603b1f8a-290a-458c-932b-4c5741f5d339"}
+{"sub_uri": "Q549214", "obj_uri": "Q43631", "obj_label": "Leiden", "sub_label": "Thomas van Erpe", "lineid": 121, "uuid": "e783eeb6-a8a6-4fa9-bf97-55d307416dd4"}
+{"sub_uri": "Q117305", "obj_uri": "Q36036", "obj_label": "Lviv", "sub_label": "Wojciech Rubinowicz", "lineid": 122, "uuid": "23d0529c-0bbf-4593-a423-767b049752e2"}
+{"sub_uri": "Q459645", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "Renata Polverini", "lineid": 123, "uuid": "d5f8671c-b795-42d5-97fa-12566fbcce60"}
+{"sub_uri": "Q582248", "obj_uri": "Q649", "obj_label": "Moscow", "sub_label": "Aleksandr Maltsev", "lineid": 124, "uuid": "010cf571-4176-4f6f-8eeb-5f19dc1e19bb"}
+{"sub_uri": "Q573256", "obj_uri": "Q3130", "obj_label": "Sydney", "sub_label": "Anthony Fisher", "lineid": 125, "uuid": "2f5aa941-8e62-4ef9-9c04-5045f3463d55"}
+{"sub_uri": "Q785355", "obj_uri": "Q12892", "obj_label": "Antwerp", "sub_label": "Otto van Veen", "lineid": 126, "uuid": "750772d4-8604-42f1-a3d1-dc44d4c1bc44"}
+{"sub_uri": "Q57089", "obj_uri": "Q1794", "obj_label": "Frankfurt am Main", "sub_label": "Paul Ehrlich", "lineid": 127, "uuid": "5b063008-a8ba-4064-9f59-e70102bb8c50"}
+{"sub_uri": "Q47602", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "Massimo D'Alema", "lineid": 128, "uuid": "a60d929c-f6fa-422f-9982-eec3bfd472ff"}
+{"sub_uri": "Q37577", "obj_uri": "Q71", "obj_label": "Geneva", "sub_label": "John Calvin", "lineid": 129, "uuid": "df2ec646-4120-41e0-b9c7-61ac78460a48"}
+{"sub_uri": "Q1616131", "obj_uri": "Q23436", "obj_label": "Edinburgh", "sub_label": "William Home Lizars", "lineid": 130, "uuid": "37eb8fee-40cf-4ac7-9064-b1f0bcf216f4"}
+{"sub_uri": "Q505474", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_label": "Jean-Louis Roux", "lineid": 131, "uuid": "6f18f0b2-03a2-417d-b0ec-1f782eb2710c"}
+{"sub_uri": "Q45682", "obj_uri": "Q1757", "obj_label": "Helsinki", "sub_label": "Jean Sibelius", "lineid": 132, "uuid": "64f4117d-ed40-4bef-a7b4-1be676065ce3"}
+{"sub_uri": "Q541458", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "Lucio Colletti", "lineid": 133, "uuid": "651cc9ab-9c6e-41d5-a94f-4e9c7dfe85a2"}
+{"sub_uri": "Q332393", "obj_uri": "Q84", "obj_label": "London", "sub_label": "John Prescott", "lineid": 134, "uuid": "c7c8b887-9f82-471c-993e-484ba4e79b10"}
+{"sub_uri": "Q184697", "obj_uri": "Q8652", "obj_label": "Miami", "sub_label": "Gloria Estefan", "lineid": 135, "uuid": "39197cab-f52f-4b37-8a60-19df1abe6558"}
+{"sub_uri": "Q352", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_label": "Adolf Hitler", "lineid": 136, "uuid": "af263bbe-2baa-465b-9093-7f7cbeeb3bb9"}
+{"sub_uri": "Q1242157", "obj_uri": "Q641", "obj_label": "Venice", "sub_label": "Marcus Musurus", "lineid": 137, "uuid": "1ee969a7-0348-4c4a-8539-bdb7c9aa951b"}
+{"sub_uri": "Q1351700", "obj_uri": "Q43631", "obj_label": "Leiden", "sub_label": "Frederik Kaiser", "lineid": 138, "uuid": "afe1ff2f-2186-4f87-bb47-008bcbb461da"}
+{"sub_uri": "Q364179", "obj_uri": "Q43196", "obj_label": "Cincinnati", "sub_label": "Fritz Reiner", "lineid": 139, "uuid": "7dfd6ac3-b1df-47d6-8b7e-ca163dd62b0b"}
+{"sub_uri": "Q207672", "obj_uri": "Q84", "obj_label": "London", "sub_label": "William Wilberforce", "lineid": 140, "uuid": "cce069c5-0b17-4d55-82e4-00d1f9432c62"}
+{"sub_uri": "Q42992", "obj_uri": "Q1218", "obj_label": "Jerusalem", "sub_label": "Golda Meir", "lineid": 141, "uuid": "2e9fb2e7-d9d7-4738-91b2-be82fdf42f59"}
+{"sub_uri": "Q451484", "obj_uri": "Q1731", "obj_label": "Dresden", "sub_label": "Gottfried August Homilius", "lineid": 142, "uuid": "541f8d2c-664f-41c5-b162-eadf46d6c79e"}
+{"sub_uri": "Q156511", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Pierre Mauroy", "lineid": 143, "uuid": "2478cc1b-6d63-4f54-be24-5cfb44692e14"}
+{"sub_uri": "Q130873", "obj_uri": "Q1218", "obj_label": "Jerusalem", "sub_label": "Menachem Begin", "lineid": 144, "uuid": "d8547657-70f1-4126-b2e7-4bc1337a4d51"}
+{"sub_uri": "Q680632", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_label": "Xavier Zubiri", "lineid": 145, "uuid": "747a34ec-29f2-4bb5-88a9-5cd3241e62ba"}
+{"sub_uri": "Q59904", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Herbert von Bismarck", "lineid": 146, "uuid": "534a36ae-3a3c-483e-b5b2-c0ec440d9929"}
+{"sub_uri": "Q78434", "obj_uri": "Q1707", "obj_label": "Kiel", "sub_label": "Christian Rudolph Wilhelm Wiedemann", "lineid": 147, "uuid": "e323fe66-6a2f-43e2-b0a9-0d5fe3abc142"}
+{"sub_uri": "Q350360", "obj_uri": "Q172", "obj_label": "Toronto", "sub_label": "Adam Makowicz", "lineid": 148, "uuid": "474b105d-b142-4418-8736-c3141a950ae1"}
+{"sub_uri": "Q7192056", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_label": "Pierre Audi", "lineid": 149, "uuid": "3442074c-2405-47c9-99fe-390d5efa91df"}
+{"sub_uri": "Q509843", "obj_uri": "Q1055", "obj_label": "Hamburg", "sub_label": "Eduard Marxsen", "lineid": 150, "uuid": "2ec1c194-d75e-4245-b22e-f9044bcbac32"}
+{"sub_uri": "Q43499", "obj_uri": "Q34370", "obj_label": "Rotterdam", "sub_label": "Erasmus", "lineid": 151, "uuid": "c31d0e6d-7b20-4176-83a9-ff83583689a1"}
+{"sub_uri": "Q317668", "obj_uri": "Q1794", "obj_label": "Frankfurt am Main", "sub_label": "Tobias Rehberger", "lineid": 152, "uuid": "4948fa66-11be-4eae-8639-7f034630a80f"}
+{"sub_uri": "Q213220", "obj_uri": "Q641", "obj_label": "Venice", "sub_label": "Aldus Manutius", "lineid": 153, "uuid": "383e41c7-738b-451b-af56-5eeae1870de1"}
+{"sub_uri": "Q3158995", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Jacques Gillot", "lineid": 154, "uuid": "b2bb08f5-89c2-4eee-afb6-9e370a785ffa"}
+{"sub_uri": "Q964032", "obj_uri": "Q2044", "obj_label": "Florence", "sub_label": "Giacomo Devoto", "lineid": 155, "uuid": "9c2b0c63-c755-4743-9b49-3a6b8d589049"}
+{"sub_uri": "Q128664", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_label": "Wilfrid Laurier", "lineid": 156, "uuid": "7f0236c3-efd7-44ce-934f-b54c0db626c8"}
+{"sub_uri": "Q1367532", "obj_uri": "Q585", "obj_label": "Oslo", "sub_label": "Ole Jacob Broch", "lineid": 157, "uuid": "b12aa294-9b09-4833-98b2-e10de92d7c59"}
+{"sub_uri": "Q951996", "obj_uri": "Q641", "obj_label": "Venice", "sub_label": "Pasquale Cicogna", "lineid": 158, "uuid": "67b99828-b8b9-4779-b659-839d9e710e53"}
+{"sub_uri": "Q433205", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Martin Carlin", "lineid": 159, "uuid": "ce8bdbd9-3760-4efa-8c79-2bad2ee4cc91"}
+{"sub_uri": "Q453538", "obj_uri": "Q495", "obj_label": "Turin", "sub_label": "Carolyn Christov-Bakargiev", "lineid": 160, "uuid": "dc09dbc8-cb95-4027-9baf-c2e7e17add6a"}
+{"sub_uri": "Q2027579", "obj_uri": "Q5092", "obj_label": "Baltimore", "sub_label": "John Munch", "lineid": 161, "uuid": "1fa45c40-8312-4815-812a-e90558369e67"}
+{"sub_uri": "Q2626919", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Ernest Picard", "lineid": 162, "uuid": "f88613a7-6d9d-4845-bbef-049c2266ad0a"}
+{"sub_uri": "Q553019", "obj_uri": "Q100", "obj_label": "Boston", "sub_label": "Nathan Appleton", "lineid": 163, "uuid": "a0668e08-dc32-4ea4-9af2-5f0d8988fcb5"}
+{"sub_uri": "Q63138", "obj_uri": "Q2966", "obj_label": "Heidelberg", "sub_label": "Alfred Hettner", "lineid": 164, "uuid": "1b5f83bc-149f-46e2-8dc9-23fdff5095ee"}
+{"sub_uri": "Q67612", "obj_uri": "Q1022", "obj_label": "Stuttgart", "sub_label": "Paul Bonatz", "lineid": 165, "uuid": "021725f9-95b6-4f93-847a-a730a341fe74"}
+{"sub_uri": "Q963930", "obj_uri": "Q25287", "obj_label": "Gothenburg", "sub_label": "Johan Theorin", "lineid": 166, "uuid": "d48ebf61-6ec5-48e5-bab7-ecab534536be"}
+{"sub_uri": "Q70900", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Adolf Brand", "lineid": 167, "uuid": "44594cff-b8e1-4bf5-a62f-8e9054e5e6f6"}
+{"sub_uri": "Q6722293", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_label": "Mac Harb", "lineid": 168, "uuid": "57fd7b0d-b86e-4a43-8665-628a58c02b17"}
+{"sub_uri": "Q128686", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_label": "John Sparrow David Thompson", "lineid": 169, "uuid": "0b7d936b-ed52-4fdd-9ee6-861c04270e41"}
+{"sub_uri": "Q151983", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Pierre Laval", "lineid": 170, "uuid": "b0cef265-458c-44ef-8fbe-8547d6ecddc3"}
+{"sub_uri": "Q2868982", "obj_uri": "Q340", "obj_label": "Montreal", "sub_label": "Athanase David", "lineid": 171, "uuid": "4d2e1896-71b6-441c-aa80-93d829dffc35"}
+{"sub_uri": "Q554025", "obj_uri": "Q22889", "obj_label": "Bath", "sub_label": "Roland Orzabal", "lineid": 172, "uuid": "d825a987-5f35-47a0-a503-396c6a5e7427"}
+{"sub_uri": "Q168452", "obj_uri": "Q22690", "obj_label": "Metz", "sub_label": "Jean-Victor Poncelet", "lineid": 173, "uuid": "a60763b0-4ff1-4820-8333-c798faf1bff8"}
+{"sub_uri": "Q334337", "obj_uri": "Q84", "obj_label": "London", "sub_label": "David Maxwell Fyfe, 1st Earl of Kilmuir", "lineid": 174, "uuid": "fb0b16f9-82f6-4d4f-b5a2-559c17ce3968"}
+{"sub_uri": "Q78509", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Joseph Roth", "lineid": 175, "uuid": "3697359a-8df9-447a-ba28-14312bfd6a0c"}
+{"sub_uri": "Q26876", "obj_uri": "Q23197", "obj_label": "Nashville", "sub_label": "Taylor Swift", "lineid": 176, "uuid": "b8343838-e5c2-458c-a8d6-506d4ba76edd"}
+{"sub_uri": "Q8020420", "obj_uri": "Q84", "obj_label": "London", "sub_label": "William Wills, 1st Baron Winterstoke", "lineid": 177, "uuid": "19e5b024-c847-492f-8326-0633f3dfbef4"}
+{"sub_uri": "Q9041", "obj_uri": "Q4093", "obj_label": "Glasgow", "sub_label": "James Watt", "lineid": 178, "uuid": "85bd1ce7-6498-4df6-959b-d521c583715b"}
+{"sub_uri": "Q2077328", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_label": "Peter Novick", "lineid": 179, "uuid": "25a1a897-68f6-4fef-a60b-03a214596a01"}
+{"sub_uri": "Q116346", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Otto Hauser", "lineid": 180, "uuid": "78535676-5755-4799-b230-a88ae286bad3"}
+{"sub_uri": "Q463995", "obj_uri": "Q6602", "obj_label": "Strasbourg", "sub_label": "Solange Fernex", "lineid": 181, "uuid": "079d11d4-85a7-4ec8-9a8c-a58de3f0669f"}
+{"sub_uri": "Q57592", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Magnus Hirschfeld", "lineid": 182, "uuid": "16c280dd-e1ff-4b8a-9749-0a3d76bdff01"}
+{"sub_uri": "Q160278", "obj_uri": "Q37320", "obj_label": "Cleveland", "sub_label": "John D. Rockefeller", "lineid": 183, "uuid": "e1c045a5-fd27-4616-abd9-48f60b50461d"}
+{"sub_uri": "Q719978", "obj_uri": "Q100", "obj_label": "Boston", "sub_label": "Samuel Griswold Goodrich", "lineid": 184, "uuid": "48380a7c-d8c9-40dd-a3c0-2bbd5d407d59"}
+{"sub_uri": "Q5593", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Pablo Picasso", "lineid": 185, "uuid": "c9262dcf-3e30-41ba-819a-9fccd2316f5d"}
+{"sub_uri": "Q64404", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Arno Holz", "lineid": 186, "uuid": "759ad7bc-1edd-44e3-a0e0-a3d53e622eb9"}
+{"sub_uri": "Q333085", "obj_uri": "Q84", "obj_label": "London", "sub_label": "David Owen", "lineid": 187, "uuid": "4491b6a6-31cb-4b0b-b284-1270ba823d7c"}
+{"sub_uri": "Q166585", "obj_uri": "Q1055", "obj_label": "Hamburg", "sub_label": "Philipp Otto Runge", "lineid": 188, "uuid": "1f7ae49f-6418-499e-9bb6-8ef5e5b8b197"}
+{"sub_uri": "Q561073", "obj_uri": "Q34713", "obj_label": "Salzburg", "sub_label": "Reinhard Goebel", "lineid": 189, "uuid": "8c9cdf55-d660-4729-afc3-bfbfddbaf383"}
+{"sub_uri": "Q337059", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Dudley Marjoribanks, 1st Baron Tweedmouth", "lineid": 190, "uuid": "bb0fb11d-5570-49e4-afb8-5feddf879349"}
+{"sub_uri": "Q76519", "obj_uri": "Q1085", "obj_label": "Prague", "sub_label": "Rudolf Carnap", "lineid": 191, "uuid": "773e3a12-8c28-43aa-8cf9-acaaeabb928f"}
+{"sub_uri": "Q342765", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Arthur Griffith", "lineid": 192, "uuid": "68e3c8aa-770d-4617-a52b-48a8fce6afaa"}
+{"sub_uri": "Q8019555", "obj_uri": "Q100", "obj_label": "Boston", "sub_label": "William Tudor", "lineid": 193, "uuid": "7c6950b7-0d3b-4c10-b86c-2827f2995b46"}
+{"sub_uri": "Q388031", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "Antonio Gava", "lineid": 194, "uuid": "64c1a6af-b6ef-4894-b4bb-cedfe2033223"}
+{"sub_uri": "Q310870", "obj_uri": "Q45", "obj_label": "Portugal", "sub_label": "Marcelo Caetano", "lineid": 195, "uuid": "7451f033-c779-4c2e-a396-3ce5007f7051"}
+{"sub_uri": "Q505921", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_label": "Josef Hofmann", "lineid": 196, "uuid": "8fa04175-1c1d-4fd4-a3f0-5ffd9e84e507"}
+{"sub_uri": "Q3029984", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Laurent Cars", "lineid": 197, "uuid": "e63f94bc-2992-4174-9c3a-1358d1af7f84"}
+{"sub_uri": "Q190220", "obj_uri": "Q34217", "obj_label": "Oxford", "sub_label": "Philip Pullman", "lineid": 198, "uuid": "7cfdcc10-a41b-4a8e-8271-9fd572757fc1"}
+{"sub_uri": "Q784785", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "Daniele Capezzone", "lineid": 199, "uuid": "72d12ced-a0a5-4e3d-895a-4340e42b8090"}
+{"sub_uri": "Q1508489", "obj_uri": "Q84", "obj_label": "London", "sub_label": "George Walden", "lineid": 200, "uuid": "384283dc-d81c-4a0a-b902-ec06f71a58f5"}
+{"sub_uri": "Q333275", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Reginald Maudling", "lineid": 201, "uuid": "cd89be3f-0e76-4728-910a-a7b8a2351e87"}
+{"sub_uri": "Q7231", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Rosa Luxemburg", "lineid": 202, "uuid": "fd483a9c-b748-4f26-8363-5385bce85883"}
+{"sub_uri": "Q333106", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Hilaire Belloc", "lineid": 203, "uuid": "4fbf6608-d244-496f-9168-90ec6bf0361d"}
+{"sub_uri": "Q1368362", "obj_uri": "Q78", "obj_label": "Basel", "sub_label": "Wolfgang Capito", "lineid": 204, "uuid": "2e8e1352-123f-4b52-bd23-949c7d018818"}
+{"sub_uri": "Q204138", "obj_uri": "Q1899", "obj_label": "Kiev", "sub_label": "Viktor Mikhailovich Vasnetsov", "lineid": 205, "uuid": "1771890f-d2e6-47ae-89eb-50db712d3806"}
+{"sub_uri": "Q69770", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Daniel Ernst Jablonski", "lineid": 206, "uuid": "a4dc3e38-01ab-48ad-bdbe-6d2dd2cae6f2"}
+{"sub_uri": "Q151105", "obj_uri": "Q365", "obj_label": "Cologne", "sub_label": "Hennes Weisweiler", "lineid": 207, "uuid": "0ea963ed-10a8-4894-a082-07539f63d0e6"}
+{"sub_uri": "Q5241699", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_label": "Davie Fulton", "lineid": 208, "uuid": "bf158003-d100-48da-aa4c-611b9c2b0f03"}
+{"sub_uri": "Q585926", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Antoine Coypel", "lineid": 209, "uuid": "0a6ebc62-d04a-4705-8319-6943e917ab72"}
+{"sub_uri": "Q214816", "obj_uri": "Q34370", "obj_label": "Rotterdam", "sub_label": "Pierre Bayle", "lineid": 210, "uuid": "841d13e4-575b-4997-ab68-dcd9a295586b"}
+{"sub_uri": "Q57652", "obj_uri": "Q1748", "obj_label": "Copenhagen", "sub_label": "Helle Thorning-Schmidt", "lineid": 211, "uuid": "7062c676-dbcd-42e5-9636-75e22c42c56c"}
+{"sub_uri": "Q76539", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Hans Fallada", "lineid": 212, "uuid": "26c93306-4f8e-4e49-bb0b-e80a9864e839"}
+{"sub_uri": "Q60735", "obj_uri": "Q1794", "obj_label": "Frankfurt am Main", "sub_label": "Axel Honneth", "lineid": 213, "uuid": "2569b288-bacd-4386-bef9-a995329600ba"}
+{"sub_uri": "Q5619002", "obj_uri": "Q585", "obj_label": "Oslo", "sub_label": "Gunnar Garbo", "lineid": 214, "uuid": "d35764c9-1d93-43aa-8244-d9786222bbcc"}
+{"sub_uri": "Q333858", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Peter Walker, Baron Walker of Worcester", "lineid": 215, "uuid": "509c5ac5-2773-42fb-bb9d-59d90ce937f4"}
+{"sub_uri": "Q44490", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "John Henry Newman", "lineid": 216, "uuid": "08c206e2-50aa-4a60-a5dd-75d6fa28bc20"}
+{"sub_uri": "Q717744", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_label": "Ed Broadbent", "lineid": 217, "uuid": "6c241ef1-df82-4426-84dd-00a4393119e2"}
+{"sub_uri": "Q69414", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Friedrich Gottlob Hayne", "lineid": 218, "uuid": "d7888595-261d-4a1d-8b0f-0b424d0d9cd5"}
+{"sub_uri": "Q541922", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_label": "William Primrose", "lineid": 219, "uuid": "05f07d0f-619a-4577-bd0e-c79e2206da1e"}
+{"sub_uri": "Q158175", "obj_uri": "Q12439", "obj_label": "Detroit", "sub_label": "Kid Rock", "lineid": 220, "uuid": "a3be7e56-2262-42c1-96ca-f4cf5675a7a7"}
+{"sub_uri": "Q238817", "obj_uri": "Q100", "obj_label": "Boston", "sub_label": "Raymond Flynn", "lineid": 221, "uuid": "e1501209-3d15-4f8a-aa8e-b0f38729732f"}
+{"sub_uri": "Q155687", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Christian Lorenz", "lineid": 222, "uuid": "0badc3ce-8d9b-4c73-9b83-f7e09d9918b4"}
+{"sub_uri": "Q84423", "obj_uri": "Q1218", "obj_label": "Jerusalem", "sub_label": "Martin Buber", "lineid": 223, "uuid": "81e972ac-886b-41bd-b18c-67b922b7010d"}
+{"sub_uri": "Q7346278", "obj_uri": "Q100", "obj_label": "Boston", "sub_label": "Robert Keayne", "lineid": 224, "uuid": "489acf1c-2f2c-45cb-a205-b52f78ecd6ff"}
+{"sub_uri": "Q956091", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Juliusz Kossak", "lineid": 225, "uuid": "b9739e6a-f59e-401f-940d-a23e421a366a"}
+{"sub_uri": "Q188783", "obj_uri": "Q1218", "obj_label": "Jerusalem", "sub_label": "Moshe Dayan", "lineid": 226, "uuid": "65afd31a-ce52-4598-9ee5-7420b837749c"}
+{"sub_uri": "Q471147", "obj_uri": "Q1794", "obj_label": "Frankfurt am Main", "sub_label": "Johann Heinrich Roos", "lineid": 227, "uuid": "1c077c76-00c1-4458-b535-3ecfdd1c002c"}
+{"sub_uri": "Q63762", "obj_uri": "Q1726", "obj_label": "Munich", "sub_label": "Heinrich Graetz", "lineid": 228, "uuid": "446a1bd7-fb4b-40a3-8f0e-4aa82d1bfe79"}
+{"sub_uri": "Q332493", "obj_uri": "Q84", "obj_label": "London", "sub_label": "George Osborne", "lineid": 229, "uuid": "0388e1f5-4b3b-4ff4-9648-30e36642664b"}
+{"sub_uri": "Q3760457", "obj_uri": "Q84", "obj_label": "London", "sub_label": "George Cadogan, 5th Earl Cadogan", "lineid": 230, "uuid": "ce297e8b-3acd-4d6c-b467-d94e2d73f721"}
+{"sub_uri": "Q335995", "obj_uri": "Q84", "obj_label": "London", "sub_label": "John Hunt, Baron Hunt", "lineid": 231, "uuid": "579e34d6-c908-4db9-8f79-bbc9ff0960d1"}
+{"sub_uri": "Q1056780", "obj_uri": "Q2751", "obj_label": "Siena", "sub_label": "Cesare Brandi", "lineid": 232, "uuid": "395588f9-f204-4d46-a9e6-34b22d463dd9"}
+{"sub_uri": "Q712307", "obj_uri": "Q18125", "obj_label": "Manchester", "sub_label": "Joseph Whitworth", "lineid": 233, "uuid": "4e7d3320-7e20-460f-9aa8-a0db8d8bcf99"}
+{"sub_uri": "Q87018", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_label": "Karl Farkas", "lineid": 234, "uuid": "c87ea3a3-d1b1-4898-8dd3-d4eec1b3b76c"}
+{"sub_uri": "Q337622", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Lord George Russell", "lineid": 235, "uuid": "f0875d5a-4127-48aa-9fe1-eb0cd739e49d"}
+{"sub_uri": "Q882665", "obj_uri": "Q23556", "obj_label": "Atlanta", "sub_label": "Roy Barnes", "lineid": 236, "uuid": "174d1ef5-7db1-4a2a-8334-1c78692fcd37"}
+{"sub_uri": "Q5591064", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Sir Thomas Buxton, 1st Baronet", "lineid": 237, "uuid": "962591f9-cc6d-4a20-b9d5-0ca7e49e519c"}
+{"sub_uri": "Q61223", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Hermann Schwarz", "lineid": 238, "uuid": "01134fe8-da40-4459-bbdd-bac7aba5dc15"}
+{"sub_uri": "Q91598", "obj_uri": "Q2079", "obj_label": "Leipzig", "sub_label": "Heinrich Simroth", "lineid": 239, "uuid": "a0fd34aa-5e4c-498e-93d5-c1ad92a8b4e0"}
+{"sub_uri": "Q25973", "obj_uri": "Q70", "obj_label": "Bern", "sub_label": "Hermann Hesse", "lineid": 240, "uuid": "d140aa58-37c8-400c-af29-1717e5584cc9"}
+{"sub_uri": "Q22714", "obj_uri": "Q1731", "obj_label": "Dresden", "sub_label": "Karl May", "lineid": 241, "uuid": "b5fdea38-0364-4ab7-b589-3b178af7da74"}
+{"sub_uri": "Q78514", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_label": "Franz Werfel", "lineid": 242, "uuid": "87942542-ac33-4756-bf27-83016dacaa7f"}
+{"sub_uri": "Q567", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Angela Merkel", "lineid": 243, "uuid": "2b8ef3c8-e710-4e25-ad33-c1e0a6c55718"}
+{"sub_uri": "Q459431", "obj_uri": "Q1055", "obj_label": "Hamburg", "sub_label": "Jonathan Meese", "lineid": 244, "uuid": "735ee14b-272a-46be-9eb7-083fc2fa5dd8"}
+{"sub_uri": "Q927043", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_label": "Pascual Cervera y Topete", "lineid": 245, "uuid": "0c6dc32e-9309-488b-945b-a18f614aa6ef"}
+{"sub_uri": "Q367557", "obj_uri": "Q1748", "obj_label": "Copenhagen", "sub_label": "Thorvald Stauning", "lineid": 246, "uuid": "71898def-ec9d-493b-8671-b306b630c368"}
+{"sub_uri": "Q5582", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Vincent van Gogh", "lineid": 247, "uuid": "0ae8b1e6-89cb-43be-aba7-928e794ba4d0"}
+{"sub_uri": "Q335981", "obj_uri": "Q84", "obj_label": "London", "sub_label": "John Hamilton-Gordon, 1st Marquess of Aberdeen and Temair", "lineid": 248, "uuid": "6a9da359-2c74-4cd4-8089-14b36393fd0f"}
+{"sub_uri": "Q47651", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "Marco Pannella", "lineid": 249, "uuid": "bcb73f42-e9f4-4896-b71c-779e715a71a6"}
+{"sub_uri": "Q5345322", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Edward Shortt", "lineid": 250, "uuid": "e42ced2d-97a5-4cde-b660-be4cd80e0d57"}
+{"sub_uri": "Q605534", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Jean-Baptiste Henri Lacordaire", "lineid": 251, "uuid": "c768c2bc-5f40-4c6f-8d2b-d7283cefd03d"}
+{"sub_uri": "Q441235", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Louis Jules Trochu", "lineid": 252, "uuid": "cb412145-7835-4f49-b19e-2c3a44fb5f56"}
+{"sub_uri": "Q2382713", "obj_uri": "Q1218", "obj_label": "Jerusalem", "sub_label": "Yehuda Leib Maimon", "lineid": 253, "uuid": "a7b6fd98-763a-4ed5-b297-dfe9258c7d5f"}
+{"sub_uri": "Q29297", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Carl Ritter", "lineid": 254, "uuid": "f9e1f260-60d2-458f-82b0-3f1851ecac5a"}
+{"sub_uri": "Q7795362", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Thomas Wynn, 1st Baron Newborough", "lineid": 255, "uuid": "18501b7b-3375-4ff4-a79c-0b8012db5844"}
+{"sub_uri": "Q896767", "obj_uri": "Q365", "obj_label": "Cologne", "sub_label": "Wolfgang Niedecken", "lineid": 256, "uuid": "dd46b165-c818-4f1c-b2e1-73f626bf7f03"}
+{"sub_uri": "Q6217717", "obj_uri": "Q25280", "obj_label": "Harrisburg", "sub_label": "John A. Hanna", "lineid": 257, "uuid": "b81b8145-caf9-48c3-8f8f-f6ae4d0c037b"}
+{"sub_uri": "Q13530034", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Lionel Nathan de Rothschild", "lineid": 258, "uuid": "6f3cabb2-1dd8-45f8-8dd8-b6cc1b77c1c2"}
+{"sub_uri": "Q724497", "obj_uri": "Q1748", "obj_label": "Copenhagen", "sub_label": "Asger Hamerik", "lineid": 259, "uuid": "1291b01d-8b25-4db0-8804-f9f47a9587a3"}
+{"sub_uri": "Q603567", "obj_uri": "Q641", "obj_label": "Venice", "sub_label": "Tribuno Memmo", "lineid": 260, "uuid": "4af92845-0020-4901-8b51-1d5dc0326420"}
+{"sub_uri": "Q64390", "obj_uri": "Q1720", "obj_label": "Mainz", "sub_label": "Johann Fust", "lineid": 261, "uuid": "df48100e-8cb6-49aa-a6ee-a8df5778b5a6"}
+{"sub_uri": "Q936075", "obj_uri": "Q18013", "obj_label": "Sacramento", "sub_label": "Samuel Brannan", "lineid": 262, "uuid": "716ee7fb-a876-4cc6-8933-094694873be7"}
+{"sub_uri": "Q62137", "obj_uri": "Q1726", "obj_label": "Munich", "sub_label": "Franz Xaver Gabelsberger", "lineid": 263, "uuid": "f82d2c5a-45f7-45e1-ae5a-65cc196f6228"}
+{"sub_uri": "Q708631", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Pierre Soulages", "lineid": 264, "uuid": "a9d326da-93c7-4247-92d3-73fd95ae51a5"}
+{"sub_uri": "Q2034816", "obj_uri": "Q585", "obj_label": "Oslo", "sub_label": "Peder Anker", "lineid": 265, "uuid": "624dfe47-08b1-4a14-b3a3-480c2425f37d"}
+{"sub_uri": "Q464658", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Norbert Bisky", "lineid": 266, "uuid": "259e6a81-05fa-43c8-a005-4faaa7fc7e25"}
+{"sub_uri": "Q225392", "obj_uri": "Q84", "obj_label": "London", "sub_label": "John Redmond", "lineid": 267, "uuid": "c7289d57-3916-49b7-b151-b1be43801705"}
+{"sub_uri": "Q494292", "obj_uri": "Q641", "obj_label": "Venice", "sub_label": "Giovanni Bassano", "lineid": 268, "uuid": "5186f91a-06d4-4336-a743-5d584cfd82f8"}
+{"sub_uri": "Q5539564", "obj_uri": "Q29364", "obj_label": "Montgomery", "sub_label": "George G. Siebels, Jr.", "lineid": 269, "uuid": "24cfb917-314e-4cff-a05c-14f8aeb0ab0d"}
+{"sub_uri": "Q177313", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Julio Le Parc", "lineid": 270, "uuid": "2c96d95e-694d-408a-b6ce-88dd8c75c107"}
+{"sub_uri": "Q124679", "obj_uri": "Q1218", "obj_label": "Jerusalem", "sub_label": "Fouad Twal", "lineid": 271, "uuid": "3db8315a-155a-40b7-a708-513fad334dff"}
+{"sub_uri": "Q45667", "obj_uri": "Q23556", "obj_label": "Atlanta", "sub_label": "B.o.B.", "lineid": 272, "uuid": "5a732566-5098-4727-8283-e81f9fab49de"}
+{"sub_uri": "Q977974", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Pierre Joxe", "lineid": 273, "uuid": "0ab4773a-fdeb-426d-9dc8-1857851d6410"}
+{"sub_uri": "Q504029", "obj_uri": "Q100", "obj_label": "Boston", "sub_label": "Andrew Card", "lineid": 274, "uuid": "ee107301-3f88-4be1-a339-69c5099bc1b8"}
+{"sub_uri": "Q2564543", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Jules Moch", "lineid": 275, "uuid": "bccfd67e-7ac6-4e86-ab1c-1e28e68f7cde"}
+{"sub_uri": "Q71069", "obj_uri": "Q586", "obj_label": "Bonn", "sub_label": "Dietrich Brandis", "lineid": 276, "uuid": "b3f42c03-d493-4afe-b075-42fa7d74d4a4"}
+{"sub_uri": "Q1383477", "obj_uri": "Q42448", "obj_label": "Sheffield", "sub_label": "Simon Beckett", "lineid": 277, "uuid": "2feaf214-2c03-4225-b707-5511b7c74840"}
+{"sub_uri": "Q151173", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Joachim Murat", "lineid": 278, "uuid": "9726f18d-6612-42f5-8470-4d7eaeaa3580"}
+{"sub_uri": "Q205545", "obj_uri": "Q1524", "obj_label": "Athens", "sub_label": "Eleftherios Venizelos", "lineid": 279, "uuid": "6084b321-4299-49de-a2f7-486702859b1f"}
+{"sub_uri": "Q464662", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Gerard Mortier", "lineid": 280, "uuid": "295c2d9b-e448-435d-94a3-a7ef19744154"}
+{"sub_uri": "Q92494", "obj_uri": "Q1022", "obj_label": "Stuttgart", "sub_label": "Wolfgang Schuster", "lineid": 281, "uuid": "0853a291-33a2-4768-b814-9feebe569c92"}
+{"sub_uri": "Q829248", "obj_uri": "Q1720", "obj_label": "Mainz", "sub_label": "Liutbert, Archbishop of Mainz", "lineid": 282, "uuid": "933d2ced-c143-4448-9fdb-4d08a4322855"}
+{"sub_uri": "Q1787842", "obj_uri": "Q585", "obj_label": "Oslo", "sub_label": "Johan Christian Heuch", "lineid": 283, "uuid": "4af78efc-3c3b-43b6-8100-f0c37b8b0f23"}
+{"sub_uri": "Q2600693", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Gaston d'Audiffret-Pasquier", "lineid": 284, "uuid": "50a25e45-28b8-46e6-a600-787e4eeda9ca"}
+{"sub_uri": "Q333182", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Iain Macleod", "lineid": 285, "uuid": "72539bc9-339e-4a1b-85f1-878b760e5d72"}
+{"sub_uri": "Q333758", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Charles Clarke", "lineid": 286, "uuid": "38d5d815-5e9c-40fb-9f91-5f05c7eb0a93"}
+{"sub_uri": "Q7231", "obj_uri": "Q270", "obj_label": "Warsaw", "sub_label": "Rosa Luxemburg", "lineid": 287, "uuid": "4d3bb583-c759-4818-8c88-bc0c8a85d55b"}
+{"sub_uri": "Q298664", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "Robert Bellarmine", "lineid": 288, "uuid": "feeb2c59-aab0-462d-8f77-90579f1a1124"}
+{"sub_uri": "Q1351662", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Mona Mur", "lineid": 289, "uuid": "dfab999c-19ef-4a34-adf3-8a95b3d1ad88"}
+{"sub_uri": "Q43063", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_label": "Archduke Franz Ferdinand", "lineid": 290, "uuid": "1e2128ae-a9ac-4dc9-932a-c4061d2f1b99"}
+{"sub_uri": "Q90649", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Abraham Berliner", "lineid": 291, "uuid": "559c570e-2455-478b-bb29-11aa00ce6a13"}
+{"sub_uri": "Q61987", "obj_uri": "Q1731", "obj_label": "Dresden", "sub_label": "Carl Gustav Carus", "lineid": 292, "uuid": "001a8cad-0110-489a-9759-410e3f48e09a"}
+{"sub_uri": "Q67005", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Hans Litten", "lineid": 293, "uuid": "108d0be5-3711-48e0-a80d-f1765ae56b59"}
+{"sub_uri": "Q553952", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Wols", "lineid": 294, "uuid": "db2e3bbb-d0f7-4bf4-9ce2-eb359e26bdc9"}
+{"sub_uri": "Q96251", "obj_uri": "Q2079", "obj_label": "Leipzig", "sub_label": "Otto Harrassowitz", "lineid": 295, "uuid": "ec9dd457-ab60-4251-ac7d-a0fc79cda993"}
+{"sub_uri": "Q5582", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_label": "Vincent van Gogh", "lineid": 296, "uuid": "70284a9b-10f7-441f-9756-c66471e8b161"}
+{"sub_uri": "Q941151", "obj_uri": "Q641", "obj_label": "Venice", "sub_label": "Paulus Manutius", "lineid": 297, "uuid": "9052b749-d4c9-4a33-bf18-a48b95d282b4"}
+{"sub_uri": "Q643317", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_label": "Hans Erich Apostel", "lineid": 298, "uuid": "814478c6-8f9e-46ee-8023-b77eb63cc719"}
+{"sub_uri": "Q14945417", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Robert Grosvenor, 1st Baron Ebury", "lineid": 299, "uuid": "1f43bef0-5e73-476b-9e76-e9f57df73aac"}
+{"sub_uri": "Q328892", "obj_uri": "Q5838", "obj_label": "Kabul", "sub_label": "Rory Stewart", "lineid": 300, "uuid": "939c8f71-e37d-4e4d-96f3-477e595a7f03"}
+{"sub_uri": "Q171730", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Georges Clemenceau", "lineid": 301, "uuid": "fadd1d11-7feb-4ef0-86a8-9b241ac624b5"}
+{"sub_uri": "Q57601", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Roland Freisler", "lineid": 302, "uuid": "e8d6df5d-a0c8-4d4d-ac17-753f9789968c"}
+{"sub_uri": "Q15441362", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Robby Maria", "lineid": 303, "uuid": "16c90a12-534a-45c3-9da8-2d07f1fc6d97"}
+{"sub_uri": "Q558377", "obj_uri": "Q270", "obj_label": "Warsaw", "sub_label": "Wojciech Roszkowski", "lineid": 304, "uuid": "6850a508-20b9-41dd-bf0f-2265383a1901"}
+{"sub_uri": "Q464626", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Grand Duke Alexander Mikhailovich of Russia", "lineid": 305, "uuid": "0da1e0de-aa9c-4335-9f2d-c992f53f2600"}
+{"sub_uri": "Q1375119", "obj_uri": "Q100", "obj_label": "Boston", "sub_label": "Robert Charles Winthrop", "lineid": 306, "uuid": "5a5cb500-ab36-4b77-b4cf-0c7e4631c5a0"}
+{"sub_uri": "Q1684913", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Jean-Jacques Grunenwald", "lineid": 307, "uuid": "e6374582-e2ab-40b4-a6a9-52d33549f7e4"}
+{"sub_uri": "Q60866", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Hinrich Lichtenstein", "lineid": 308, "uuid": "0af26427-5ff1-4eea-8250-2eda89be3102"}
+{"sub_uri": "Q122063", "obj_uri": "Q70", "obj_label": "Bern", "sub_label": "Elisabeth Kopp", "lineid": 309, "uuid": "35c552c2-70cd-422b-913c-e9a22418840c"}
+{"sub_uri": "Q1079002", "obj_uri": "Q585", "obj_label": "Oslo", "sub_label": "Christian Birch-Reichenwald", "lineid": 310, "uuid": "054d3a0f-e9ca-43c8-80f7-6fdf49d21364"}
+{"sub_uri": "Q135503", "obj_uri": "Q1748", "obj_label": "Copenhagen", "sub_label": "Christian Bohr", "lineid": 311, "uuid": "0ed08b9c-d11f-47f9-bad1-f2cb3a03c835"}
+{"sub_uri": "Q363846", "obj_uri": "Q649", "obj_label": "Moscow", "sub_label": "Boris Nemtsov", "lineid": 312, "uuid": "0ef326bf-4d46-4a73-9317-fd78b8b08348"}
+{"sub_uri": "Q981517", "obj_uri": "Q2044", "obj_label": "Florence", "sub_label": "Sebastiano Timpanaro", "lineid": 313, "uuid": "b7915bb8-4a3a-4df1-9f85-b2f022f14b58"}
+{"sub_uri": "Q60619", "obj_uri": "Q365", "obj_label": "Cologne", "sub_label": "Adolph Kolping", "lineid": 314, "uuid": "beeb0d2d-8b81-43ab-8afd-8e40b81c21fe"}
+{"sub_uri": "Q215739", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Carl Flesch", "lineid": 315, "uuid": "67e8e6e9-c2ec-432f-b1d0-e7c7ba1b9d78"}
+{"sub_uri": "Q687347", "obj_uri": "Q1085", "obj_label": "Prague", "sub_label": "Ferdinand Brokoff", "lineid": 316, "uuid": "4f74f1f7-3068-4dc9-8a04-0527987634ec"}
+{"sub_uri": "Q949162", "obj_uri": "Q1891", "obj_label": "Bologna", "sub_label": "Alessandro Achillini", "lineid": 317, "uuid": "f5722a70-56a7-45e9-8a98-a6d8ed209971"}
+{"sub_uri": "Q524156", "obj_uri": "Q1731", "obj_label": "Dresden", "sub_label": "Christoph Bernhard", "lineid": 318, "uuid": "89025f3e-33fe-4abc-8764-3b5aa73e4c5b"}
+{"sub_uri": "Q67901", "obj_uri": "Q1731", "obj_label": "Dresden", "sub_label": "Eduard Devrient", "lineid": 319, "uuid": "0dba239a-1e9e-4b79-abfc-e29a0426b08f"}
+{"sub_uri": "Q45250", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_label": "H. C. Artmann", "lineid": 320, "uuid": "f8867ce3-217d-4200-9508-f485edceb8ef"}
+{"sub_uri": "Q76876", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Baldur von Schirach", "lineid": 321, "uuid": "98b09434-9a16-46f8-ae01-9c2932416f67"}
+{"sub_uri": "Q696028", "obj_uri": "Q6602", "obj_label": "Strasbourg", "sub_label": "Joseph Daul", "lineid": 322, "uuid": "715192e1-8664-41d8-a444-482f8dee5d4d"}
+{"sub_uri": "Q1355279", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Georges Aperghis", "lineid": 323, "uuid": "689eca2e-8f72-4b34-973f-5ae7c247c793"}
+{"sub_uri": "Q5753298", "obj_uri": "Q2090", "obj_label": "Nuremberg", "sub_label": "Hieronymus Andreae", "lineid": 324, "uuid": "67f1ff9f-e9d2-4b47-84d3-0b0496efbc7d"}
+{"sub_uri": "Q332870", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Archie Hamilton, Baron Hamilton of Epsom", "lineid": 325, "uuid": "ef3b4eef-6aae-4500-bfd6-1fa2b0232012"}
+{"sub_uri": "Q663692", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Robin Rhode", "lineid": 326, "uuid": "46cc8f6e-ae7d-475a-9d18-7b54ea6558fd"}
+{"sub_uri": "Q34481", "obj_uri": "Q641", "obj_label": "Venice", "sub_label": "Francesco Morosini", "lineid": 327, "uuid": "12985796-7419-4132-b1b3-e277da878424"}
+{"sub_uri": "Q436002", "obj_uri": "Q71", "obj_label": "Geneva", "sub_label": "Isaac Casaubon", "lineid": 328, "uuid": "f6caaf72-1d30-4b60-850d-80f832a4ebef"}
+{"sub_uri": "Q78758", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Carl Mayer", "lineid": 329, "uuid": "69cec1a4-eb95-4f1a-8d1f-4f39edf1bde1"}
+{"sub_uri": "Q1312086", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Jacques Auguste de Thou", "lineid": 330, "uuid": "b79608d7-7ad1-4d2d-b920-52c9bee94077"}
+{"sub_uri": "Q6882", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "James Joyce", "lineid": 331, "uuid": "0a7105c8-6f1f-40b5-b5d2-cc0c272b19f8"}
+{"sub_uri": "Q1243594", "obj_uri": "Q641", "obj_label": "Venice", "sub_label": "Giovanni Dolfin", "lineid": 332, "uuid": "64f1ea79-2235-4a83-bdad-77e1ea155c7a"}
+{"sub_uri": "Q71532", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Theo Mackeben", "lineid": 333, "uuid": "eeb06138-88d1-424c-82c7-8009a660ed63"}
+{"sub_uri": "Q666092", "obj_uri": "Q34647", "obj_label": "Johannesburg", "sub_label": "William Kentridge", "lineid": 334, "uuid": "4fbf5ac9-7674-4177-992a-1108782c2e8a"}
+{"sub_uri": "Q403740", "obj_uri": "Q85", "obj_label": "Cairo", "sub_label": "Mustafa Khalil", "lineid": 335, "uuid": "9085a1a9-88e8-425c-b374-7109df264da5"}
+{"sub_uri": "Q70581", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Philipp Scheidemann", "lineid": 336, "uuid": "195d87ae-edb8-4d60-9a36-50ddfed9d8bd"}
+{"sub_uri": "Q1232255", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "Jean Alaux", "lineid": 337, "uuid": "a1f8a755-a2dd-45cf-b63f-cdbd209498c8"}
+{"sub_uri": "Q166922", "obj_uri": "Q34932", "obj_label": "Brisbane", "sub_label": "Michael Gerard Bauer", "lineid": 338, "uuid": "418271ca-20c5-46c6-9ba3-3871e3ea6497"}
+{"sub_uri": "Q333963", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Willie Whitelaw", "lineid": 339, "uuid": "488f83c1-6ddd-419c-a42d-e675c4f56430"}
+{"sub_uri": "Q70056", "obj_uri": "Q586", "obj_label": "Bonn", "sub_label": "Waldemar Kraft", "lineid": 340, "uuid": "4d9ee856-4032-4eb5-8db3-9e88202c59d6"}
+{"sub_uri": "Q3090417", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Nicolas Bergasse", "lineid": 341, "uuid": "6713e6fe-2e3f-428f-9437-34a09dc6aaed"}
+{"sub_uri": "Q655049", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_label": "Pieter Codde", "lineid": 342, "uuid": "6daa6317-a10d-4014-8c06-de82b1c700b1"}
+{"sub_uri": "Q778529", "obj_uri": "Q2044", "obj_label": "Florence", "sub_label": "Antonio Francesco Gori", "lineid": 343, "uuid": "404dd610-e316-47b7-9d36-f521cddf9843"}
+{"sub_uri": "Q5413089", "obj_uri": "Q1757", "obj_label": "Helsinki", "sub_label": "Harry Harkimo", "lineid": 344, "uuid": "5f04a28c-d43e-4a8f-9519-da07e9888ee6"}
+{"sub_uri": "Q959104", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_label": "Ferdinand Boberg", "lineid": 345, "uuid": "2c54f122-818c-4a8f-9572-cb3e0bcb7038"}
+{"sub_uri": "Q269726", "obj_uri": "Q32", "obj_label": "Luxembourg", "sub_label": "Emmanuel Servais", "lineid": 346, "uuid": "cbc5cd75-50e4-4fcc-aefd-3590c6e3d2bb"}
+{"sub_uri": "Q1703223", "obj_uri": "Q100", "obj_label": "Boston", "sub_label": "Jonathan Kozol", "lineid": 347, "uuid": "dbf48352-1ad8-4e0b-88c2-e37b9e38f51c"}
+{"sub_uri": "Q18206631", "obj_uri": "Q796", "obj_label": "Iraq", "sub_label": "Islamic State of Iraq", "lineid": 348, "uuid": "36327d23-0bf4-4e39-9e0b-65871d5c6919"}
+{"sub_uri": "Q2524132", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Gyles Brandreth", "lineid": 349, "uuid": "f5eb2b8a-09e1-44e4-8116-19f920eddf51"}
+{"sub_uri": "Q333220", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Henry Brougham, 1st Baron Brougham and Vaux", "lineid": 350, "uuid": "2954ae6a-9008-44ef-b950-26e5ee0114de"}
+{"sub_uri": "Q209529", "obj_uri": "Q1524", "obj_label": "Athens", "sub_label": "Dimitrios Gounaris", "lineid": 351, "uuid": "2319d69a-2111-4bec-8476-aec2892a62de"}
+{"sub_uri": "Q3164452", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Jean-Baptiste Teste", "lineid": 352, "uuid": "65da6301-7312-4134-bf03-414795dfb2bd"}
+{"sub_uri": "Q496308", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Kool Savas", "lineid": 353, "uuid": "456eb6d1-7277-4cf4-876f-62559c4b0896"}
+{"sub_uri": "Q592552", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Friedrich Goldmann", "lineid": 354, "uuid": "6deb2b14-24a9-4e64-b088-49aee2b217d1"}
+{"sub_uri": "Q44517", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_label": "Bruno Kreisky", "lineid": 355, "uuid": "816415fc-f737-441f-a484-57ee1847c8b7"}
+{"sub_uri": "Q96687", "obj_uri": "Q365", "obj_label": "Cologne", "sub_label": "Bastian Pastewka", "lineid": 356, "uuid": "48441c92-c34c-4730-9360-d81a4e0a2b7d"}
+{"sub_uri": "Q271324", "obj_uri": "Q34006", "obj_label": "Hollywood", "sub_label": "Hedda Hopper", "lineid": 357, "uuid": "21a91648-1743-4226-8841-74a26167b450"}
+{"sub_uri": "Q3368743", "obj_uri": "Q585", "obj_label": "Oslo", "sub_label": "Nikolai Nissen Paus", "lineid": 358, "uuid": "03c2b4bc-9b28-4859-aca1-fe086c8279a4"}
+{"sub_uri": "Q314428", "obj_uri": "Q365", "obj_label": "Cologne", "sub_label": "Hildebold", "lineid": 359, "uuid": "1b8addae-7298-4a89-8474-31cc5519d6a8"}
+{"sub_uri": "Q234994", "obj_uri": "Q1166", "obj_label": "Michigan", "sub_label": "Jennifer Granholm", "lineid": 360, "uuid": "2693e943-6553-4402-877e-7475162521cf"}
+{"sub_uri": "Q355785", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Joseph Locke", "lineid": 361, "uuid": "53cd18f9-3e96-470d-8fc5-349f3ba45c24"}
+{"sub_uri": "Q543948", "obj_uri": "Q12892", "obj_label": "Antwerp", "sub_label": "Frans Floris I", "lineid": 362, "uuid": "098651d3-5d75-4f0e-ba69-51c9b449a832"}
+{"sub_uri": "Q423774", "obj_uri": "Q35484", "obj_label": "Medina", "sub_label": "Urwah ibn Zubayr", "lineid": 363, "uuid": "e4217b58-dc98-462d-a90f-d98ed80392ab"}
+{"sub_uri": "Q154855", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_label": "Javier Solana", "lineid": 364, "uuid": "2c3236d1-ad86-40a6-962d-cfb51e8dc6e7"}
+{"sub_uri": "Q332419", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Michael Foot", "lineid": 365, "uuid": "ae266a2d-4617-459f-86df-5b8207ee22ff"}
+{"sub_uri": "Q599936", "obj_uri": "Q1891", "obj_label": "Bologna", "sub_label": "Antonio Bertoloni", "lineid": 366, "uuid": "52aa3df4-931e-4ba7-b3e7-2ceaf4750f32"}
+{"sub_uri": "Q735182", "obj_uri": "Q28237", "obj_label": "Lansing", "sub_label": "John Engler", "lineid": 367, "uuid": "e5e6be34-c977-49cf-9de3-d895586b2642"}
+{"sub_uri": "Q66039", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Gustav Lindau", "lineid": 368, "uuid": "8bf9e420-1fbc-4d19-8803-202dbc5380c3"}
+{"sub_uri": "Q706466", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "Giovanni Battista Grassi", "lineid": 369, "uuid": "624c4446-3c5f-405e-b4b9-691c1f1211be"}
+{"sub_uri": "Q450803", "obj_uri": "Q1085", "obj_label": "Prague", "sub_label": "Josef Bohuslav Foerster", "lineid": 370, "uuid": "5e1cec94-f8b5-4cf0-b3b9-fd6098c6ab93"}
+{"sub_uri": "Q535345", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "Francesco Rutelli", "lineid": 371, "uuid": "87e0af82-ce09-40e4-9f66-28ada6b5f117"}
+{"sub_uri": "Q316669", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Walter Rothschild, 2nd Baron Rothschild", "lineid": 372, "uuid": "25323f7d-2225-44cd-bca2-3ce0b7b2765e"}
+{"sub_uri": "Q315506", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Ludwig Gies", "lineid": 373, "uuid": "c81e1adf-b200-44c8-966e-c0ce13a16d69"}
+{"sub_uri": "Q60059", "obj_uri": "Q365", "obj_label": "Cologne", "sub_label": "Albertus Magnus", "lineid": 374, "uuid": "1a259006-dba1-4800-b35d-518883bd31c9"}
+{"sub_uri": "Q2218699", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Samuel Naumbourg", "lineid": 375, "uuid": "fe3c8496-9a17-49a7-b183-4abb58a822a7"}
+{"sub_uri": "Q5548845", "obj_uri": "Q252", "obj_label": "Indonesia", "sub_label": "Gerakan Pramuka Indonesia", "lineid": 376, "uuid": "5aaab48a-85a5-4e16-8bfc-1fb9ad8b0850"}
+{"sub_uri": "Q3541976", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "Tullio De Mauro", "lineid": 377, "uuid": "cf99111b-42bf-4fcc-ad06-3c40079f09b9"}
+{"sub_uri": "Q704984", "obj_uri": "Q1295", "obj_label": "Dortmund", "sub_label": "Conrad von Soest", "lineid": 378, "uuid": "925270e5-5303-4b2f-9bb4-06a6fbedf3d0"}
+{"sub_uri": "Q73048", "obj_uri": "Q1055", "obj_label": "Hamburg", "sub_label": "Johann Hinrich Wichern", "lineid": 379, "uuid": "41b0cbcd-b198-4070-a648-612e78e1c32f"}
+{"sub_uri": "Q650878", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Otto Suhr", "lineid": 380, "uuid": "b256d9cf-1bf6-4316-93de-d8d63d98649e"}
+{"sub_uri": "Q262145", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_label": "Fredrika Bremer", "lineid": 381, "uuid": "89b82f35-183b-45ad-b6ff-daa62100a6ed"}
+{"sub_uri": "Q61463", "obj_uri": "Q1726", "obj_label": "Munich", "sub_label": "Karl Krumbacher", "lineid": 382, "uuid": "cd358552-93c8-4721-ba0b-21428250adfc"}
+{"sub_uri": "Q8442", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Otto von Bismarck", "lineid": 383, "uuid": "13f9a6ef-f914-4930-8fee-0bbdd83eaaa6"}
+{"sub_uri": "Q3568404", "obj_uri": "Q23556", "obj_label": "Atlanta", "sub_label": "William B. Hartsfield", "lineid": 384, "uuid": "859481d8-50d1-4b70-a4f1-45e69e52466a"}
+{"sub_uri": "Q466498", "obj_uri": "Q1757", "obj_label": "Helsinki", "sub_label": "Alexander von Nordmann", "lineid": 385, "uuid": "50efbb37-0210-4407-8902-8dc6fc788748"}
+{"sub_uri": "Q318769", "obj_uri": "Q641", "obj_label": "Venice", "sub_label": "Francesco Guardi", "lineid": 386, "uuid": "3824a42e-de19-459f-bec7-ae57b427efda"}
+{"sub_uri": "Q1238234", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Dominique Joseph Garat", "lineid": 387, "uuid": "482ba60d-8016-4412-939a-eec9ef564f24"}
+{"sub_uri": "Q1378908", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "Trilussa", "lineid": 388, "uuid": "427cd13d-abc4-44f4-bd48-63faaf724a65"}
+{"sub_uri": "Q193043", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Ferhat Abbas", "lineid": 389, "uuid": "14d23d16-f5d3-47ae-afa5-21be2d351715"}
+{"sub_uri": "Q7747", "obj_uri": "Q649", "obj_label": "Moscow", "sub_label": "Vladimir Putin", "lineid": 390, "uuid": "7b36fa2a-f766-464f-bf74-ea1151c73dea"}
+{"sub_uri": "Q195013", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Nancy Astor, Viscountess Astor", "lineid": 391, "uuid": "18eb9997-750c-446a-9e0b-d332e2616451"}
+{"sub_uri": "Q2916662", "obj_uri": "Q1218", "obj_label": "Jerusalem", "sub_label": "Nitzan Horowitz", "lineid": 392, "uuid": "9ee8485e-e590-4300-926c-636b07ca719c"}
+{"sub_uri": "Q180975", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Andrew Lloyd Webber", "lineid": 393, "uuid": "a6cee5bc-4fa9-4f73-b500-1bcebc7de64b"}
+{"sub_uri": "Q66025", "obj_uri": "Q586", "obj_label": "Bonn", "sub_label": "Imke Duplitzer", "lineid": 394, "uuid": "9386b98d-6c45-47eb-9550-6696dc379d0d"}
+{"sub_uri": "Q8772", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Joseph Fourier", "lineid": 395, "uuid": "67e2f98c-d3dc-4879-9ac7-fa609834075f"}
+{"sub_uri": "Q724856", "obj_uri": "Q6346", "obj_label": "Indianapolis", "sub_label": "Ashbel P. Willard", "lineid": 396, "uuid": "34ede796-95d6-4b9b-8469-cda2ba50107e"}
+{"sub_uri": "Q67208", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Fritz Simrock", "lineid": 397, "uuid": "a29f9c58-072f-4bb6-8fe5-81ee2bc5b960"}
+{"sub_uri": "Q438131", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Charles James Fox", "lineid": 398, "uuid": "ac684ecd-8b00-4d32-a154-c7eeb0163452"}
+{"sub_uri": "Q53294", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_label": "Arvid Lindman", "lineid": 399, "uuid": "6c9e9f93-1cc8-4f02-934c-f66c70ca7ef0"}
+{"sub_uri": "Q130759", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_label": "Christoph Willibald von Gluck", "lineid": 400, "uuid": "c2ffb80f-b0a7-4c8a-975d-5d054232b027"}
+{"sub_uri": "Q105340", "obj_uri": "Q1055", "obj_label": "Hamburg", "sub_label": "Johann von Berenberg-Gossler", "lineid": 401, "uuid": "913f2c76-b6b3-4bba-875f-27d9427b947e"}
+{"sub_uri": "Q78515", "obj_uri": "Q34713", "obj_label": "Salzburg", "sub_label": "Karl von Habsburg", "lineid": 402, "uuid": "ddd7f0bd-89f0-47d9-a2ba-9aba93c06f38"}
+{"sub_uri": "Q160817", "obj_uri": "Q270", "obj_label": "Warsaw", "sub_label": "Marek Edelman", "lineid": 403, "uuid": "571bbfb3-dc6a-4884-8b1e-edd34e7a91e2"}
+{"sub_uri": "Q359689", "obj_uri": "Q1218", "obj_label": "Jerusalem", "sub_label": "Shaul Mofaz", "lineid": 404, "uuid": "33647542-5e3d-46f4-875b-6f090836cb70"}
+{"sub_uri": "Q76428", "obj_uri": "Q1055", "obj_label": "Hamburg", "sub_label": "Carl Philipp Emanuel Bach", "lineid": 405, "uuid": "841751bd-aefc-4e79-a3c5-b90c94336a05"}
+{"sub_uri": "Q1706609", "obj_uri": "Q1085", "obj_label": "Prague", "sub_label": "Joseph Bergler the Younger", "lineid": 406, "uuid": "dfe8179e-75d7-42ad-ae6b-7b91095156b9"}
+{"sub_uri": "Q5057089", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Cedric Drewe", "lineid": 407, "uuid": "557ffa59-89ad-4455-878c-19e73a967294"}
+{"sub_uri": "Q3057040", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_label": "Ernest Lapointe", "lineid": 408, "uuid": "bb80cd42-91c7-4fca-b9cc-2ff235846cc5"}
+{"sub_uri": "Q590157", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_label": "Anton Heiller", "lineid": 409, "uuid": "3654725c-6d89-46bb-9328-dde8b02276ac"}
+{"sub_uri": "Q377602", "obj_uri": "Q100", "obj_label": "Boston", "sub_label": "John William McCormack", "lineid": 410, "uuid": "748fea44-39b2-494a-acf2-5e762ed3b279"}
+{"sub_uri": "Q314984", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Jacques Pierre Brissot", "lineid": 411, "uuid": "2d80226e-a2d4-4d29-ab5e-817fe4c8fa71"}
+{"sub_uri": "Q213742", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Johann Friedrich Reichardt", "lineid": 412, "uuid": "2a9b2cb4-d485-4f48-aa9c-808a413b3881"}
+{"sub_uri": "Q213561", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Ernst Reuter", "lineid": 413, "uuid": "5645c190-1107-4293-a299-4b9f001243d8"}
+{"sub_uri": "Q333003", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Edward Blake", "lineid": 414, "uuid": "dde2c704-bde8-4927-be4a-908fd33a3bdb"}
+{"sub_uri": "Q77460", "obj_uri": "Q2966", "obj_label": "Heidelberg", "sub_label": "Joseph Helffrich", "lineid": 415, "uuid": "b05b4cbe-b968-4bd8-9846-178ca4e13272"}
+{"sub_uri": "Q2516", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Helmut Schmidt", "lineid": 416, "uuid": "a2168608-f06b-4c9b-a1c4-1f85096a246b"}
+{"sub_uri": "Q536370", "obj_uri": "Q2966", "obj_label": "Heidelberg", "sub_label": "Litsa Spathi", "lineid": 417, "uuid": "13179cd3-710f-4d1f-90d9-5bb4b80a9d48"}
+{"sub_uri": "Q1877044", "obj_uri": "Q130191", "obj_label": "Norwich", "sub_label": "Luke Hansard", "lineid": 418, "uuid": "b69bcc76-4bde-452c-a6d1-f20ee8589453"}
+{"sub_uri": "Q684449", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Gustave Paul Cluseret", "lineid": 419, "uuid": "93d69263-67ae-4fd1-814e-3d7bb1dbe4ef"}
+{"sub_uri": "Q84284", "obj_uri": "Q1085", "obj_label": "Prague", "sub_label": "Christian Doppler", "lineid": 420, "uuid": "e5ac4071-0c64-4df7-992b-7a850f5418b8"}
+{"sub_uri": "Q726437", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Bedford Master", "lineid": 421, "uuid": "c77107cb-4612-45d7-b11c-1dac7f413664"}
+{"sub_uri": "Q151608", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Claudio Abbado", "lineid": 422, "uuid": "dc18121d-4726-4d05-b77d-39466fcca818"}
+{"sub_uri": "Q677730", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Armand Marrast", "lineid": 423, "uuid": "bc7ed2ac-2422-4465-9199-5bc1d05db896"}
+{"sub_uri": "Q362577", "obj_uri": "Q23436", "obj_label": "Edinburgh", "sub_label": "Joan Lingard", "lineid": 424, "uuid": "3334a92e-e52d-4c83-baef-36005b7cb450"}
+{"sub_uri": "Q6185364", "obj_uri": "Q270", "obj_label": "Warsaw", "sub_label": "Jerzy Borejsza", "lineid": 425, "uuid": "371876d3-826b-45d8-aaf5-7779aaca82f7"}
+{"sub_uri": "Q939234", "obj_uri": "Q829", "obj_label": "Utah", "sub_label": "Jacob Hamblin", "lineid": 426, "uuid": "d5a29be5-fa6e-4cf4-8539-f96fbced88f1"}
+{"sub_uri": "Q183279", "obj_uri": "Q649", "obj_label": "Moscow", "sub_label": "Zhores Alfyorov", "lineid": 427, "uuid": "41cbedca-1975-4ef8-817a-eea49a8f5c89"}
+{"sub_uri": "Q38484", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "Romano Prodi", "lineid": 428, "uuid": "0816b023-07e9-47b6-85c9-212c5301cbfb"}
+{"sub_uri": "Q729418", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Hussein Chalayan", "lineid": 429, "uuid": "0ccef2fb-b8af-4516-87d7-5d7fd219a851"}
+{"sub_uri": "Q5538264", "obj_uri": "Q84", "obj_label": "London", "sub_label": "George Cubitt, 1st Baron Ashcombe", "lineid": 430, "uuid": "bf854a13-ba83-42d0-a634-b0cc2bb61455"}
+{"sub_uri": "Q312040", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_label": "Francisco Largo Caballero", "lineid": 431, "uuid": "6f48ed75-0c3f-4c1d-ab1e-914606a4b434"}
+{"sub_uri": "Q3103900", "obj_uri": "Q1794", "obj_label": "Frankfurt am Main", "sub_label": "Gerald Mayr", "lineid": 432, "uuid": "b472e0bc-f6c9-477c-8a92-970c7a4e3ec2"}
+{"sub_uri": "Q18601440", "obj_uri": "Q4093", "obj_label": "Glasgow", "sub_label": "Merlin James", "lineid": 433, "uuid": "dc0e0174-2673-473d-91ab-abf9e25cd9a4"}
+{"sub_uri": "Q2514", "obj_uri": "Q586", "obj_label": "Bonn", "sub_label": "Willy Brandt", "lineid": 434, "uuid": "64ebf88a-006a-4a78-b6e5-403d6153e15f"}
+{"sub_uri": "Q1497725", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_label": "Geert Lovink", "lineid": 435, "uuid": "d113c6c4-ca41-40e9-88d4-8b39754bf72c"}
+{"sub_uri": "Q55955", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_label": "Carl Lindhagen", "lineid": 436, "uuid": "1f0219d1-f86f-43b6-b9e0-e7c15f51f8ed"}
+{"sub_uri": "Q334313", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Simon Hughes", "lineid": 437, "uuid": "31bc55c5-d2bf-43c1-af9d-e3891cc4d876"}
+{"sub_uri": "Q7721", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Napoleon III", "lineid": 438, "uuid": "06c68127-759e-452d-bd63-0c63f626b324"}
+{"sub_uri": "Q948226", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "Ignazio Danti", "lineid": 439, "uuid": "cf5fb16e-451e-4927-8db5-444b1bf103f7"}
+{"sub_uri": "Q68093", "obj_uri": "Q2966", "obj_label": "Heidelberg", "sub_label": "Ludolf von Krehl", "lineid": 440, "uuid": "6778ff2c-355d-4a22-bb6d-050213b704c0"}
+{"sub_uri": "Q157259", "obj_uri": "Q84", "obj_label": "London", "sub_label": "John Russell, 1st Earl Russell", "lineid": 441, "uuid": "d47ed76f-0872-468a-b63b-16d7e3bfb8d4"}
+{"sub_uri": "Q381077", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_label": "Gottfried Helnwein", "lineid": 442, "uuid": "fd36ede0-e032-42ee-9c96-b503644e57c1"}
+{"sub_uri": "Q78785", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_label": "Adam Bartsch", "lineid": 443, "uuid": "2a061ec8-d9fb-4790-a6e3-b1295d97a002"}
+{"sub_uri": "Q328786", "obj_uri": "Q3820", "obj_label": "Beirut", "sub_label": "Mohammad Hussein Fadlallah", "lineid": 444, "uuid": "db4e643d-dea8-45ec-854e-20761b078df9"}
+{"sub_uri": "Q1060464", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "Walter Audisio", "lineid": 445, "uuid": "6fedb7a5-f589-4e33-a799-5b86eee5f92e"}
+{"sub_uri": "Q1363597", "obj_uri": "Q270", "obj_label": "Warsaw", "sub_label": "Edward Flatau", "lineid": 446, "uuid": "fb6268b1-93ef-47a6-bbe6-a7f69ac49c90"}
+{"sub_uri": "Q3087826", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_label": "Javier de Burgos", "lineid": 447, "uuid": "7d6f9e25-3e78-4682-8e7f-134cd0149e37"}
+{"sub_uri": "Q174327", "obj_uri": "Q84", "obj_label": "London", "sub_label": "David Sainsbury, Baron Sainsbury of Turville", "lineid": 448, "uuid": "9d3a095c-724f-408a-9091-251c69210af8"}
+{"sub_uri": "Q922318", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Henry Somerset, 7th Duke of Beaufort", "lineid": 449, "uuid": "a8e918f1-5f16-4a2a-929d-97620247610e"}
+{"sub_uri": "Q2518", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Helmut Kohl", "lineid": 450, "uuid": "aed036ef-c060-469f-89f9-325d50a24b3a"}
+{"sub_uri": "Q364755", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_label": "Nils Hjalmar Odhner", "lineid": 451, "uuid": "e722592a-b214-4e33-9b05-9f3b9ac0ebb9"}
+{"sub_uri": "Q190884", "obj_uri": "Q649", "obj_label": "Moscow", "sub_label": "Viktor Chernomyrdin", "lineid": 452, "uuid": "4ff2f4eb-baa1-4ea1-80ca-39d9e0ff4321"}
+{"sub_uri": "Q541652", "obj_uri": "Q1891", "obj_label": "Bologna", "sub_label": "Laura Bassi", "lineid": 453, "uuid": "85af85e4-e28f-49c0-ad55-1330e8462272"}
+{"sub_uri": "Q314567", "obj_uri": "Q1731", "obj_label": "Dresden", "sub_label": "Johannes Schilling", "lineid": 454, "uuid": "dc5211ba-4f79-4cc7-9223-29e9e4bbadec"}
+{"sub_uri": "Q57386", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Kurt Tucholsky", "lineid": 455, "uuid": "c62f6ed6-d441-4fb5-afd7-85078f797b81"}
+{"sub_uri": "Q342889", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Adam Jerzy Czartoryski", "lineid": 456, "uuid": "b5d940b8-8371-41b0-b3c0-651830a7e359"}
+{"sub_uri": "Q104196", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Ilja Richter", "lineid": 457, "uuid": "8ad92008-8bb4-47be-83b9-5f25c61648c0"}
+{"sub_uri": "Q63413", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Ulrich Wilcken", "lineid": 458, "uuid": "db0a561c-ab50-476c-be7e-04ac4a05fe41"}
+{"sub_uri": "Q74715", "obj_uri": "Q1022", "obj_label": "Stuttgart", "sub_label": "Ludger Lohmann", "lineid": 459, "uuid": "cbdc221c-b5c9-4caf-aa76-40e57442d6fb"}
+{"sub_uri": "Q65610", "obj_uri": "Q2079", "obj_label": "Leipzig", "sub_label": "Nicola Perscheid", "lineid": 460, "uuid": "a5bb8c61-dbed-45f6-be9b-4199eeec37b4"}
+{"sub_uri": "Q60397", "obj_uri": "Q2966", "obj_label": "Heidelberg", "sub_label": "Otto Hesse", "lineid": 461, "uuid": "51a3e612-4d3d-466f-9741-f43fae126a57"}
+{"sub_uri": "Q470169", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Ossip Bernstein", "lineid": 462, "uuid": "cdaf8140-c779-4205-9ed2-6a4063791b85"}
+{"sub_uri": "Q1606293", "obj_uri": "Q1757", "obj_label": "Helsinki", "sub_label": "Henrik Lax", "lineid": 463, "uuid": "f8cdfddf-9cf6-47a0-9325-02b2b957f3a4"}
+{"sub_uri": "Q96585", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Paul Lensch", "lineid": 464, "uuid": "604d9fd3-80e5-4726-aa4f-8e9784c83b0e"}
+{"sub_uri": "Q287892", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_label": "Ana Mato Adrover", "lineid": 465, "uuid": "5135c10c-b14d-4c5c-91a4-344ea1d706e7"}
+{"sub_uri": "Q762", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "Leonardo da Vinci", "lineid": 466, "uuid": "14ee554d-dafc-4362-b7aa-6f14e2f6b5df"}
+{"sub_uri": "Q7328980", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Richard Sharp", "lineid": 467, "uuid": "ce7d21cd-69ce-4443-b0a1-676658781993"}
+{"sub_uri": "Q320768", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Henry Labouchere, 1st Baron Taunton", "lineid": 468, "uuid": "6eb1ef46-de09-4d23-bd65-0420c7bef5a1"}
+{"sub_uri": "Q5677782", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_label": "Harvie Andre", "lineid": 469, "uuid": "85aebc1f-9647-4a5e-b55f-0fd771c7f2a0"}
+{"sub_uri": "Q71003", "obj_uri": "Q1726", "obj_label": "Munich", "sub_label": "Theobald Boehm", "lineid": 470, "uuid": "61213da9-7626-41ae-bee4-01fae0b23ce1"}
+{"sub_uri": "Q665957", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Jacques Laffitte", "lineid": 471, "uuid": "1dfb45ae-1e70-478b-ae64-a5105e5a1abf"}
+{"sub_uri": "Q937", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Albert Einstein", "lineid": 472, "uuid": "dd080e5d-6e84-46a9-8e2d-33edc11cf03f"}
+{"sub_uri": "Q154895", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Herbert von Karajan", "lineid": 473, "uuid": "7ec68e07-a0ea-4a57-9871-39104803afe8"}
+{"sub_uri": "Q152817", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "G\u00e9rard Desargues", "lineid": 474, "uuid": "a3a17101-baf6-4d62-88e7-64df8d41f4f9"}
+{"sub_uri": "Q3048400", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_label": "Eduardo Zaplana", "lineid": 475, "uuid": "62676449-39d4-4e19-a197-bc7f3d2e8f9c"}
+{"sub_uri": "Q1453302", "obj_uri": "Q585", "obj_label": "Oslo", "sub_label": "Fredrik Stang", "lineid": 476, "uuid": "e43a3f42-1153-4d65-9004-0cfedcb31c27"}
+{"sub_uri": "Q241131", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_label": "Josef Klaus", "lineid": 477, "uuid": "53e77426-48df-4960-8baa-366f59fcb380"}
+{"sub_uri": "Q61965", "obj_uri": "Q1085", "obj_label": "Prague", "sub_label": "Kili\u00e1n Ignaz Dientzenhofer", "lineid": 478, "uuid": "e05901d3-8ef6-49bb-aa98-fdc2b885b778"}
+{"sub_uri": "Q2156836", "obj_uri": "Q6346", "obj_label": "Indianapolis", "sub_label": "Robert Dale Owen", "lineid": 479, "uuid": "662e98d3-d6ec-4087-8684-ec7e5facce9e"}
+{"sub_uri": "Q116611", "obj_uri": "Q78", "obj_label": "Basel", "sub_label": "Johann Froben", "lineid": 480, "uuid": "4209995c-d342-441c-9ef6-dab56e86b615"}
+{"sub_uri": "Q351904", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_label": "Adams George Archibald", "lineid": 481, "uuid": "3face4cc-0514-4c7a-a01c-70485652804c"}
+{"sub_uri": "Q1541237", "obj_uri": "Q1218", "obj_label": "Jerusalem", "sub_label": "Selig Brodetsky", "lineid": 482, "uuid": "96482dff-ebe3-4188-93a9-34f2c2df2d32"}
+{"sub_uri": "Q333390", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Kenneth Baker, Baron Baker of Dorking", "lineid": 483, "uuid": "851527f3-2e82-4e18-8aa7-b11a83d65e9d"}
+{"sub_uri": "Q34787", "obj_uri": "Q18125", "obj_label": "Manchester", "sub_label": "Friedrich Engels", "lineid": 484, "uuid": "192fc155-4a83-40c9-9509-fe69445dd5e8"}
+{"sub_uri": "Q4020043", "obj_uri": "Q84", "obj_label": "London", "sub_label": "William Henry Gladstone", "lineid": 485, "uuid": "e97a29f9-3ae4-4c23-97ac-0e91fb3caf50"}
+{"sub_uri": "Q666431", "obj_uri": "Q641", "obj_label": "Venice", "sub_label": "Pietro Ziani", "lineid": 486, "uuid": "5406f8a1-36ad-4639-9297-3d1b16e082fc"}
+{"sub_uri": "Q918640", "obj_uri": "Q649", "obj_label": "Moscow", "sub_label": "Alexander Mosolov", "lineid": 487, "uuid": "cbfc6190-8f6f-4bfe-ba1c-4513366146d4"}
+{"sub_uri": "Q53040", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "Franco Zeffirelli", "lineid": 488, "uuid": "6c859401-40ad-463b-9380-8b3d3a6182a0"}
+{"sub_uri": "Q551901", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_label": "Moritz von Schwind", "lineid": 489, "uuid": "0f41830c-d70a-4b5a-896d-2eb36658056a"}
+{"sub_uri": "Q9358", "obj_uri": "Q2079", "obj_label": "Leipzig", "sub_label": "Friedrich Nietzsche", "lineid": 490, "uuid": "673c3167-b195-4f3c-93f8-894f488db145"}
+{"sub_uri": "Q112416", "obj_uri": "Q1435", "obj_label": "Zagreb", "sub_label": "Edmund Glaise-Horstenau", "lineid": 491, "uuid": "a1899c7e-9d67-4675-849b-8f33a0613aa4"}
+{"sub_uri": "Q1626247", "obj_uri": "Q23556", "obj_label": "Atlanta", "sub_label": "John Linder", "lineid": 492, "uuid": "df713e5b-11e9-4961-89fa-b66db4665616"}
+{"sub_uri": "Q318622", "obj_uri": "Q6602", "obj_label": "Strasbourg", "sub_label": "Martin Bucer", "lineid": 493, "uuid": "033d0cd6-0d99-4317-a0c4-5be6cb18bb13"}
+{"sub_uri": "Q133009", "obj_uri": "Q585", "obj_label": "Oslo", "sub_label": "Gro Harlem Brundtland", "lineid": 494, "uuid": "4d8223f7-2cdc-4d98-aba5-3402155d8d23"}
+{"sub_uri": "Q4718776", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_label": "Alexander Duncan McRae", "lineid": 495, "uuid": "877106c8-3052-4511-8ad8-31d574585faa"}
+{"sub_uri": "Q102585", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Johann Gottlieb Fichte", "lineid": 496, "uuid": "1ab91483-0c37-4ad2-bf0a-e324da7b231f"}
+{"sub_uri": "Q481557", "obj_uri": "Q34713", "obj_label": "Salzburg", "sub_label": "Anton Cajetan Adlgasser", "lineid": 497, "uuid": "55febfbf-6c79-4dcb-aa64-c3bb448f389e"}
+{"sub_uri": "Q386551", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Jean Marc Gaspard Itard", "lineid": 498, "uuid": "02958e50-cf14-4056-aa78-dc83ef4e8842"}
+{"sub_uri": "Q178208", "obj_uri": "Q1726", "obj_label": "Munich", "sub_label": "Gloria Coates", "lineid": 499, "uuid": "2957ecdf-28d4-4496-afc6-91a8b4219a1c"}
+{"sub_uri": "Q385437", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Dominique Strauss-Kahn", "lineid": 500, "uuid": "1e6cced0-fe80-4b3b-bb93-da62fbe943cc"}
+{"sub_uri": "Q547714", "obj_uri": "Q1085", "obj_label": "Prague", "sub_label": "Joachim Barrande", "lineid": 501, "uuid": "3dfe225b-d67c-480d-9c06-990014f6a677"}
+{"sub_uri": "Q75886", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Karl Liebknecht", "lineid": 502, "uuid": "c59700f6-9099-4a1f-81d9-152c33386a31"}
+{"sub_uri": "Q75891", "obj_uri": "Q586", "obj_label": "Bonn", "sub_label": "Alfred Philippson", "lineid": 503, "uuid": "cd73b7d0-7edd-48a9-b96d-9c33eabb06b2"}
+{"sub_uri": "Q57244", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Paul Hindemith", "lineid": 504, "uuid": "9dcfe2fb-5290-42e8-8269-dabc24fd6029"}
+{"sub_uri": "Q7528999", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Sir Sydney Waterlow, 1st Baronet", "lineid": 505, "uuid": "958c91c7-5782-4fcd-b6dd-c3f781047da1"}
+{"sub_uri": "Q5056111", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Cecil Harmsworth, 1st Baron Harmsworth", "lineid": 506, "uuid": "2676ecfb-3478-4077-b97c-dcc31d3cd659"}
+{"sub_uri": "Q5443", "obj_uri": "Q34006", "obj_label": "Hollywood", "sub_label": "Greta Garbo", "lineid": 507, "uuid": "f268264d-71de-4d37-81b9-a7d8449f9109"}
+{"sub_uri": "Q128633", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_label": "William Lyon Mackenzie King", "lineid": 508, "uuid": "c845f09c-aa07-4579-a2bc-124eeb918375"}
+{"sub_uri": "Q165113", "obj_uri": "Q35", "obj_label": "Denmark", "sub_label": "Grand Duchess Xenia Alexandrovna of Russia", "lineid": 509, "uuid": "ef13aefe-7bae-452f-84da-81b919ce688e"}
+{"sub_uri": "Q63421", "obj_uri": "Q1055", "obj_label": "Hamburg", "sub_label": "Max Brauer", "lineid": 510, "uuid": "81a2f41c-3e94-45d1-a6ce-dbbe79d196d0"}
+{"sub_uri": "Q47589", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "Renato Schifani", "lineid": 511, "uuid": "3347c2f5-c566-4cdc-b19c-691a029fbc9e"}
+{"sub_uri": "Q568534", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_label": "Beat Furrer", "lineid": 512, "uuid": "953347a1-4e9a-440d-8b1c-25916f2d266f"}
+{"sub_uri": "Q9559", "obj_uri": "Q84", "obj_label": "London", "sub_label": "John Major", "lineid": 513, "uuid": "477451e4-6ce1-416a-9520-ba1b1eea078e"}
+{"sub_uri": "Q4736661", "obj_uri": "Q100", "obj_label": "Boston", "sub_label": "Althea Garrison", "lineid": 514, "uuid": "eeec8730-f909-4eab-a94c-a5eacc6eafa4"}
+{"sub_uri": "Q213762", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Henri Marteau", "lineid": 515, "uuid": "f01a1451-3c37-4615-9b4d-a1130140df06"}
+{"sub_uri": "Q170270", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Friedrich Kalkbrenner", "lineid": 516, "uuid": "d9525dea-9ef6-4112-8068-9215d6f6f253"}
+{"sub_uri": "Q183492", "obj_uri": "Q172", "obj_label": "Toronto", "sub_label": "Margaret Atwood", "lineid": 517, "uuid": "c657e709-a041-4b10-ba69-981d7ecea1be"}
+{"sub_uri": "Q95727", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Ulrike Haage", "lineid": 518, "uuid": "d18c7bff-3f23-4aed-ad11-35adf8de1284"}
+{"sub_uri": "Q651253", "obj_uri": "Q270", "obj_label": "Warsaw", "sub_label": "Nicolas Chopin", "lineid": 519, "uuid": "9053c9ab-bc4b-4a66-be15-095faf0db331"}
+{"sub_uri": "Q380738", "obj_uri": "Q25287", "obj_label": "Gothenburg", "sub_label": "Hjalmar Frisk", "lineid": 520, "uuid": "74409e25-e8fc-459c-90ab-5376d0950452"}
+{"sub_uri": "Q318462", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Edward Bulwer-Lytton", "lineid": 521, "uuid": "28b866c9-95e7-4107-8a50-bf34f1dc4689"}
+{"sub_uri": "Q2910025", "obj_uri": "Q1218", "obj_label": "Jerusalem", "sub_label": "Dalia Rabin-Pelossof", "lineid": 522, "uuid": "f083e995-3699-4e39-bcf3-bd84bfeb6fb2"}
+{"sub_uri": "Q1368799", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_label": "Thomas Crerar", "lineid": 523, "uuid": "0bc8b06c-b0ad-4fe0-8a1b-4c138661c4f0"}
+{"sub_uri": "Q826299", "obj_uri": "Q1726", "obj_label": "Munich", "sub_label": "Bernhard von Gudden", "lineid": 524, "uuid": "49c993ec-fc76-47ae-8117-1b1685a961c2"}
+{"sub_uri": "Q332412", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Tony Benn", "lineid": 525, "uuid": "f71df8d2-9e41-4ac0-8078-c1d3f51026f3"}
+{"sub_uri": "Q322067", "obj_uri": "Q1055", "obj_label": "Hamburg", "sub_label": "Georg Hajdu", "lineid": 526, "uuid": "13fdebb4-d628-443a-a3e7-7411179281ee"}
+{"sub_uri": "Q122392", "obj_uri": "Q71", "obj_label": "Geneva", "sub_label": "Jacob Bernoulli", "lineid": 527, "uuid": "800caad1-66ec-46a1-8285-a71d3cbab0a6"}
+{"sub_uri": "Q7177", "obj_uri": "Q6602", "obj_label": "Strasbourg", "sub_label": "Jean-Marie Le Pen", "lineid": 528, "uuid": "e0be045b-be6a-4570-9aee-b38479b43044"}
+{"sub_uri": "Q78638", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_label": "Theophil Hansen", "lineid": 529, "uuid": "4d2bbbc1-af13-4a4a-a638-fb3e88152bed"}
+{"sub_uri": "Q4668916", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Abraham Hume, 2nd Baronet", "lineid": 530, "uuid": "98325a52-1af4-47a8-affd-1f997149422c"}
+{"sub_uri": "Q6139821", "obj_uri": "Q84", "obj_label": "London", "sub_label": "James Milnes Gaskell", "lineid": 531, "uuid": "8a428f5d-f159-41c3-b0c3-a2606a88c60f"}
+{"sub_uri": "Q568949", "obj_uri": "Q6602", "obj_label": "Strasbourg", "sub_label": "Francis Wurtz", "lineid": 532, "uuid": "6bd446e4-da73-4bbc-9bd2-25fa37a43f5c"}
+{"sub_uri": "Q37610", "obj_uri": "Q1218", "obj_label": "Jerusalem", "sub_label": "David Ben-Gurion", "lineid": 533, "uuid": "0c7329a6-9842-4631-84c7-deaeee0b067b"}
+{"sub_uri": "Q550436", "obj_uri": "Q37100", "obj_label": "Auckland", "sub_label": "Neil Finn", "lineid": 534, "uuid": "9066bf25-8a24-442f-85f0-35f138c319fb"}
+{"sub_uri": "Q20717", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_label": "Sebastian Ingrosso", "lineid": 535, "uuid": "8f2539bc-fcf2-4483-bff6-f6e04177870f"}
+{"sub_uri": "Q112057", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Ferdinand Bruckner", "lineid": 536, "uuid": "3ca26422-21d1-4a35-816e-1197ec7433cf"}
+{"sub_uri": "Q3121951", "obj_uri": "Q585", "obj_label": "Oslo", "sub_label": "Per Ditlev-Simonsen", "lineid": 537, "uuid": "d1afe8a9-4b6d-4437-8289-e7b511210bd8"}
+{"sub_uri": "Q359699", "obj_uri": "Q1218", "obj_label": "Jerusalem", "sub_label": "Yigael Yadin", "lineid": 538, "uuid": "e6f2d479-db36-4040-98c0-a99a2a78f8f8"}
+{"sub_uri": "Q16972528", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Chris Philp", "lineid": 539, "uuid": "bd369e5a-f3d5-46e8-9107-8f1ff46a6a82"}
+{"sub_uri": "Q980", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Bavaria", "lineid": 540, "uuid": "5b19bb05-7c80-4975-b085-09ed428d2ddc"}
+{"sub_uri": "Q76428", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Carl Philipp Emanuel Bach", "lineid": 541, "uuid": "e63ed2f9-ab68-43e9-a0b8-2a2ab1616c37"}
+{"sub_uri": "Q104154", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Urbain Le Verrier", "lineid": 542, "uuid": "f70e8db2-ef63-446b-be8e-7cd10a158372"}
+{"sub_uri": "Q78484", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Rudolf Steiner", "lineid": 543, "uuid": "63b08fe5-dffd-4740-bdda-10a8ec7a4c91"}
+{"sub_uri": "Q1379615", "obj_uri": "Q585", "obj_label": "Oslo", "sub_label": "Evald Rygh", "lineid": 544, "uuid": "bfba2b75-88a8-40f1-bdb9-e1269d59a21f"}
+{"sub_uri": "Q2670536", "obj_uri": "Q585", "obj_label": "Oslo", "sub_label": "Niels Treschow", "lineid": 545, "uuid": "b0e05626-4068-4bb9-8a91-11787e5a7a80"}
+{"sub_uri": "Q55933", "obj_uri": "Q270", "obj_label": "Warsaw", "sub_label": "Ludwik Dorn", "lineid": 546, "uuid": "3d98c5d9-7fab-4341-9a09-efd4f938a425"}
+{"sub_uri": "Q69870", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Claire Waldoff", "lineid": 547, "uuid": "2881dd9d-4992-4d16-9123-6a8af96d37b6"}
+{"sub_uri": "Q57430", "obj_uri": "Q2079", "obj_label": "Leipzig", "sub_label": "Carl Friedrich Goerdeler", "lineid": 548, "uuid": "fe8087cf-0b9b-46fe-badb-5cdcf2eed539"}
+{"sub_uri": "Q369762", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Jean-Charles de Borda", "lineid": 549, "uuid": "882cba7a-9731-4204-bddb-285d8a864e03"}
+{"sub_uri": "Q76448", "obj_uri": "Q1726", "obj_label": "Munich", "sub_label": "Johann Andreas Schmeller", "lineid": 550, "uuid": "46e7dc3c-cee2-46b0-99df-362640dc97cb"}
+{"sub_uri": "Q521209", "obj_uri": "Q649", "obj_label": "Moscow", "sub_label": "Yuri Shchekochikhin", "lineid": 551, "uuid": "bbaf559c-b9d1-421d-8040-c4574134d356"}
+{"sub_uri": "Q977261", "obj_uri": "Q1748", "obj_label": "Copenhagen", "sub_label": "Peter Frederik Suhm", "lineid": 552, "uuid": "9abf8b4a-80e3-429d-95fd-a5671253548d"}
+{"sub_uri": "Q37693", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Paul Gauguin", "lineid": 553, "uuid": "914faaf2-4065-4d9e-9d00-c516c2383d63"}
+{"sub_uri": "Q213530", "obj_uri": "Q365", "obj_label": "Cologne", "sub_label": "Ferdinand Hiller", "lineid": 554, "uuid": "12274e9d-8311-4a3d-93aa-5be4fe113c8f"}
+{"sub_uri": "Q5345819", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Edward Watkin", "lineid": 555, "uuid": "bea13a73-7503-41ab-b3a2-f07bd75f4081"}
+{"sub_uri": "Q78540", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Otmar Suitner", "lineid": 556, "uuid": "b896ea0f-95b8-4f20-8c63-925165984954"}
+{"sub_uri": "Q56189", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_label": "Lise Meitner", "lineid": 557, "uuid": "5fc91522-1f89-493b-80f5-e4efb7f62b7b"}
+{"sub_uri": "Q3784973", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Henry Manners, 8th Duke of Rutland", "lineid": 558, "uuid": "d4f35d95-ed35-4883-9142-ef3967f403f9"}
+{"sub_uri": "Q192374", "obj_uri": "Q2044", "obj_label": "Florence", "sub_label": "Marsilio Ficino", "lineid": 559, "uuid": "e1d54e5a-1b40-4259-a849-f6d0931ca9f8"}
+{"sub_uri": "Q884349", "obj_uri": "Q16554", "obj_label": "Denver", "sub_label": "William Lee Knous", "lineid": 560, "uuid": "7652d6ce-3149-4f89-bf29-c99991c516bc"}
+{"sub_uri": "Q2294382", "obj_uri": "Q84", "obj_label": "London", "sub_label": "George Newnes", "lineid": 561, "uuid": "aa80c364-d155-40bd-8c0a-4d4eaa85e8ce"}
+{"sub_uri": "Q78491", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_label": "Stefan Zweig", "lineid": 562, "uuid": "d88d104e-289c-4424-b7a2-264c1d43eb12"}
+{"sub_uri": "Q370060", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_label": "Salomon Mayer von Rothschild", "lineid": 563, "uuid": "fe3646b4-4f35-4a48-83ac-bb00dd4a43b8"}
+{"sub_uri": "Q187099", "obj_uri": "Q6602", "obj_label": "Strasbourg", "sub_label": "Lionel Jospin", "lineid": 564, "uuid": "366c9b87-1bd8-4f08-b44e-0f97cbf09c30"}
+{"sub_uri": "Q335593", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Frederick Lindemann, 1st Viscount Cherwell", "lineid": 565, "uuid": "373addf6-21c9-4443-b94a-f893692e2192"}
+{"sub_uri": "Q332632", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "Eduardo De Filippo", "lineid": 566, "uuid": "95b6c844-cef3-4004-97bd-7b35ce922a74"}
+{"sub_uri": "Q1538110", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Gordon Slynn, Baron Slynn of Hadley", "lineid": 567, "uuid": "d73a6ff3-4129-4b94-b108-4fe611f86f98"}
+{"sub_uri": "Q346483", "obj_uri": "Q340", "obj_label": "Montreal", "sub_label": "Maurice Galbraith Cullen", "lineid": 568, "uuid": "59c34d8c-da7e-48d5-88c1-51070ebccafe"}
+{"sub_uri": "Q9095", "obj_uri": "Q350", "obj_label": "Cambridge", "sub_label": "James Clerk Maxwell", "lineid": 569, "uuid": "77e1f7a4-71cc-4049-8ec8-03c9f6d2f6ba"}
+{"sub_uri": "Q5488954", "obj_uri": "Q5092", "obj_label": "Baltimore", "sub_label": "Frank Pembleton", "lineid": 570, "uuid": "8432488b-8f44-4569-90dd-4f03b9a0adad"}
+{"sub_uri": "Q365691", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "\u00d3lafur El\u00edasson", "lineid": 571, "uuid": "999ab83f-58a6-4f35-8719-0446bc3a5253"}
+{"sub_uri": "Q93181", "obj_uri": "Q1218", "obj_label": "Jerusalem", "sub_label": "Ehud Olmert", "lineid": 572, "uuid": "4b4d4fe4-10c2-472f-a030-013faff8b35c"}
+{"sub_uri": "Q9576", "obj_uri": "Q84", "obj_label": "London", "sub_label": "James Callaghan", "lineid": 573, "uuid": "0c1aef67-b047-4c75-998e-dbe37d34bbeb"}
+{"sub_uri": "Q3737980", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "Fabrizio Cicchitto", "lineid": 574, "uuid": "5dc31448-275e-423a-9485-36c55d46922d"}
+{"sub_uri": "Q1393182", "obj_uri": "Q3630", "obj_label": "Jakarta", "sub_label": "Ali Sadikin", "lineid": 575, "uuid": "ef0bad98-38c5-4d50-b50e-8dc252a8301f"}
+{"sub_uri": "Q1236383", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_label": "Francisco Silvela", "lineid": 576, "uuid": "0c9bb0ff-33df-47ff-880f-76e2321d7f60"}
+{"sub_uri": "Q233181", "obj_uri": "Q2044", "obj_label": "Florence", "sub_label": "Anna Maria Luisa de' Medici", "lineid": 577, "uuid": "b5ffde5b-961c-40ca-bb34-809f75c4b53b"}
+{"sub_uri": "Q333438", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Louis Nicolas Vauquelin", "lineid": 578, "uuid": "bcf6f58a-5341-4065-99db-70c230addf9a"}
+{"sub_uri": "Q62331", "obj_uri": "Q2079", "obj_label": "Leipzig", "sub_label": "Neo Rauch", "lineid": 579, "uuid": "f6d84a4c-8586-459d-acfc-c1819d36f846"}
+{"sub_uri": "Q122290", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Jean-Paul Marat", "lineid": 580, "uuid": "4632e35b-feb2-44f9-a938-218a3481f9a8"}
+{"sub_uri": "Q79125", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_label": "Karl Gruber", "lineid": 581, "uuid": "cf1714db-cd2f-489e-a791-c18835ebddb1"}
+{"sub_uri": "Q1507305", "obj_uri": "Q172", "obj_label": "Toronto", "sub_label": "George Elliott Clarke", "lineid": 582, "uuid": "fb609cdd-a758-4094-8fe0-56eef23b9546"}
+{"sub_uri": "Q946277", "obj_uri": "Q641", "obj_label": "Venice", "sub_label": "Daniel Bomberg", "lineid": 583, "uuid": "8771f9ea-2ac2-4152-8883-9784df8b33b8"}
+{"sub_uri": "Q335437", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Peter Thomas Bauer", "lineid": 584, "uuid": "2225dbe6-ff7f-4917-9029-0a401d5ba5c1"}
+{"sub_uri": "Q57075", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Fritz Haber", "lineid": 585, "uuid": "2186a6f3-f4c2-47ea-9993-17a127cd436e"}
+{"sub_uri": "Q922336", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "Pino Rauti", "lineid": 586, "uuid": "b855d829-a768-4169-bf6e-67776401d20b"}
+{"sub_uri": "Q44733", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_label": "Heinz-Christian Strache", "lineid": 587, "uuid": "b8e88c49-88d3-410d-a902-b32e092db828"}
+{"sub_uri": "Q1224", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "Carlo Azeglio Ciampi", "lineid": 588, "uuid": "a6d98fb8-66e4-4fae-b895-20283ed2bd18"}
+{"sub_uri": "Q232260", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Ruth Rendell", "lineid": 589, "uuid": "fbfe81ce-1445-4340-a703-c13f0551e133"}
+{"sub_uri": "Q322341", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Pierre-Jean Mariette", "lineid": 590, "uuid": "0109900a-4dce-4786-89ef-40028e7cd00f"}
+{"sub_uri": "Q150767", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Benjamin Britten", "lineid": 591, "uuid": "3205895c-14cd-4516-8de8-e33e70ae9bc4"}
+{"sub_uri": "Q34670", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Albert Camus", "lineid": 592, "uuid": "fff6891d-06d9-416e-86fe-84d60d73a62a"}
+{"sub_uri": "Q7025366", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Nicholas Fairbairn", "lineid": 593, "uuid": "ebbd9a38-b390-46a1-8f8c-96ed73bec146"}
+{"sub_uri": "Q177917", "obj_uri": "Q1781", "obj_label": "Budapest", "sub_label": "Imre Nagy", "lineid": 594, "uuid": "d9032d37-b90b-409e-a3f5-0d29262e5f89"}
+{"sub_uri": "Q170310", "obj_uri": "Q1218", "obj_label": "Jerusalem", "sub_label": "Rehavam Ze'evi", "lineid": 595, "uuid": "edfa331a-b7f0-42b9-b8c5-0db30597b8d2"}
+{"sub_uri": "Q74128", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Alfred Flechtheim", "lineid": 596, "uuid": "14dfcc65-08af-4111-976c-5b26b1ac95bc"}
+{"sub_uri": "Q313691", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_label": "Louis Riel", "lineid": 597, "uuid": "15fff872-dfc5-43fb-beab-a074b5728723"}
+{"sub_uri": "Q549579", "obj_uri": "Q1022", "obj_label": "Stuttgart", "sub_label": "Sylvain Cambreling", "lineid": 598, "uuid": "de49c5b5-cb31-445e-9d51-641d89f2425b"}
+{"sub_uri": "Q336205", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Christopher Tugendhat, Baron Tugendhat", "lineid": 599, "uuid": "64ead5b7-8e2d-4bd4-a3a7-368a443608d0"}
+{"sub_uri": "Q3605181", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "Adele Faccio", "lineid": 600, "uuid": "7bb14aca-e135-4a5c-a2b7-b0089598d705"}
+{"sub_uri": "Q1685558", "obj_uri": "Q100", "obj_label": "Boston", "sub_label": "Peter I. Blute", "lineid": 601, "uuid": "01fc1854-1ea0-4ca2-90a7-5dbeb09132ad"}
+{"sub_uri": "Q965340", "obj_uri": "Q641", "obj_label": "Venice", "sub_label": "Nicolas Jenson", "lineid": 602, "uuid": "e42fbff5-dcd3-46d4-9575-44affc473dd1"}
+{"sub_uri": "Q3181776", "obj_uri": "Q3130", "obj_label": "Sydney", "sub_label": "John Horbury Hunt", "lineid": 603, "uuid": "5303fd91-491b-4049-ba3a-192e82fbd440"}
+{"sub_uri": "Q959708", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Jules Ferry", "lineid": 604, "uuid": "7c89d446-45d7-4e7d-80f3-2671d239ece5"}
+{"sub_uri": "Q323885", "obj_uri": "Q490", "obj_label": "Milan", "sub_label": "Giuseppe Longhi", "lineid": 605, "uuid": "82cc1d5f-e681-4884-9132-47f7c2ad94a8"}
+{"sub_uri": "Q546246", "obj_uri": "Q1748", "obj_label": "Copenhagen", "sub_label": "Jens Rohde", "lineid": 606, "uuid": "6e07d69f-7cff-4955-9a17-bfd9b5376dc5"}
+{"sub_uri": "Q560571", "obj_uri": "Q585", "obj_label": "Oslo", "sub_label": "Otto Blehr", "lineid": 607, "uuid": "5bf89b2e-7429-43a9-9b23-43b4da8dca96"}
+{"sub_uri": "Q122304", "obj_uri": "Q1165", "obj_label": "Bihar", "sub_label": "Nitish Kumar", "lineid": 608, "uuid": "6936b59a-167f-4534-87cf-0e790df845b6"}
+{"sub_uri": "Q676953", "obj_uri": "Q1218", "obj_label": "Jerusalem", "sub_label": "Daniel Auster", "lineid": 609, "uuid": "7038c406-52c1-40da-8156-7bce2052aa7c"}
+{"sub_uri": "Q925307", "obj_uri": "Q1748", "obj_label": "Copenhagen", "sub_label": "Peter Andreas Heiberg", "lineid": 610, "uuid": "4634ee77-fe07-42eb-9924-80547779a682"}
+{"sub_uri": "Q71491", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Hedwig Dohm", "lineid": 611, "uuid": "2965784c-6898-4db9-a08a-ef746325445c"}
+{"sub_uri": "Q5535644", "obj_uri": "Q585", "obj_label": "Oslo", "sub_label": "Georg Apenes", "lineid": 612, "uuid": "e0649129-9fb2-4eb1-bf12-ac774ec4bc7b"}
+{"sub_uri": "Q335830", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Elizabeth Butler-Sloss, Baroness Butler-Sloss", "lineid": 613, "uuid": "41e0c15f-b2c9-43b2-b44f-76461363f443"}
+{"sub_uri": "Q328691", "obj_uri": "Q485176", "obj_label": "Pasadena", "sub_label": "Amnon Yariv", "lineid": 614, "uuid": "5f13ebc1-f772-473f-834b-5d0938949a02"}
+{"sub_uri": "Q201161", "obj_uri": "Q23482", "obj_label": "Marseille", "sub_label": "Varian Fry", "lineid": 615, "uuid": "30b80fbc-bbef-4c2a-85e3-7db9f1dd2a59"}
+{"sub_uri": "Q215115", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "August Wilhelm Iffland", "lineid": 616, "uuid": "715910e4-676f-4419-ae4e-c7f89aca5e92"}
+{"sub_uri": "Q76978", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Christiane F.", "lineid": 617, "uuid": "13401b23-9f33-44e3-8d17-4df14645195f"}
+{"sub_uri": "Q329791", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_label": "Abraham Blooteling", "lineid": 618, "uuid": "440313be-9408-4755-b249-b31f458c4a1b"}
+{"sub_uri": "Q112728", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_label": "Friedrich Peter", "lineid": 619, "uuid": "c0c3199c-9e98-4f66-ab3e-af1933687692"}
+{"sub_uri": "Q1361304", "obj_uri": "Q216", "obj_label": "Vilnius", "sub_label": "Vytautas Juozapaitis", "lineid": 620, "uuid": "eecab0b2-5751-4179-9882-aedcd5d5186b"}
+{"sub_uri": "Q319099", "obj_uri": "Q100", "obj_label": "Boston", "sub_label": "Michael Dukakis", "lineid": 621, "uuid": "d0086aa0-417f-4cff-b42f-c3645f6df5b2"}
+{"sub_uri": "Q266779", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Amel Bent", "lineid": 622, "uuid": "beb76fd8-da62-4d52-88bd-cfcb6123cd26"}
+{"sub_uri": "Q1339", "obj_uri": "Q2079", "obj_label": "Leipzig", "sub_label": "Johann Sebastian Bach", "lineid": 623, "uuid": "ff3bcbff-2d55-4b59-b00e-4aeddb3b97f6"}
+{"sub_uri": "Q3990628", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Thomas Gibson Bowles", "lineid": 624, "uuid": "c95597e6-c599-4ce3-a962-3d967e004c1b"}
+{"sub_uri": "Q57239", "obj_uri": "Q1731", "obj_label": "Dresden", "sub_label": "Ludwig Tieck", "lineid": 625, "uuid": "ce1ad15e-6712-4f97-8ec7-fd6d95bc23e0"}
+{"sub_uri": "Q356351", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "Gianni Agnelli", "lineid": 626, "uuid": "6199d1e9-c9a2-4a91-98b8-a02ec4761434"}
+{"sub_uri": "Q973064", "obj_uri": "Q1492", "obj_label": "Barcelona", "sub_label": "Xavier Trias", "lineid": 627, "uuid": "89179719-1148-430a-a3e4-cc4afcad3601"}
+{"sub_uri": "Q220768", "obj_uri": "Q2683", "obj_label": "Parma", "sub_label": "Giambattista Bodoni", "lineid": 628, "uuid": "2e935ff8-a375-4438-9876-dd830179ea93"}
+{"sub_uri": "Q65515", "obj_uri": "Q586", "obj_label": "Bonn", "sub_label": "Heide Simonis", "lineid": 629, "uuid": "c8e76ff4-4b11-4864-b93d-ca987530de59"}
+{"sub_uri": "Q6536673", "obj_uri": "Q100", "obj_label": "Boston", "sub_label": "Lewis Hayden", "lineid": 630, "uuid": "91047174-b832-4b18-88c8-7c41b7db9a18"}
+{"sub_uri": "Q1538734", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "Veturia", "lineid": 631, "uuid": "4c35613e-b242-40be-b990-ed7b5341537e"}
+{"sub_uri": "Q200015", "obj_uri": "Q649", "obj_label": "Moscow", "sub_label": "Vladimir Zhirinovsky", "lineid": 632, "uuid": "18f32f7b-40ce-4c76-b093-7ba0a9a08e23"}
+{"sub_uri": "Q310285", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "Adam Elsheimer", "lineid": 633, "uuid": "e7205698-6a2b-490a-a885-39e58e1ed77c"}
+{"sub_uri": "Q53707", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_label": "Tage Erlander", "lineid": 634, "uuid": "4e6939ff-811d-4b2f-ab34-575b82bae043"}
+{"sub_uri": "Q48544", "obj_uri": "Q2044", "obj_label": "Florence", "sub_label": "Cosimo de' Medici", "lineid": 635, "uuid": "c466674c-c396-43a0-833e-71facece3878"}
+{"sub_uri": "Q77525", "obj_uri": "Q1707", "obj_label": "Kiel", "sub_label": "Angelika Beer", "lineid": 636, "uuid": "d6422c1f-2352-4e42-835d-e5caf11605c0"}
+{"sub_uri": "Q4964977", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Brian Paddick", "lineid": 637, "uuid": "b1b52ceb-0928-4de5-b5d9-6c65f52dcd3a"}
+{"sub_uri": "Q683650", "obj_uri": "Q585", "obj_label": "Oslo", "sub_label": "Svenn Stray", "lineid": 638, "uuid": "92013158-562b-4b71-b2e0-1c3c845dbbb9"}
+{"sub_uri": "Q157040", "obj_uri": "Q1781", "obj_label": "Budapest", "sub_label": "Lajos Kossuth", "lineid": 639, "uuid": "9afd2825-8547-46b6-b940-de09f3be3598"}
+{"sub_uri": "Q7527510", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Sir James Whitehead, 1st Baronet", "lineid": 640, "uuid": "e8e2fc0c-016c-4706-a15d-ef9fdeed99a1"}
+{"sub_uri": "Q311231", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Philipp Jakob Spener", "lineid": 641, "uuid": "8ec7b8ed-cafb-44a7-998f-5c0f357fb44d"}
+{"sub_uri": "Q9049", "obj_uri": "Q1400", "obj_label": "Pennsylvania", "sub_label": "Noam Chomsky", "lineid": 642, "uuid": "395390c7-48ba-4d01-bbe0-20d856abcf67"}
+{"sub_uri": "Q317436", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Charles Stewart Parnell", "lineid": 643, "uuid": "6c47a295-db54-4142-bca9-e0c05e5a5e27"}
+{"sub_uri": "Q189164", "obj_uri": "Q649", "obj_label": "Moscow", "sub_label": "Feodor Chaliapin", "lineid": 644, "uuid": "0b06746a-86f1-4b61-81a3-b3d9c001e27a"}
+{"sub_uri": "Q84827", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_label": "Hubert Marischka", "lineid": 645, "uuid": "d341ee6a-898c-4263-92f6-80faf8b30dc8"}
+{"sub_uri": "Q335078", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Nigel Lawson", "lineid": 646, "uuid": "57a897d9-fd47-409c-acc5-6346ed0cbb85"}
+{"sub_uri": "Q2357946", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Stuart Pigott", "lineid": 647, "uuid": "88bd0233-7e78-441d-a1f2-0d067f36ea34"}
+{"sub_uri": "Q65780", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Ernst Ludwig von Gerlach", "lineid": 648, "uuid": "ec1e8007-70b9-4c3e-8d24-92fcc47b0e98"}
+{"sub_uri": "Q77655", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Ernst Friedrich Gilg", "lineid": 649, "uuid": "3c48e12d-38a0-42e1-9b62-95c039205506"}
+{"sub_uri": "Q597207", "obj_uri": "Q270", "obj_label": "Warsaw", "sub_label": "Antoni Brodowski", "lineid": 650, "uuid": "2f01b0a8-1fac-4897-b6e9-2b72e2ed1c9f"}
+{"sub_uri": "Q71827", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Erwin Blumenfeld", "lineid": 651, "uuid": "59e0877a-f31a-44e7-8ace-bcf4e2ea7aa5"}
+{"sub_uri": "Q2287592", "obj_uri": "Q29303", "obj_label": "Canterbury", "sub_label": "Simon Islip", "lineid": 652, "uuid": "1d6d055e-694c-4c6b-a952-67182dd5e13b"}
+{"sub_uri": "Q1031167", "obj_uri": "Q24639", "obj_label": "Vancouver", "sub_label": "Fred Wah", "lineid": 653, "uuid": "629643f5-85b4-46d5-a023-e1e531c4ad94"}
+{"sub_uri": "Q93444", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Vicki Baum", "lineid": 654, "uuid": "950e253c-62b7-4e4a-9fd3-339c7488c871"}
+{"sub_uri": "Q953375", "obj_uri": "Q36036", "obj_label": "Lviv", "sub_label": "Eugeniusz Baziak", "lineid": 655, "uuid": "7086d11f-a908-4ea4-8caa-356ac3b1986e"}
+{"sub_uri": "Q1368345", "obj_uri": "Q43631", "obj_label": "Leiden", "sub_label": "Jacobus Golius", "lineid": 656, "uuid": "c56358c0-332d-4c57-a4d5-3c5b2f457b44"}
+{"sub_uri": "Q455265", "obj_uri": "Q2256", "obj_label": "Birmingham", "sub_label": "John Baskerville", "lineid": 657, "uuid": "d3d58c3d-b100-498d-98b5-a343f31a64a1"}
+{"sub_uri": "Q314655", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Maurice Quentin de La Tour", "lineid": 658, "uuid": "50886650-01da-474a-b00d-93f71efe8bae"}
+{"sub_uri": "Q3386636", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_label": "Pierre Poilievre", "lineid": 659, "uuid": "29d79d32-0ac3-4629-80f6-a7487b54a39f"}
+{"sub_uri": "Q7345345", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_label": "Robert Haythorne", "lineid": 660, "uuid": "408633a7-7a49-4335-bf06-9eb70bbe32c4"}
+{"sub_uri": "Q152101", "obj_uri": "Q365", "obj_label": "Cologne", "sub_label": "Willy Millowitsch", "lineid": 661, "uuid": "0903899b-5508-45fe-9d69-e110b34b7c27"}
+{"sub_uri": "Q332751", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Ellen Wilkinson", "lineid": 662, "uuid": "29f364d2-182a-434e-953d-979ac11e9361"}
+{"sub_uri": "Q459431", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Jonathan Meese", "lineid": 663, "uuid": "2c74677c-7a25-4ddf-9280-c538b25c7aab"}
+{"sub_uri": "Q117305", "obj_uri": "Q270", "obj_label": "Warsaw", "sub_label": "Wojciech Rubinowicz", "lineid": 664, "uuid": "6cbd854f-98f3-4d9e-9661-183afc500666"}
+{"sub_uri": "Q190148", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "Renzo Piano", "lineid": 665, "uuid": "98c34ed1-4317-47ba-8fa6-fb62c7f6a074"}
+{"sub_uri": "Q6265369", "obj_uri": "Q797", "obj_label": "Alaska", "sub_label": "John and Edith Kilbuck", "lineid": 666, "uuid": "e3ae7ea0-8a63-4b3e-a15c-173ce2563447"}
+{"sub_uri": "Q43274", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Charles, Prince of Wales", "lineid": 667, "uuid": "04ed6245-11b8-4f06-ba97-1f664162edb9"}
+{"sub_uri": "Q311382", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_label": "Billy Corgan", "lineid": 668, "uuid": "fd27d650-9130-40b0-bd6c-75a0da0dc077"}
+{"sub_uri": "Q3791651", "obj_uri": "Q84", "obj_label": "London", "sub_label": "John Morris, Baron Morris of Borth-y-Gest", "lineid": 669, "uuid": "39fda32c-8e54-4653-8449-546cd6671511"}
+{"sub_uri": "Q297190", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "Giovanni Giolitti", "lineid": 670, "uuid": "8938e10f-d22f-4bb2-907e-a4ff24152527"}
+{"sub_uri": "Q533781", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_label": "Diplo", "lineid": 671, "uuid": "b1aaeeb9-0841-4cd8-8c3a-10b928fa248d"}
+{"sub_uri": "Q2475967", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Adrien Albert Marie de Mun", "lineid": 672, "uuid": "1995ecf1-74b0-47d5-9251-cce4d6017496"}
+{"sub_uri": "Q5488181", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Frank Markham", "lineid": 673, "uuid": "815e34ce-473f-4916-9af9-edc3c5f88b3d"}
+{"sub_uri": "Q441832", "obj_uri": "Q100", "obj_label": "Boston", "sub_label": "James Michael Curley", "lineid": 674, "uuid": "e2401b64-4adc-4ed5-8f36-80ce7034d812"}
+{"sub_uri": "Q128894", "obj_uri": "Q1218", "obj_label": "Jerusalem", "sub_label": "Yitzhak Ben-Zvi", "lineid": 675, "uuid": "6e0464b3-4251-4c40-ba01-6a40e723077b"}
+{"sub_uri": "Q941151", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "Paulus Manutius", "lineid": 676, "uuid": "855118d5-6c82-46bb-85cb-941fcb42fc76"}
+{"sub_uri": "Q1491039", "obj_uri": "Q641", "obj_label": "Venice", "sub_label": "Gaetano Rossi", "lineid": 677, "uuid": "7f691c72-a4a0-44a8-a4f2-97499daab2cf"}
+{"sub_uri": "Q446695", "obj_uri": "Q585", "obj_label": "Oslo", "sub_label": "Kristin Clemet", "lineid": 678, "uuid": "185b314a-1f9e-4cff-8526-c5011a9741e4"}
+{"sub_uri": "Q1965529", "obj_uri": "Q649", "obj_label": "Moscow", "sub_label": "Yuli Gusman", "lineid": 679, "uuid": "49c01934-d660-48d3-9063-7015496e60e3"}
+{"sub_uri": "Q96830", "obj_uri": "Q365", "obj_label": "Cologne", "sub_label": "Salentin IX of Isenburg-Grenzau", "lineid": 680, "uuid": "32687ab4-8283-43f1-963e-d4074b9a52e0"}
+{"sub_uri": "Q538109", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_label": "Ture Nerman", "lineid": 681, "uuid": "dbd448df-171c-4a0e-a4ee-1ddc5a5ff79e"}
+{"sub_uri": "Q96758", "obj_uri": "Q365", "obj_label": "Cologne", "sub_label": "Fritz Schramma", "lineid": 682, "uuid": "0bc25e76-187f-4e59-b582-cfb1db100549"}
+{"sub_uri": "Q2846748", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Andrew Blayney, 11th Baron Blayney", "lineid": 683, "uuid": "3fcd39ef-cb43-4a69-8739-d2c06279e9c8"}
+{"sub_uri": "Q2077562", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_label": "Peter Planyavsky", "lineid": 684, "uuid": "65b39e55-8efb-464c-a014-75fb51f2d4da"}
+{"sub_uri": "Q313769", "obj_uri": "Q1748", "obj_label": "Copenhagen", "sub_label": "Louis Hjelmslev", "lineid": 685, "uuid": "2008824a-d0b8-4e27-9d48-9ade67acd961"}
+{"sub_uri": "Q95541", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Samuel von Fischer", "lineid": 686, "uuid": "1d4e3614-1c9c-4834-8d0c-c3dc0dadfcf6"}
+{"sub_uri": "Q5764533", "obj_uri": "Q23436", "obj_label": "Edinburgh", "sub_label": "John Goodsir", "lineid": 687, "uuid": "a91c581a-a49a-4d6a-9fe9-399e84ef2aa3"}
+{"sub_uri": "Q9061", "obj_uri": "Q365", "obj_label": "Cologne", "sub_label": "Karl Marx", "lineid": 688, "uuid": "17d1568a-7717-42cc-816e-7d2bf57223ab"}
+{"sub_uri": "Q355112", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Louis Blanc", "lineid": 689, "uuid": "46a83ab1-56dc-415b-870a-927195bb2e1a"}
+{"sub_uri": "Q773049", "obj_uri": "Q340", "obj_label": "Montreal", "sub_label": "Jean Papineau-Couture", "lineid": 690, "uuid": "b4881e3f-ea8c-438d-9aa9-8505b8f3fb02"}
+{"sub_uri": "Q540255", "obj_uri": "Q1773", "obj_label": "Riga", "sub_label": "Indulis Emsis", "lineid": 691, "uuid": "32673c3f-5ea4-48fd-b3ef-b9a82b921e22"}
+{"sub_uri": "Q191123", "obj_uri": "Q1218", "obj_label": "Jerusalem", "sub_label": "Levi Eshkol", "lineid": 692, "uuid": "69c1723a-b9a6-4c7b-8952-bcd1b5daa111"}
+{"sub_uri": "Q70102", "obj_uri": "Q2079", "obj_label": "Leipzig", "sub_label": "Bruno Schmitz", "lineid": 693, "uuid": "5089279d-3f14-4557-ac89-9a12292ca2a4"}
+{"sub_uri": "Q1385980", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Jules Paul Benjamin Delessert", "lineid": 694, "uuid": "edb907cf-c159-44b1-b374-d5be29363d4f"}
+{"sub_uri": "Q296039", "obj_uri": "Q172", "obj_label": "Toronto", "sub_label": "James LaBrie", "lineid": 695, "uuid": "5ce2f280-5248-46c0-b0f6-f801ab294bc7"}
+{"sub_uri": "Q115841", "obj_uri": "Q70", "obj_label": "Bern", "sub_label": "Samuel Schmid", "lineid": 696, "uuid": "ccea78c5-3663-4e3d-bb8e-d3c5c5df1fdb"}
+{"sub_uri": "Q78475", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_label": "Alban Berg", "lineid": 697, "uuid": "997b5556-ce2f-4c4a-a0b5-dd6ecaa5757c"}
+{"sub_uri": "Q336483", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Harold Harmsworth, 1st Viscount Rothermere", "lineid": 698, "uuid": "aa03c908-5676-4014-af0c-63b123548a85"}
+{"sub_uri": "Q215461", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Hans Hofmann", "lineid": 699, "uuid": "0b3ab2e3-7caa-414e-9c8b-f145c7c2bfdc"}
+{"sub_uri": "Q637459", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Henry Bentinck, 11th Earl of Portland", "lineid": 700, "uuid": "a2d33dde-3803-4e91-b32a-caef22dce883"}
+{"sub_uri": "Q60957", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Eberhard Diepgen", "lineid": 701, "uuid": "78db60cb-d971-4821-a684-68667cdf7f77"}
+{"sub_uri": "Q298789", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_label": "Santiago Carrillo", "lineid": 702, "uuid": "4c64cfd0-b652-48c1-9e2e-b7ac6f6630e1"}
+{"sub_uri": "Q1620535", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_label": "Camilla de Rossi", "lineid": 703, "uuid": "4d7421df-6c14-48ff-b95c-f16e13e271e5"}
+{"sub_uri": "Q523755", "obj_uri": "Q1773", "obj_label": "Riga", "sub_label": "Guntars Krasts", "lineid": 704, "uuid": "ae53cbee-d9b6-4e19-aa11-cba6be4bfb56"}
+{"sub_uri": "Q535546", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "Angelo Amato", "lineid": 705, "uuid": "37c742ae-60d9-4075-94a0-a6ad85f82d77"}
+{"sub_uri": "Q713774", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Georges Darboy", "lineid": 706, "uuid": "5ee0458d-6510-45f6-a2d9-79d1f1d9c040"}
+{"sub_uri": "Q71848", "obj_uri": "Q6602", "obj_label": "Strasbourg", "sub_label": "Jakob Wimpfeling", "lineid": 707, "uuid": "d74d6445-93f8-4d30-b8e7-1b390a952780"}
+{"sub_uri": "Q94526", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "Alois Hudal", "lineid": 708, "uuid": "1e764afa-9fc3-44d2-a7d1-9c22b36d00d0"}
+{"sub_uri": "Q451696", "obj_uri": "Q32", "obj_label": "Luxembourg", "sub_label": "Lydie Polfer", "lineid": 709, "uuid": "685d95ff-d813-4f7d-9e2d-b99b0992ed93"}
+{"sub_uri": "Q65248", "obj_uri": "Q1748", "obj_label": "Copenhagen", "sub_label": "Andreas Peter Bernstorff", "lineid": 710, "uuid": "061a25df-fb52-492a-85bd-c6247f7e25ea"}
+{"sub_uri": "Q923619", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Jules Favre", "lineid": 711, "uuid": "35ec5dd3-78a2-486a-b00a-3860bac1ddaf"}
+{"sub_uri": "Q85099", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_label": "Georg Joseph Beer", "lineid": 712, "uuid": "80300d24-ba77-4980-bda9-977d0f0e5128"}
+{"sub_uri": "Q333376", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Walter Runciman, 1st Viscount Runciman of Doxford", "lineid": 713, "uuid": "8b98606a-33e3-4e86-bbc4-a53e5ad083c7"}
+{"sub_uri": "Q6153581", "obj_uri": "Q2044", "obj_label": "Florence", "sub_label": "Janet Ross", "lineid": 714, "uuid": "d861b300-4f8a-4cb3-b0a4-996790436a90"}
+{"sub_uri": "Q67758", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Carl August Walbrodt", "lineid": 715, "uuid": "c2b689e5-7152-4a20-8c9c-fa6dbe045b24"}
+{"sub_uri": "Q334080", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Alexander William Kinglake", "lineid": 716, "uuid": "6b996502-f498-4450-939f-0e34cf7988a3"}
+{"sub_uri": "Q4587518", "obj_uri": "Q585", "obj_label": "Oslo", "sub_label": "Fridtjof Frank Gundersen", "lineid": 717, "uuid": "bc552e44-e685-467b-9b23-cd496ce923db"}
+{"sub_uri": "Q275013", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Austen Henry Layard", "lineid": 718, "uuid": "a22c1275-f130-4a35-8dfe-3510dfaad5f9"}
+{"sub_uri": "Q85112", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_label": "Bruno Pittermann", "lineid": 719, "uuid": "a97b4a5f-1991-4461-8c62-3a5096c3c0e2"}
+{"sub_uri": "Q72129", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Ruth Berlau", "lineid": 720, "uuid": "839f4b79-0239-4dcd-b4fc-bd7b1a9c2cfe"}
+{"sub_uri": "Q45037", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Ulrich Karger", "lineid": 721, "uuid": "9c348373-bdea-4d9b-8793-b8967983625c"}
+{"sub_uri": "Q184623", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Georges Danton", "lineid": 722, "uuid": "a848908a-ec38-4b04-b954-f8c77987f117"}
+{"sub_uri": "Q128563", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_label": "Brian Mulroney", "lineid": 723, "uuid": "fc4b7961-b340-4664-a4db-e5edf8b1ccca"}
+{"sub_uri": "Q123238", "obj_uri": "Q71", "obj_label": "Geneva", "sub_label": "Guillaume Henri Dufour", "lineid": 724, "uuid": "c3fd4627-5832-4708-9664-f886751ead1d"}
+{"sub_uri": "Q456873", "obj_uri": "Q490", "obj_label": "Milan", "sub_label": "Galeazzo I Visconti", "lineid": 725, "uuid": "2e8fc494-d303-4d61-9865-e0be20be58ee"}
+{"sub_uri": "Q313925", "obj_uri": "Q130191", "obj_label": "Norwich", "sub_label": "Thomas Browne", "lineid": 726, "uuid": "2b35e71f-396d-4922-8844-41fda9b21cc1"}
+{"sub_uri": "Q73205", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Theodor Fritsch", "lineid": 727, "uuid": "cd3e1cd2-b87d-423c-bfe7-7048a86c952c"}
+{"sub_uri": "Q4773519", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Anthony Steen", "lineid": 728, "uuid": "ec91dc10-242e-49e3-b5de-a3b14a5c41a2"}
+{"sub_uri": "Q2125041", "obj_uri": "Q3820", "obj_label": "Beirut", "sub_label": "Rabih Alameddine", "lineid": 729, "uuid": "ce737f24-c863-4371-9b06-3cabad43eded"}
+{"sub_uri": "Q364179", "obj_uri": "Q1342", "obj_label": "Pittsburgh", "sub_label": "Fritz Reiner", "lineid": 730, "uuid": "8839f9e7-6b0d-438f-be0c-4d3c6f872b75"}
+{"sub_uri": "Q336036", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Rufus Isaacs, 1st Marquess of Reading", "lineid": 731, "uuid": "3063670a-2e6a-4906-991e-e6bd1c23f1cc"}
+{"sub_uri": "Q50002", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "Emma Bonino", "lineid": 732, "uuid": "67c49860-f5c3-492b-ab77-6329ef92ef4d"}
+{"sub_uri": "Q561073", "obj_uri": "Q365", "obj_label": "Cologne", "sub_label": "Reinhard Goebel", "lineid": 733, "uuid": "433b9b6d-41c0-47bf-b316-981fc0846110"}
+{"sub_uri": "Q1329275", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Leser Landshuth", "lineid": 734, "uuid": "46670d98-eadb-4323-8aec-bbcd318038e2"}
+{"sub_uri": "Q898557", "obj_uri": "Q1085", "obj_label": "Prague", "sub_label": "Prince Franz de Paula of Liechtenstein", "lineid": 735, "uuid": "d4191486-3a7f-472d-af62-6bf0182067f7"}
+{"sub_uri": "Q78803", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_label": "Leopold Auenbrugger", "lineid": 736, "uuid": "526b3396-296d-415f-b594-60c339e57a6a"}
+{"sub_uri": "Q188502", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Sebastian Coe", "lineid": 737, "uuid": "39c7a915-b5f7-48c9-a1e8-b611b50c4e5d"}
+{"sub_uri": "Q440333", "obj_uri": "Q100", "obj_label": "Boston", "sub_label": "William Claflin", "lineid": 738, "uuid": "dbeac2de-aefd-4bbb-859a-fde262fe846e"}
+{"sub_uri": "Q82445", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Henri de Toulouse-Lautrec", "lineid": 739, "uuid": "752732ce-3cac-4f14-93ef-35af011bc961"}
+{"sub_uri": "Q53713", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_label": "Olof Palme", "lineid": 740, "uuid": "86ce7178-ee58-4af2-87fd-cdeabaf8f260"}
+{"sub_uri": "Q77659", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Fritz Graebner", "lineid": 741, "uuid": "16dae40a-1eaf-4213-8b92-316de74a5b09"}
+{"sub_uri": "Q323431", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_label": "Paul Citroen", "lineid": 742, "uuid": "219a7c49-3792-4178-be92-37ca29e43460"}
+{"sub_uri": "Q521051", "obj_uri": "Q1715", "obj_label": "Hanover", "sub_label": "Mousse T.", "lineid": 743, "uuid": "ce8c0f92-f2a0-4034-ac70-208b761a3cb3"}
+{"sub_uri": "Q188526", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Marina Tsvetaeva", "lineid": 744, "uuid": "392ea446-4417-48bb-bd45-0458f5032868"}
+{"sub_uri": "Q78897", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_label": "Selma Kurz", "lineid": 745, "uuid": "4db54c33-71b4-4311-8f4d-83eba79db9bf"}
+{"sub_uri": "Q231642", "obj_uri": "Q43631", "obj_label": "Leiden", "sub_label": "Ingrid van Houten-Groeneveld", "lineid": 746, "uuid": "f2953d92-e340-4709-a5f7-a51d96c2458e"}
+{"sub_uri": "Q332864", "obj_uri": "Q84", "obj_label": "London", "sub_label": "William Waldegrave, Baron Waldegrave of North Hill", "lineid": 747, "uuid": "b8628e82-5f54-4b70-b5c3-4f10205074fe"}
+{"sub_uri": "Q6253695", "obj_uri": "Q100", "obj_label": "Boston", "sub_label": "John Quincy Adams II", "lineid": 748, "uuid": "b9c669d9-aa05-4d45-a6e4-edc8718d7486"}
+{"sub_uri": "Q41266", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_label": "Ana Botella", "lineid": 749, "uuid": "5875900a-9e89-48c1-9894-17e19d9b1db0"}
+{"sub_uri": "Q472989", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Lucian Bernhard", "lineid": 750, "uuid": "e360ea35-3671-4a38-85bf-8133ce7ac8ed"}
+{"sub_uri": "Q533759", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_label": "Joseph de la Vega", "lineid": 751, "uuid": "f42b9e0b-cde2-45de-8816-5e4352842589"}
+{"sub_uri": "Q712049", "obj_uri": "Q1342", "obj_label": "Pittsburgh", "sub_label": "Leonardo Balada", "lineid": 752, "uuid": "a482d00e-ba6a-4e95-a80c-0d23ea16eb91"}
+{"sub_uri": "Q4360385", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_label": "Franz Petrak", "lineid": 753, "uuid": "41945757-4915-4b99-92f1-e03722ff5f3c"}
+{"sub_uri": "Q310630", "obj_uri": "Q472", "obj_label": "Sofia", "sub_label": "Ivan Vazov", "lineid": 754, "uuid": "0af0060d-df73-46cb-a6e7-9cc3836c957e"}
+{"sub_uri": "Q237420", "obj_uri": "Q641", "obj_label": "Venice", "sub_label": "Donna Leon", "lineid": 755, "uuid": "e7cb3051-8512-4590-b030-d2d1364d67d8"}
+{"sub_uri": "Q598782", "obj_uri": "Q641", "obj_label": "Venice", "sub_label": "Pietro III Candiano", "lineid": 756, "uuid": "1569c767-3051-4f9c-9473-f3c01ab210b3"}
+{"sub_uri": "Q74924", "obj_uri": "Q1794", "obj_label": "Frankfurt am Main", "sub_label": "Christian Egenolff", "lineid": 757, "uuid": "3305ffed-1850-4cc1-89d5-51bbecfbb7ad"}
+{"sub_uri": "Q65917", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Wilhelm Pieck", "lineid": 758, "uuid": "94553324-5a7e-4215-8cca-d26df933f6b3"}
+{"sub_uri": "Q73172", "obj_uri": "Q2079", "obj_label": "Leipzig", "sub_label": "Hans Freyer", "lineid": 759, "uuid": "8309e343-cada-4a46-bc7a-b88fea0cf6c2"}
+{"sub_uri": "Q365078", "obj_uri": "Q38283", "obj_label": "Yokohama", "sub_label": "Adolfo Farsari", "lineid": 760, "uuid": "500b9f8c-cc90-414a-ab73-390317f6207c"}
+{"sub_uri": "Q705873", "obj_uri": "Q649", "obj_label": "Moscow", "sub_label": "Gleb Yakunin", "lineid": 761, "uuid": "1e562b6d-eb06-469e-92e3-4cf088c48c80"}
+{"sub_uri": "Q1080992", "obj_uri": "Q585", "obj_label": "Oslo", "sub_label": "Christian Magnus Falsen", "lineid": 762, "uuid": "e2d40758-cd08-4659-9b27-cde0eafe5ceb"}
+{"sub_uri": "Q76730", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Erich Mendelsohn", "lineid": 763, "uuid": "7f98cdf1-bef6-4105-a3d4-3add3aaaf284"}
+{"sub_uri": "Q192", "obj_uri": "Q84", "obj_label": "London", "sub_label": "David Cameron", "lineid": 764, "uuid": "fd47a6c6-baac-4896-bdf8-42f62e971f01"}
+{"sub_uri": "Q61342", "obj_uri": "Q1731", "obj_label": "Dresden", "sub_label": "Gottfried Semper", "lineid": 765, "uuid": "b7e9315b-ce77-4abe-9e9e-4316440bea54"}
+{"sub_uri": "Q1351719", "obj_uri": "Q585", "obj_label": "Oslo", "sub_label": "Jan Petersen", "lineid": 766, "uuid": "cdbb30da-88fa-41fc-b35d-0a88e6738113"}
+{"sub_uri": "Q332546", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Norman Lamont", "lineid": 767, "uuid": "95560770-b4ff-41e7-bc68-1fc3094eeb8e"}
+{"sub_uri": "Q152437", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_label": "Alva Myrdal", "lineid": 768, "uuid": "83383059-6d9a-4e49-9444-5c9c41708ee4"}
+{"sub_uri": "Q2868553", "obj_uri": "Q1757", "obj_label": "Helsinki", "sub_label": "Astrid Thors", "lineid": 769, "uuid": "6b865dd1-b111-4926-88a9-dcf115a21c74"}
+{"sub_uri": "Q127766", "obj_uri": "Q586", "obj_label": "Bonn", "sub_label": "Nikolaus Simrock", "lineid": 770, "uuid": "a4901463-89a4-4ab3-b5c6-94ef662e1017"}
+{"sub_uri": "Q949560", "obj_uri": "Q233", "obj_label": "Malta", "sub_label": "Oliver Friggieri", "lineid": 771, "uuid": "95e44248-590c-402f-b52e-2dab7a7618c4"}
+{"sub_uri": "Q552619", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Pierre-Jules Hetzel", "lineid": 772, "uuid": "bc480a97-3a32-4781-8d2f-89184ff20ab3"}
+{"sub_uri": "Q269909", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Andy Burnham", "lineid": 773, "uuid": "d118b4df-15ee-4889-930d-1f1de32ec9ba"}
+{"sub_uri": "Q336040", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Herbert Plumer, 1st Viscount Plumer", "lineid": 774, "uuid": "b1edc3e0-1027-4918-805a-8ac5ed286f45"}
+{"sub_uri": "Q337548", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Cyril Smith", "lineid": 775, "uuid": "9b0d4fd7-5569-43de-a2ec-3c42068914b7"}
+{"sub_uri": "Q61520", "obj_uri": "Q6602", "obj_label": "Strasbourg", "sub_label": "August Hirt", "lineid": 776, "uuid": "56cd9781-7c68-4cad-81c7-8b45e2dce7ed"}
+{"sub_uri": "Q214320", "obj_uri": "Q1055", "obj_label": "Hamburg", "sub_label": "Gabriel Riesser", "lineid": 777, "uuid": "f97e5189-240a-4238-9016-1a54a6c5fe48"}
+{"sub_uri": "Q85947", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Friedrich Harkort", "lineid": 778, "uuid": "e6918e49-15a0-47b1-9ce0-248229e7217e"}
+{"sub_uri": "Q287525", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Paul Meurice", "lineid": 779, "uuid": "ddad02f5-9e63-469a-8480-2a2783582eff"}
+{"sub_uri": "Q6383540", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Philip Magnus", "lineid": 780, "uuid": "3c30521c-4927-4492-b38c-4ea10b083069"}
+{"sub_uri": "Q127911", "obj_uri": "Q31", "obj_label": "Belgium", "sub_label": "Diederik Wissels", "lineid": 781, "uuid": "4f0f0d48-9f3d-4e74-895e-63357ac01540"}
+{"sub_uri": "Q130759", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Christoph Willibald von Gluck", "lineid": 782, "uuid": "b41d182f-66ee-4064-bbcc-cfa35acc7041"}
+{"sub_uri": "Q77033", "obj_uri": "Q38", "obj_label": "Italy", "sub_label": "Wilhelm von Gloeden", "lineid": 783, "uuid": "adf7ab29-2a51-4e16-a102-17ca8d86181d"}
+{"sub_uri": "Q313489", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Jeffrey Archer", "lineid": 784, "uuid": "f8fdee1a-099c-43dc-b1d7-75452df7ecee"}
+{"sub_uri": "Q722835", "obj_uri": "Q1757", "obj_label": "Helsinki", "sub_label": "Edvard Westermarck", "lineid": 785, "uuid": "e3b90e9d-c67d-406b-ae3a-579b4da9cdd0"}
+{"sub_uri": "Q52224", "obj_uri": "Q649", "obj_label": "Moscow", "sub_label": "Sergey Lukyanenko", "lineid": 786, "uuid": "9d748095-e4a2-4761-bed3-aec90721a26f"}
+{"sub_uri": "Q379787", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_label": "Juan Prim, 1st Marquis of los Castillejos", "lineid": 787, "uuid": "f39de95e-3a72-4259-8ac8-36c984cd2fb8"}
+{"sub_uri": "Q545375", "obj_uri": "Q172", "obj_label": "Toronto", "sub_label": "Robertson Davies", "lineid": 788, "uuid": "d33126e6-3bdc-4fab-b091-d1b87f509ced"}
+{"sub_uri": "Q4795059", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Arnold Goodman, Baron Goodman", "lineid": 789, "uuid": "84724d73-e80b-4e3f-aca6-cbec7fa8f9d8"}
+{"sub_uri": "Q451489", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Antoine-Louis Barye", "lineid": 790, "uuid": "a33f6ae6-16ce-4acf-a8ce-e0432fe4b396"}
+{"sub_uri": "Q104581", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Louise Schroeder", "lineid": 791, "uuid": "c96da85a-634c-469a-a0ce-8cb6a1343429"}
+{"sub_uri": "Q117611", "obj_uri": "Q78", "obj_label": "Basel", "sub_label": "Sebastian Henricpetri", "lineid": 792, "uuid": "9d7e6133-a0bf-4edb-9246-7500aac812b1"}
+{"sub_uri": "Q5239433", "obj_uri": "Q84", "obj_label": "London", "sub_label": "David Salomons", "lineid": 793, "uuid": "6ab6cc5b-4420-4415-8665-b78a38b0ad54"}
+{"sub_uri": "Q163938", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Jean Tinguely", "lineid": 794, "uuid": "e15a19cc-bb56-401e-9b80-39688d543079"}
+{"sub_uri": "Q45146", "obj_uri": "Q1085", "obj_label": "Prague", "sub_label": "Dominik Duka", "lineid": 795, "uuid": "02f1a403-f1c3-41e3-9618-6d76d3f17c9c"}
+{"sub_uri": "Q158370", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_label": "Bernard Haitink", "lineid": 796, "uuid": "f488369a-ce8d-43ff-bc05-245f53586cdd"}
+{"sub_uri": "Q1174500", "obj_uri": "Q2096", "obj_label": "Edmonton", "sub_label": "David Gaider", "lineid": 797, "uuid": "ba3537c6-e609-461a-a50e-50fb08e78cf0"}
+{"sub_uri": "Q6377016", "obj_uri": "Q16555", "obj_label": "Houston", "sub_label": "Kathryn Casey", "lineid": 798, "uuid": "8effb546-3cf2-4753-9e90-d21e9663a0f2"}
+{"sub_uri": "Q433721", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Paul Gervais", "lineid": 799, "uuid": "e402ca07-c4b6-4e5b-9f5f-f179d51e5970"}
+{"sub_uri": "Q880925", "obj_uri": "Q1794", "obj_label": "Frankfurt am Main", "sub_label": "Kurt Hessenberg", "lineid": 800, "uuid": "fb4ffac4-0998-4d1d-9b24-3756a2398380"}
+{"sub_uri": "Q103955", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Gustav Stresemann", "lineid": 801, "uuid": "158bfaa3-2ada-4d0b-b003-5e4f68025401"}
+{"sub_uri": "Q34628", "obj_uri": "Q1055", "obj_label": "Hamburg", "sub_label": "Gotthold Ephraim Lessing", "lineid": 802, "uuid": "506b8ad6-3526-43ea-93db-525bd2e80513"}
+{"sub_uri": "Q437405", "obj_uri": "Q6602", "obj_label": "Strasbourg", "sub_label": "Catherine Trautmann", "lineid": 803, "uuid": "8100ff4f-1a18-46aa-8327-3aec67d2eb4a"}
+{"sub_uri": "Q162497", "obj_uri": "Q812", "obj_label": "Florida", "sub_label": "LeRoy Collins", "lineid": 804, "uuid": "f5ec5874-1431-474f-9620-757957730846"}
+{"sub_uri": "Q93365", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_label": "Leopold Joseph von Daun", "lineid": 805, "uuid": "6b14f6c8-5b9b-4b72-a719-770e655c5914"}
+{"sub_uri": "Q298850", "obj_uri": "Q5690", "obj_label": "Sparta", "sub_label": "Alcman", "lineid": 806, "uuid": "7aceb002-8773-4fa7-bdb3-806c1e805bb4"}
+{"sub_uri": "Q660630", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Thomas Beaufort, Duke of Exeter", "lineid": 807, "uuid": "767d68ad-c733-41ab-a8f1-d5fecbbd9281"}
+{"sub_uri": "Q208591", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_label": "Anna Lindh", "lineid": 808, "uuid": "6fbae2ac-a779-445d-b580-10f6c5082693"}
+{"sub_uri": "Q1394", "obj_uri": "Q649", "obj_label": "Moscow", "sub_label": "Vladimir Lenin", "lineid": 809, "uuid": "c3b1295a-28aa-4229-8a76-b5c518027bdb"}
+{"sub_uri": "Q332950", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Charles Kennedy", "lineid": 810, "uuid": "a58e5890-2791-4056-89bc-5e4703188e0b"}
+{"sub_uri": "Q71903", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Otto Brahm", "lineid": 811, "uuid": "855ef968-6ff8-4649-80f9-dff184a77253"}
+{"sub_uri": "Q65822", "obj_uri": "Q2079", "obj_label": "Leipzig", "sub_label": "Julius Friedrich Cohnheim", "lineid": 812, "uuid": "702bff37-15bd-4e73-a199-e8282700756d"}
+{"sub_uri": "Q76442", "obj_uri": "Q2079", "obj_label": "Leipzig", "sub_label": "Johann Christoph Gottsched", "lineid": 813, "uuid": "5c762ba7-90fd-460d-afa8-90c0fb4f67b7"}
+{"sub_uri": "Q121734", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Thomas Picton", "lineid": 814, "uuid": "f4077efd-3dce-4428-b368-c507766ca21a"}
+{"sub_uri": "Q5294625", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Donald Kaberry, Baron Kaberry of Adel", "lineid": 815, "uuid": "aca20ffe-2159-46df-b796-1ac6cefae31a"}
+{"sub_uri": "Q4842324", "obj_uri": "Q172", "obj_label": "Toronto", "sub_label": "Bahamas", "lineid": 816, "uuid": "379a7da9-0106-4b34-96fa-ac126a6c916b"}
+{"sub_uri": "Q332462", "obj_uri": "Q36036", "obj_label": "Lviv", "sub_label": "Ivan Franko", "lineid": 817, "uuid": "c1f7450d-bf9d-4b1f-8081-d2747ed225e1"}
+{"sub_uri": "Q29179", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_label": "Francisco Franco", "lineid": 818, "uuid": "7511794b-52cf-409d-84b0-fe78f10a7815"}
+{"sub_uri": "Q43067", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Heinrich Himmler", "lineid": 819, "uuid": "ae2a31ba-6230-48b3-8483-7701b6bbd868"}
+{"sub_uri": "Q101698", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_label": "Gaetano Donizetti", "lineid": 820, "uuid": "90dc5810-ae42-4541-b780-266c91f9d22a"}
+{"sub_uri": "Q918731", "obj_uri": "Q43631", "obj_label": "Leiden", "sub_label": "Daniel Heinsius", "lineid": 821, "uuid": "4aa0c418-ebf5-4605-a154-2c40051f997b"}
+{"sub_uri": "Q8069057", "obj_uri": "Q956", "obj_label": "Beijing", "sub_label": "Zeng Fanzhi", "lineid": 822, "uuid": "5d668bd8-f421-4451-8ba6-84fdb4ed325e"}
+{"sub_uri": "Q205319", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_label": "Gilles Duceppe", "lineid": 823, "uuid": "163da127-f12c-4826-a65a-e5c679706901"}
+{"sub_uri": "Q71112", "obj_uri": "Q1726", "obj_label": "Munich", "sub_label": "Annette Kolb", "lineid": 824, "uuid": "401c7822-d937-4ee6-b9b0-6d02e30a0036"}
+{"sub_uri": "Q1246291", "obj_uri": "Q1218", "obj_label": "Jerusalem", "sub_label": "Moses Shapira", "lineid": 825, "uuid": "14d2ea3e-8f7e-4445-a072-3f38be5276c9"}
+{"sub_uri": "Q695881", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_label": "Giovanni Valentini", "lineid": 826, "uuid": "452f0aef-b56b-4c26-93d0-f189222d183a"}
+{"sub_uri": "Q1403458", "obj_uri": "Q956", "obj_label": "Beijing", "sub_label": "Jean Denis Attiret", "lineid": 827, "uuid": "c733c42e-6a40-46b8-b44a-3c1f2fd11536"}
+{"sub_uri": "Q333231", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Nigel Nicolson", "lineid": 828, "uuid": "b45dd0ae-8d65-4f48-b0cd-28e2d5d2d6f0"}
+{"sub_uri": "Q6253594", "obj_uri": "Q84", "obj_label": "London", "sub_label": "John Pye", "lineid": 829, "uuid": "03d44d0f-fa56-49c5-9938-d780758359d8"}
+{"sub_uri": "Q107473", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Karl Barth", "lineid": 830, "uuid": "124cb36d-6b4d-4840-901d-0c01fdbe1e02"}
+{"sub_uri": "Q597155", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "Marco Minghetti", "lineid": 831, "uuid": "73e375d0-748e-4906-80e2-97e6a82040d2"}
+{"sub_uri": "Q1385836", "obj_uri": "Q1770", "obj_label": "Tallinn", "sub_label": "Jaan Poska", "lineid": 832, "uuid": "c65fbd29-820a-4e2b-b878-88521ed3ed58"}
+{"sub_uri": "Q478601", "obj_uri": "Q18125", "obj_label": "Manchester", "sub_label": "Tony Wilson", "lineid": 833, "uuid": "e10473f3-42ef-4b45-b34e-ec2e3aeb1d5a"}
+{"sub_uri": "Q6762792", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_label": "Marie Charette-Poulin", "lineid": 834, "uuid": "ef14f776-578e-436e-9b8c-0796770b4bec"}
+{"sub_uri": "Q75866", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Rudolf Hess", "lineid": 835, "uuid": "6ac313de-9d10-4a6b-ae59-6d64b4662c06"}
+{"sub_uri": "Q271878", "obj_uri": "Q84", "obj_label": "London", "sub_label": "George Curzon, 1st Marquess Curzon of Kedleston", "lineid": 836, "uuid": "2926a480-cec1-48d1-b6a7-0da21193d587"}
+{"sub_uri": "Q2675248", "obj_uri": "Q100", "obj_label": "Boston", "sub_label": "Josiah Quincy, Jr.", "lineid": 837, "uuid": "a245acd9-77af-4fa4-b432-59600faa4566"}
+{"sub_uri": "Q87087", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Dietmar Feichtinger", "lineid": 838, "uuid": "d725ed21-5741-4f13-bbe7-0db997ebf909"}
+{"sub_uri": "Q172161", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Joseph Reinach", "lineid": 839, "uuid": "3ea52b8b-d51a-4a3d-a7f8-bb1f4e573089"}
+{"sub_uri": "Q57146", "obj_uri": "Q19660", "obj_label": "Bucharest", "sub_label": "Carol I of Romania", "lineid": 840, "uuid": "479eb778-a2c0-4aa3-a788-532f5a55b437"}
+{"sub_uri": "Q131674", "obj_uri": "Q649", "obj_label": "Moscow", "sub_label": "Anatoly Karpov", "lineid": 841, "uuid": "38f98241-5f70-43b7-89cf-d32a97bfa699"}
+{"sub_uri": "Q28480", "obj_uri": "Q1085", "obj_label": "Prague", "sub_label": "Max Brod", "lineid": 842, "uuid": "9c0c891d-988e-40db-b4ef-29aec060c406"}
+{"sub_uri": "Q2788498", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Louis Loucheur", "lineid": 843, "uuid": "7a49501f-7a8b-4934-ba3b-f21e16c80207"}
+{"sub_uri": "Q981689", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_label": "Jacob Boreel", "lineid": 844, "uuid": "c71f7cc8-ec70-47cd-a7e2-7302ba248378"}
+{"sub_uri": "Q57286", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Fanny Mendelssohn", "lineid": 845, "uuid": "458e5a57-676a-4888-8bb5-ee4e368ba0db"}
+{"sub_uri": "Q232916", "obj_uri": "Q12892", "obj_label": "Antwerp", "sub_label": "Abraham Ortelius", "lineid": 846, "uuid": "fb0ff64d-7f56-41f5-bbde-fa8c61d261a3"}
+{"sub_uri": "Q199894", "obj_uri": "Q29303", "obj_label": "Canterbury", "sub_label": "Thomas Cranmer", "lineid": 847, "uuid": "e09cc79a-1023-4098-9a1d-af8e958f361f"}
+{"sub_uri": "Q154797", "obj_uri": "Q586", "obj_label": "Bonn", "sub_label": "Bundestag of Germany", "lineid": 848, "uuid": "e4c4e642-6401-460b-939a-c2c88a9d3fb3"}
+{"sub_uri": "Q295141", "obj_uri": "Q1218", "obj_label": "Jerusalem", "sub_label": "Chaim Herzog", "lineid": 849, "uuid": "8de859f0-3d62-4b02-8fa8-0d4ffb999cc8"}
+{"sub_uri": "Q550199", "obj_uri": "Q70", "obj_label": "Bern", "sub_label": "Markus Feldmann", "lineid": 850, "uuid": "666e600d-6489-44d6-a09a-f4abf0f56401"}
+{"sub_uri": "Q206", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_label": "Stephen Harper", "lineid": 851, "uuid": "051c69a3-3716-4ffb-a032-91765ab4f838"}
+{"sub_uri": "Q44403", "obj_uri": "Q1055", "obj_label": "Hamburg", "sub_label": "Heinrich Heine", "lineid": 852, "uuid": "e9b1cfa5-a606-42e3-9124-2d4d30eaec6c"}
+{"sub_uri": "Q295175", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Theuderic III", "lineid": 853, "uuid": "f6325476-0aff-4499-919c-e43a3ff8be76"}
+{"sub_uri": "Q155626", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "John Singer Sargent", "lineid": 854, "uuid": "81e7d683-3063-453f-b424-8f542a03cf22"}
+{"sub_uri": "Q3356825", "obj_uri": "Q585", "obj_label": "Oslo", "sub_label": "Trine Skei Grande", "lineid": 855, "uuid": "d03fcb9e-0a45-4d84-bc2b-08174863ab43"}
+{"sub_uri": "Q166635", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Stanley Baldwin", "lineid": 856, "uuid": "40dd3afc-0318-4807-8c35-ab6bfca0434b"}
+{"sub_uri": "Q545690", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Gaspard Gourgaud", "lineid": 857, "uuid": "cfa1bf8a-0f58-4792-8cda-a9c55efb68ab"}
+{"sub_uri": "Q85618", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Nicolas Born", "lineid": 858, "uuid": "e7a56494-2d2c-411c-b42f-0f5fa6cc4a25"}
+{"sub_uri": "Q442479", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Carlo Domeniconi", "lineid": 859, "uuid": "782faa25-c8b8-41eb-91ed-06a6bac6da76"}
+{"sub_uri": "Q464941", "obj_uri": "Q585", "obj_label": "Oslo", "sub_label": "Hadia Tajik", "lineid": 860, "uuid": "3050681f-2a09-4383-8147-85cd7f952288"}
+{"sub_uri": "Q506373", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "George Auriol", "lineid": 861, "uuid": "34a97924-08e2-4019-8ad3-16e50a75127c"}
+{"sub_uri": "Q456122", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Alexandre de Beauharnais", "lineid": 862, "uuid": "55cf3661-5f82-44c9-9280-a623b2bb3f98"}
+{"sub_uri": "Q117139", "obj_uri": "Q1342", "obj_label": "Pittsburgh", "sub_label": "Wiz Khalifa", "lineid": 863, "uuid": "19355a4a-f9f5-4989-940d-5f45584452ab"}
+{"sub_uri": "Q1686370", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_label": "Jeff Tweedy", "lineid": 864, "uuid": "705cdbc9-b8f8-43e7-9b7b-13e9309f4780"}
+{"sub_uri": "Q661165", "obj_uri": "Q100", "obj_label": "Boston", "sub_label": "Samuel Turell Armstrong", "lineid": 865, "uuid": "00602c90-e8f8-4a42-ae40-b00cbe788195"}
+{"sub_uri": "Q201538", "obj_uri": "Q85", "obj_label": "Cairo", "sub_label": "Edward Said", "lineid": 866, "uuid": "74327990-5881-4c74-8d68-49b679f3167e"}
+{"sub_uri": "Q2514", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Willy Brandt", "lineid": 867, "uuid": "f3b79ee1-3225-4204-916a-edce40395a6d"}
+{"sub_uri": "Q7526191", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Sir Charles Cayzer, 1st Baronet", "lineid": 868, "uuid": "46488a30-e60b-4fc1-9f27-aca2081a11be"}
+{"sub_uri": "Q860206", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Charles Dupin", "lineid": 869, "uuid": "c994dbbd-cdda-4d89-bbf7-367b7d282466"}
+{"sub_uri": "Q2537286", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Embrik Strand", "lineid": 870, "uuid": "0642e092-42f7-44d1-85ad-6f8073a19f84"}
+{"sub_uri": "Q106641", "obj_uri": "Q490", "obj_label": "Milan", "sub_label": "Johann Christian Bach", "lineid": 871, "uuid": "c89626e1-1412-4813-8d01-5b5cdceff57d"}
+{"sub_uri": "Q1368849", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Firmin Didot", "lineid": 872, "uuid": "f4b8bd96-c0dc-4cbc-9fa3-2f1f7cf40ea0"}
+{"sub_uri": "Q5608", "obj_uri": "Q12439", "obj_label": "Detroit", "sub_label": "Eminem", "lineid": 873, "uuid": "9ce6d017-1396-4415-b845-216079effea4"}
+{"sub_uri": "Q333889", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Henry Brooke, Baron Brooke of Cumnor", "lineid": 874, "uuid": "9cd61a79-e3aa-48b4-8355-544885d5f222"}
+{"sub_uri": "Q60858", "obj_uri": "Q2079", "obj_label": "Leipzig", "sub_label": "Douglas Sirk", "lineid": 875, "uuid": "640542d5-ba14-4458-9940-3fce73b606b5"}
+{"sub_uri": "Q8877", "obj_uri": "Q34006", "obj_label": "Hollywood", "sub_label": "Steven Spielberg", "lineid": 876, "uuid": "20a820c1-235e-4868-8c86-09594a046e01"}
+{"sub_uri": "Q333537", "obj_uri": "Q84", "obj_label": "London", "sub_label": "David Mellor", "lineid": 877, "uuid": "9db724a6-a917-4b99-b5f4-f47b5323d395"}
+{"sub_uri": "Q333804", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Hugh Cairns, 1st Earl Cairns", "lineid": 878, "uuid": "606e5d0b-02e7-4b6a-a91f-5ed00383be74"}
+{"sub_uri": "Q57106", "obj_uri": "Q1524", "obj_label": "Athens", "sub_label": "Heinrich Schliemann", "lineid": 879, "uuid": "1696459b-d0ca-41af-81bc-9e13465aff04"}
+{"sub_uri": "Q1219227", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "Giacomo Doria", "lineid": 880, "uuid": "ac7168d8-0bf5-4224-92df-13fe126465e5"}
+{"sub_uri": "Q492975", "obj_uri": "Q649", "obj_label": "Moscow", "sub_label": "Galina Starovoytova", "lineid": 881, "uuid": "5d030a33-7314-4476-95d4-99c34338fba9"}
+{"sub_uri": "Q7336", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_label": "Otto Frank", "lineid": 882, "uuid": "8dddb06c-607c-4de2-96ec-b942fe5c3c91"}
+{"sub_uri": "Q92495", "obj_uri": "Q1055", "obj_label": "Hamburg", "sub_label": "Ursula Caberta", "lineid": 883, "uuid": "2c96a4c3-20a3-4973-bde5-ab7c9ca53d15"}
+{"sub_uri": "Q9365294", "obj_uri": "Q18013", "obj_label": "Sacramento", "sub_label": "Van Tran", "lineid": 884, "uuid": "9bdc4b76-25ea-4cf0-9ce4-58c709f167b5"}
+{"sub_uri": "Q92729", "obj_uri": "Q1731", "obj_label": "Dresden", "sub_label": "Franz Baader", "lineid": 885, "uuid": "dabda5c0-2cc6-4dc1-af83-8c199df1c7e6"}
+{"sub_uri": "Q270668", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Georges Couthon", "lineid": 886, "uuid": "29dd92cb-309b-4a91-9cf7-7cd32eb01bf3"}
+{"sub_uri": "Q3657264", "obj_uri": "Q1085", "obj_label": "Prague", "sub_label": "Dominicus Custos", "lineid": 887, "uuid": "850d071d-a7ef-45db-b724-7c2cb1f58fcb"}
+{"sub_uri": "Q4612", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Marlene Dietrich", "lineid": 888, "uuid": "81008085-bb05-47e8-a6b4-c0224bc8396c"}
+{"sub_uri": "Q84862", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_label": "Maria Reining", "lineid": 889, "uuid": "81f2b79d-808d-44df-ab81-aefece410928"}
+{"sub_uri": "Q314135", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Pierre Augereau", "lineid": 890, "uuid": "19905a2c-6418-4c8b-a447-32e84398a9c1"}
+{"sub_uri": "Q4768392", "obj_uri": "Q22", "obj_label": "Scotland", "sub_label": "Anne Grant", "lineid": 891, "uuid": "9e95948c-af37-4246-b297-d181d8b202f0"}
+{"sub_uri": "Q5482134", "obj_uri": "Q23556", "obj_label": "Atlanta", "sub_label": "Francis Palmer Smith", "lineid": 892, "uuid": "f37c234e-db8e-4cdc-8542-deacc4bb19c8"}
+{"sub_uri": "Q315747", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Georges Ernest Boulanger", "lineid": 893, "uuid": "5cdd7f46-211a-4e49-8300-1d957f5bc777"}
+{"sub_uri": "Q1905371", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Daniel Vaillant", "lineid": 894, "uuid": "fa4a1080-1727-4157-a3fe-21662335b8f6"}
+{"sub_uri": "Q96523", "obj_uri": "Q1218", "obj_label": "Jerusalem", "sub_label": "Conrad Schick", "lineid": 895, "uuid": "1e289844-506f-4ec5-92b1-67e9e50acf9a"}
+{"sub_uri": "Q691944", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_label": "Philippus van Limborch", "lineid": 896, "uuid": "9b822843-78ca-4b8f-bbc8-01b6539a8759"}
+{"sub_uri": "Q1118848", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Paschal Grousset", "lineid": 897, "uuid": "f0c1a9db-f7c4-4c99-9df4-e29afa37318d"}
+{"sub_uri": "Q5565890", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Sir Francis Baring, 1st Baronet", "lineid": 898, "uuid": "80e8c4b1-0984-491e-8001-e48b524b503e"}
+{"sub_uri": "Q1040851", "obj_uri": "Q1748", "obj_label": "Copenhagen", "sub_label": "Carl Theodor Zahle", "lineid": 899, "uuid": "00982ade-e0d5-4806-a3fa-e93800df46e4"}
+{"sub_uri": "Q1574706", "obj_uri": "Q84", "obj_label": "London", "sub_label": "John Coleridge, 1st Baron Coleridge", "lineid": 900, "uuid": "7e4c29c0-4f82-4d88-a86b-f3171ec1fe1a"}
+{"sub_uri": "Q2628", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Walter Ulbricht", "lineid": 901, "uuid": "13d7c5d9-4730-46c1-b636-475b91e09cd5"}
+{"sub_uri": "Q77468", "obj_uri": "Q1726", "obj_label": "Munich", "sub_label": "Tankred Dorst", "lineid": 902, "uuid": "436f81f0-ca75-4b7d-8257-61d100bc85ac"}
+{"sub_uri": "Q215129", "obj_uri": "Q2079", "obj_label": "Leipzig", "sub_label": "Adam Friedrich Oeser", "lineid": 903, "uuid": "860bbd26-9d04-4ec0-9c96-20db72fe6d0a"}
+{"sub_uri": "Q5078694", "obj_uri": "Q100", "obj_label": "Boston", "sub_label": "Charles Hale", "lineid": 904, "uuid": "7e272a14-91f8-41b3-a5ff-43d312606876"}
+{"sub_uri": "Q84658", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_label": "Walter Schwimmer", "lineid": 905, "uuid": "5ff3556c-fffe-4632-bb4c-1d946e127bec"}
+{"sub_uri": "Q3305620", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Newton Moore", "lineid": 906, "uuid": "2288a081-fb2d-4363-8289-95d6175cd6f6"}
+{"sub_uri": "Q376691", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Charles Joseph Hullmandel", "lineid": 907, "uuid": "3d6838bd-791b-42e0-bd10-2847ab96de30"}
+{"sub_uri": "Q355265", "obj_uri": "Q1492", "obj_label": "Barcelona", "sub_label": "Pasqual Maragall i Mira", "lineid": 908, "uuid": "953cfa94-985c-422a-97a1-10054bc5fdcf"}
+{"sub_uri": "Q382582", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Maine de Biran", "lineid": 909, "uuid": "60fd3cc8-062c-4db8-9b96-63ed7e2d9467"}
+{"sub_uri": "Q957115", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_label": "Johannes Burman", "lineid": 910, "uuid": "4c93d3fb-5d88-4c9c-a47d-a6b9d06ee16a"}
+{"sub_uri": "Q1248339", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Jean Nicolas Pierre Hachette", "lineid": 911, "uuid": "aeb5f607-1137-4ae7-8b3e-9674a55fa7af"}
+{"sub_uri": "Q616169", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_label": "Jorge Oteiza", "lineid": 912, "uuid": "ceca9b90-21ab-4a0c-8da1-5322f2374996"}
+{"sub_uri": "Q1685859", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Jean Tiberi", "lineid": 913, "uuid": "3ab9f5ac-b808-4f73-9d7e-52bb587685c2"}
+{"sub_uri": "Q97084", "obj_uri": "Q1055", "obj_label": "Hamburg", "sub_label": "Friedrich Christoph Perthes", "lineid": 914, "uuid": "b03cfe83-5e54-46bf-a12e-672c8edc339c"}
+{"sub_uri": "Q379367", "obj_uri": "Q1761", "obj_label": "Dublin", "sub_label": "Robert Stawell Ball", "lineid": 915, "uuid": "856aba7b-f6af-4f2f-ab78-c94b5cadebf7"}
+{"sub_uri": "Q285928", "obj_uri": "Q34006", "obj_label": "Hollywood", "sub_label": "Lewis Milestone", "lineid": 916, "uuid": "5951a10c-7281-4846-afef-83128f5348cd"}
+{"sub_uri": "Q943928", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_label": "Thomas Birkett", "lineid": 917, "uuid": "c6c00df3-b3a4-49b0-bad8-d5d3cf68426d"}
+{"sub_uri": "Q213520", "obj_uri": "Q1218", "obj_label": "Jerusalem", "sub_label": "Josef Tal", "lineid": 918, "uuid": "48f1375d-b963-498b-86f3-5e98ef873338"}
+{"sub_uri": "Q515741", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_label": "Francisco Serrano, 1st Duke of la Torre", "lineid": 919, "uuid": "1b08de31-f9de-406d-81a5-d60ae61883d7"}
+{"sub_uri": "Q309995", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Paul Deschanel", "lineid": 920, "uuid": "b766a46a-58fe-4aa0-8634-f727fd9a5b55"}
+{"sub_uri": "Q1042835", "obj_uri": "Q1533", "obj_label": "Caracas", "sub_label": "Carlos Cruz-Diez", "lineid": 921, "uuid": "0c967a4b-2643-498f-8cd9-e3ec8e7e2677"}
+{"sub_uri": "Q71529", "obj_uri": "Q1022", "obj_label": "Stuttgart", "sub_label": "Johann Friedrich Cotta", "lineid": 922, "uuid": "fc05178a-4460-4085-a51b-b2f331598de2"}
+{"sub_uri": "Q335193", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Alfred Harmsworth, 1st Viscount Northcliffe", "lineid": 923, "uuid": "a8a39fe0-d83f-4079-b71f-572e97649537"}
+{"sub_uri": "Q164882", "obj_uri": "Q2090", "obj_label": "Nuremberg", "sub_label": "Hans Leo Hassler", "lineid": 924, "uuid": "fc927b75-3369-43d8-bc0f-7a369d1961bb"}
+{"sub_uri": "Q714325", "obj_uri": "Q23436", "obj_label": "Edinburgh", "sub_label": "Max Richter", "lineid": 925, "uuid": "bb804d02-9597-4106-83b4-220f8a57e972"}
+{"sub_uri": "Q336111", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Lynda Clark, Baroness Clark of Calton", "lineid": 926, "uuid": "a355e71c-b00b-414e-976e-3889552a4145"}
+{"sub_uri": "Q1442854", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_label": "T. Franklin Ahearn", "lineid": 927, "uuid": "7f9363ac-384f-4282-9d16-969ee4e8a685"}
+{"sub_uri": "Q357721", "obj_uri": "Q23556", "obj_label": "Atlanta", "sub_label": "Wilson Lumpkin", "lineid": 928, "uuid": "79d76132-d212-4d40-b7fb-9e86611957c1"}
+{"sub_uri": "Q182436", "obj_uri": "Q7075", "obj_label": "library", "sub_label": "librarian", "lineid": 929, "uuid": "d42e2f0b-63af-4579-b329-65296a69a496"}
+{"sub_uri": "Q961474", "obj_uri": "Q1085", "obj_label": "Prague", "sub_label": "Karel Bendl", "lineid": 930, "uuid": "cafb4112-4dd0-49c7-9321-8b6864219a5b"}
+{"sub_uri": "Q319444", "obj_uri": "Q1757", "obj_label": "Helsinki", "sub_label": "Aimo Cajander", "lineid": 931, "uuid": "a1b3b78b-0902-4eb1-9af7-09507ebc97e0"}
+{"sub_uri": "Q395725", "obj_uri": "Q1726", "obj_label": "Munich", "sub_label": "Agostino Steffani", "lineid": 932, "uuid": "078b2838-de80-4216-bfa0-d5d30bc6f919"}
+{"sub_uri": "Q677885", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Armand Trousseau", "lineid": 933, "uuid": "ee5ab2d2-edc5-455b-80dd-03b4bb00a028"}
+{"sub_uri": "Q86323", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Leo Mittler", "lineid": 934, "uuid": "9fd2b6ee-eebc-4fad-94fd-88d4e960bd27"}
+{"sub_uri": "Q337552", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Derek Conway", "lineid": 935, "uuid": "0ad11619-3257-4893-ae8f-5c674378f5d0"}
+{"sub_uri": "Q44490", "obj_uri": "Q2256", "obj_label": "Birmingham", "sub_label": "John Henry Newman", "lineid": 936, "uuid": "d781ab03-26e0-48f2-8a69-7830ada65e25"}
+{"sub_uri": "Q86393", "obj_uri": "Q1794", "obj_label": "Frankfurt am Main", "sub_label": "Mayer Carl von Rothschild", "lineid": 937, "uuid": "5494f600-6c21-4488-946e-cfb2fb9d50e2"}
+{"sub_uri": "Q1707976", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_label": "Joseph Schmitt", "lineid": 938, "uuid": "12c31218-2905-4e13-9c37-4ddd572e843d"}
+{"sub_uri": "Q1686926", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Jennie Lee, Baroness Lee of Asheridge", "lineid": 939, "uuid": "b20d2eea-53c4-413b-b325-6ed33431d43a"}
+{"sub_uri": "Q664748", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Henri Estienne", "lineid": 940, "uuid": "a76bd8dc-676c-483b-87c5-e471b3691563"}
+{"sub_uri": "Q653234", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Lord Henry FitzGerald", "lineid": 941, "uuid": "085c4bf7-e169-4a21-91c0-bb75018fc229"}
+{"sub_uri": "Q204517", "obj_uri": "Q585", "obj_label": "Oslo", "sub_label": "Georg Sverdrup", "lineid": 942, "uuid": "41c057bb-0f6d-47b5-b5c0-04e4a9861ee1"}
+{"sub_uri": "Q63505", "obj_uri": "Q1055", "obj_label": "Hamburg", "sub_label": "Oscar Troplowitz", "lineid": 943, "uuid": "8aa65946-7738-4569-bb0c-6d15096da445"}
+{"sub_uri": "Q7529726", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Sir William Pearce, 1st Baronet", "lineid": 944, "uuid": "207f4441-c199-42b7-9013-7a25acdedc67"}
+{"sub_uri": "Q352725", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Richard Brinsley Sheridan", "lineid": 945, "uuid": "9b7f4673-aec6-4efe-aa3f-de900e4da870"}
+{"sub_uri": "Q67169", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Hanns Heinz Ewers", "lineid": 946, "uuid": "321083ce-8265-4999-bcea-e7f371b78c2d"}
+{"sub_uri": "Q708843", "obj_uri": "Q43631", "obj_label": "Leiden", "sub_label": "Reinhart Dozy", "lineid": 947, "uuid": "99536671-9a01-4e4f-9c42-6942d9ec9ee5"}
+{"sub_uri": "Q128902", "obj_uri": "Q84", "obj_label": "London", "sub_label": "William Pitt the Younger", "lineid": 948, "uuid": "b73bf6c6-3468-4ab8-9f4d-3c6e28259f07"}
+{"sub_uri": "Q4799003", "obj_uri": "Q170497", "obj_label": "Gloucester", "sub_label": "Arthur Headlam", "lineid": 949, "uuid": "6783b5c4-7904-437c-af4e-37ad788e4ff5"}
+{"sub_uri": "Q84573", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_label": "Salomon Stricker", "lineid": 950, "uuid": "2b73fb6c-c6ff-4352-92ca-beadc957f55a"}
+{"sub_uri": "Q66123", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Carl Joseph Begas", "lineid": 951, "uuid": "3d96ba43-e6ea-48be-8e54-50d29f272d1b"}
+{"sub_uri": "Q45294", "obj_uri": "Q1726", "obj_label": "Munich", "sub_label": "Eugen Roth", "lineid": 952, "uuid": "421bcc09-d7e0-4a9e-a415-55b7df60404b"}
+{"sub_uri": "Q315999", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Joseph Chamberlain", "lineid": 953, "uuid": "2b3b1bd3-0013-443d-b0f5-a622dfc30c3c"}

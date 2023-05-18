@@ -1,0 +1,234 @@
+{"sub_uri": "Q2096", "obj_uri": "Q1951", "obj_label": "Alberta", "sub_label": "Edmonton", "lineid": 0, "uuid": "30bca7f1-a48a-47bd-9153-653623b11766"}
+{"sub_uri": "Q3640", "obj_uri": "Q43", "obj_label": "Turkey", "sub_label": "Ankara", "lineid": 1, "uuid": "5baac964-6cd7-4428-ae68-57b6e7be6c2a"}
+{"sub_uri": "Q727", "obj_uri": "Q55", "obj_label": "Netherlands", "sub_label": "Amsterdam", "lineid": 2, "uuid": "d4252a44-e3de-472a-8758-fe90c70736c7"}
+{"sub_uri": "Q9248", "obj_uri": "Q227", "obj_label": "Azerbaijan", "sub_label": "Baku", "lineid": 3, "uuid": "a7b1dd69-737c-44bc-860f-95b54b1114c8"}
+{"sub_uri": "Q85", "obj_uri": "Q79", "obj_label": "Egypt", "sub_label": "Cairo", "lineid": 4, "uuid": "815f1695-41b0-4504-88db-11184b728e41"}
+{"sub_uri": "Q1748", "obj_uri": "Q35", "obj_label": "Denmark", "sub_label": "Copenhagen", "lineid": 5, "uuid": "23537d40-e31b-46b9-ba98-50480fffe072"}
+{"sub_uri": "Q1492", "obj_uri": "Q5705", "obj_label": "Catalonia", "sub_label": "Barcelona", "lineid": 6, "uuid": "80111306-1b72-4e2c-b831-0d18d7d48b4c"}
+{"sub_uri": "Q1486", "obj_uri": "Q414", "obj_label": "Argentina", "sub_label": "Buenos Aires", "lineid": 7, "uuid": "ce7b8b35-2094-424d-9d68-cb933899f842"}
+{"sub_uri": "Q1726", "obj_uri": "Q980", "obj_label": "Bavaria", "sub_label": "Munich", "lineid": 8, "uuid": "3993f1f2-d6a6-4192-b164-9f25353087be"}
+{"sub_uri": "Q2044", "obj_uri": "Q1273", "obj_label": "Tuscany", "sub_label": "Florence", "lineid": 9, "uuid": "03c382ae-9002-40e6-b8e9-b7918891f400"}
+{"sub_uri": "Q220", "obj_uri": "Q38", "obj_label": "Italy", "sub_label": "Rome", "lineid": 10, "uuid": "7d1a6f55-0a21-462a-bd9a-afd0cef9c197"}
+{"sub_uri": "Q3561", "obj_uri": "Q262", "obj_label": "Algeria", "sub_label": "Algiers", "lineid": 11, "uuid": "ef37c6c0-6ffd-445f-a308-87250a482eec"}
+{"sub_uri": "Q3579", "obj_uri": "Q1016", "obj_label": "Libya", "sub_label": "Tripoli", "lineid": 12, "uuid": "709be69c-a7f1-4ad6-a645-70a9f72e159c"}
+{"sub_uri": "Q12892", "obj_uri": "Q1116", "obj_label": "Antwerp", "sub_label": "Antwerp", "lineid": 13, "uuid": "0135900e-f501-4706-b7bb-0ae92b177963"}
+{"sub_uri": "Q3114", "obj_uri": "Q408", "obj_label": "Australia", "sub_label": "Canberra", "lineid": 14, "uuid": "50654fe7-07be-42a1-8cdb-0a1a25514a11"}
+{"sub_uri": "Q3935", "obj_uri": "Q1030", "obj_label": "Namibia", "sub_label": "Windhoek", "lineid": 15, "uuid": "9ad128fa-b060-432d-aaf6-b8a3c0b1b937"}
+{"sub_uri": "Q160544", "obj_uri": "Q34374", "obj_label": "Crete", "sub_label": "Heraklion", "lineid": 16, "uuid": "bf7bf2c9-fd7d-4de8-a02f-6260e6c310de"}
+{"sub_uri": "Q1530", "obj_uri": "Q796", "obj_label": "Iraq", "sub_label": "Baghdad", "lineid": 17, "uuid": "0ad56ea4-5444-4b66-bb07-4f83fd79c765"}
+{"sub_uri": "Q23436", "obj_uri": "Q22", "obj_label": "Scotland", "sub_label": "Edinburgh", "lineid": 18, "uuid": "8d4a029b-b692-4113-adcc-1afe3a89f246"}
+{"sub_uri": "Q5838", "obj_uri": "Q889", "obj_label": "Afghanistan", "sub_label": "Kabul", "lineid": 19, "uuid": "d157e30d-58f9-4bb9-a4e2-5fd32bf6c0b8"}
+{"sub_uri": "Q586", "obj_uri": "Q183", "obj_label": "Germany", "sub_label": "Bonn", "lineid": 20, "uuid": "d52525c0-32a0-48e6-a2a0-597242cc59d9"}
+{"sub_uri": "Q64", "obj_uri": "Q183", "obj_label": "Germany", "sub_label": "Berlin", "lineid": 21, "uuid": "54b96082-7dbf-4aae-91d9-2c6a1b76b89d"}
+{"sub_uri": "Q3799", "obj_uri": "Q962", "obj_label": "Benin", "sub_label": "Porto-Novo", "lineid": 22, "uuid": "93f5e8fb-e07c-4cd0-aff8-0e56df53e9e8"}
+{"sub_uri": "Q3919", "obj_uri": "Q963", "obj_label": "Botswana", "sub_label": "Gaborone", "lineid": 23, "uuid": "be4de44f-9400-4bdd-a0f2-10a0c978efba"}
+{"sub_uri": "Q90", "obj_uri": "Q142", "obj_label": "France", "sub_label": "Paris", "lineid": 24, "uuid": "64382688-c74e-46b5-adc4-e1a1f7e9187d"}
+{"sub_uri": "Q1156", "obj_uri": "Q1191", "obj_label": "Maharashtra", "sub_label": "Mumbai", "lineid": 25, "uuid": "165a39d5-61dc-4073-b3db-3f44dd5dc4e5"}
+{"sub_uri": "Q585", "obj_uri": "Q20", "obj_label": "Norway", "sub_label": "Oslo", "lineid": 26, "uuid": "bd2099d4-cc25-4f7c-833e-0b325ee34f32"}
+{"sub_uri": "Q1218", "obj_uri": "Q48685", "obj_label": "Judah", "sub_label": "Jerusalem", "lineid": 27, "uuid": "b916b6f7-2656-402e-8bab-b8e028d51e88"}
+{"sub_uri": "Q9361", "obj_uri": "Q813", "obj_label": "Kyrgyzstan", "sub_label": "Bishkek", "lineid": 28, "uuid": "31f19093-cde8-4702-8a82-dd40b9df5c2c"}
+{"sub_uri": "Q19660", "obj_uri": "Q218", "obj_label": "Romania", "sub_label": "Bucharest", "lineid": 29, "uuid": "662f9787-321e-4e27-964c-30af89c21339"}
+{"sub_uri": "Q3141", "obj_uri": "Q36687", "obj_label": "Victoria", "sub_label": "Melbourne", "lineid": 30, "uuid": "cec4a889-3d2d-40bf-8ea3-9a4c68bb5e2e"}
+{"sub_uri": "Q956", "obj_uri": "Q865", "obj_label": "Taiwan", "sub_label": "Beijing", "lineid": 31, "uuid": "95aae87a-8c8e-4df9-8a41-e761168a8b41"}
+{"sub_uri": "Q11725", "obj_uri": "Q865", "obj_label": "Taiwan", "sub_label": "Chongqing", "lineid": 32, "uuid": "84504d57-e865-44ba-a712-217fa32e3515"}
+{"sub_uri": "Q1563", "obj_uri": "Q241", "obj_label": "Cuba", "sub_label": "Havana", "lineid": 33, "uuid": "65e70460-45d0-4a71-ba9a-c0e329f03512"}
+{"sub_uri": "Q16554", "obj_uri": "Q1261", "obj_label": "Colorado", "sub_label": "Denver", "lineid": 34, "uuid": "34d6ea3e-31f4-4d39-abbb-f669052099dd"}
+{"sub_uri": "Q2449", "obj_uri": "Q1045", "obj_label": "Somalia", "sub_label": "Mogadishu", "lineid": 35, "uuid": "2bfc1636-837b-4167-aa0a-13cc5ac48c3c"}
+{"sub_uri": "Q10690", "obj_uri": "Q25", "obj_label": "Wales", "sub_label": "Cardiff", "lineid": 36, "uuid": "04d596a8-1e1e-43b6-a8b1-2503f6f3517a"}
+{"sub_uri": "Q1761", "obj_uri": "Q27", "obj_label": "Ireland", "sub_label": "Dublin", "lineid": 37, "uuid": "d6d8e9b6-aaee-4479-a2c0-afb6738445d4"}
+{"sub_uri": "Q3572", "obj_uri": "Q948", "obj_label": "Tunisia", "sub_label": "Tunis", "lineid": 38, "uuid": "efb26d07-0610-4584-b99d-a55fddd92400"}
+{"sub_uri": "Q8678", "obj_uri": "Q155", "obj_label": "Brazil", "sub_label": "Rio de Janeiro", "lineid": 39, "uuid": "50eb21e8-ba23-44b6-9ed5-d2075d1e7924"}
+{"sub_uri": "Q23800", "obj_uri": "Q233", "obj_label": "Malta", "sub_label": "Valletta", "lineid": 40, "uuid": "7ae89a3f-2314-4215-86bb-73657f21cc08"}
+{"sub_uri": "Q84", "obj_uri": "Q21", "obj_label": "England", "sub_label": "London", "lineid": 41, "uuid": "ceb88081-ddd3-4dc5-8a76-e0609c2d7ddb"}
+{"sub_uri": "Q3551", "obj_uri": "Q1028", "obj_label": "Morocco", "sub_label": "Rabat", "lineid": 42, "uuid": "1a630dfb-adc2-47c6-9f3d-e9f06f7f0fa8"}
+{"sub_uri": "Q1773", "obj_uri": "Q211", "obj_label": "Latvia", "sub_label": "Riga", "lineid": 43, "uuid": "5b32adf8-f1d2-4e56-81cf-62dd352abaae"}
+{"sub_uri": "Q3766", "obj_uri": "Q858", "obj_label": "Syria", "sub_label": "Damascus", "lineid": 44, "uuid": "724c16a2-f987-4cbe-b920-d5bf53489a25"}
+{"sub_uri": "Q1960", "obj_uri": "Q924", "obj_label": "Tanzania", "sub_label": "Dar es Salaam", "lineid": 45, "uuid": "754f08b6-0ed3-429e-ab13-399f4813eaba"}
+{"sub_uri": "Q84", "obj_uri": "Q179876", "obj_label": "Kingdom of England", "sub_label": "London", "lineid": 46, "uuid": "3c892062-83e0-4eb8-a885-b00e2d034ad6"}
+{"sub_uri": "Q1754", "obj_uri": "Q34", "obj_label": "Sweden", "sub_label": "Stockholm", "lineid": 47, "uuid": "41036d7a-2302-43f0-afbb-9ac364a9bc62"}
+{"sub_uri": "Q1757", "obj_uri": "Q33", "obj_label": "Finland", "sub_label": "Helsinki", "lineid": 48, "uuid": "58b5ec79-a84e-4241-83c1-ac5f39349b24"}
+{"sub_uri": "Q1085", "obj_uri": "Q39193", "obj_label": "Bohemia", "sub_label": "Prague", "lineid": 49, "uuid": "c95a704a-03b2-4f19-8130-cbcd84883445"}
+{"sub_uri": "Q6346", "obj_uri": "Q1415", "obj_label": "Indiana", "sub_label": "Indianapolis", "lineid": 50, "uuid": "8bd89120-4752-453c-ad94-56ee75b7702e"}
+{"sub_uri": "Q2807", "obj_uri": "Q29", "obj_label": "Spain", "sub_label": "Madrid", "lineid": 51, "uuid": "171050a8-8762-42e9-be5a-a8d4e434d975"}
+{"sub_uri": "Q1555", "obj_uri": "Q774", "obj_label": "Guatemala", "sub_label": "Guatemala City", "lineid": 52, "uuid": "5780c031-5588-4edb-986f-ccc0acda699d"}
+{"sub_uri": "Q270", "obj_uri": "Q36", "obj_label": "Poland", "sub_label": "Warsaw", "lineid": 53, "uuid": "6908a745-7446-4627-b605-8e4e61afdae9"}
+{"sub_uri": "Q16572", "obj_uri": "Q15175", "obj_label": "Guangdong", "sub_label": "Guangzhou", "lineid": 54, "uuid": "b48f8bd2-e9d0-4dab-b590-7bf8909b7ddc"}
+{"sub_uri": "Q1731", "obj_uri": "Q1202", "obj_label": "Saxony", "sub_label": "Dresden", "lineid": 55, "uuid": "dbdf3f95-6027-47b0-94ea-75a4f0c6cbd3"}
+{"sub_uri": "Q34261", "obj_uri": "Q790", "obj_label": "Haiti", "sub_label": "Port-au-Prince", "lineid": 56, "uuid": "e7361d74-e6f5-4e3a-b8df-aeb54afe4d0e"}
+{"sub_uri": "Q1524", "obj_uri": "Q41", "obj_label": "Greece", "sub_label": "Athens", "lineid": 57, "uuid": "4c78068f-8f0e-42e2-8824-c912281a97a8"}
+{"sub_uri": "Q40191", "obj_uri": "Q34366", "obj_label": "Tasmania", "sub_label": "Hobart", "lineid": 58, "uuid": "5aca61ae-87de-40ae-af4c-7f86fe97c0bb"}
+{"sub_uri": "Q1770", "obj_uri": "Q191", "obj_label": "Estonia", "sub_label": "Tallinn", "lineid": 59, "uuid": "0964f32c-6208-4d53-8998-f95c263ae9b5"}
+{"sub_uri": "Q1490", "obj_uri": "Q17", "obj_label": "Japan", "sub_label": "Tokyo", "lineid": 60, "uuid": "f647c983-3d47-4f4e-ba13-e0a007217c0f"}
+{"sub_uri": "Q1741", "obj_uri": "Q40", "obj_label": "Austria", "sub_label": "Vienna", "lineid": 61, "uuid": "5c9398c3-31fa-4d5f-b1c6-a033abee1ad0"}
+{"sub_uri": "Q437", "obj_uri": "Q215", "obj_label": "Slovenia", "sub_label": "Ljubljana", "lineid": 62, "uuid": "db41bfb6-104c-4fc2-92e4-4fdd6ead9f26"}
+{"sub_uri": "Q1218", "obj_uri": "Q801", "obj_label": "Israel", "sub_label": "Jerusalem", "lineid": 63, "uuid": "ea28be56-a778-401a-926a-a46f8f090122"}
+{"sub_uri": "Q3630", "obj_uri": "Q252", "obj_label": "Indonesia", "sub_label": "Jakarta", "lineid": 64, "uuid": "bf493b58-3fae-4bc5-9982-0a01a625b902"}
+{"sub_uri": "Q495", "obj_uri": "Q1216", "obj_label": "Piedmont", "sub_label": "Turin", "lineid": 65, "uuid": "86e8a0b6-ab6f-48a4-889f-6ad6a760c487"}
+{"sub_uri": "Q3870", "obj_uri": "Q114", "obj_label": "Kenya", "sub_label": "Nairobi", "lineid": 66, "uuid": "e85730f1-abdd-4af6-9533-8ecb96420262"}
+{"sub_uri": "Q1865", "obj_uri": "Q833", "obj_label": "Malaysia", "sub_label": "Kuala Lumpur", "lineid": 67, "uuid": "0e45e622-5e2d-401c-82aa-f178f595a77e"}
+{"sub_uri": "Q1362", "obj_uri": "Q843", "obj_label": "Pakistan", "sub_label": "Islamabad", "lineid": 68, "uuid": "b50fbe82-4822-49ec-951b-29c95c554b43"}
+{"sub_uri": "Q3037", "obj_uri": "Q837", "obj_label": "Nepal", "sub_label": "Kathmandu", "lineid": 69, "uuid": "e4909529-5e56-4788-a9bf-94a04134d976"}
+{"sub_uri": "Q1963", "obj_uri": "Q1049", "obj_label": "Sudan", "sub_label": "Khartoum", "lineid": 70, "uuid": "372d1155-dd30-426a-b0b3-3d19af1ad071"}
+{"sub_uri": "Q216", "obj_uri": "Q37", "obj_label": "Lithuania", "sub_label": "Vilnius", "lineid": 71, "uuid": "0c6396cb-066f-427b-8701-31d4a9ec38a5"}
+{"sub_uri": "Q3820", "obj_uri": "Q822", "obj_label": "Lebanon", "sub_label": "Beirut", "lineid": 72, "uuid": "f1e30257-10e3-4381-83cf-5fe21411f89b"}
+{"sub_uri": "Q597", "obj_uri": "Q45", "obj_label": "Portugal", "sub_label": "Lisbon", "lineid": 73, "uuid": "51dd5c10-24d3-4776-aa9d-9e2e36b92530"}
+{"sub_uri": "Q3897", "obj_uri": "Q916", "obj_label": "Angola", "sub_label": "Luanda", "lineid": 74, "uuid": "c623450e-f9ad-4385-9158-0ac04be1d9c3"}
+{"sub_uri": "Q649", "obj_uri": "Q159", "obj_label": "Russia", "sub_label": "Moscow", "lineid": 75, "uuid": "f176bb18-52d1-45da-b337-7e1fce2ae2b9"}
+{"sub_uri": "Q2135", "obj_uri": "Q1948", "obj_label": "Manitoba", "sub_label": "Winnipeg", "lineid": 76, "uuid": "93f1d304-e29b-453a-9133-1537cc8134d1"}
+{"sub_uri": "Q3876", "obj_uri": "Q1020", "obj_label": "Malawi", "sub_label": "Lilongwe", "lineid": 77, "uuid": "7a857415-a903-426c-bf33-ecdb82c3f782"}
+{"sub_uri": "Q1489", "obj_uri": "Q96", "obj_label": "Mexico", "sub_label": "Mexico City", "lineid": 78, "uuid": "526a9dfa-18dc-4e70-b6d2-78e96209cdc9"}
+{"sub_uri": "Q3889", "obj_uri": "Q1029", "obj_label": "Mozambique", "sub_label": "Maputo", "lineid": 79, "uuid": "da6a31ba-d376-4bbc-bdcf-a54ba1be7fd7"}
+{"sub_uri": "Q100", "obj_uri": "Q771", "obj_label": "Massachusetts", "sub_label": "Boston", "lineid": 80, "uuid": "54d84ff0-eff4-4283-a0ba-48d5da314e2b"}
+{"sub_uri": "Q1930", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Ottawa", "lineid": 81, "uuid": "cccc691f-644c-40ce-b13b-827e5457082c"}
+{"sub_uri": "Q1335", "obj_uri": "Q77", "obj_label": "Uruguay", "sub_label": "Montevideo", "lineid": 82, "uuid": "a949eed2-4ff2-4c83-a809-dcfaabe9ec3b"}
+{"sub_uri": "Q3882", "obj_uri": "Q398", "obj_label": "Bahrain", "sub_label": "Manama", "lineid": 83, "uuid": "19791398-f82c-46cc-abc7-199d078480b1"}
+{"sub_uri": "Q1355", "obj_uri": "Q1185", "obj_label": "Karnataka", "sub_label": "Bengaluru", "lineid": 84, "uuid": "1a5a2739-3559-46ad-8394-26a540296513"}
+{"sub_uri": "Q1781", "obj_uri": "Q28", "obj_label": "Hungary", "sub_label": "Budapest", "lineid": 85, "uuid": "da779178-4cfe-4995-92cc-4af2a3254631"}
+{"sub_uri": "Q3238", "obj_uri": "Q783", "obj_label": "Honduras", "sub_label": "Tegucigalpa", "lineid": 86, "uuid": "a95c84a7-678d-44ee-8cab-831a20cf26dd"}
+{"sub_uri": "Q11910", "obj_uri": "Q1061", "obj_label": "Gujarat", "sub_label": "Gandhinagar", "lineid": 87, "uuid": "5ce28ec0-d893-447f-90ed-2788ddb9277a"}
+{"sub_uri": "Q23564", "obj_uri": "Q236", "obj_label": "Montenegro", "sub_label": "Podgorica", "lineid": 88, "uuid": "b21c9b82-91be-413d-a99a-1cbdf47005e8"}
+{"sub_uri": "Q172", "obj_uri": "Q1904", "obj_label": "Ontario", "sub_label": "Toronto", "lineid": 89, "uuid": "d4c1bd0c-a6e6-42f7-8b56-815f0ab7b911"}
+{"sub_uri": "Q3306", "obj_uri": "Q804", "obj_label": "Panama", "sub_label": "Panama City", "lineid": 90, "uuid": "b1d0e05a-13cd-42b2-9e7b-4faee309eb86"}
+{"sub_uri": "Q3718", "obj_uri": "Q1041", "obj_label": "Senegal", "sub_label": "Dakar", "lineid": 91, "uuid": "b2a3444a-3ae1-43f0-847b-4a9687e8bc05"}
+{"sub_uri": "Q8673", "obj_uri": "Q1033", "obj_label": "Nigeria", "sub_label": "Lagos", "lineid": 92, "uuid": "4faa929a-a320-4dbd-a780-7903b8a288fc"}
+{"sub_uri": "Q1861", "obj_uri": "Q869", "obj_label": "Thailand", "sub_label": "Bangkok", "lineid": 93, "uuid": "3697439c-a305-4ad4-8a0c-c50145c38ee1"}
+{"sub_uri": "Q2887", "obj_uri": "Q298", "obj_label": "Chile", "sub_label": "Santiago", "lineid": 94, "uuid": "b2a69b49-6419-4f89-9a99-fb12cbb0637c"}
+{"sub_uri": "Q987", "obj_uri": "Q668", "obj_label": "India", "sub_label": "New Delhi", "lineid": 95, "uuid": "259d790d-9456-41bf-8a01-8102b92d2585"}
+{"sub_uri": "Q3711", "obj_uri": "Q403", "obj_label": "Serbia", "sub_label": "Belgrade", "lineid": 96, "uuid": "35c3fb1f-b17d-4a1c-92a9-e003eb62c849"}
+{"sub_uri": "Q1897", "obj_uri": "Q1462", "obj_label": "Sardinia", "sub_label": "Cagliari", "lineid": 97, "uuid": "9fb9b949-000b-4976-957a-470abbe3d8d5"}
+{"sub_uri": "Q1533", "obj_uri": "Q717", "obj_label": "Venezuela", "sub_label": "Caracas", "lineid": 98, "uuid": "8ed6b973-7a95-4737-9f15-a3e303ea183e"}
+{"sub_uri": "Q3856", "obj_uri": "Q229", "obj_label": "Cyprus", "sub_label": "Nicosia", "lineid": 99, "uuid": "aad8959f-fe68-42bd-87b0-3531f5e906ba"}
+{"sub_uri": "Q1899", "obj_uri": "Q212", "obj_label": "Ukraine", "sub_label": "Kiev", "lineid": 100, "uuid": "3fb3fb54-6d96-4d70-9881-b2d04bc3f129"}
+{"sub_uri": "Q1867", "obj_uri": "Q865", "obj_label": "Taiwan", "sub_label": "Taipei", "lineid": 101, "uuid": "ba0fbf3d-02d7-4c1e-859d-a63fae40bde1"}
+{"sub_uri": "Q3787", "obj_uri": "Q1033", "obj_label": "Nigeria", "sub_label": "Abuja", "lineid": 102, "uuid": "f71cc42e-561e-4abb-ac38-6e8933c6341d"}
+{"sub_uri": "Q472", "obj_uri": "Q219", "obj_label": "Bulgaria", "sub_label": "Sofia", "lineid": 103, "uuid": "e572fe3e-24bc-4b73-9f1e-922f855b04d3"}
+{"sub_uri": "Q23337", "obj_uri": "Q829", "obj_label": "Utah", "sub_label": "Salt Lake City", "lineid": 104, "uuid": "b963dd3b-6bc1-4c33-b490-40ff891c04d2"}
+{"sub_uri": "Q2656", "obj_uri": "Q1460", "obj_label": "Sicily", "sub_label": "Palermo", "lineid": 105, "uuid": "8f020e0a-d899-4969-8413-9071f685140d"}
+{"sub_uri": "Q3616", "obj_uri": "Q794", "obj_label": "Iran", "sub_label": "Tehran", "lineid": 106, "uuid": "dcca8592-0d59-497a-870d-14c31fa969e5"}
+{"sub_uri": "Q2145", "obj_uri": "Q176", "obj_label": "Quebec", "sub_label": "Quebec City", "lineid": 107, "uuid": "bc69f25f-6947-4901-b878-b10c27a0977d"}
+{"sub_uri": "Q1085", "obj_uri": "Q33946", "obj_label": "Czechoslovakia", "sub_label": "Prague", "lineid": 108, "uuid": "4cd08979-7e6e-4a1a-b0f5-f93be795ff29"}
+{"sub_uri": "Q1354", "obj_uri": "Q902", "obj_label": "Bangladesh", "sub_label": "Dhaka", "lineid": 109, "uuid": "297c3f6b-ca54-4607-a35f-f7b16d12247b"}
+{"sub_uri": "Q34932", "obj_uri": "Q36074", "obj_label": "Queensland", "sub_label": "Brisbane", "lineid": 110, "uuid": "f8ff7f16-ad98-4356-b044-127f58a6d313"}
+{"sub_uri": "Q3921", "obj_uri": "Q954", "obj_label": "Zimbabwe", "sub_label": "Harare", "lineid": 111, "uuid": "cbbb2ff1-ad42-4526-a513-e5a9f179f83f"}
+{"sub_uri": "Q47465", "obj_uri": "Q101081", "obj_label": "Provence", "sub_label": "Aix-en-Provence", "lineid": 112, "uuid": "a06f04ab-04d6-4325-9ad9-6c727137cf14"}
+{"sub_uri": "Q3748", "obj_uri": "Q1014", "obj_label": "Liberia", "sub_label": "Monrovia", "lineid": 113, "uuid": "402deb32-5637-48a1-933a-0c0d09d6bcf0"}
+{"sub_uri": "Q70", "obj_uri": "Q39", "obj_label": "Switzerland", "sub_label": "Bern", "lineid": 114, "uuid": "f840eeb2-57cb-4dc7-9515-f8f8347bf480"}
+{"sub_uri": "Q3624", "obj_uri": "Q115", "obj_label": "Ethiopia", "sub_label": "Addis Ababa", "lineid": 115, "uuid": "4aea180d-846d-48e0-8934-e1ea5f2db5b0"}
+{"sub_uri": "Q1435", "obj_uri": "Q224", "obj_label": "Croatia", "sub_label": "Zagreb", "lineid": 116, "uuid": "52e3105a-c8e4-4138-8864-a9f354dce6fb"}
+{"sub_uri": "Q1850", "obj_uri": "Q424", "obj_label": "Cambodia", "sub_label": "Phnom Penh", "lineid": 117, "uuid": "875b0acc-5d0c-4348-9d89-9b6297ea7e50"}
+{"sub_uri": "Q9365", "obj_uri": "Q863", "obj_label": "Tajikistan", "sub_label": "Dushanbe", "lineid": 118, "uuid": "8d48de85-e7f5-4ae7-a190-531730f46adb"}
+{"sub_uri": "Q28237", "obj_uri": "Q1166", "obj_label": "Michigan", "sub_label": "Lansing", "lineid": 119, "uuid": "169ec73c-4693-4deb-8203-25c6765d8603"}
+{"sub_uri": "Q220445", "obj_uri": "Q170462", "obj_label": "Sarawak", "sub_label": "Kuching", "lineid": 120, "uuid": "3fd9ca30-63ca-49f6-9a2e-4bc323da579c"}
+{"sub_uri": "Q1461", "obj_uri": "Q928", "obj_label": "Philippines", "sub_label": "Manila", "lineid": 121, "uuid": "10a45342-3687-4efa-9b4d-47e2f5a076fb"}
+{"sub_uri": "Q189960", "obj_uri": "Q179876", "obj_label": "Kingdom of England", "sub_label": "Westminster", "lineid": 122, "uuid": "c1ebe4fe-7dc1-4bf3-b603-d0bf5f324b82"}
+{"sub_uri": "Q2900", "obj_uri": "Q736", "obj_label": "Ecuador", "sub_label": "Quito", "lineid": 123, "uuid": "8245db0c-ae54-4378-861f-a2efef8ac075"}
+{"sub_uri": "Q83065", "obj_uri": "Q23106", "obj_label": "Leicestershire", "sub_label": "Leicester", "lineid": 124, "uuid": "112d7fac-e422-487f-8a3e-6080106fa862"}
+{"sub_uri": "Q182852", "obj_uri": "Q43194", "obj_label": "Yunnan", "sub_label": "Kunming", "lineid": 125, "uuid": "1323cd03-0a6b-4e3b-b21d-e7b0896ee899"}
+{"sub_uri": "Q3274", "obj_uri": "Q811", "obj_label": "Nicaragua", "sub_label": "Managua", "lineid": 126, "uuid": "9807a8f5-9864-40ee-a977-6ae8cd4d7521"}
+{"sub_uri": "Q549761", "obj_uri": "Q23140", "obj_label": "Warwickshire", "sub_label": "Warwick", "lineid": 127, "uuid": "22f4ccdb-449f-477d-8d76-1edc7751aa51"}
+{"sub_uri": "Q2907", "obj_uri": "Q750", "obj_label": "Bolivia", "sub_label": "Sucre", "lineid": 128, "uuid": "70860dc1-ec14-4ecb-bf41-a2b590472514"}
+{"sub_uri": "Q18094", "obj_uri": "Q782", "obj_label": "Hawaii", "sub_label": "Honolulu", "lineid": 129, "uuid": "65ea5c88-5f63-475a-9611-4fcaf7b38e0e"}
+{"sub_uri": "Q9326", "obj_uri": "Q819", "obj_label": "Laos", "sub_label": "Vientiane", "lineid": 130, "uuid": "2c86fe62-2f04-42b3-a526-c7b8d71efaef"}
+{"sub_uri": "Q30002", "obj_uri": "Q19770", "obj_label": "Sichuan", "sub_label": "Chengdu", "lineid": 131, "uuid": "248fc063-38e2-4da7-bbad-0d543ae1365b"}
+{"sub_uri": "Q10305", "obj_uri": "Q4040", "obj_label": "Aragon", "sub_label": "Zaragoza", "lineid": 132, "uuid": "bc1e921c-4a84-4601-907d-b2009f3a8ebf"}
+{"sub_uri": "Q213474", "obj_uri": "Q23229", "obj_label": "Buckinghamshire", "sub_label": "Aylesbury", "lineid": 133, "uuid": "65095eb9-7369-46db-a986-9c6c1b2040a6"}
+{"sub_uri": "Q34217", "obj_uri": "Q23169", "obj_label": "Oxfordshire", "sub_label": "Oxford", "lineid": 134, "uuid": "c9b0f6fe-e2c0-427e-8926-4029f1f0f79c"}
+{"sub_uri": "Q43433", "obj_uri": "Q1174", "obj_label": "Haryana", "sub_label": "Chandigarh", "lineid": 135, "uuid": "9e4c167e-d726-4e74-97e9-55577d992115"}
+{"sub_uri": "Q3674", "obj_uri": "Q1032", "obj_label": "Niger", "sub_label": "Niamey", "lineid": 136, "uuid": "b7a8b88e-ebec-4640-ae93-5d80d0d16eaf"}
+{"sub_uri": "Q16666", "obj_uri": "Q865", "obj_label": "Taiwan", "sub_label": "Nanjing", "lineid": 137, "uuid": "34272060-c5d2-423e-abc1-9b9e83159104"}
+{"sub_uri": "Q3861", "obj_uri": "Q846", "obj_label": "Qatar", "sub_label": "Doha", "lineid": 138, "uuid": "3587b10f-ff43-44e1-960b-2f86e1bfe01e"}
+{"sub_uri": "Q3921", "obj_uri": "Q217169", "obj_label": "Rhodesia", "sub_label": "Harare", "lineid": 139, "uuid": "7634ecf7-1ea6-426f-af78-3adb29997067"}
+{"sub_uri": "Q36260", "obj_uri": "Q683", "obj_label": "Samoa", "sub_label": "Apia", "lineid": 140, "uuid": "011d65d9-c85b-471a-9cf3-34c3d34e16d7"}
+{"sub_uri": "Q1780", "obj_uri": "Q214", "obj_label": "Slovakia", "sub_label": "Bratislava", "lineid": 141, "uuid": "0d2a4c61-f051-463b-b2e5-07bbe7d28fdb"}
+{"sub_uri": "Q137271", "obj_uri": "Q179029", "obj_label": "Sabah", "sub_label": "Kota Kinabalu", "lineid": 142, "uuid": "cfe3c323-a7c9-4515-ba0f-eaf84e6df08b"}
+{"sub_uri": "Q269", "obj_uri": "Q265", "obj_label": "Uzbekistan", "sub_label": "Tashkent", "lineid": 143, "uuid": "ce04e079-7917-44d4-ab6d-5d439fa6c7f2"}
+{"sub_uri": "Q3866", "obj_uri": "Q924", "obj_label": "Tanzania", "sub_label": "Dodoma", "lineid": 144, "uuid": "017c487a-06a5-4d50-8da1-39ad3340b9f3"}
+{"sub_uri": "Q19689", "obj_uri": "Q222", "obj_label": "Albania", "sub_label": "Tirana", "lineid": 145, "uuid": "5690bd63-d7e7-4efc-bcf3-e5f272f22c72"}
+{"sub_uri": "Q3894", "obj_uri": "Q1036", "obj_label": "Uganda", "sub_label": "Kampala", "lineid": 146, "uuid": "106ee750-98c9-46e2-ac38-43796ab3a95c"}
+{"sub_uri": "Q1858", "obj_uri": "Q881", "obj_label": "Vietnam", "sub_label": "Hanoi", "lineid": 147, "uuid": "38755e15-0da4-453c-b912-f96192f7161e"}
+{"sub_uri": "Q131694", "obj_uri": "Q805", "obj_label": "Yemen", "sub_label": "Aden", "lineid": 148, "uuid": "3c9503af-3e4b-45cc-ac4a-fe97b1acf171"}
+{"sub_uri": "Q3881", "obj_uri": "Q953", "obj_label": "Zambia", "sub_label": "Lusaka", "lineid": 149, "uuid": "ab95f2db-7994-491f-a057-3fb9c45bd4a1"}
+{"sub_uri": "Q1953", "obj_uri": "Q399", "obj_label": "Armenia", "sub_label": "Yerevan", "lineid": 150, "uuid": "2391f90a-8e24-4237-a6ea-d989539ca9f5"}
+{"sub_uri": "Q35178", "obj_uri": "Q817", "obj_label": "Kuwait", "sub_label": "Kuwait City", "lineid": 151, "uuid": "4a702136-b54b-42e5-9bae-a087cc1824f5"}
+{"sub_uri": "Q3929", "obj_uri": "Q1027", "obj_label": "Mauritius", "sub_label": "Port Louis", "lineid": 152, "uuid": "5f0b546f-df18-4f5d-918c-368ce8fe233d"}
+{"sub_uri": "Q3761", "obj_uri": "Q117", "obj_label": "Ghana", "sub_label": "Accra", "lineid": 153, "uuid": "0e2f9ea3-ca1a-4ad0-9502-1f9fdcaf5674"}
+{"sub_uri": "Q66485", "obj_uri": "Q1437", "obj_label": "Rajasthan", "sub_label": "Jaipur", "lineid": 154, "uuid": "f1d5dcec-065f-4f20-aa34-8a402666839f"}
+{"sub_uri": "Q2280", "obj_uri": "Q184", "obj_label": "Belarus", "sub_label": "Minsk", "lineid": 155, "uuid": "0ee1962a-67de-46bd-b6f5-03d84d978e22"}
+{"sub_uri": "Q39709", "obj_uri": "Q1546", "obj_label": "Iowa", "sub_label": "Des Moines", "lineid": 156, "uuid": "1192eac3-2643-4bda-b6a5-e5caec18dc44"}
+{"sub_uri": "Q80484", "obj_uri": "Q1165", "obj_label": "Bihar", "sub_label": "Patna", "lineid": 157, "uuid": "8d127488-98a3-4231-a94c-f8363acf39a9"}
+{"sub_uri": "Q28218", "obj_uri": "Q1588", "obj_label": "Louisiana", "sub_label": "Baton Rouge", "lineid": 158, "uuid": "7c327d04-d85b-4dee-9405-da1dcd265a55"}
+{"sub_uri": "Q7568", "obj_uri": "Q252", "obj_label": "Indonesia", "sub_label": "Yogyakarta", "lineid": 159, "uuid": "69a7d16f-495c-4262-addd-b27d8f0629c4"}
+{"sub_uri": "Q1520", "obj_uri": "Q232", "obj_label": "Kazakhstan", "sub_label": "Nur-Sultan", "lineid": 160, "uuid": "77deb735-c6bc-4ed9-b5a3-2377338efbc5"}
+{"sub_uri": "Q1721", "obj_uri": "Q1199", "obj_label": "Hesse", "sub_label": "Wiesbaden", "lineid": 161, "uuid": "c56838b6-c380-4b67-97eb-478edce14c15"}
+{"sub_uri": "Q7003", "obj_uri": "Q1173", "obj_label": "Burgundy", "sub_label": "Dijon", "lineid": 162, "uuid": "e1937c0d-8972-46b7-9eaf-20529102f763"}
+{"sub_uri": "Q30974", "obj_uri": "Q15878", "obj_label": "Normandy", "sub_label": "Rouen", "lineid": 163, "uuid": "b0dd2d05-80ed-4b5f-abb8-599b44116f9c"}
+{"sub_uri": "Q34863", "obj_uri": "Q1649", "obj_label": "Oklahoma", "sub_label": "Oklahoma City", "lineid": 164, "uuid": "e2cd61c9-6811-4a7b-a488-e983382517c7"}
+{"sub_uri": "Q1024647", "obj_uri": "Q815913", "obj_label": "Lagos", "sub_label": "Ikeja", "lineid": 165, "uuid": "b285caa3-026f-43ad-a35d-86d94eb8b7b4"}
+{"sub_uri": "Q33405", "obj_uri": "Q1612", "obj_label": "Arkansas", "sub_label": "Little Rock", "lineid": 166, "uuid": "3fdd2718-6c4f-4243-84ce-120318210871"}
+{"sub_uri": "Q3659", "obj_uri": "Q657", "obj_label": "Chad", "sub_label": "N'Djamena", "lineid": 167, "uuid": "03248b32-09a8-48d0-9c5f-7e8b633b50e7"}
+{"sub_uri": "Q3805", "obj_uri": "Q810", "obj_label": "Jordan", "sub_label": "Amman", "lineid": 168, "uuid": "dc7df479-0535-4957-8df8-71eeed04ad2e"}
+{"sub_uri": "Q167715", "obj_uri": "Q1186", "obj_label": "Kerala", "sub_label": "Thiruvananthapuram", "lineid": 169, "uuid": "6fbbd471-e8df-49f8-ac68-56222b4bd7a9"}
+{"sub_uri": "Q36168", "obj_uri": "Q244", "obj_label": "Barbados", "sub_label": "Bridgetown", "lineid": 170, "uuid": "c40466b9-6149-4abd-bcfe-a968fa25b991"}
+{"sub_uri": "Q612", "obj_uri": "Q613", "obj_label": "Emirates of Dubai", "sub_label": "Dubai", "lineid": 171, "uuid": "75376028-33a3-456b-ac8a-8af97fbaf267"}
+{"sub_uri": "Q1711", "obj_uri": "Q1208", "obj_label": "Brandenburg", "sub_label": "Potsdam", "lineid": 172, "uuid": "c8c462d9-b4b8-491b-bad8-eca4967443c3"}
+{"sub_uri": "Q3915", "obj_uri": "Q1019", "obj_label": "Madagascar", "sub_label": "Antananarivo", "lineid": 173, "uuid": "78e73af4-a150-498e-b81a-48d3f5abcf28"}
+{"sub_uri": "Q3703", "obj_uri": "Q912", "obj_label": "Mali", "sub_label": "Bamako", "lineid": 174, "uuid": "cfb630e1-7106-40af-af62-9c073def9423"}
+{"sub_uri": "Q28271", "obj_uri": "Q1391", "obj_label": "Maryland", "sub_label": "Annapolis", "lineid": 175, "uuid": "308a8e03-99d3-47f7-99a6-7fa3c0b0244e"}
+{"sub_uri": "Q1361", "obj_uri": "Q677037", "obj_label": "Telangana", "sub_label": "Hyderabad", "lineid": 176, "uuid": "c8a39c0d-d0aa-4261-903d-4259d5b8d782"}
+{"sub_uri": "Q43433", "obj_uri": "Q22424", "obj_label": "Punjab", "sub_label": "Chandigarh", "lineid": 177, "uuid": "c9968752-7ec7-4987-a27e-b1977b3556e2"}
+{"sub_uri": "Q133069", "obj_uri": "Q3083", "obj_label": "Ain", "sub_label": "Bourg-en-Bresse", "lineid": 178, "uuid": "c2743454-27ca-4564-af51-a903d8979837"}
+{"sub_uri": "Q38807", "obj_uri": "Q712", "obj_label": "Fiji", "sub_label": "Suva", "lineid": 179, "uuid": "c32324b2-bc21-436a-b3a9-7c7372d136d5"}
+{"sub_uri": "Q25280", "obj_uri": "Q1400", "obj_label": "Pennsylvania", "sub_label": "Harrisburg", "lineid": 180, "uuid": "6ec8971e-83a1-497a-b8e6-ae407c0e3da4"}
+{"sub_uri": "Q2471", "obj_uri": "Q805", "obj_label": "Yemen", "sub_label": "Sana'a", "lineid": 181, "uuid": "c65742dc-7a20-454e-a808-aa034fae6f56"}
+{"sub_uri": "Q214681", "obj_uri": "Q1171", "obj_label": "Goa", "sub_label": "Panjim", "lineid": 182, "uuid": "f6579b9c-3a65-4203-9923-5c5e5afdfab2"}
+{"sub_uri": "Q9279", "obj_uri": "Q921", "obj_label": "Brunei", "sub_label": "Bandar Seri Begawan", "lineid": 183, "uuid": "48479789-0e30-46c1-863f-75bc6a166b17"}
+{"sub_uri": "Q39042", "obj_uri": "Q1214", "obj_label": "Wyoming", "sub_label": "Cheyenne", "lineid": 184, "uuid": "857361ec-1717-4f2f-9120-cdb288527abd"}
+{"sub_uri": "Q10282", "obj_uri": "Q4018", "obj_label": "Navarre", "sub_label": "Pamplona", "lineid": 185, "uuid": "e58a197c-dcfc-405e-bd47-ac1dcf2dcb59"}
+{"sub_uri": "Q3825", "obj_uri": "Q1000", "obj_label": "Gabon", "sub_label": "Libreville", "lineid": 186, "uuid": "bc535f6c-ded0-4e19-90e2-c1520de9fa8e"}
+{"sub_uri": "Q25270", "obj_uri": "Q1246", "obj_label": "Kosovo", "sub_label": "Pristina", "lineid": 187, "uuid": "6a95c600-0c18-4572-9a76-3b1edbf2a47b"}
+{"sub_uri": "Q226", "obj_uri": "Q223", "obj_label": "Greenland", "sub_label": "Nuuk", "lineid": 188, "uuid": "3bc671ed-24f4-4a2f-a060-a3a5f7f4836e"}
+{"sub_uri": "Q1467", "obj_uri": "Q13786", "obj_label": "Cebu", "sub_label": "Cebu City", "lineid": 189, "uuid": "6c30b2a2-9a3b-41e6-a843-75101decc01a"}
+{"sub_uri": "Q172157", "obj_uri": "Q179876", "obj_label": "Kingdom of England", "sub_label": "Winchester", "lineid": 190, "uuid": "83fe23c4-d227-4a56-b1db-4f038d602764"}
+{"sub_uri": "Q3711", "obj_uri": "Q36704", "obj_label": "Yugoslavia", "sub_label": "Belgrade", "lineid": 191, "uuid": "8de6b005-416e-4ee2-a819-0b4f50f66f00"}
+{"sub_uri": "Q33486", "obj_uri": "Q779", "obj_label": "Connecticut", "sub_label": "Hartford", "lineid": 192, "uuid": "6708f62d-cafd-41e5-b79f-b0338f37a10b"}
+{"sub_uri": "Q2868", "obj_uri": "Q419", "obj_label": "Peru", "sub_label": "Lima", "lineid": 193, "uuid": "123e4c9f-1d8a-4b3e-98f1-0feaa3abaecf"}
+{"sub_uri": "Q3733", "obj_uri": "Q1006", "obj_label": "Guinea", "sub_label": "Conakry", "lineid": 194, "uuid": "ce4f99d2-4579-4bac-a885-be81c28901bb"}
+{"sub_uri": "Q695631", "obj_uri": "Q191174", "obj_label": "Miranda", "sub_label": "Los Teques", "lineid": 195, "uuid": "d6041ca9-95b4-4635-8874-d07e903ec635"}
+{"sub_uri": "Q29445", "obj_uri": "Q797", "obj_label": "Alaska", "sub_label": "Juneau", "lineid": 196, "uuid": "6029a09b-f8ad-499b-9dbb-0a6b469d68a1"}
+{"sub_uri": "Q3043", "obj_uri": "Q242", "obj_label": "Belize", "sub_label": "Belmopan", "lineid": 197, "uuid": "d1b50e0b-23f6-40a7-b54d-cdd0de510c8f"}
+{"sub_uri": "Q5617890", "obj_uri": "Q8660", "obj_label": "Karachi", "sub_label": "Gulshan Town", "lineid": 198, "uuid": "d01e689a-bcfb-434d-a0d9-c5872aedf19b"}
+{"sub_uri": "Q1002052", "obj_uri": "Q211795", "obj_label": "Lima", "sub_label": "Huacho", "lineid": 199, "uuid": "e9bb9d40-301e-4f46-9022-12c5f617ad98"}
+{"sub_uri": "Q18013", "obj_uri": "Q99", "obj_label": "California", "sub_label": "Sacramento", "lineid": 200, "uuid": "83753c5d-7113-496f-9284-d0a60269029c"}
+{"sub_uri": "Q23311", "obj_uri": "Q179876", "obj_label": "Kingdom of England", "sub_label": "City of London", "lineid": 201, "uuid": "32adb275-88f1-4772-877f-97514d588d37"}
+{"sub_uri": "Q3859", "obj_uri": "Q1037", "obj_label": "Rwanda", "sub_label": "Kigali", "lineid": 202, "uuid": "95ff4f5a-6b7d-4562-b43b-2bfab8180d32"}
+{"sub_uri": "Q239", "obj_uri": "Q31", "obj_label": "Belgium", "sub_label": "Brussels", "lineid": 203, "uuid": "ed845645-df29-476d-be36-3dd41d226daf"}
+{"sub_uri": "Q9270", "obj_uri": "Q917", "obj_label": "Bhutan", "sub_label": "Thimphu", "lineid": 204, "uuid": "abe38263-d17d-484a-af1c-0a87b2f6399e"}
+{"sub_uri": "Q1726", "obj_uri": "Q10544", "obj_label": "Munich", "sub_label": "Munich", "lineid": 205, "uuid": "03d91505-7301-410f-a444-732eb923dcbd"}
+{"sub_uri": "Q7248", "obj_uri": "Q252", "obj_label": "Indonesia", "sub_label": "Bukittinggi", "lineid": 206, "uuid": "93f33466-6dd9-40f0-bbb5-d22fe7f348c5"}
+{"sub_uri": "Q5838", "obj_uri": "Q188933", "obj_label": "Kabul", "sub_label": "Kabul", "lineid": 207, "uuid": "46f718d1-352d-4b17-b1f4-fe46b0b7bfe9"}
+{"sub_uri": "Q202337", "obj_uri": "Q41", "obj_label": "Greece", "sub_label": "Nauplion", "lineid": 208, "uuid": "e0b8df9a-a04d-475d-830d-382479fadc67"}
+{"sub_uri": "Q993851", "obj_uri": "Q844528", "obj_label": "Centre", "sub_label": "Hinche", "lineid": 209, "uuid": "59727158-b8c0-48e4-afb1-c74d630ff0a1"}
+{"sub_uri": "Q174665", "obj_uri": "Q45868", "obj_label": "Alba", "sub_label": "Alba Iulia", "lineid": 210, "uuid": "b61fed0a-b961-4ac5-b4fb-fed7411872f4"}
+{"sub_uri": "Q35775", "obj_uri": "Q1221", "obj_label": "Idaho", "sub_label": "Boise", "lineid": 211, "uuid": "d60102b9-4bf5-49f2-8e05-a1c4effbb989"}
+{"sub_uri": "Q312209", "obj_uri": "Q607499", "obj_label": "Southwest", "sub_label": "Buea", "lineid": 212, "uuid": "199d135b-1844-445d-8a62-f13e141b5986"}
+{"sub_uri": "Q23197", "obj_uri": "Q1509", "obj_label": "Tennessee", "sub_label": "Nashville", "lineid": 213, "uuid": "4f929c21-fd7d-44e8-93c5-1c97b97b242b"}
+{"sub_uri": "Q675960", "obj_uri": "Q1126", "obj_label": "Luxembourg", "sub_label": "Arlon", "lineid": 214, "uuid": "977ebc20-c985-43fb-9586-7c343051fa71"}
+{"sub_uri": "Q34713", "obj_uri": "Q43325", "obj_label": "Salzburg", "sub_label": "Salzburg", "lineid": 215, "uuid": "c7373931-2caa-47e3-a9d0-fce65686f8be"}
+{"sub_uri": "Q27860", "obj_uri": "Q5095", "obj_label": "Papua", "sub_label": "Jayapura", "lineid": 216, "uuid": "6a6499a5-d106-473e-a2e3-61cfdf2cb016"}
+{"sub_uri": "Q16559", "obj_uri": "Q1439", "obj_label": "Texas", "sub_label": "Austin", "lineid": 217, "uuid": "4faa9851-d239-484a-8ab1-2294b40cb013"}
+{"sub_uri": "Q28848", "obj_uri": "Q1527", "obj_label": "Minnesota", "sub_label": "Saint Paul", "lineid": 218, "uuid": "3e5000c2-e45c-4489-9074-9814507eae95"}
+{"sub_uri": "Q3826", "obj_uri": "Q842", "obj_label": "Oman", "sub_label": "Muscat", "lineid": 219, "uuid": "5df770ac-f7d3-458c-8792-89f0bb09d96e"}
+{"sub_uri": "Q657734", "obj_uri": "Q845168", "obj_label": "East Region", "sub_label": "Bertoua", "lineid": 220, "uuid": "a4858560-ffc3-4127-902c-c6b5e402401a"}
+{"sub_uri": "Q799808", "obj_uri": "Q165784", "obj_label": "West Region", "sub_label": "Bafoussam", "lineid": 221, "uuid": "6df2229d-75c2-4cab-a12d-0ec4d428e307"}
+{"sub_uri": "Q37043", "obj_uri": "Q812", "obj_label": "Florida", "sub_label": "Tallahassee", "lineid": 222, "uuid": "51c1ad82-3a63-41ca-9e0b-152ff72b7b1b"}
+{"sub_uri": "Q994", "obj_uri": "Q230", "obj_label": "Georgia", "sub_label": "Tbilisi", "lineid": 223, "uuid": "d2ee773c-0e7b-4391-b880-8dcb1396b8d3"}
+{"sub_uri": "Q213916", "obj_uri": "Q83958", "obj_label": "Macedonia", "sub_label": "Vergina", "lineid": 224, "uuid": "ef28c908-98a1-46a9-9428-35bc9f9c0083"}
+{"sub_uri": "Q239", "obj_uri": "Q234", "obj_label": "Flanders", "sub_label": "Brussels", "lineid": 225, "uuid": "1455b578-1a8a-4112-bd6b-fe176f67bb4d"}
+{"sub_uri": "Q219117", "obj_uri": "Q1020", "obj_label": "Malawi", "sub_label": "Zomba", "lineid": 226, "uuid": "8b22e354-d72c-44f0-b7ce-92b9d6f6b056"}
+{"sub_uri": "Q818284", "obj_uri": "Q319965", "obj_label": "Unity", "sub_label": "Bentiu", "lineid": 227, "uuid": "55b89480-f9ad-4bec-8e56-dc9e302d14b8"}
+{"sub_uri": "Q168225", "obj_uri": "Q48685", "obj_label": "Judah", "sub_label": "Hebron", "lineid": 228, "uuid": "64eba19f-f56a-4497-aa57-e73cc3fc0998"}
+{"sub_uri": "Q648", "obj_uri": "Q12661", "obj_label": "Nord", "sub_label": "Lille", "lineid": 229, "uuid": "874a6e53-234e-478d-ba54-620e8b6c7b0b"}
+{"sub_uri": "Q41057", "obj_uri": "Q1558", "obj_label": "Kansas", "sub_label": "Topeka", "lineid": 230, "uuid": "4f63162e-7c75-40a3-87f6-0734ab0ba5ed"}
+{"sub_uri": "Q607336", "obj_uri": "Q491096", "obj_label": "Lakes", "sub_label": "Rumbek", "lineid": 231, "uuid": "2833a02d-797f-49c2-b52b-d0063bc63f85"}
+{"sub_uri": "Q331556", "obj_uri": "Q729170", "obj_label": "Bari", "sub_label": "Bosaso", "lineid": 232, "uuid": "bb6a1272-2685-4f03-a7f8-13399c01746f"}
+{"sub_uri": "Q14314", "obj_uri": "Q3908", "obj_label": "Galicia", "sub_label": "Santiago de Compostela", "lineid": 233, "uuid": "fffcf7fa-d1ec-4f55-b5ac-2291e9c1d54b"}

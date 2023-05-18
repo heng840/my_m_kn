@@ -1,0 +1,703 @@
+{"sub_uri": "Q227", "obj_uri": "Q9248", "obj_label": "Baku", "sub_label": "Azerbaijan", "lineid": 0, "uuid": "cb7007d9-673f-4fa5-8308-ddf2ae28b8c2"}
+{"sub_uri": "Q2599799", "obj_uri": "Q465104", "obj_label": "Brody", "sub_label": "Brody Raion", "lineid": 1, "uuid": "0994628e-262a-40cd-96f6-578358f299b9"}
+{"sub_uri": "Q108418", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_label": "Cook County", "lineid": 2, "uuid": "4168a6fb-d710-4678-93f9-9447927a0a35"}
+{"sub_uri": "Q26895", "obj_uri": "Q961272", "obj_label": "Richmond", "sub_label": "Fort Bend County", "lineid": 3, "uuid": "9e0027e7-1efc-4d79-a8c0-1a3ed0e8a00a"}
+{"sub_uri": "Q115182", "obj_uri": "Q225519", "obj_label": "Auburn", "sub_label": "Cayuga County", "lineid": 4, "uuid": "b2b50148-a91a-4aa9-9936-13ae0212afa9"}
+{"sub_uri": "Q1539297", "obj_uri": "Q1026964", "obj_label": "Windsor", "sub_label": "City of Hawkesbury", "lineid": 5, "uuid": "dc8d5e48-7be1-47a0-ab82-da3642dba53f"}
+{"sub_uri": "Q18677983", "obj_uri": "Q6602", "obj_label": "Strasbourg", "sub_label": "Grand Est", "lineid": 6, "uuid": "2df52b5c-d16d-4517-9df2-913fee016efa"}
+{"sub_uri": "Q177562", "obj_uri": "Q80517", "obj_label": "Shreveport", "sub_label": "Caddo Parish", "lineid": 7, "uuid": "454ec3b3-01a1-4044-aa21-78d96ec169e7"}
+{"sub_uri": "Q1553", "obj_uri": "Q28260", "obj_label": "Lincoln", "sub_label": "Nebraska", "lineid": 8, "uuid": "3bc51dee-0ae6-40ba-863f-5549382dd210"}
+{"sub_uri": "Q23204", "obj_uri": "Q172157", "obj_label": "Winchester", "sub_label": "Hampshire", "lineid": 9, "uuid": "475ea259-014d-42d0-8a86-e3431f52b6a8"}
+{"sub_uri": "Q29943", "obj_uri": "Q87", "obj_label": "Alexandria", "sub_label": "Alexandria Governorate", "lineid": 10, "uuid": "6be22d11-8eb8-4fc5-a882-509f2a697a8e"}
+{"sub_uri": "Q606287", "obj_uri": "Q35381", "obj_label": "Colombo", "sub_label": "Colombo District", "lineid": 11, "uuid": "0e0afe8f-d4be-4c94-aa3e-889a36d6e512"}
+{"sub_uri": "Q172579", "obj_uri": "Q2044", "obj_label": "Florence", "sub_label": "Kingdom of Italy", "lineid": 12, "uuid": "6e0942fa-96c8-4a07-b72e-83519b16db11"}
+{"sub_uri": "Q62633", "obj_uri": "Q1757", "obj_label": "Helsinki", "sub_label": "Grand Duchy of Finland", "lineid": 13, "uuid": "af4d8d27-eee5-47a2-9fff-055e3cb98298"}
+{"sub_uri": "Q677037", "obj_uri": "Q1361", "obj_label": "Hyderabad", "sub_label": "Telangana", "lineid": 14, "uuid": "484a9394-c718-46b4-aa57-85ccb91a48c5"}
+{"sub_uri": "Q1094110", "obj_uri": "Q192896", "obj_label": "Carlisle", "sub_label": "City of Carlisle", "lineid": 15, "uuid": "074fd4a8-66ab-4b78-ae5f-b77fa9b82662"}
+{"sub_uri": "Q35715", "obj_uri": "Q5112", "obj_label": "Adelaide", "sub_label": "South Australia", "lineid": 16, "uuid": "9180a17d-1d35-4065-8397-2043009c3d6a"}
+{"sub_uri": "Q230791", "obj_uri": "Q23436", "obj_label": "Edinburgh", "sub_label": "Kingdom of Scotland", "lineid": 17, "uuid": "c648e8a9-e84c-4a5d-abc1-9ba3bf122762"}
+{"sub_uri": "Q207272", "obj_uri": "Q270", "obj_label": "Warsaw", "sub_label": "Second Polish Republic", "lineid": 18, "uuid": "441512f3-e1ed-4fea-a959-8128db18fc31"}
+{"sub_uri": "Q1850485", "obj_uri": "Q1354", "obj_label": "Dhaka", "sub_label": "Dhaka District", "lineid": 19, "uuid": "9a81130b-85b7-432e-aa89-80db6479faec"}
+{"sub_uri": "Q2630442", "obj_uri": "Q649", "obj_label": "Moscow", "sub_label": "Reichskommissariat Moskowien", "lineid": 20, "uuid": "3b3d2078-18e9-457e-a318-1ece5f03c57d"}
+{"sub_uri": "Q491843", "obj_uri": "Q2739403", "obj_label": "Jackson", "sub_label": "Breathitt County", "lineid": 21, "uuid": "626194d7-b4c0-4c0d-9576-fa049c85d6b2"}
+{"sub_uri": "Q490386", "obj_uri": "Q966428", "obj_label": "Hermann", "sub_label": "Gasconade County", "lineid": 22, "uuid": "7e1c50f8-327a-479c-893a-8e125a64b718"}
+{"sub_uri": "Q657004", "obj_uri": "Q79990", "obj_label": "Christchurch", "sub_label": "Canterbury Region", "lineid": 23, "uuid": "e3a4d929-e59a-4764-8b47-0d88e79bcbbe"}
+{"sub_uri": "Q70972", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Kingdom of France", "lineid": 24, "uuid": "f1a67e10-9770-4621-95ed-68ab0e921f4e"}
+{"sub_uri": "Q694594", "obj_uri": "Q6949", "obj_label": "Stade", "sub_label": "ducat de Bremen", "lineid": 25, "uuid": "1cf60588-b75b-4907-9c4a-0a0fd49128e7"}
+{"sub_uri": "Q1951", "obj_uri": "Q2096", "obj_label": "Edmonton", "sub_label": "Alberta", "lineid": 26, "uuid": "b29289d1-a758-43f2-9561-773f8c1d9efb"}
+{"sub_uri": "Q485588", "obj_uri": "Q755420", "obj_label": "Athens", "sub_label": "Athens County", "lineid": 27, "uuid": "d2e7322d-6af5-40eb-8c6f-3bf3bfeacf6e"}
+{"sub_uri": "Q55095", "obj_uri": "Q235", "obj_label": "Monaco", "sub_label": "La Condamine", "lineid": 28, "uuid": "81ad99cc-6d5e-48aa-ab8a-8cd91fdec383"}
+{"sub_uri": "Q61138", "obj_uri": "Q79446", "obj_label": "Camden", "sub_label": "Ouachita County", "lineid": 29, "uuid": "88cb7951-a602-4add-89ad-55ea4d0ed62e"}
+{"sub_uri": "Q183", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Germany", "lineid": 30, "uuid": "aa0c6755-5881-4892-8e12-e817868a3b62"}
+{"sub_uri": "Q139670", "obj_uri": "Q1953", "obj_label": "Yerevan", "sub_label": "First Republic of Armenia", "lineid": 31, "uuid": "d9fd3835-c870-4ed3-a45e-d410a09562fd"}
+{"sub_uri": "Q189912", "obj_uri": "Q36405", "obj_label": "Aberdeen", "sub_label": "Aberdeenshire", "lineid": 32, "uuid": "53141b1b-c5a9-402c-8ec8-2c70e0e8c8e8"}
+{"sub_uri": "Q1415", "obj_uri": "Q6346", "obj_label": "Indianapolis", "sub_label": "Indiana", "lineid": 33, "uuid": "1b17d731-b749-4cb9-946f-74fc77525144"}
+{"sub_uri": "Q502880", "obj_uri": "Q893055", "obj_label": "Boone", "sub_label": "Watauga County", "lineid": 34, "uuid": "7db1a7d5-ea73-42d9-a33c-126bebe57f78"}
+{"sub_uri": "Q11876909", "obj_uri": "Q36947", "obj_label": "Salvador", "sub_label": "State of Brazil", "lineid": 35, "uuid": "52b246db-fa40-46b3-aac8-25c677c7bb88"}
+{"sub_uri": "Q498024", "obj_uri": "Q847596", "obj_label": "Pontiac", "sub_label": "Oakland County", "lineid": 36, "uuid": "5dcb6002-af6e-4d0f-8e5d-b1e38069a5c3"}
+{"sub_uri": "Q71092", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Second French Empire", "lineid": 37, "uuid": "2b9bae59-f465-4ec8-acb5-e80a7902f605"}
+{"sub_uri": "Q312731", "obj_uri": "Q675576", "obj_label": "Pueblo", "sub_label": "Pueblo County", "lineid": 38, "uuid": "f30356c9-8809-4e64-9129-6c8a664bea03"}
+{"sub_uri": "Q373650", "obj_uri": "Q1353", "obj_label": "Delhi", "sub_label": "Sur Empire", "lineid": 39, "uuid": "85419c95-cf82-4517-8e7d-11251e3e6f7e"}
+{"sub_uri": "Q23112", "obj_uri": "Q350", "obj_label": "Cambridge", "sub_label": "Cambridgeshire", "lineid": 40, "uuid": "04929e30-b18b-4327-82fd-e8884a9f7439"}
+{"sub_uri": "Q505018", "obj_uri": "Q2167", "obj_label": "Lund", "sub_label": "Lund Municipality", "lineid": 41, "uuid": "aa7f9891-03ee-4c2e-ab21-c5a13fc756fc"}
+{"sub_uri": "Q504397", "obj_uri": "Q153183", "obj_label": "Graham", "sub_label": "Alamance County", "lineid": 42, "uuid": "2f9fbd1f-724d-42a7-8cb3-cf8375510fb1"}
+{"sub_uri": "Q781165", "obj_uri": "Q1016139", "obj_label": "Lebanon", "sub_label": "Lebanon County", "lineid": 43, "uuid": "ccc9a762-de21-466c-8eb9-4c1f2de2b6eb"}
+{"sub_uri": "Q502294", "obj_uri": "Q37836", "obj_label": "Milwaukee", "sub_label": "Milwaukee County", "lineid": 44, "uuid": "3ad55021-763e-46f9-8e6d-a896c45b0dea"}
+{"sub_uri": "Q135330", "obj_uri": "Q2018815", "obj_label": "Steele", "sub_label": "Kidder County", "lineid": 45, "uuid": "db9898c5-23a7-4503-be29-d649285b4bb6"}
+{"sub_uri": "Q188586", "obj_uri": "Q2634", "obj_label": "Naples", "sub_label": "Kingdom of Sicily", "lineid": 46, "uuid": "cc150ae1-2ddf-424b-abf4-c9357dad89d9"}
+{"sub_uri": "Q917682", "obj_uri": "Q34932", "obj_label": "Brisbane", "sub_label": "City of Brisbane", "lineid": 47, "uuid": "edff4979-af40-492f-9e41-81d67d021f82"}
+{"sub_uri": "Q12556", "obj_uri": "Q288", "obj_label": "Tours", "sub_label": "Indre-et-Loire", "lineid": 48, "uuid": "a79e1291-895f-4def-bf7f-fb7bb3ec6994"}
+{"sub_uri": "Q118903", "obj_uri": "Q216", "obj_label": "Vilnius", "sub_label": "Vilnius District Municipality", "lineid": 49, "uuid": "58cbee65-2667-4e88-86b4-636bde59d467"}
+{"sub_uri": "Q918126", "obj_uri": "Q10717", "obj_label": "Georgetown", "sub_label": "British Guiana", "lineid": 50, "uuid": "1e1d04e5-b42b-4fa8-9eac-8dbba1a4dab6"}
+{"sub_uri": "Q814959", "obj_uri": "Q956", "obj_label": "Beijing", "sub_label": "Beiyang Government", "lineid": 51, "uuid": "f5506c74-292a-405a-839e-30612e384a50"}
+{"sub_uri": "Q1447", "obj_uri": "Q3519", "obj_label": "Bari", "sub_label": "Apulia", "lineid": 52, "uuid": "c7d8163f-6cf8-4175-be3d-e56f8a22e93f"}
+{"sub_uri": "Q699923", "obj_uri": "Q437", "obj_label": "Ljubljana", "sub_label": "Illyrian Provinces", "lineid": 53, "uuid": "99a3d6ad-9ed4-4985-8a07-ef0903cb5732"}
+{"sub_uri": "Q1114", "obj_uri": "Q1296", "obj_label": "Ghent", "sub_label": "East Flanders", "lineid": 54, "uuid": "412b8748-0d98-43b5-a3aa-b1d5369d041c"}
+{"sub_uri": "Q35", "obj_uri": "Q1748", "obj_label": "Copenhagen", "sub_label": "Denmark", "lineid": 55, "uuid": "861d0c34-67d4-4ab2-a57e-755438146ad8"}
+{"sub_uri": "Q1166", "obj_uri": "Q28237", "obj_label": "Lansing", "sub_label": "Michigan", "lineid": 56, "uuid": "002f6abd-2104-416e-a444-1a923b3a3839"}
+{"sub_uri": "Q16665915", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Metropolis of Greater Paris", "lineid": 57, "uuid": "9c0cb520-22ee-455e-aa6d-6ad48326f1bc"}
+{"sub_uri": "Q494129", "obj_uri": "Q241808", "obj_label": "Huntington", "sub_label": "Cabell County", "lineid": 58, "uuid": "87bc68ce-8e97-4110-9af9-9c4eaee3e891"}
+{"sub_uri": "Q180114", "obj_uri": "Q85", "obj_label": "Cairo", "sub_label": "Ayyubid dynasty", "lineid": 59, "uuid": "288e997c-9531-450d-9ddb-13e17889c295"}
+{"sub_uri": "Q157367", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Brandenburg-Prussia", "lineid": 60, "uuid": "205b82c6-1d90-40c0-a07d-732024a7482a"}
+{"sub_uri": "Q12490507", "obj_uri": "Q35484", "obj_label": "Medina", "sub_label": "Rashidun Caliphates", "lineid": 61, "uuid": "bb2918d1-10f3-458e-9ac9-432fe72044c9"}
+{"sub_uri": "Q217838", "obj_uri": "Q182923", "obj_label": "Stirling", "sub_label": "Stirling", "lineid": 62, "uuid": "b3200997-74ed-4efa-99d2-c0f46be76d7c"}
+{"sub_uri": "Q23105", "obj_uri": "Q826782", "obj_label": "Stafford", "sub_label": "Staffordshire", "lineid": 63, "uuid": "51d8687a-c539-418f-bef6-3ba6cf9e4757"}
+{"sub_uri": "Q205662", "obj_uri": "Q215646", "obj_label": "Edo", "sub_label": "Tokugawa Shogunate", "lineid": 64, "uuid": "a931aed4-7829-44d7-b3e7-4ddebacd7e99"}
+{"sub_uri": "Q112456", "obj_uri": "Q944375", "obj_label": "Liberty", "sub_label": "Amite County", "lineid": 65, "uuid": "efe6bfac-4690-460f-b643-8729962ef8a3"}
+{"sub_uri": "Q15864", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_label": "United Kingdom of the Netherlands", "lineid": 66, "uuid": "ebdfb03a-8017-43af-bba3-50dd9cdca3b3"}
+{"sub_uri": "Q282475", "obj_uri": "Q994", "obj_label": "Tbilisi", "sub_label": "Kingdom of Kartli-Kakheti", "lineid": 67, "uuid": "ae847f08-7fe9-4537-b3ca-1abfc5717145"}
+{"sub_uri": "Q15180", "obj_uri": "Q649", "obj_label": "Moscow", "sub_label": "Soviet Union", "lineid": 68, "uuid": "d6fafc6b-6cb0-4542-bf60-48d5d8343814"}
+{"sub_uri": "Q486007", "obj_uri": "Q487439", "obj_label": "Oral", "sub_label": "West Kazakhstan Region", "lineid": 69, "uuid": "7bef13ca-4831-4e13-83b2-e25de8fbbcc9"}
+{"sub_uri": "Q203493", "obj_uri": "Q19660", "obj_label": "Bucharest", "sub_label": "Kingdom of Romania", "lineid": 70, "uuid": "175d07ee-75d7-4de7-9659-ca6d79501f9e"}
+{"sub_uri": "Q34366", "obj_uri": "Q40191", "obj_label": "Hobart", "sub_label": "Tasmania", "lineid": 71, "uuid": "f96afb16-1b86-439b-b073-72d7fe9eb84e"}
+{"sub_uri": "Q54440", "obj_uri": "Q28249", "obj_label": "Concord", "sub_label": "Merrimack County", "lineid": 72, "uuid": "f1f9426a-4e34-4540-a04e-f1634144c08b"}
+{"sub_uri": "Q178283", "obj_uri": "Q133315", "obj_label": "Limerick", "sub_label": "County Limerick", "lineid": 73, "uuid": "627da52a-6265-4109-8a4a-6e0eb8c7e9ed"}
+{"sub_uri": "Q160307", "obj_uri": "Q85", "obj_label": "Cairo", "sub_label": "Fatimid caliphate", "lineid": 74, "uuid": "9cae43a0-a4ce-4d0d-bde0-597ce4e675f9"}
+{"sub_uri": "Q726917", "obj_uri": "Q37100", "obj_label": "Auckland", "sub_label": "Auckland Region", "lineid": 75, "uuid": "0df90e06-cb29-4f2f-97c8-27a3891cd014"}
+{"sub_uri": "Q759", "obj_uri": "Q28249", "obj_label": "Concord", "sub_label": "New Hampshire", "lineid": 76, "uuid": "4d6baed8-446a-43d1-8439-9ddc6505575d"}
+{"sub_uri": "Q171852", "obj_uri": "Q1874", "obj_label": "Odessa", "sub_label": "Odessa Oblast", "lineid": 77, "uuid": "c1a95036-acb4-40dd-b227-fda918ef7d5c"}
+{"sub_uri": "Q2484819", "obj_uri": "Q168954", "obj_label": "Tripoli", "sub_label": "Tripoli District", "lineid": 78, "uuid": "e738ee4b-139b-438e-89df-de4506a67216"}
+{"sub_uri": "Q408", "obj_uri": "Q3114", "obj_label": "Canberra", "sub_label": "Australia", "lineid": 79, "uuid": "63a3fe8d-5191-49af-a5c1-a91343baf2e6"}
+{"sub_uri": "Q189592", "obj_uri": "Q609235", "obj_label": "Antrim", "sub_label": "County Antrim", "lineid": 80, "uuid": "b9444d09-c8db-4ccb-9d5b-614e09f90747"}
+{"sub_uri": "Q493228", "obj_uri": "Q1006641", "obj_label": "Republic", "sub_label": "Ferry County", "lineid": 81, "uuid": "fd682389-abc3-44a7-83e2-644f1899ac41"}
+{"sub_uri": "Q12560", "obj_uri": "Q406", "obj_label": "Istanbul", "sub_label": "Ottoman Empire", "lineid": 82, "uuid": "7aa410cc-2f21-4a57-b39a-329968d07a82"}
+{"sub_uri": "Q58683", "obj_uri": "Q691583", "obj_label": "Clifton", "sub_label": "Greenlee County", "lineid": 83, "uuid": "d143b35c-c53f-4a7a-81e7-e36f99825a85"}
+{"sub_uri": "Q180231", "obj_uri": "Q109092", "obj_label": "Kilkenny", "sub_label": "County Kilkenny", "lineid": 84, "uuid": "dcc0fbfe-bc71-47bf-893f-2408ddee21c4"}
+{"sub_uri": "Q2379199", "obj_uri": "Q23436", "obj_label": "Edinburgh", "sub_label": "City of Edinburgh", "lineid": 85, "uuid": "f00968b7-a739-44ca-89b4-e8a14db0d0e1"}
+{"sub_uri": "Q48026", "obj_uri": "Q23154", "obj_label": "Bristol", "sub_label": "South West England", "lineid": 86, "uuid": "7082e5f5-ec5c-42b1-af4a-82850bb9b4de"}
+{"sub_uri": "Q878319", "obj_uri": "Q3711", "obj_label": "Belgrade", "sub_label": "Serbian Despotate", "lineid": 87, "uuid": "106f4fe4-38ad-491c-abe3-514785570f7b"}
+{"sub_uri": "Q1439", "obj_uri": "Q16559", "obj_label": "Austin", "sub_label": "Texas", "lineid": 88, "uuid": "ebbc8828-f162-4037-a827-ba8681b2a434"}
+{"sub_uri": "Q178897", "obj_uri": "Q16869", "obj_label": "Constantinople", "sub_label": "Latin Empire", "lineid": 89, "uuid": "c050f5bd-6d03-4708-b13c-69fdbcde2b19"}
+{"sub_uri": "Q512925", "obj_uri": "Q79849", "obj_label": "Palmer", "sub_label": "Matanuska-Susitna Borough", "lineid": 90, "uuid": "c7925099-04a2-4c9a-be9a-5e944ba62645"}
+{"sub_uri": "Q379657", "obj_uri": "Q958555", "obj_label": "Hutchinson", "sub_label": "Reno County", "lineid": 91, "uuid": "9f36d161-ca4a-4fd6-8361-3f99f3fca320"}
+{"sub_uri": "Q501151", "obj_uri": "Q2416565", "obj_label": "Greenville", "sub_label": "Meriwether County", "lineid": 92, "uuid": "5666a013-25ef-4031-9cdb-a9c904e9b2e7"}
+{"sub_uri": "Q28", "obj_uri": "Q1781", "obj_label": "Budapest", "sub_label": "Hungary", "lineid": 93, "uuid": "7024c125-837e-4f50-9532-bb83d22de0e2"}
+{"sub_uri": "Q496758", "obj_uri": "Q602520", "obj_label": "Hamilton", "sub_label": "Ravalli County", "lineid": 94, "uuid": "b3b98acd-9c68-44f3-8975-53b51aa2573c"}
+{"sub_uri": "Q159", "obj_uri": "Q649", "obj_label": "Moscow", "sub_label": "Russia", "lineid": 95, "uuid": "062b1ddf-9fa6-4925-8701-f3e6b1c89123"}
+{"sub_uri": "Q191075", "obj_uri": "Q1530", "obj_label": "Baghdad", "sub_label": "Baghdad Governorate", "lineid": 96, "uuid": "00778e74-5e07-49fd-8eaf-770382192a46"}
+{"sub_uri": "Q1243", "obj_uri": "Q641", "obj_label": "Venice", "sub_label": "Veneto", "lineid": 97, "uuid": "5ce977ac-2db2-4555-8a1f-b16a9419d4b1"}
+{"sub_uri": "Q490168", "obj_uri": "Q249454", "obj_label": "Cambridge", "sub_label": "Guernsey County", "lineid": 98, "uuid": "7c06e9b5-0f4e-4d91-8349-e216fa27e2af"}
+{"sub_uri": "Q48933", "obj_uri": "Q2087867", "obj_label": "Center", "sub_label": "Oliver County", "lineid": 99, "uuid": "573f5523-6a05-4dd0-a8bc-43fc2c654447"}
+{"sub_uri": "Q23135", "obj_uri": "Q1646181", "obj_label": "Worcester", "sub_label": "Worcestershire", "lineid": 100, "uuid": "81cb28d4-af32-45b8-92c8-cae3543ee833"}
+{"sub_uri": "Q188586", "obj_uri": "Q2656", "obj_label": "Palermo", "sub_label": "Kingdom of Sicily", "lineid": 101, "uuid": "795d4f36-286a-478c-bf78-0b3a7bad7866"}
+{"sub_uri": "Q1400", "obj_uri": "Q25280", "obj_label": "Harrisburg", "sub_label": "Pennsylvania", "lineid": 102, "uuid": "69cf5dd6-73a8-4a99-94a8-6dd55fc88778"}
+{"sub_uri": "Q170174", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "Papal States", "lineid": 103, "uuid": "d48a0f41-a73f-4abc-911f-60074fbc00ca"}
+{"sub_uri": "Q169923", "obj_uri": "Q129610", "obj_label": "Galway", "sub_label": "County Galway", "lineid": 104, "uuid": "53bc15f7-2c1f-4de0-abed-010b3af8d142"}
+{"sub_uri": "Q2335128", "obj_uri": "Q138311", "obj_label": "Elizabeth", "sub_label": "Province of New Jersey", "lineid": 105, "uuid": "ce7ce100-fbbc-4127-a930-399eff67220c"}
+{"sub_uri": "Q131964", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_label": "Austrian Empire", "lineid": 106, "uuid": "136745eb-10fc-45c3-94c9-fb346c4836b7"}
+{"sub_uri": "Q188161", "obj_uri": "Q3630", "obj_label": "Jakarta", "sub_label": "Dutch East Indies", "lineid": 107, "uuid": "532ecbb8-911d-4d79-88e9-3b74cb1298ed"}
+{"sub_uri": "Q801", "obj_uri": "Q1218", "obj_label": "Jerusalem", "sub_label": "Israel", "lineid": 108, "uuid": "9651e646-1cde-4cc1-b957-8077c9b31253"}
+{"sub_uri": "Q80434", "obj_uri": "Q11751", "obj_label": "Nagoya", "sub_label": "Aichi Prefecture", "lineid": 109, "uuid": "d79f5817-8eee-42a0-8da1-3bab27ca0a66"}
+{"sub_uri": "Q491954", "obj_uri": "Q758545", "obj_label": "Auburn", "sub_label": "Androscoggin County", "lineid": 110, "uuid": "3def56b3-7420-4e08-acf7-49e75c26c17c"}
+{"sub_uri": "Q497172", "obj_uri": "Q28206", "obj_label": "Augusta", "sub_label": "Kennebec County", "lineid": 111, "uuid": "e15c36a5-57fa-495e-86a9-5d061ef4d687"}
+{"sub_uri": "Q2510000", "obj_uri": "Q2132", "obj_label": "Victoria", "sub_label": "Colony of Vancouver Island", "lineid": 112, "uuid": "c9ae5471-a04f-4d04-a4a6-39da4c67bc06"}
+{"sub_uri": "Q188801", "obj_uri": "Q288781", "obj_label": "Kensington", "sub_label": "Royal Borough of Kensington and Chelsea", "lineid": 113, "uuid": "cc29b37b-cecc-4464-b23b-2c1b71b27ad2"}
+{"sub_uri": "Q23106", "obj_uri": "Q83065", "obj_label": "Leicester", "sub_label": "Leicestershire", "lineid": 114, "uuid": "c493ccf5-9020-4537-8986-94e5bb2acba6"}
+{"sub_uri": "Q2088324", "obj_uri": "Q36947", "obj_label": "Salvador", "sub_label": "Colonial Brazil", "lineid": 115, "uuid": "d406cc41-915f-4c90-87c6-c7db9711fc4d"}
+{"sub_uri": "Q108861", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_label": "King County", "lineid": 116, "uuid": "ad63c951-8fa0-4a59-81c5-73ce3ab7ad9c"}
+{"sub_uri": "Q374890", "obj_uri": "Q856841", "obj_label": "Manhattan", "sub_label": "Riley County", "lineid": 117, "uuid": "0df307c2-dce3-4810-ab68-5a4d90022406"}
+{"sub_uri": "Q334714", "obj_uri": "Q1524", "obj_label": "Athens", "sub_label": "Duchy of Athens", "lineid": 118, "uuid": "b9c1e9fe-ebb9-42db-97a6-6222dc767c38"}
+{"sub_uri": "Q29999", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_label": "Kingdom of the Netherlands", "lineid": 119, "uuid": "66b78440-4d16-41a3-852e-330fbdbd38cb"}
+{"sub_uri": "Q483982", "obj_uri": "Q39042", "obj_label": "Cheyenne", "sub_label": "Laramie County", "lineid": 120, "uuid": "2509ab98-ec43-4d6c-bbec-22eb9660ea0c"}
+{"sub_uri": "Q209142", "obj_uri": "Q4131", "obj_label": "Hamilton", "sub_label": "South Lanarkshire", "lineid": 121, "uuid": "f08810dd-265a-46c2-a489-af3675f79dcd"}
+{"sub_uri": "Q156297", "obj_uri": "Q34804", "obj_label": "Albuquerque", "sub_label": "Bernalillo County", "lineid": 122, "uuid": "9dd74794-604d-4fe9-a4e3-11bbfd67ceaa"}
+{"sub_uri": "Q491903", "obj_uri": "Q2912504", "obj_label": "Liberty", "sub_label": "Casey County", "lineid": 123, "uuid": "9e440737-00bf-467d-b1d7-8f1eaed68e65"}
+{"sub_uri": "Q834486", "obj_uri": "Q131694", "obj_label": "Aden", "sub_label": "Federation of South Arabia", "lineid": 124, "uuid": "88294eaa-80d4-4d43-8990-c8cecc659c7f"}
+{"sub_uri": "Q222", "obj_uri": "Q19689", "obj_label": "Tirana", "sub_label": "Albania", "lineid": 125, "uuid": "c31c88e9-930d-4fce-ad3f-b14138e8d788"}
+{"sub_uri": "Q58711", "obj_uri": "Q79931", "obj_label": "Prescott", "sub_label": "Yavapai County", "lineid": 126, "uuid": "92689405-9757-4ff3-821a-23a779ca74fb"}
+{"sub_uri": "Q13810", "obj_uri": "Q313802", "obj_label": "Jordan", "sub_label": "Guimaras", "lineid": 127, "uuid": "098f0d7c-4b1e-4113-82a8-14ee6af48c16"}
+{"sub_uri": "Q63729", "obj_uri": "Q989873", "obj_label": "Craig", "sub_label": "Moffat County", "lineid": 128, "uuid": "366c3e6b-d5a4-4130-be86-720c34b90121"}
+{"sub_uri": "Q16183", "obj_uri": "Q1449", "obj_label": "Genoa", "sub_label": "Province of Genoa", "lineid": 129, "uuid": "6e801e27-0557-44a7-ba66-39773a56df03"}
+{"sub_uri": "Q865", "obj_uri": "Q1867", "obj_label": "Taipei", "sub_label": "Taiwan", "lineid": 130, "uuid": "a3d669a9-4ee4-4b91-8b6c-415b84daf598"}
+{"sub_uri": "Q10544", "obj_uri": "Q1726", "obj_label": "Munich", "sub_label": "Munich", "lineid": 131, "uuid": "7a07a267-5124-4530-8e02-2ea950d6ea87"}
+{"sub_uri": "Q4689103", "obj_uri": "Q5838", "obj_label": "Kabul", "sub_label": "Transitional Islamic State of Afghanistan", "lineid": 132, "uuid": "daf43106-c663-4e32-81ad-cc3b36a0f821"}
+{"sub_uri": "Q33946", "obj_uri": "Q1085", "obj_label": "Prague", "sub_label": "Czechoslovakia", "lineid": 133, "uuid": "22f4f9d3-adca-41aa-9f17-729c1b197204"}
+{"sub_uri": "Q613", "obj_uri": "Q612", "obj_label": "Dubai", "sub_label": "Emirates of Dubai", "lineid": 134, "uuid": "f7f31274-fe40-4c41-adb2-03fe5392b084"}
+{"sub_uri": "Q28311", "obj_uri": "Q1772493", "obj_label": "Crosby", "sub_label": "Divide County", "lineid": 135, "uuid": "3e98b48d-9983-4664-88f6-088b6b280dbc"}
+{"sub_uri": "Q1207", "obj_uri": "Q37066", "obj_label": "Bismarck", "sub_label": "North Dakota", "lineid": 136, "uuid": "0e354418-d078-4ad4-aee7-fd7f6cc0831b"}
+{"sub_uri": "Q712832", "obj_uri": "Q615006", "obj_label": "Ho", "sub_label": "Volta Region", "lineid": 137, "uuid": "720d98cb-b411-4ee5-8f6e-4585121b5495"}
+{"sub_uri": "Q5783", "obj_uri": "Q8717", "obj_label": "Seville", "sub_label": "Andalusia", "lineid": 138, "uuid": "0e009711-2c42-44ab-8a4c-36ccdf48626e"}
+{"sub_uri": "Q1191", "obj_uri": "Q1156", "obj_label": "Mumbai", "sub_label": "Maharashtra", "lineid": 139, "uuid": "90e41233-fba9-4c03-a293-e82ec79b42ea"}
+{"sub_uri": "Q1185", "obj_uri": "Q1355", "obj_label": "Bengaluru", "sub_label": "Karnataka", "lineid": 140, "uuid": "554c9a0f-74d4-497a-8e17-2a0cb373497a"}
+{"sub_uri": "Q252", "obj_uri": "Q3630", "obj_label": "Jakarta", "sub_label": "Indonesia", "lineid": 141, "uuid": "ab4757db-386b-4934-ae86-561d3f84d0af"}
+{"sub_uri": "Q4264", "obj_uri": "Q1335", "obj_label": "Montevideo", "sub_label": "Mercosur", "lineid": 142, "uuid": "9f151157-f439-4c9c-b287-7612b67fa743"}
+{"sub_uri": "Q188933", "obj_uri": "Q5838", "obj_label": "Kabul", "sub_label": "Kabul", "lineid": 143, "uuid": "ec6a43f2-3ea0-4bf4-9f6b-9853e3aee700"}
+{"sub_uri": "Q153660", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "Italian Social Republic", "lineid": 144, "uuid": "e614b139-1a52-4c27-8b3c-40b783f57422"}
+{"sub_uri": "Q115551", "obj_uri": "Q670929", "obj_label": "Eagle", "sub_label": "Eagle County", "lineid": 145, "uuid": "d5df8187-69a8-453e-8266-0f123700e0e8"}
+{"sub_uri": "Q494751", "obj_uri": "Q2171593", "obj_label": "Livingston", "sub_label": "Overton County", "lineid": 146, "uuid": "75e264d4-04ee-42e4-8624-9be5681be4a2"}
+{"sub_uri": "Q153136", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_label": "Habsburg Monarchy", "lineid": 147, "uuid": "5b8dfaaf-2dd4-46dd-90fb-367b28501197"}
+{"sub_uri": "Q45", "obj_uri": "Q597", "obj_label": "Lisbon", "sub_label": "Portugal", "lineid": 148, "uuid": "4ce7e6e7-a770-47cc-a0c1-9d2ffa52a9c3"}
+{"sub_uri": "Q5765", "obj_uri": "Q8826", "obj_label": "Palma de Mallorca", "sub_label": "Balearic Islands", "lineid": 149, "uuid": "b544b239-0796-4725-a191-5dabf07f761c"}
+{"sub_uri": "Q16139", "obj_uri": "Q1891", "obj_label": "Bologna", "sub_label": "Province of Bologna", "lineid": 150, "uuid": "ff28aa4b-bec0-45df-9dc5-8eea26bebe03"}
+{"sub_uri": "Q241", "obj_uri": "Q1563", "obj_label": "Havana", "sub_label": "Cuba", "lineid": 151, "uuid": "f2f54ed4-1c4a-4302-b9b5-61f1dd5e7042"}
+{"sub_uri": "Q54929", "obj_uri": "Q5836", "obj_label": "Toledo", "sub_label": "Toledo Province", "lineid": 152, "uuid": "d36d7b57-31ef-47ca-9889-056c3e145776"}
+{"sub_uri": "Q497652", "obj_uri": "Q956256", "obj_label": "Circle", "sub_label": "McCone County", "lineid": 153, "uuid": "15b151f3-183c-44bc-aaba-26de18a3ea66"}
+{"sub_uri": "Q16275", "obj_uri": "Q2751", "obj_label": "Siena", "sub_label": "Province of Siena", "lineid": 154, "uuid": "59468f0d-0570-46ad-b1de-c06ea623c775"}
+{"sub_uri": "Q112078", "obj_uri": "Q970397", "obj_label": "Canadian", "sub_label": "Hemphill County", "lineid": 155, "uuid": "4758f222-f65d-4b17-86f8-1e9b5721cbf4"}
+{"sub_uri": "Q487704", "obj_uri": "Q18094", "obj_label": "Honolulu", "sub_label": "Honolulu County", "lineid": 156, "uuid": "eeb6ca0d-a46c-43d0-9f99-963f898c196e"}
+{"sub_uri": "Q1025962", "obj_uri": "Q189133", "obj_label": "Cairns", "sub_label": "Cairns Region", "lineid": 157, "uuid": "8a52ba13-c6e5-41f0-a2a1-10d4f1d87067"}
+{"sub_uri": "Q2277", "obj_uri": "Q16869", "obj_label": "Constantinople", "sub_label": "Roman Empire", "lineid": 158, "uuid": "b3deac49-9a98-4ca2-a576-9bdcbddcbc4a"}
+{"sub_uri": "Q109820", "obj_uri": "Q35775", "obj_label": "Boise", "sub_label": "Ada County", "lineid": 159, "uuid": "a5bd7ef1-7a94-4392-bc61-32a89e84472e"}
+{"sub_uri": "Q951713", "obj_uri": "Q704371", "obj_label": "Mackay", "sub_label": "Mackay Region", "lineid": 160, "uuid": "1826e8ad-6d5d-46d3-a4ca-ca31f13f411f"}
+{"sub_uri": "Q779", "obj_uri": "Q33486", "obj_label": "Hartford", "sub_label": "Connecticut", "lineid": 161, "uuid": "a70c1b5e-f04e-484e-a3b0-dc9e9f394882"}
+{"sub_uri": "Q22", "obj_uri": "Q23436", "obj_label": "Edinburgh", "sub_label": "Scotland", "lineid": 162, "uuid": "8e839b14-3d8c-470b-afc1-d439515910c3"}
+{"sub_uri": "Q2297724", "obj_uri": "Q3640", "obj_label": "Ankara", "sub_label": "Ankara Province", "lineid": 163, "uuid": "096712ae-16de-4f5d-b64d-ff1e90c8107d"}
+{"sub_uri": "Q487415", "obj_uri": "Q1516936", "obj_label": "Salmon", "sub_label": "Lemhi County", "lineid": 164, "uuid": "d1b56011-7d9c-4ca1-8856-e773b1b866fc"}
+{"sub_uri": "Q654380", "obj_uri": "Q5838", "obj_label": "Kabul", "sub_label": "Kabul Shahi", "lineid": 165, "uuid": "79151242-5ca0-4581-b5e6-cc59233c6867"}
+{"sub_uri": "Q184599", "obj_uri": "Q209126", "obj_label": "Wexford", "sub_label": "County Wexford", "lineid": 166, "uuid": "04b684bc-bcd7-42da-bb55-4bf22fbcf5c1"}
+{"sub_uri": "Q30805", "obj_uri": "Q85", "obj_label": "Cairo", "sub_label": "Cairo Governorate", "lineid": 167, "uuid": "2d081b94-ced9-4300-9528-2ac0fea8b9f3"}
+{"sub_uri": "Q1811029", "obj_uri": "Q1757", "obj_label": "Helsinki", "sub_label": "Finnish Socialist Workers' Republic", "lineid": 168, "uuid": "daf7a72a-a47c-4cf8-89f3-bfef79ffad9d"}
+{"sub_uri": "Q487616", "obj_uri": "Q1380484", "obj_label": "Norwich", "sub_label": "Chenango County", "lineid": 169, "uuid": "3c902f1c-8a0a-4dc1-8766-450d63cc78f8"}
+{"sub_uri": "Q1282", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "Lazio", "lineid": 170, "uuid": "8de821d7-f4f0-47c8-81de-ee10ce951dad"}
+{"sub_uri": "Q211274", "obj_uri": "Q270", "obj_label": "Warsaw", "sub_label": "Polish People's Republic", "lineid": 171, "uuid": "b006569b-8bbc-4043-b31d-420ea2fc8dc7"}
+{"sub_uri": "Q1891143", "obj_uri": "Q841979", "obj_label": "Mansfield", "sub_label": "Mansfield", "lineid": 172, "uuid": "c2c1739c-12ca-43b6-95cb-63df07849650"}
+{"sub_uri": "Q2315527", "obj_uri": "Q11739", "obj_label": "Lahore", "sub_label": "Lahore District", "lineid": 173, "uuid": "0fa986bb-5c1c-415a-b130-210a1fa2df6d"}
+{"sub_uri": "Q484300", "obj_uri": "Q955151", "obj_label": "Butler", "sub_label": "Bates County", "lineid": 174, "uuid": "326a42f8-17ba-4090-b989-9f83c017fcd3"}
+{"sub_uri": "Q12172", "obj_uri": "Q78", "obj_label": "Basel", "sub_label": "Basel-Stadt", "lineid": 175, "uuid": "f427bae8-6648-477a-be83-84d69c4aa52c"}
+{"sub_uri": "Q99", "obj_uri": "Q18013", "obj_label": "Sacramento", "sub_label": "California", "lineid": 176, "uuid": "9a110dfc-6a1e-4a37-adf9-60ee8a413ae4"}
+{"sub_uri": "Q43325", "obj_uri": "Q34713", "obj_label": "Salzburg", "sub_label": "Salzburg", "lineid": 177, "uuid": "82df8f2a-a45a-4e08-8b44-b964346d0b72"}
+{"sub_uri": "Q120730", "obj_uri": "Q34600", "obj_label": "Kyoto", "sub_label": "Ky\u014dto Prefecture", "lineid": 178, "uuid": "8892dbf0-f1a2-488d-ac86-bc6c6495cee8"}
+{"sub_uri": "Q16172", "obj_uri": "Q2044", "obj_label": "Florence", "sub_label": "Province of Florence", "lineid": 179, "uuid": "2d9b65f5-4b87-4760-ab5d-60e8cd98e925"}
+{"sub_uri": "Q6273074", "obj_uri": "Q1550922", "obj_label": "Burlington", "sub_label": "West Jersey", "lineid": 180, "uuid": "365daddb-aba4-4de7-890f-c4c8792b0099"}
+{"sub_uri": "Q796", "obj_uri": "Q1530", "obj_label": "Baghdad", "sub_label": "Iraq", "lineid": 181, "uuid": "6174d316-33a4-4851-9101-e0ba00d4e88a"}
+{"sub_uri": "Q1438", "obj_uri": "Q2634", "obj_label": "Naples", "sub_label": "Campania", "lineid": 182, "uuid": "d8a23cef-e0ce-43df-a428-bd8a9363c6bd"}
+{"sub_uri": "Q495414", "obj_uri": "Q3458928", "obj_label": "Vale", "sub_label": "Malheur County", "lineid": 183, "uuid": "60f45979-425f-428e-beb4-5bca3c935b1f"}
+{"sub_uri": "Q104285", "obj_uri": "Q7880", "obj_label": "Toulouse", "sub_label": "Occitania", "lineid": 184, "uuid": "c92d1eb6-d39d-469d-ae5f-0f234f3bdf36"}
+{"sub_uri": "Q17", "obj_uri": "Q1490", "obj_label": "Tokyo", "sub_label": "Japan", "lineid": 185, "uuid": "5d681873-ebdb-4f70-a18c-e20765b56aa5"}
+{"sub_uri": "Q842931", "obj_uri": "Q1354", "obj_label": "Dhaka", "sub_label": "East Pakistan", "lineid": 186, "uuid": "42afe993-565f-4f3b-ba08-9f32681ef20b"}
+{"sub_uri": "Q1240096", "obj_uri": "Q1361", "obj_label": "Hyderabad", "sub_label": "Hyderabad State", "lineid": 187, "uuid": "c1b6d7e4-6270-46e7-ae7c-aa4a7e0b1b2b"}
+{"sub_uri": "Q497777", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_label": "First Spanish Republic", "lineid": 188, "uuid": "c8bfe4f1-0e31-47f9-bd0d-da079912a4a7"}
+{"sub_uri": "Q468557", "obj_uri": "Q8652", "obj_label": "Miami", "sub_label": "Miami-Dade County", "lineid": 189, "uuid": "7d62cb1c-539f-414d-9878-fcdb84dcee7e"}
+{"sub_uri": "Q165352", "obj_uri": "Q171714", "obj_label": "Kerman", "sub_label": "Kerman Province", "lineid": 190, "uuid": "aea8d10f-4906-4626-8781-0951a4b605e9"}
+{"sub_uri": "Q58686", "obj_uri": "Q79823", "obj_label": "Globe", "sub_label": "Gila County", "lineid": 191, "uuid": "6f116bdf-c9c7-4b87-8a56-9c9345e4cf3a"}
+{"sub_uri": "Q55088", "obj_uri": "Q235", "obj_label": "Monaco", "sub_label": "Larvotto", "lineid": 192, "uuid": "c309176d-6f12-41dd-b056-86c5b759a989"}
+{"sub_uri": "Q1121436", "obj_uri": "Q340", "obj_label": "Montreal", "sub_label": "Province of Canada", "lineid": 193, "uuid": "601b1ee4-b32d-4a37-a344-8b4e2fc1c311"}
+{"sub_uri": "Q3139", "obj_uri": "Q33959", "obj_label": "Nice", "sub_label": "Alpes-Maritimes", "lineid": 194, "uuid": "3c997bf4-5abd-442d-953b-91accba51004"}
+{"sub_uri": "Q191", "obj_uri": "Q1770", "obj_label": "Tallinn", "sub_label": "Estonia", "lineid": 195, "uuid": "5d31145e-f946-42d6-be48-8d15b1507324"}
+{"sub_uri": "Q3206", "obj_uri": "Q3183", "obj_label": "Perth", "sub_label": "Western Australia", "lineid": 196, "uuid": "b1321783-f435-40b6-8b99-9ba1a292e8e3"}
+{"sub_uri": "Q164193", "obj_uri": "Q36036", "obj_label": "Lviv", "sub_label": "Lviv Oblast", "lineid": 197, "uuid": "dbfc2389-0cda-49c5-b001-730d08d82f2f"}
+{"sub_uri": "Q3224", "obj_uri": "Q3130", "obj_label": "Sydney", "sub_label": "New South Wales", "lineid": 198, "uuid": "7952d9a0-d4a4-423d-bd3a-3240dac62e3a"}
+{"sub_uri": "Q108111", "obj_uri": "Q49243", "obj_label": "Riverside", "sub_label": "Riverside County", "lineid": 199, "uuid": "c9855c24-a541-4672-89d8-572fd21dc81b"}
+{"sub_uri": "Q717", "obj_uri": "Q1533", "obj_label": "Caracas", "sub_label": "Venezuela", "lineid": 200, "uuid": "82a06336-ddf8-4a45-a30d-45e2201e84b7"}
+{"sub_uri": "Q1948", "obj_uri": "Q2135", "obj_label": "Winnipeg", "sub_label": "Manitoba", "lineid": 201, "uuid": "d30dab7d-a4bc-4a48-a71c-85ab68a8cb00"}
+{"sub_uri": "Q172579", "obj_uri": "Q495", "obj_label": "Turin", "sub_label": "Kingdom of Italy", "lineid": 202, "uuid": "2085653c-a317-43a2-8612-730e62be7360"}
+{"sub_uri": "Q1210", "obj_uri": "Q490", "obj_label": "Milan", "sub_label": "Lombardy", "lineid": 203, "uuid": "fd4747c1-d4d2-44c6-b97e-de6f6d6f05b0"}
+{"sub_uri": "Q794", "obj_uri": "Q3616", "obj_label": "Tehran", "sub_label": "Iran", "lineid": 204, "uuid": "e5af3a9b-a52b-499e-a356-b207ccd98aea"}
+{"sub_uri": "Q10416611", "obj_uri": "Q6343", "obj_label": "Carthage", "sub_label": "Vandal Kingdom", "lineid": 205, "uuid": "03aa8f02-b5b5-4f75-a192-0e55f93627e1"}
+{"sub_uri": "Q215443", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_label": "Swedish Empire", "lineid": 206, "uuid": "cdd86d57-43aa-47cc-8c0f-0c00ff7a4188"}
+{"sub_uri": "Q161885", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Great Britain", "lineid": 207, "uuid": "79388c35-f5dd-4de7-8d60-9eea9b711988"}
+{"sub_uri": "Q1016", "obj_uri": "Q3579", "obj_label": "Tripoli", "sub_label": "Libya", "lineid": 208, "uuid": "4ef63e37-79db-4b74-be46-8cb2628a3936"}
+{"sub_uri": "Q170770", "obj_uri": "Q649", "obj_label": "Moscow", "sub_label": "Grand Duchy of Moscow", "lineid": 209, "uuid": "3c15e4ce-b0c2-495b-ae15-388a5449f50d"}
+{"sub_uri": "Q1364541", "obj_uri": "Q184579", "obj_label": "Bolton", "sub_label": "Bolton", "lineid": 210, "uuid": "7376e1a3-959a-4173-8fec-dec0e182b527"}
+{"sub_uri": "Q3258", "obj_uri": "Q3114", "obj_label": "Canberra", "sub_label": "Australian Capital Territory", "lineid": 211, "uuid": "edbd0e18-5403-4c17-8aaf-8817d32050f4"}
+{"sub_uri": "Q956732", "obj_uri": "Q47264", "obj_label": "Hassan", "sub_label": "Hassan District", "lineid": 212, "uuid": "ed5ce210-f957-41f7-842f-705217e3e039"}
+{"sub_uri": "Q69808", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Vichy France", "lineid": 213, "uuid": "6049dc6b-889e-462b-b3e0-8ee544837654"}
+{"sub_uri": "Q139918", "obj_uri": "Q200028", "obj_label": "Hamilton", "sub_label": "Waikato Region", "lineid": 214, "uuid": "46c5cd67-fa4d-4d8c-9b91-4bebbbcbd5bb"}
+{"sub_uri": "Q12717", "obj_uri": "Q6602", "obj_label": "Strasbourg", "sub_label": "Bas-Rhin", "lineid": 215, "uuid": "858ec8d0-144d-41b9-9c29-98eb4c0580c5"}
+{"sub_uri": "Q494598", "obj_uri": "Q2405120", "obj_label": "Williamson", "sub_label": "Mingo County", "lineid": 216, "uuid": "5e6221ea-5945-483c-931f-623582152c5d"}
+{"sub_uri": "Q912777", "obj_uri": "Q37333", "obj_label": "Lublin", "sub_label": "Lublin County", "lineid": 217, "uuid": "7b64e910-e772-4c3b-ac5c-f7f9256752d5"}
+{"sub_uri": "Q188061", "obj_uri": "Q216", "obj_label": "Vilnius", "sub_label": "Vilnius County", "lineid": 218, "uuid": "6ffe6c35-7594-4613-8d01-6a4bbd205fc6"}
+{"sub_uri": "Q240", "obj_uri": "Q239", "obj_label": "Brussels", "sub_label": "Brussels region", "lineid": 219, "uuid": "0e66c015-c22c-447e-9768-3b414ec5d13a"}
+{"sub_uri": "Q1989", "obj_uri": "Q2123", "obj_label": "Regina", "sub_label": "Saskatchewan", "lineid": 220, "uuid": "2a735d72-5172-4f50-ac6a-8242b991029d"}
+{"sub_uri": "Q590866", "obj_uri": "Q3616", "obj_label": "Tehran", "sub_label": "Tehran Province", "lineid": 221, "uuid": "77e31726-6872-4f0c-a557-a62e8212f49d"}
+{"sub_uri": "Q2996231", "obj_uri": "Q1899", "obj_label": "Kiev", "sub_label": "Kiev-Sviatoshyn Raion", "lineid": 222, "uuid": "14eebbd4-ecd6-4738-9bb9-3c89cfaa243a"}
+{"sub_uri": "Q1263", "obj_uri": "Q1891", "obj_label": "Bologna", "sub_label": "Emilia-Romagna", "lineid": 223, "uuid": "4117c8a0-413d-4b7b-a1dd-78d21e5606ef"}
+{"sub_uri": "Q127861", "obj_uri": "Q85", "obj_label": "Cairo", "sub_label": "Khedivate of Egypt", "lineid": 224, "uuid": "c7f032c3-1be3-47ec-8066-0388cc6aadc7"}
+{"sub_uri": "Q491927", "obj_uri": "Q984364", "obj_label": "Murray", "sub_label": "Calloway County", "lineid": 225, "uuid": "4b7389d6-4be1-4d05-833a-930a12ea9230"}
+{"sub_uri": "Q494636", "obj_uri": "Q3292481", "obj_label": "Athens", "sub_label": "McMinn County", "lineid": 226, "uuid": "402d102a-ad79-42e6-b291-1be3c2130cb1"}
+{"sub_uri": "Q61153", "obj_uri": "Q79652", "obj_label": "Harrisburg", "sub_label": "Poinsett County", "lineid": 227, "uuid": "2d703a8d-ae81-4907-884e-49b63c6f1860"}
+{"sub_uri": "Q488201", "obj_uri": "Q2101592", "obj_label": "Homer", "sub_label": "Banks County", "lineid": 228, "uuid": "cdeca793-6d45-4e9f-bdf2-8a4eaaa603bf"}
+{"sub_uri": "Q27", "obj_uri": "Q1761", "obj_label": "Dublin", "sub_label": "Ireland", "lineid": 229, "uuid": "3ff99e65-058c-494f-b452-d0af6f901017"}
+{"sub_uri": "Q484740", "obj_uri": "Q959843", "obj_label": "Jackson", "sub_label": "Cape Girardeau County", "lineid": 230, "uuid": "05dab5fd-1714-4a8a-90a7-b1d9448a2296"}
+{"sub_uri": "Q2347932", "obj_uri": "Q216", "obj_label": "Vilnius", "sub_label": "Vilnius Voivodeship", "lineid": 231, "uuid": "77b1998c-d110-462a-92f9-aa2451841e42"}
+{"sub_uri": "Q486081", "obj_uri": "Q1762833", "obj_label": "Glasgow", "sub_label": "Barren County", "lineid": 232, "uuid": "20256b2c-21a5-43a7-b1c5-67ec8e2c31ef"}
+{"sub_uri": "Q110888", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Kingdom of Essex", "lineid": 233, "uuid": "5d2893ff-8863-46a4-b0b2-346b284dff0f"}
+{"sub_uri": "Q203049", "obj_uri": "Q813247", "obj_label": "Beatrice", "sub_label": "Gage County", "lineid": 234, "uuid": "471efd4f-104d-4778-9f91-2e857451a103"}
+{"sub_uri": "Q763603", "obj_uri": "Q9248", "obj_label": "Baku", "sub_label": "Baku Governorate", "lineid": 235, "uuid": "dfc7ae50-5612-419c-937c-e326d7090dc0"}
+{"sub_uri": "Q77", "obj_uri": "Q1335", "obj_label": "Montevideo", "sub_label": "Uruguay", "lineid": 236, "uuid": "5b1c97a5-3854-42b2-9e14-472bd756eb5c"}
+{"sub_uri": "Q389688", "obj_uri": "Q5684", "obj_label": "Babylon", "sub_label": "Achaemenid Empire", "lineid": 237, "uuid": "0288be7b-4b79-42f8-ab3d-74fb9f3132dc"}
+{"sub_uri": "Q23140", "obj_uri": "Q549761", "obj_label": "Warwick", "sub_label": "Warwickshire", "lineid": 238, "uuid": "73b0a3dd-55a6-4ede-ae60-015a6a84fc0a"}
+{"sub_uri": "Q312475", "obj_uri": "Q205842", "obj_label": "Aspen", "sub_label": "Pitkin County", "lineid": 239, "uuid": "cdbdd94d-8a85-4bf0-845b-059740eaa6df"}
+{"sub_uri": "Q148540", "obj_uri": "Q2044", "obj_label": "Florence", "sub_label": "Republic of Florence", "lineid": 240, "uuid": "0c8ef226-720f-4983-82a5-b415df12b7d5"}
+{"sub_uri": "Q503546", "obj_uri": "Q2600941", "obj_label": "Clayton", "sub_label": "Rabun County", "lineid": 241, "uuid": "5b3b6c36-086b-4632-8efb-07c08f2cddd4"}
+{"sub_uri": "Q188612", "obj_uri": "Q1781", "obj_label": "Budapest", "sub_label": "Pest County", "lineid": 242, "uuid": "15780981-8de5-421e-9acb-8d5b587a5f94"}
+{"sub_uri": "Q108131", "obj_uri": "Q18013", "obj_label": "Sacramento", "sub_label": "Sacramento County", "lineid": 243, "uuid": "3d06845a-3744-4925-a5a2-f38186ea4070"}
+{"sub_uri": "Q484104", "obj_uri": "Q8684", "obj_label": "Seoul", "sub_label": "United States Army Military Government in Korea", "lineid": 244, "uuid": "a7236701-d948-416b-a29f-fda937314e55"}
+{"sub_uri": "Q502503", "obj_uri": "Q2022826", "obj_label": "Oxford", "sub_label": "Granville County", "lineid": 245, "uuid": "b87cb82f-5d7a-4e2c-9a2d-d262ea4e6f76"}
+{"sub_uri": "Q919071", "obj_uri": "Q1353", "obj_label": "Delhi", "sub_label": "Khalji dynasty", "lineid": 246, "uuid": "22842c33-a2e0-463d-ad82-dbce3ba82901"}
+{"sub_uri": "Q419", "obj_uri": "Q2868", "obj_label": "Lima", "sub_label": "Peru", "lineid": 247, "uuid": "162f5598-2d57-4c15-bff8-46c537417fed"}
+{"sub_uri": "Q22880", "obj_uri": "Q2966", "obj_label": "Heidelberg", "sub_label": "Electoral Palatinate", "lineid": 248, "uuid": "a73cc69f-0b1b-4090-997e-0f8d32fb0200"}
+{"sub_uri": "Q854", "obj_uri": "Q35381", "obj_label": "Colombo", "sub_label": "Sri Lanka", "lineid": 249, "uuid": "93dd6a19-dc17-4af9-a84e-ad1e87f873ca"}
+{"sub_uri": "Q512965", "obj_uri": "Q1939252", "obj_label": "Vernon", "sub_label": "Jennings County", "lineid": 250, "uuid": "2f87006f-612c-4337-b73e-f5a2ecba706e"}
+{"sub_uri": "Q149805", "obj_uri": "Q1530", "obj_label": "Baghdad", "sub_label": "Kingdom of Iraq", "lineid": 251, "uuid": "bae4e58e-f4e7-4c7f-8fe9-6fa798e26dea"}
+{"sub_uri": "Q183498", "obj_uri": "Q1780", "obj_label": "Bratislava", "sub_label": "Bratislava Region", "lineid": 252, "uuid": "5e209d53-0dcb-4263-aee9-4a04be8dc465"}
+{"sub_uri": "Q81931", "obj_uri": "Q29364", "obj_label": "Montgomery", "sub_label": "Confederate States of America", "lineid": 253, "uuid": "20fbf8a0-ceb0-448b-be84-6b08cd065fbf"}
+{"sub_uri": "Q241748", "obj_uri": "Q3711", "obj_label": "Belgrade", "sub_label": "Kingdom of Serbia", "lineid": 254, "uuid": "61cfe84a-7cee-4390-be9c-fd83f7905fc0"}
+{"sub_uri": "Q1198071", "obj_uri": "Q16572", "obj_label": "Guangzhou", "sub_label": "Southern Han", "lineid": 255, "uuid": "9a804a64-059d-4c19-8847-9f27284c28e6"}
+{"sub_uri": "Q184594", "obj_uri": "Q183551", "obj_label": "Waterford", "sub_label": "County Waterford", "lineid": 256, "uuid": "04247653-565e-41f6-8621-ec7455ee2ab6"}
+{"sub_uri": "Q37024", "obj_uri": "Q3711", "obj_label": "Belgrade", "sub_label": "Serbia and Montenegro", "lineid": 257, "uuid": "697dfafc-a879-4756-a8c8-fe1d6810e532"}
+{"sub_uri": "Q212", "obj_uri": "Q1899", "obj_label": "Kiev", "sub_label": "Ukraine", "lineid": 258, "uuid": "c4599062-97b8-4e48-b137-081621e8a64d"}
+{"sub_uri": "Q141026", "obj_uri": "Q3561", "obj_label": "Algiers", "sub_label": "Algiers Province", "lineid": 259, "uuid": "6a74c973-c294-485a-936b-9fff8f8776ee"}
+{"sub_uri": "Q55102", "obj_uri": "Q235", "obj_label": "Monaco", "sub_label": "La Colle", "lineid": 260, "uuid": "4ddf0023-1cb1-4cec-a7dc-fbafd993e10c"}
+{"sub_uri": "Q191186", "obj_uri": "Q54880", "obj_label": "Valencia", "sub_label": "Carabobo", "lineid": 261, "uuid": "69145308-5618-46c1-8387-938c5d32cc5c"}
+{"sub_uri": "Q225", "obj_uri": "Q11194", "obj_label": "Sarajevo", "sub_label": "Bosnia and Herzegovina", "lineid": 262, "uuid": "51edf9cc-ff45-4a6f-a9e5-6e7bbd1c4aeb"}
+{"sub_uri": "Q490994", "obj_uri": "Q28515", "obj_label": "Springfield", "sub_label": "Sangamon County", "lineid": 263, "uuid": "cb9cc90f-03a4-437c-bc14-f12e2a6cab8a"}
+{"sub_uri": "Q894092", "obj_uri": "Q743521", "obj_label": "Scarborough", "sub_label": "Scarborough", "lineid": 264, "uuid": "c8a23d0a-2a12-44ab-9082-0270f0c340fc"}
+{"sub_uri": "Q399", "obj_uri": "Q1953", "obj_label": "Yerevan", "sub_label": "Armenia", "lineid": 265, "uuid": "129adc29-18c5-4691-807c-774d8fbe82df"}
+{"sub_uri": "Q12536", "obj_uri": "Q3766", "obj_label": "Damascus", "sub_label": "Abbasid Caliphate", "lineid": 266, "uuid": "3dfe628c-cfc7-42b7-b514-4d1c69264327"}
+{"sub_uri": "Q13160", "obj_uri": "Q9022", "obj_label": "Guadalajara", "sub_label": "Jalisco", "lineid": 267, "uuid": "ce895422-a4c2-41a8-947b-a141874b3016"}
+{"sub_uri": "Q902", "obj_uri": "Q1354", "obj_label": "Dhaka", "sub_label": "Bangladesh", "lineid": 268, "uuid": "8516b777-1bbb-42f5-9655-ad50f1a71c4c"}
+{"sub_uri": "Q1991965", "obj_uri": "Q1085", "obj_label": "Prague", "sub_label": "Czech Socialist Republic", "lineid": 269, "uuid": "ad6e9deb-1ec2-488e-9a2f-08e552321c08"}
+{"sub_uri": "Q2347909", "obj_uri": "Q1354", "obj_label": "Dhaka", "sub_label": "East Bengal", "lineid": 270, "uuid": "0eb0321b-ab5a-4d79-a917-5994b5c9b271"}
+{"sub_uri": "Q173", "obj_uri": "Q29364", "obj_label": "Montgomery", "sub_label": "Alabama", "lineid": 271, "uuid": "a88e4c73-6179-42c1-9499-d2bafa2be415"}
+{"sub_uri": "Q1204", "obj_uri": "Q28515", "obj_label": "Springfield", "sub_label": "Illinois", "lineid": 272, "uuid": "6839f290-ac98-4e53-ac34-dd899e62b88f"}
+{"sub_uri": "Q23090", "obj_uri": "Q180057", "obj_label": "Lincoln", "sub_label": "Lincolnshire", "lineid": 273, "uuid": "2a86c673-1d59-4bd0-8e6f-063fe0912275"}
+{"sub_uri": "Q376178", "obj_uri": "Q334", "obj_label": "Singapore", "sub_label": "Straits Settlements", "lineid": 274, "uuid": "48c0c63f-0424-418c-a2be-aaece891a805"}
+{"sub_uri": "Q80702", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_label": "Spanish Empire", "lineid": 275, "uuid": "56396538-2b56-4643-9880-4b09393639bf"}
+{"sub_uri": "Q504125", "obj_uri": "Q1748", "obj_label": "Copenhagen", "sub_label": "Copenhagen Municipality", "lineid": 276, "uuid": "06cd80b8-c595-49d3-a0fd-2e135e195513"}
+{"sub_uri": "Q11079799", "obj_uri": "Q21319", "obj_label": "Parramatta", "sub_label": "City of Parramatta Council", "lineid": 277, "uuid": "45883d9a-951d-4bf1-a532-3bfc1e81f680"}
+{"sub_uri": "Q16987", "obj_uri": "Q648", "obj_label": "Lille", "sub_label": "Nord-Pas-de-Calais", "lineid": 278, "uuid": "1c12616a-a006-45c2-8e57-6cb9c713f667"}
+{"sub_uri": "Q1537", "obj_uri": "Q43788", "obj_label": "Madison", "sub_label": "Wisconsin", "lineid": 279, "uuid": "f2c40fc5-0a80-4c56-b501-fc3dacd98cfa"}
+{"sub_uri": "Q1017960", "obj_uri": "Q11194", "obj_label": "Sarajevo", "sub_label": "Novo Sarajevo", "lineid": 280, "uuid": "85f428cf-b3cf-4361-bda9-3f229170b4c2"}
+{"sub_uri": "Q1460", "obj_uri": "Q2656", "obj_label": "Palermo", "sub_label": "Sicily", "lineid": 281, "uuid": "ba151990-e609-40fe-b2a2-de3526f866ef"}
+{"sub_uri": "Q215530", "obj_uri": "Q1761", "obj_label": "Dublin", "sub_label": "Kingdom of Ireland", "lineid": 282, "uuid": "d75ae4dc-f3c3-4337-9456-0e2f6ddcd55e"}
+{"sub_uri": "Q1185346", "obj_uri": "Q10717", "obj_label": "Georgetown", "sub_label": "Demerara", "lineid": 283, "uuid": "187b8fbc-c536-491c-8f4d-87d327318d66"}
+{"sub_uri": "Q506215", "obj_uri": "Q41087", "obj_label": "Raleigh", "sub_label": "Wake County", "lineid": 284, "uuid": "0b3189b0-48ec-4aaa-bdde-0b57b7656d46"}
+{"sub_uri": "Q241731", "obj_uri": "Q597", "obj_label": "Lisbon", "sub_label": "Grande Lisboa Subregion", "lineid": 285, "uuid": "4705b702-9fec-4c9e-9590-e95de0bda9f2"}
+{"sub_uri": "Q1415585", "obj_uri": "Q5838", "obj_label": "Kabul", "sub_label": "Islamic State of Afghanistan", "lineid": 286, "uuid": "1831ad60-56a9-4ba8-a107-45914bce7373"}
+{"sub_uri": "Q207162", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Bourbon Restoration", "lineid": 287, "uuid": "dfa191ac-e374-4938-8f57-49aa4626b18b"}
+{"sub_uri": "Q108058", "obj_uri": "Q506439", "obj_label": "Martinez", "sub_label": "Contra Costa County", "lineid": 288, "uuid": "47648373-008e-4194-bd62-0ad3ead7d5fe"}
+{"sub_uri": "Q928", "obj_uri": "Q1461", "obj_label": "Manila", "sub_label": "Philippines", "lineid": 289, "uuid": "4036d7f0-9b07-4e0f-a903-cf6571ed67f6"}
+{"sub_uri": "Q1425322", "obj_uri": "Q900", "obj_label": "Kazan", "sub_label": "Kazan Governorate", "lineid": 290, "uuid": "3287017a-ce5d-4103-9f9f-d2d1e5b8137a"}
+{"sub_uri": "Q13751", "obj_uri": "Q277211", "obj_label": "Naval", "sub_label": "Biliran", "lineid": 291, "uuid": "d21f6268-d89b-4512-a41c-ad5f75696a04"}
+{"sub_uri": "Q2088496", "obj_uri": "Q1348", "obj_label": "Kolkata", "sub_label": "Kolkata district", "lineid": 292, "uuid": "4e867e2c-1647-48c3-b76e-5c7532d3864a"}
+{"sub_uri": "Q2705666", "obj_uri": "Q140147", "obj_label": "Brest", "sub_label": "Polesie Voivodeship", "lineid": 293, "uuid": "40e2f32b-68a9-420c-9835-b91b8eb21778"}
+{"sub_uri": "Q4948", "obj_uri": "Q641", "obj_label": "Venice", "sub_label": "Republic of Venice", "lineid": 294, "uuid": "72b0438e-0fba-4074-944f-b86d50ee5c8f"}
+{"sub_uri": "Q16665897", "obj_uri": "Q456", "obj_label": "Lyon", "sub_label": "Metropolis of Lyon", "lineid": 295, "uuid": "21eeabc8-055f-4ce1-817b-c519eea5302a"}
+{"sub_uri": "Q336229", "obj_uri": "Q862733", "obj_label": "Warren", "sub_label": "Trumbull County", "lineid": 296, "uuid": "aa3e96c0-9a71-450c-b99d-be5564f1360a"}
+{"sub_uri": "Q214064", "obj_uri": "Q41183", "obj_label": "Aleppo", "sub_label": "Aleppo Governorate", "lineid": 297, "uuid": "209f5fe9-e4fd-49c3-a2eb-0d0bbebf3bdd"}
+{"sub_uri": "Q109790", "obj_uri": "Q482657", "obj_label": "Logan", "sub_label": "Cache County", "lineid": 298, "uuid": "9b750f8b-8039-4b8f-ad21-bbfb6fe96622"}
+{"sub_uri": "Q746443", "obj_uri": "Q490", "obj_label": "Milan", "sub_label": "Golden Ambrosian Republic", "lineid": 299, "uuid": "03eb4774-275a-44e4-86a3-d90118464b36"}
+{"sub_uri": "Q1261", "obj_uri": "Q16554", "obj_label": "Denver", "sub_label": "Colorado", "lineid": 300, "uuid": "dee75c5a-9283-4298-9594-17e150dc0484"}
+{"sub_uri": "Q41", "obj_uri": "Q1524", "obj_label": "Athens", "sub_label": "Greece", "lineid": 301, "uuid": "81f7f2f1-b54e-4284-9659-70df795826e3"}
+{"sub_uri": "Q238445", "obj_uri": "Q8810", "obj_label": "Granada", "sub_label": "Emirate of Granada", "lineid": 302, "uuid": "d16f2021-776c-45a5-99b4-f7cb5fcbbc35"}
+{"sub_uri": "Q153128", "obj_uri": "Q1435", "obj_label": "Zagreb", "sub_label": "Independent State of Croatia", "lineid": 303, "uuid": "08572ab1-504d-47d0-859b-abbfb8ec78b0"}
+{"sub_uri": "Q55", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_label": "Netherlands", "lineid": 304, "uuid": "4ee31f55-e29a-4c2e-9e45-442ddc25a107"}
+{"sub_uri": "Q816", "obj_uri": "Q16556", "obj_label": "Phoenix", "sub_label": "Arizona", "lineid": 305, "uuid": "d06dac69-3754-4870-873f-1cc43d8932ba"}
+{"sub_uri": "Q38", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "Italy", "lineid": 306, "uuid": "11a1b37e-dab9-4913-8ecb-c116b0af0e09"}
+{"sub_uri": "Q191077", "obj_uri": "Q3711", "obj_label": "Belgrade", "sub_label": "Kingdom of Yugoslavia", "lineid": 307, "uuid": "b2582129-5362-4861-94b2-52f9321edfcb"}
+{"sub_uri": "Q145", "obj_uri": "Q84", "obj_label": "London", "sub_label": "United Kingdom", "lineid": 308, "uuid": "038853fb-0819-4076-a6a7-60eb98028b78"}
+{"sub_uri": "Q23103", "obj_uri": "Q201970", "obj_label": "Shrewsbury", "sub_label": "Shropshire", "lineid": 309, "uuid": "d2d83568-520a-41e0-be1a-b5cf2277ca59"}
+{"sub_uri": "Q467864", "obj_uri": "Q19689", "obj_label": "Tirana", "sub_label": "People's Socialist Republic of Albania", "lineid": 310, "uuid": "00e826dd-0835-40b0-b6ca-2c7078696e0f"}
+{"sub_uri": "Q484367", "obj_uri": "Q6178257", "obj_label": "Burns", "sub_label": "Harney County", "lineid": 311, "uuid": "536971cd-a76a-42b0-8f85-d855f47df8bb"}
+{"sub_uri": "Q403", "obj_uri": "Q3711", "obj_label": "Belgrade", "sub_label": "Serbia", "lineid": 312, "uuid": "830019b8-cbd9-4358-bf2b-8e8d63e70716"}
+{"sub_uri": "Q31454", "obj_uri": "Q3579", "obj_label": "Tripoli", "sub_label": "Kingdom of Libya", "lineid": 313, "uuid": "b6e68511-a9d5-45fc-aa47-781ab3a4221e"}
+{"sub_uri": "Q495738", "obj_uri": "Q79875", "obj_label": "Mobile", "sub_label": "Mobile County", "lineid": 314, "uuid": "24011cfc-18bf-4698-9a00-7ca98cd99c0f"}
+{"sub_uri": "Q16", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_label": "Canada", "lineid": 315, "uuid": "c60945a4-e0ef-46d5-92e6-fee06cc0512a"}
+{"sub_uri": "Q507078", "obj_uri": "Q947115", "obj_label": "Monroe", "sub_label": "Ouachita Parish", "lineid": 316, "uuid": "5df8814e-129f-4dd2-bbfa-a368320ce63f"}
+{"sub_uri": "Q127513", "obj_uri": "Q38283", "obj_label": "Yokohama", "sub_label": "Kanagawa Prefecture", "lineid": 317, "uuid": "662d9ed5-ff4e-4360-8cd4-1ee627089db9"}
+{"sub_uri": "Q188399", "obj_uri": "Q1085", "obj_label": "Prague", "sub_label": "Central Bohemian Region", "lineid": 318, "uuid": "311a0a69-0b15-4542-ab2d-4dd0ebe2db57"}
+{"sub_uri": "Q142", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "France", "lineid": 319, "uuid": "054ba9b2-5448-4d98-a91c-71be1a28873a"}
+{"sub_uri": "Q219", "obj_uri": "Q472", "obj_label": "Sofia", "sub_label": "Bulgaria", "lineid": 320, "uuid": "10c574c4-cd7c-45c3-9de0-9efdaf6edbfa"}
+{"sub_uri": "Q2341660", "obj_uri": "Q1156", "obj_label": "Mumbai", "sub_label": "Mumbai City district", "lineid": 321, "uuid": "76a33f57-8cf5-4060-9073-1de1c18ecfd7"}
+{"sub_uri": "Q23156", "obj_uri": "Q134672", "obj_label": "Exeter", "sub_label": "Devon", "lineid": 322, "uuid": "d5701986-ce16-473f-bb67-3a85c057b8fc"}
+{"sub_uri": "Q489935", "obj_uri": "Q1000148", "obj_label": "Eaton", "sub_label": "Preble County", "lineid": 323, "uuid": "1111cc4a-db81-401b-84ee-1435f4f68c6e"}
+{"sub_uri": "Q17152", "obj_uri": "Q17151", "obj_label": "Thessaloniki", "sub_label": "Central Macedonia", "lineid": 324, "uuid": "35969665-d828-44d3-b3da-7b037bc3d3d4"}
+{"sub_uri": "Q1358836", "obj_uri": "Q1524", "obj_label": "Athens", "sub_label": "4th of August Regime", "lineid": 325, "uuid": "f0d4e8fd-e57b-4645-889b-59b8dff1b53d"}
+{"sub_uri": "Q330362", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Commonwealth of England", "lineid": 326, "uuid": "fa0b1034-69b7-4598-bd05-0b18764b0999"}
+{"sub_uri": "Q232043", "obj_uri": "Q187346", "obj_label": "Constantine", "sub_label": "Constantine Province", "lineid": 327, "uuid": "c7e88c81-06b6-42ff-b123-e59bfa3b4091"}
+{"sub_uri": "Q511106", "obj_uri": "Q755566", "obj_label": "Salisbury", "sub_label": "Wicomico County", "lineid": 328, "uuid": "9de7ce37-4f0e-4ffe-a75d-6ca40ef28807"}
+{"sub_uri": "Q1250763", "obj_uri": "Q2656", "obj_label": "Palermo", "sub_label": "Emirate of Sicily", "lineid": 329, "uuid": "f1ff7df3-74cf-4678-9dd3-b878de7c043c"}
+{"sub_uri": "Q734", "obj_uri": "Q10717", "obj_label": "Georgetown", "sub_label": "Guyana", "lineid": 330, "uuid": "071c5f13-d736-4100-8cc9-92c2ef6060f3"}
+{"sub_uri": "Q2357511", "obj_uri": "Q123709", "obj_label": "Dundee", "sub_label": "Dundee City", "lineid": 331, "uuid": "15895cb9-b4d6-4eac-a4b8-3c4972b19c31"}
+{"sub_uri": "Q1774848", "obj_uri": "Q692560", "obj_label": "Mao", "sub_label": "Valverde Province", "lineid": 332, "uuid": "5c3f3ff1-7078-4ddf-93bb-a93352123c11"}
+{"sub_uri": "Q171150", "obj_uri": "Q1781", "obj_label": "Budapest", "sub_label": "Kingdom of Hungary", "lineid": 333, "uuid": "e94d4f46-e866-4eb2-b285-032df9a4033e"}
+{"sub_uri": "Q248452", "obj_uri": "Q84", "obj_label": "London", "sub_label": "British North America", "lineid": 334, "uuid": "e93b8ae2-d0e7-425c-b208-2df3285783b7"}
+{"sub_uri": "Q1026448", "obj_uri": "Q826561", "obj_label": "Halifax", "sub_label": "Calderdale", "lineid": 335, "uuid": "8e0488b3-2bfe-4e7e-a744-c60e0220bd42"}
+{"sub_uri": "Q1202", "obj_uri": "Q1731", "obj_label": "Dresden", "sub_label": "Saxony", "lineid": 336, "uuid": "81bc4597-4342-44f8-b16e-c00a0ec41387"}
+{"sub_uri": "Q9903", "obj_uri": "Q16666", "obj_label": "Nanjing", "sub_label": "Ming dynasty", "lineid": 337, "uuid": "06516296-0b1f-4df7-94c7-a9a1b1b239b8"}
+{"sub_uri": "Q234167", "obj_uri": "Q5806", "obj_label": "Mecca", "sub_label": "Makkah Region", "lineid": 338, "uuid": "22c04d58-1410-491f-a5a2-80927b04a65c"}
+{"sub_uri": "Q489369", "obj_uri": "Q593141", "obj_label": "Philip", "sub_label": "Haakon County", "lineid": 339, "uuid": "146c6268-b78c-4cdc-b3d8-420c9ab85037"}
+{"sub_uri": "Q16578", "obj_uri": "Q862508", "obj_label": "Trinidad", "sub_label": "Flores Department", "lineid": 340, "uuid": "a71c6466-49f8-4226-9487-4d718b3e47af"}
+{"sub_uri": "Q491507", "obj_uri": "Q85", "obj_label": "Cairo", "sub_label": "Egypt Eyalet", "lineid": 341, "uuid": "bba7949e-b95d-4e24-abd7-383da2d8ba0c"}
+{"sub_uri": "Q678347", "obj_uri": "Q826782", "obj_label": "Stafford", "sub_label": "Stafford", "lineid": 342, "uuid": "5f98c3e4-a66b-4a3c-a841-38278ed065af"}
+{"sub_uri": "Q23111", "obj_uri": "Q184775", "obj_label": "Ipswich", "sub_label": "Suffolk", "lineid": 343, "uuid": "730ee959-2dec-430b-ba0e-16399009eb2c"}
+{"sub_uri": "Q221457", "obj_uri": "Q270", "obj_label": "Warsaw", "sub_label": "Congress Poland", "lineid": 344, "uuid": "5417be18-f634-48a7-bb7e-4d1148721c8c"}
+{"sub_uri": "Q26", "obj_uri": "Q10686", "obj_label": "Belfast", "sub_label": "Northern Ireland", "lineid": 345, "uuid": "0a001fed-b69a-4e80-8b3b-e3b36a63fca8"}
+{"sub_uri": "Q502393", "obj_uri": "Q5675279", "obj_label": "Columbia", "sub_label": "Maury County", "lineid": 346, "uuid": "f20d355b-47fb-4ca6-ae96-973612bb7417"}
+{"sub_uri": "Q83572", "obj_uri": "Q11739", "obj_label": "Lahore", "sub_label": "Sikh Empire", "lineid": 347, "uuid": "10b791d2-567a-4894-ac7f-f12b74fef167"}
+{"sub_uri": "Q29", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_label": "Spain", "lineid": 348, "uuid": "84432391-0a6e-47c0-b74f-04997e55097d"}
+{"sub_uri": "Q523380", "obj_uri": "Q216", "obj_label": "Vilnius", "sub_label": "Republic of Central Lithuania", "lineid": 349, "uuid": "361fe736-a8b7-46f2-aa56-a8762f5f146b"}
+{"sub_uri": "Q212429", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Metropolitan France", "lineid": 350, "uuid": "0ce95e8d-c54a-4b57-a8d0-430e22720918"}
+{"sub_uri": "Q510947", "obj_uri": "Q1375409", "obj_label": "Woodstock", "sub_label": "Shenandoah County", "lineid": 351, "uuid": "ba7eb9f8-8325-4719-9acd-49c040e4b72f"}
+{"sub_uri": "Q128079", "obj_uri": "Q939025", "obj_label": "Burlington", "sub_label": "Kit Carson County", "lineid": 352, "uuid": "cda2780e-c969-4264-803d-f84fb57dfbdc"}
+{"sub_uri": "Q3031413", "obj_uri": "Q2868", "obj_label": "Lima", "sub_label": "Lima", "lineid": 353, "uuid": "0cb320e2-1a47-4b35-95ef-e924835340fe"}
+{"sub_uri": "Q485213", "obj_uri": "Q839802", "obj_label": "Fulton", "sub_label": "Callaway County", "lineid": 354, "uuid": "bd5d63aa-854e-49cb-96d8-8132eb62ec73"}
+{"sub_uri": "Q5481", "obj_uri": "Q900", "obj_label": "Kazan", "sub_label": "Republic of Tatarstan", "lineid": 355, "uuid": "b6dde5f1-6c15-430c-8798-e4b6feb38428"}
+{"sub_uri": "Q173822", "obj_uri": "Q140147", "obj_label": "Brest", "sub_label": "Brest Region", "lineid": 356, "uuid": "f6b85e8b-8839-41b7-9bbb-24bf234c9b81"}
+{"sub_uri": "Q9331", "obj_uri": "Q239", "obj_label": "Brussels", "sub_label": "Flemish Community", "lineid": 357, "uuid": "9c7ce4f2-1489-4ea1-a691-9a198565c6ce"}
+{"sub_uri": "Q193714", "obj_uri": "Q1218", "obj_label": "Jerusalem", "sub_label": "Mandatory Palestine", "lineid": 358, "uuid": "5275b4fe-b535-4ca1-9967-c8d512968ed1"}
+{"sub_uri": "Q61042", "obj_uri": "Q79459", "obj_label": "Melbourne", "sub_label": "Izard County", "lineid": 359, "uuid": "fd8d6c88-90cc-4bdb-919a-014f63571dc7"}
+{"sub_uri": "Q191670", "obj_uri": "Q19660", "obj_label": "Bucharest", "sub_label": "Ilfov County", "lineid": 360, "uuid": "857dcc93-25ba-4ad2-8032-142148144fc4"}
+{"sub_uri": "Q8177", "obj_uri": "Q2966", "obj_label": "Heidelberg", "sub_label": "Rhein-Neckar", "lineid": 361, "uuid": "c372481a-3c15-4a0e-a071-97b6132a8fd7"}
+{"sub_uri": "Q26885", "obj_uri": "Q975782", "obj_label": "Columbus", "sub_label": "Colorado County", "lineid": 362, "uuid": "6f57955b-7b13-42bf-9ef6-3d8f3c6ba809"}
+{"sub_uri": "Q15388", "obj_uri": "Q1361", "obj_label": "Hyderabad", "sub_label": "Ranga Reddy district", "lineid": 363, "uuid": "6db784ac-92fc-457d-9273-68a9281c84ea"}
+{"sub_uri": "Q173500", "obj_uri": "Q1761", "obj_label": "Dublin", "sub_label": "County Dublin", "lineid": 364, "uuid": "6c00f0f0-a338-465f-b7a3-ec8f6ecf4380"}
+{"sub_uri": "Q502483", "obj_uri": "Q2027967", "obj_label": "Newton", "sub_label": "Catawba County", "lineid": 365, "uuid": "b2d3abd7-89f5-4316-835f-f1a1f07b3394"}
+{"sub_uri": "Q146328", "obj_uri": "Q1461", "obj_label": "Manila", "sub_label": "Commonwealth of the Philippines", "lineid": 366, "uuid": "225b2db4-e9e3-403f-87df-32dad6e25071"}
+{"sub_uri": "Q16227", "obj_uri": "Q2656", "obj_label": "Palermo", "sub_label": "Province of Palermo", "lineid": 367, "uuid": "8a30761c-4a54-4112-8645-ab686e066fea"}
+{"sub_uri": "Q1124402", "obj_uri": "Q1353", "obj_label": "Delhi", "sub_label": "Tughlaq dynasty", "lineid": 368, "uuid": "c4a21ea1-52ba-47d4-b177-4a7be87c66c8"}
+{"sub_uri": "Q154195", "obj_uri": "Q1726", "obj_label": "Munich", "sub_label": "Kingdom of Bavaria", "lineid": 369, "uuid": "bd5fb169-6371-430a-8014-8bb5b8a9139c"}
+{"sub_uri": "Q1445", "obj_uri": "Q1352", "obj_label": "Chennai", "sub_label": "Tamil Nadu", "lineid": 370, "uuid": "86ce460d-460e-4796-b8e2-84b29f077874"}
+{"sub_uri": "Q184", "obj_uri": "Q2280", "obj_label": "Minsk", "sub_label": "Belarus", "lineid": 371, "uuid": "cdc60d45-b23a-44d8-aa93-8921639a912e"}
+{"sub_uri": "Q23165", "obj_uri": "Q170497", "obj_label": "Gloucester", "sub_label": "Gloucestershire", "lineid": 372, "uuid": "d03a46e8-ccf8-4f8f-90d4-f1d25884393f"}
+{"sub_uri": "Q488194", "obj_uri": "Q2534070", "obj_label": "Pearson", "sub_label": "Atkinson County", "lineid": 373, "uuid": "c2db9548-ed2d-43d5-9632-22357cad3c0c"}
+{"sub_uri": "Q490369", "obj_uri": "Q945046", "obj_label": "Albany", "sub_label": "Gentry County", "lineid": 374, "uuid": "7fda1417-eb60-4152-a600-ecfca1d5ce24"}
+{"sub_uri": "Q12771", "obj_uri": "Q807", "obj_label": "Lausanne", "sub_label": "Canton of Vaud", "lineid": 375, "uuid": "7c072b56-cd94-4355-9e0d-fce4c7cc2bbd"}
+{"sub_uri": "Q1751495", "obj_uri": "Q1780", "obj_label": "Bratislava", "sub_label": "Slovak Socialist Republic", "lineid": 376, "uuid": "08422523-29ad-4868-9096-4ef4d2f08768"}
+{"sub_uri": "Q458", "obj_uri": "Q6602", "obj_label": "Strasbourg", "sub_label": "European Union", "lineid": 377, "uuid": "a2b321ce-ef2d-4f51-88e4-70bfb2c0f83b"}
+{"sub_uri": "Q490215", "obj_uri": "Q2005266", "obj_label": "Macon", "sub_label": "Noxubee County", "lineid": 378, "uuid": "3b1551f7-d90c-4729-a4b1-3e6035d4678b"}
+{"sub_uri": "Q565812", "obj_uri": "Q1715", "obj_label": "Hanover", "sub_label": "Principality of Calenberg", "lineid": 379, "uuid": "3886c8c7-b2bf-49c5-adb9-485651c8ae9c"}
+{"sub_uri": "Q133083", "obj_uri": "Q34647", "obj_label": "Johannesburg", "sub_label": "Gauteng", "lineid": 380, "uuid": "a560660b-5604-48cf-9aae-996353694270"}
+{"sub_uri": "Q1498", "obj_uri": "Q47916", "obj_label": "Lucknow", "sub_label": "Uttar Pradesh", "lineid": 381, "uuid": "06ba14af-9870-4f29-bf7c-ba1e47ab2b77"}
+{"sub_uri": "Q11196", "obj_uri": "Q11194", "obj_label": "Sarajevo", "sub_label": "Republika Srpska", "lineid": 382, "uuid": "d7fbc7dc-a5bc-4d27-b783-92d6d60e0dc1"}
+{"sub_uri": "Q450374", "obj_uri": "Q6106", "obj_label": "Portland", "sub_label": "Multnomah County", "lineid": 383, "uuid": "601a6ca2-7b9c-472a-ae9e-64e33f54847d"}
+{"sub_uri": "Q18276", "obj_uri": "Q11194", "obj_label": "Sarajevo", "sub_label": "Sarajevo Canton", "lineid": 384, "uuid": "09ff939d-d8e4-4c9d-bd27-e33b6fc2b01b"}
+{"sub_uri": "Q512901", "obj_uri": "Q79638", "obj_label": "Fairbanks", "sub_label": "Fairbanks North Star Borough", "lineid": 385, "uuid": "0e135394-be39-46be-bc85-e5b5699e6da7"}
+{"sub_uri": "Q243652", "obj_uri": "Q1781", "obj_label": "Budapest", "sub_label": "Hungarian Soviet Republic", "lineid": 386, "uuid": "c52347a1-f0d0-4101-abdd-2365849ad254"}
+{"sub_uri": "Q1138904", "obj_uri": "Q5838", "obj_label": "Kabul", "sub_label": "Kingdom of Afghanistan", "lineid": 387, "uuid": "34a27ca3-c505-4d62-a1ed-fcf1106a8093"}
+{"sub_uri": "Q28283", "obj_uri": "Q37066", "obj_label": "Bismarck", "sub_label": "Burleigh County", "lineid": 388, "uuid": "2cbda38f-8a9d-4172-9c10-daf5c5dbd6ec"}
+{"sub_uri": "Q54155", "obj_uri": "Q37333", "obj_label": "Lublin", "sub_label": "Lublin province", "lineid": 389, "uuid": "ced85916-3433-470b-a3f8-f1445b1786b7"}
+{"sub_uri": "Q2006542", "obj_uri": "Q8660", "obj_label": "Karachi", "sub_label": "Dominion of Pakistan", "lineid": 390, "uuid": "a1b3e563-be09-433b-b3b7-b9a9fd5e3561"}
+{"sub_uri": "Q56152", "obj_uri": "Q868660", "obj_label": "Kingston", "sub_label": "Ulster County", "lineid": 391, "uuid": "ad1bee32-f537-48b7-b22b-af93f998eb7f"}
+{"sub_uri": "Q2131", "obj_uri": "Q2887", "obj_label": "Santiago", "sub_label": "Santiago Metropolitan Region", "lineid": 392, "uuid": "00ce4a48-3c67-4997-a712-6381713ceccb"}
+{"sub_uri": "Q1370", "obj_uri": "Q43421", "obj_label": "Richmond", "sub_label": "Virginia", "lineid": 393, "uuid": "210fa4bf-1e11-40e6-ac85-5c550df3a240"}
+{"sub_uri": "Q179876", "obj_uri": "Q172157", "obj_label": "Winchester", "sub_label": "Kingdom of England", "lineid": 394, "uuid": "dd496af6-2fc1-4697-9c93-f335f9a6f665"}
+{"sub_uri": "Q236027", "obj_uri": "Q35484", "obj_label": "Medina", "sub_label": "Al Madinah Region", "lineid": 395, "uuid": "e0143991-1014-4191-a7cb-7463779a4962"}
+{"sub_uri": "Q506250", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_label": "Stockholm Municipality", "lineid": 396, "uuid": "80b3b511-2384-4470-9dd9-511e586a0727"}
+{"sub_uri": "Q1497633", "obj_uri": "Q694780", "obj_label": "Arnold", "sub_label": "Gedling", "lineid": 397, "uuid": "d633e460-fac5-4b28-90d3-30d91e41377b"}
+{"sub_uri": "Q131337", "obj_uri": "Q9248", "obj_label": "Baku", "sub_label": "Azerbaijan Soviet Socialist Republic", "lineid": 398, "uuid": "ca74b6b9-6a01-46e8-ae8b-4dabf8a1528c"}
+{"sub_uri": "Q108499", "obj_uri": "Q49240", "obj_label": "Stockton", "sub_label": "San Joaquin County", "lineid": 399, "uuid": "8db17604-02c2-4820-9b7a-57afb5628dcd"}
+{"sub_uri": "Q209065", "obj_uri": "Q1524", "obj_label": "Athens", "sub_label": "Kingdom of Greece", "lineid": 400, "uuid": "5814e2f0-b65a-4983-9ccd-275bd4bd92e2"}
+{"sub_uri": "Q490852", "obj_uri": "Q1811625", "obj_label": "Fulton", "sub_label": "Itawamba County", "lineid": 401, "uuid": "5e9b90ec-79e5-4bf7-ae4b-27c6ee3666d9"}
+{"sub_uri": "Q884", "obj_uri": "Q8684", "obj_label": "Seoul", "sub_label": "South Korea", "lineid": 402, "uuid": "65297ee8-0306-406f-965d-6be5cface055"}
+{"sub_uri": "Q616523", "obj_uri": "Q1335", "obj_label": "Montevideo", "sub_label": "Cisplatina Province", "lineid": 403, "uuid": "c43bfed1-4b1c-4e4f-a9ed-ca9b27824cc5"}
+{"sub_uri": "Q190353", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "Sovereign Military Order of Malta", "lineid": 404, "uuid": "b032cbd1-00e8-437a-9ada-2fd2ae95164c"}
+{"sub_uri": "Q271915", "obj_uri": "Q43301", "obj_label": "Fresno", "sub_label": "Fresno County", "lineid": 405, "uuid": "c0d10d97-1681-4b18-822e-ff03d6810348"}
+{"sub_uri": "Q111729", "obj_uri": "Q976490", "obj_label": "Greenville", "sub_label": "Hunt County", "lineid": 406, "uuid": "2122bb0b-f6ce-4614-96c5-dc56d9436c5e"}
+{"sub_uri": "Q330158", "obj_uri": "Q1354", "obj_label": "Dhaka", "sub_label": "Dhaka Division", "lineid": 407, "uuid": "7935902f-b52d-4684-9e53-fa870c492b5e"}
+{"sub_uri": "Q23066", "obj_uri": "Q192896", "obj_label": "Carlisle", "sub_label": "Cumbria", "lineid": 408, "uuid": "3cfd66cc-9e04-4419-a7ea-393a13c489c7"}
+{"sub_uri": "Q190636", "obj_uri": "Q9248", "obj_label": "Baku", "sub_label": "Centrocaspian Dictatorship", "lineid": 409, "uuid": "f4ad4d46-6638-4bb8-a9a4-5e21a7464fa2"}
+{"sub_uri": "Q54441", "obj_uri": "Q48215", "obj_label": "Dover", "sub_label": "Strafford County", "lineid": 410, "uuid": "db9c652e-2c14-41e9-9521-2acaaa6c81e8"}
+{"sub_uri": "Q1197", "obj_uri": "Q1715", "obj_label": "Hanover", "sub_label": "Lower Saxony", "lineid": 411, "uuid": "9384802d-fd29-4248-b65d-1c60827aca2a"}
+{"sub_uri": "Q216945", "obj_uri": "Q3820", "obj_label": "Beirut", "sub_label": "Mount Lebanon Governorate", "lineid": 412, "uuid": "10fee22e-9811-48d2-a922-5e5ee9c5d460"}
+{"sub_uri": "Q179876", "obj_uri": "Q189960", "obj_label": "Westminster", "sub_label": "Kingdom of England", "lineid": 413, "uuid": "3cf98f50-f98b-4009-8aba-cec93a5d14f7"}
+{"sub_uri": "Q16287", "obj_uri": "Q495", "obj_label": "Turin", "sub_label": "Province of Turin", "lineid": 414, "uuid": "884b9b99-0bfc-4b8e-a0cc-2c90411611f7"}
+{"sub_uri": "Q9337", "obj_uri": "Q239", "obj_label": "Brussels", "sub_label": "Flemish Region", "lineid": 415, "uuid": "9aae7e8e-8992-44e3-9c83-e9f105ff5072"}
+{"sub_uri": "Q140359", "obj_uri": "Q1085", "obj_label": "Prague", "sub_label": "First Czechoslovak Republic", "lineid": 416, "uuid": "f1fa4a93-31e6-414f-8010-e1fd6a5c8f73"}
+{"sub_uri": "Q1454", "obj_uri": "Q41087", "obj_label": "Raleigh", "sub_label": "North Carolina", "lineid": 417, "uuid": "da4fcd10-b83b-403f-8a32-deeadf5a54cc"}
+{"sub_uri": "Q502543", "obj_uri": "Q2316365", "obj_label": "Atlanta", "sub_label": "Montmorency County", "lineid": 418, "uuid": "dca6c20b-32e2-4d20-8a7e-727e036247f4"}
+{"sub_uri": "Q80370", "obj_uri": "Q159835", "obj_label": "Batman", "sub_label": "Batman Province", "lineid": 419, "uuid": "2a03109a-6f43-4ed5-9813-3d05c64b421c"}
+{"sub_uri": "Q3235", "obj_uri": "Q11568", "obj_label": "Darwin", "sub_label": "Northern Territory", "lineid": 420, "uuid": "2e284dc0-02f2-4afd-8914-77bc85d348f8"}
+{"sub_uri": "Q164079", "obj_uri": "Q1715", "obj_label": "Hanover", "sub_label": "Kingdom of Hanover", "lineid": 421, "uuid": "9b323a73-7c14-4cb9-9e5d-844cbfe24547"}
+{"sub_uri": "Q322792", "obj_uri": "Q36433", "obj_label": "Porto", "sub_label": "Porto", "lineid": 422, "uuid": "0f368a55-4d86-4f39-8b1d-89ec5f9f097a"}
+{"sub_uri": "Q489481", "obj_uri": "Q44989", "obj_label": "Tulsa", "sub_label": "Tulsa County", "lineid": 423, "uuid": "3388db9c-4893-4eda-8b64-4718c52dd4ab"}
+{"sub_uri": "Q1419574", "obj_uri": "Q1899", "obj_label": "Kiev", "sub_label": "Kiev Voivodeship", "lineid": 424, "uuid": "48200e8b-20b4-433a-b915-68404403534a"}
+{"sub_uri": "Q50625", "obj_uri": "Q26793", "obj_label": "Bergen", "sub_label": "Hordaland", "lineid": 425, "uuid": "613cb597-803f-42dc-a928-fedb1f025006"}
+{"sub_uri": "Q1211", "obj_uri": "Q40747", "obj_label": "Pierre", "sub_label": "South Dakota", "lineid": 426, "uuid": "4fb1a53b-a896-4582-9d9a-aeb909ad4d5e"}
+{"sub_uri": "Q1142", "obj_uri": "Q6602", "obj_label": "Strasbourg", "sub_label": "Alsace", "lineid": 427, "uuid": "877d0919-4954-4cb6-a686-0d6f729355a0"}
+{"sub_uri": "Q1904", "obj_uri": "Q172", "obj_label": "Toronto", "sub_label": "Ontario", "lineid": 428, "uuid": "6f672710-7073-4a20-a054-c2df086c85cd"}
+{"sub_uri": "Q771", "obj_uri": "Q100", "obj_label": "Boston", "sub_label": "Massachusetts", "lineid": 429, "uuid": "f511d642-e060-4187-8428-e166afcae8c6"}
+{"sub_uri": "Q55502", "obj_uri": "Q1218", "obj_label": "Jerusalem", "sub_label": "Kingdom of Jerusalem", "lineid": 430, "uuid": "385c3d07-ac4d-4b26-9878-9b0178637964"}
+{"sub_uri": "Q514024", "obj_uri": "Q1094424", "obj_label": "Stuart", "sub_label": "Patrick County", "lineid": 431, "uuid": "4d8f3eff-a66c-465a-a954-c86a95c61bca"}
+{"sub_uri": "Q3108185", "obj_uri": "Q1530", "obj_label": "Baghdad", "sub_label": "Ba'athist Iraq", "lineid": 432, "uuid": "e6136477-32b3-4abf-9fc9-1d44fe32dc06"}
+{"sub_uri": "Q147909", "obj_uri": "Q472", "obj_label": "Sofia", "sub_label": "Kingdom of Bulgaria", "lineid": 433, "uuid": "7d1c0ddf-daf5-44f5-9963-17f8f7287da0"}
+{"sub_uri": "Q15123", "obj_uri": "Q2634", "obj_label": "Naples", "sub_label": "Province of Naples", "lineid": 434, "uuid": "a4f792d8-0bd9-4a7c-9451-4bbe6de3d2ee"}
+{"sub_uri": "Q218", "obj_uri": "Q19660", "obj_label": "Bucharest", "sub_label": "Romania", "lineid": 435, "uuid": "0dc25d19-7ba5-4e64-9102-5cc9d783967b"}
+{"sub_uri": "Q211091", "obj_uri": "Q211870", "obj_label": "Paisley", "sub_label": "Renfrewshire", "lineid": 436, "uuid": "071c9d88-8850-4050-8d7b-5cea1e715ea9"}
+{"sub_uri": "Q39", "obj_uri": "Q70", "obj_label": "Bern", "sub_label": "Switzerland", "lineid": 437, "uuid": "db572b35-697c-4856-ae94-e649dc68573d"}
+{"sub_uri": "Q40", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_label": "Austria", "lineid": 438, "uuid": "a36c2ac2-4f20-461c-bc99-ec75ebaead4c"}
+{"sub_uri": "Q501800", "obj_uri": "Q44564", "obj_label": "Charleston", "sub_label": "Kanawha County", "lineid": 439, "uuid": "1402288f-1128-4d40-91be-6b96d65c6bd7"}
+{"sub_uri": "Q214", "obj_uri": "Q1780", "obj_label": "Bratislava", "sub_label": "Slovakia", "lineid": 440, "uuid": "60dbf7e2-05cd-4c6d-a5db-9ac2de20840d"}
+{"sub_uri": "Q21", "obj_uri": "Q84", "obj_label": "London", "sub_label": "England", "lineid": 441, "uuid": "ffe7fc87-597a-432b-b8a0-d393eb046dad"}
+{"sub_uri": "Q214504", "obj_uri": "Q2363616", "obj_label": "Victoria", "sub_label": "Labuan", "lineid": 442, "uuid": "36ff4a75-7b51-4de2-b12b-555b9cf24142"}
+{"sub_uri": "Q89959", "obj_uri": "Q239", "obj_label": "Brussels", "sub_label": "French Community of Belgium", "lineid": 443, "uuid": "255c487d-3484-4b4d-aa30-41917476fdc9"}
+{"sub_uri": "Q79", "obj_uri": "Q85", "obj_label": "Cairo", "sub_label": "Egypt", "lineid": 444, "uuid": "a67e86af-e1d7-46d9-89d4-3a04a4f75a6d"}
+{"sub_uri": "Q1508143", "obj_uri": "Q1899", "obj_label": "Kiev", "sub_label": "Ukrainian State", "lineid": 445, "uuid": "bc120252-6b6f-41db-be1b-f68013f1b3ac"}
+{"sub_uri": "Q27038", "obj_uri": "Q1435", "obj_label": "Zagreb", "sub_label": "Zagreb County", "lineid": 446, "uuid": "8c5c69d1-68e2-4011-a428-160a52b9359c"}
+{"sub_uri": "Q5711", "obj_uri": "Q1757", "obj_label": "Helsinki", "sub_label": "Uusimaa", "lineid": 447, "uuid": "7029a53c-7d9c-438d-afb8-4fb1a40d83cc"}
+{"sub_uri": "Q26601", "obj_uri": "Q695556", "obj_label": "Bryan", "sub_label": "Brazos County", "lineid": 448, "uuid": "d06633fc-f9e0-4787-a1fe-642def964c29"}
+{"sub_uri": "Q23077", "obj_uri": "Q184090", "obj_label": "Preston", "sub_label": "Lancashire", "lineid": 449, "uuid": "c3d21b6e-b4d3-48fb-b819-811095df7cdb"}
+{"sub_uri": "Q490112", "obj_uri": "Q954894", "obj_label": "Lebanon", "sub_label": "Laclede County", "lineid": 450, "uuid": "4e380895-4ba1-4783-a41b-75b3e7a9c7c4"}
+{"sub_uri": "Q617375", "obj_uri": "Q34664", "obj_label": "Hiroshima", "sub_label": "Hiroshima Prefecture", "lineid": 451, "uuid": "2cad7f6f-ff03-45aa-866b-5eb8a3ae38ad"}
+{"sub_uri": "Q142417", "obj_uri": "Q8818", "obj_label": "Valencia", "sub_label": "Kingdom of Valencia", "lineid": 452, "uuid": "c06cb316-636a-46a9-9159-4cc91737e99a"}
+{"sub_uri": "Q511461", "obj_uri": "Q748348", "obj_label": "Lisbon", "sub_label": "Ransom County", "lineid": 453, "uuid": "34d8c4dc-845b-4dfc-b1f9-0dd0731e7779"}
+{"sub_uri": "Q477951", "obj_uri": "Q2102518", "obj_label": "Gibson", "sub_label": "Glascock County", "lineid": 454, "uuid": "de42a28d-7ac9-46fa-aadc-34f8c7652531"}
+{"sub_uri": "Q12548", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_label": "Holy Roman Empire", "lineid": 455, "uuid": "8aa45cb6-b40a-459d-9aab-220e3913b280"}
+{"sub_uri": "Q1116", "obj_uri": "Q12892", "obj_label": "Antwerp", "sub_label": "Antwerp", "lineid": 456, "uuid": "39518246-9bcb-48e3-84a6-40bc26338391"}
+{"sub_uri": "Q187383", "obj_uri": "Q1780", "obj_label": "Bratislava", "sub_label": "Pozsony County", "lineid": 457, "uuid": "2339a47c-9af2-4522-9458-1851582438e3"}
+{"sub_uri": "Q490796", "obj_uri": "Q2019238", "obj_label": "Cherokee", "sub_label": "Alfalfa County", "lineid": 458, "uuid": "0665f484-6080-42af-a941-284da05a2ff5"}
+{"sub_uri": "Q174193", "obj_uri": "Q84", "obj_label": "London", "sub_label": "United Kingdom of Great Britain and Ireland", "lineid": 459, "uuid": "d3735192-67a0-40e2-ad8a-b87680a2dc62"}
+{"sub_uri": "Q7318", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Nazi Germany", "lineid": 460, "uuid": "b3664ea2-fe56-444c-a875-8d0e036c51af"}
+{"sub_uri": "Q341639", "obj_uri": "Q43421", "obj_label": "Richmond", "sub_label": "Henrico County", "lineid": 461, "uuid": "c620d3cf-f241-4b41-b7ff-1ecd4a6ff9a6"}
+{"sub_uri": "Q16277", "obj_uri": "Q13670", "obj_label": "Syracuse", "sub_label": "Province of Syracuse", "lineid": 462, "uuid": "3c5c4ae8-f372-4576-ab31-f912cb4e114b"}
+{"sub_uri": "Q2184", "obj_uri": "Q649", "obj_label": "Moscow", "sub_label": "Russian Soviet Federative Socialist Republic", "lineid": 463, "uuid": "7e9cf4c3-345a-414e-9131-5bc170960085"}
+{"sub_uri": "Q508220", "obj_uri": "Q986369", "obj_label": "Jacksonville", "sub_label": "Onslow County", "lineid": 464, "uuid": "a3373266-e863-4f4e-b724-3b5bc088e0f3"}
+{"sub_uri": "Q494146", "obj_uri": "Q1184769", "obj_label": "Indiana", "sub_label": "Indiana County", "lineid": 465, "uuid": "46a8ba6f-caed-4ff1-8278-cf99f7abdfc9"}
+{"sub_uri": "Q700264", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Province of Brandenburg", "lineid": 466, "uuid": "3c8eb4f8-7d03-42cd-8380-48588405e4c4"}
+{"sub_uri": "Q23082", "obj_uri": "Q179815", "obj_label": "Durham", "sub_label": "County Durham", "lineid": 467, "uuid": "4238c59b-d2b5-48fb-beef-af6288542225"}
+{"sub_uri": "Q1214", "obj_uri": "Q39042", "obj_label": "Cheyenne", "sub_label": "Wyoming", "lineid": 468, "uuid": "0436ea87-a62f-4159-bd3f-32ed65350ed1"}
+{"sub_uri": "Q133356", "obj_uri": "Q1899", "obj_label": "Kiev", "sub_label": "Ukrainian Soviet Socialist Republic", "lineid": 469, "uuid": "7ccffda9-c105-488a-8f1d-ce1e6c13c9fe"}
+{"sub_uri": "Q12544", "obj_uri": "Q16869", "obj_label": "Constantinople", "sub_label": "Byzantine Empire", "lineid": 470, "uuid": "71f43685-0886-4a99-a808-dd8cd2d893e0"}
+{"sub_uri": "Q280838", "obj_uri": "Q1999227", "obj_label": "Stanley", "sub_label": "Mountrail County", "lineid": 471, "uuid": "72572d15-2fd7-4f01-b6c4-6e1ffefc10aa"}
+{"sub_uri": "Q1617382", "obj_uri": "Q49191", "obj_label": "Portsmouth", "sub_label": "Province of New Hampshire", "lineid": 472, "uuid": "c8688297-4314-48af-beed-440aa682bce9"}
+{"sub_uri": "Q8575586", "obj_uri": "Q3766", "obj_label": "Damascus", "sub_label": "Umayyad Caliphate", "lineid": 473, "uuid": "e38b623e-36fe-40d1-b5f5-29c93596dfba"}
+{"sub_uri": "Q485592", "obj_uri": "Q763080", "obj_label": "Greenville", "sub_label": "Darke County", "lineid": 474, "uuid": "33b49eb5-d4e3-43bf-a505-5d31c84e3645"}
+{"sub_uri": "Q495382", "obj_uri": "Q533374", "obj_label": "Enterprise", "sub_label": "Wallowa County", "lineid": 475, "uuid": "15c082a3-9c94-4c6f-b4c3-d2e3a02cc13a"}
+{"sub_uri": "Q869", "obj_uri": "Q1861", "obj_label": "Bangkok", "sub_label": "Thailand", "lineid": 476, "uuid": "49f63306-5b9d-4a35-ad42-f61585991e32"}
+{"sub_uri": "Q161036", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Free State of Prussia", "lineid": 477, "uuid": "6c48d395-18b7-48c1-9c1f-986ba3b8677b"}
+{"sub_uri": "Q1159", "obj_uri": "Q1361", "obj_label": "Hyderabad", "sub_label": "Andhra Pradesh", "lineid": 478, "uuid": "f13e4d01-7793-4bc8-9964-8573cf6bf6ad"}
+{"sub_uri": "Q62589", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_label": "Union between Sweden and Norway", "lineid": 479, "uuid": "74ea9381-95ce-4d3c-bc31-ce130c8f9f8b"}
+{"sub_uri": "Q251267", "obj_uri": "Q37320", "obj_label": "Cleveland", "sub_label": "Cuyahoga County", "lineid": 480, "uuid": "37864839-1bb9-44a3-ba2d-512a5b108c93"}
+{"sub_uri": "Q20", "obj_uri": "Q585", "obj_label": "Oslo", "sub_label": "Norway", "lineid": 481, "uuid": "cc1967a4-7f88-4ab4-8647-359a7ab19d4b"}
+{"sub_uri": "Q1200", "obj_uri": "Q1720", "obj_label": "Mainz", "sub_label": "Rhineland-Palatinate", "lineid": 482, "uuid": "5ed9a796-4f9c-473a-ba47-23e250e01b4a"}
+{"sub_uri": "Q43", "obj_uri": "Q3640", "obj_label": "Ankara", "sub_label": "Turkey", "lineid": 483, "uuid": "e0f885bd-4714-4984-9110-10945d1a73af"}
+{"sub_uri": "Q232399", "obj_uri": "Q3766", "obj_label": "Damascus", "sub_label": "Rif Dimashq Governorate", "lineid": 484, "uuid": "e12095f3-1c20-4d37-b32f-79694ab1f786"}
+{"sub_uri": "Q130637", "obj_uri": "Q4093", "obj_label": "Glasgow", "sub_label": "Glasgow City Council", "lineid": 485, "uuid": "3655bfb2-eec8-4e0e-a1b8-f963a203b588"}
+{"sub_uri": "Q10557", "obj_uri": "Q2749", "obj_label": "Augsburg", "sub_label": "Swabia", "lineid": 486, "uuid": "a62cd60e-2a69-4500-af65-09e0c4e7f3e1"}
+{"sub_uri": "Q488821", "obj_uri": "Q743247", "obj_label": "Inverness", "sub_label": "Citrus County", "lineid": 487, "uuid": "cf94fa9e-3e90-41e4-9307-7587efd4c01b"}
+{"sub_uri": "Q696251", "obj_uri": "Q1490", "obj_label": "Tokyo", "sub_label": "occupation of Japan", "lineid": 488, "uuid": "658b6e7f-d867-4959-a145-a9c848b9061c"}
+{"sub_uri": "Q1387", "obj_uri": "Q18383", "obj_label": "Providence", "sub_label": "Rhode Island", "lineid": 489, "uuid": "75ba052f-521e-4acb-99b6-3ea153630873"}
+{"sub_uri": "Q109709", "obj_uri": "Q668546", "obj_label": "Davis", "sub_label": "Yolo County", "lineid": 490, "uuid": "7ec42ef7-4a33-45d7-bfd3-3212a99c60dd"}
+{"sub_uri": "Q1221", "obj_uri": "Q35775", "obj_label": "Boise", "sub_label": "Idaho", "lineid": 491, "uuid": "e75dd5d5-e62f-4b0b-86c8-402161085a95"}
+{"sub_uri": "Q224", "obj_uri": "Q1435", "obj_label": "Zagreb", "sub_label": "Croatia", "lineid": 492, "uuid": "7efebaf2-ed4c-480c-8637-cf7259965a63"}
+{"sub_uri": "Q162475", "obj_uri": "Q36647", "obj_label": "Cork", "sub_label": "County Cork", "lineid": 493, "uuid": "2a8361b3-1a6b-4a12-9d82-2d1e45ccb3d2"}
+{"sub_uri": "Q487401", "obj_uri": "Q5713", "obj_label": "Mary", "sub_label": "Mary Region", "lineid": 494, "uuid": "7b176c82-7f8b-4962-8055-65fb9751eba1"}
+{"sub_uri": "Q269864", "obj_uri": "Q3711", "obj_label": "Belgrade", "sub_label": "Socialist Republic of Serbia", "lineid": 495, "uuid": "6ed73964-16f8-4dfc-ac6a-3c0facaa1c8e"}
+{"sub_uri": "Q785035", "obj_uri": "Q83813", "obj_label": "Savannah", "sub_label": "Province of Georgia", "lineid": 496, "uuid": "2465a73a-b182-4487-831b-fafe64dbcaeb"}
+{"sub_uri": "Q624887", "obj_uri": "Q5684", "obj_label": "Babylon", "sub_label": "Neo-Babylonian Empire", "lineid": 497, "uuid": "43736130-8967-48a6-a2a2-7130aaf4c82d"}
+{"sub_uri": "Q378896", "obj_uri": "Q1373794", "obj_label": "Marion", "sub_label": "Smyth County", "lineid": 498, "uuid": "43e149f1-7e70-41b5-adb2-523d1a8742a9"}
+{"sub_uri": "Q816814", "obj_uri": "Q170263", "obj_label": "Chester", "sub_label": "Kingdom of Gwynedd", "lineid": 499, "uuid": "bb062949-335e-4f20-bfc1-21cc0a1d0de0"}
+{"sub_uri": "Q918975", "obj_uri": "Q201812", "obj_label": "Huddersfield", "sub_label": "Kirklees", "lineid": 500, "uuid": "84306efb-d78f-4e07-828b-0629893e5379"}
+{"sub_uri": "Q16310", "obj_uri": "Q641", "obj_label": "Venice", "sub_label": "Province of Venice", "lineid": 501, "uuid": "2c8fbfa6-ab45-410c-806a-64c8a3acb32c"}
+{"sub_uri": "Q2055400", "obj_uri": "Q11194", "obj_label": "Sarajevo", "sub_label": "Bosnia Eyalet", "lineid": 502, "uuid": "03698174-30f5-4844-8319-7a9dbbb38290"}
+{"sub_uri": "Q23115", "obj_uri": "Q192240", "obj_label": "Northampton", "sub_label": "Northamptonshire", "lineid": 503, "uuid": "06362d32-3f2e-478f-941a-0616bd58828d"}
+{"sub_uri": "Q1773517", "obj_uri": "Q994", "obj_label": "Tbilisi", "sub_label": "Tiflis Governorate", "lineid": 504, "uuid": "a8b8887e-cc80-466c-9f4f-fd1ff966fd7a"}
+{"sub_uri": "Q2513167", "obj_uri": "Q47716", "obj_label": "Charleston", "sub_label": "Province of South Carolina", "lineid": 505, "uuid": "924d1a80-1faf-43b6-a982-c712dfeff7a2"}
+{"sub_uri": "Q105313", "obj_uri": "Q172157", "obj_label": "Winchester", "sub_label": "Kingdom of Wessex", "lineid": 506, "uuid": "8a63f77a-5be6-444e-a7ea-9f2610a608f3"}
+{"sub_uri": "Q336322", "obj_uri": "Q1014189", "obj_label": "Jefferson", "sub_label": "Ashtabula County", "lineid": 507, "uuid": "9bedf4e1-745e-4f21-bca5-e7d580664faf"}
+{"sub_uri": "Q114904", "obj_uri": "Q128069", "obj_label": "Syracuse", "sub_label": "Onondaga County", "lineid": 508, "uuid": "160827a7-715f-4989-a38c-8c67ee6e42d5"}
+{"sub_uri": "Q95088", "obj_uri": "Q8717", "obj_label": "Seville", "sub_label": "Seville Province", "lineid": 509, "uuid": "536c1d40-b618-46fc-b6d7-f8b6537f6e4c"}
+{"sub_uri": "Q81226", "obj_uri": "Q1953", "obj_label": "Yerevan", "sub_label": "Erivan Governorate", "lineid": 510, "uuid": "322e2262-203c-49f9-8c04-49147046d53f"}
+{"sub_uri": "Q58688", "obj_uri": "Q18575", "obj_label": "Tucson", "sub_label": "Pima County", "lineid": 511, "uuid": "5c4502b9-fa55-499b-baf7-74c7318b364c"}
+{"sub_uri": "Q2277", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "Roman Empire", "lineid": 512, "uuid": "3f21d7e7-c437-450b-bf74-5836afb3e9eb"}
+{"sub_uri": "Q478222", "obj_uri": "Q7903", "obj_label": "Casablanca", "sub_label": "Grand Casablanca", "lineid": 513, "uuid": "3a28217a-38d2-4db5-8585-deb0e5465f94"}
+{"sub_uri": "Q262", "obj_uri": "Q3561", "obj_label": "Algiers", "sub_label": "Algeria", "lineid": 514, "uuid": "bf05c4de-ce84-4020-b811-0d909e052fbe"}
+{"sub_uri": "Q1974", "obj_uri": "Q2132", "obj_label": "Victoria", "sub_label": "British Columbia", "lineid": 515, "uuid": "6f4c4550-01e4-4dac-902f-ec3cd3fd54ca"}
+{"sub_uri": "Q1356", "obj_uri": "Q1348", "obj_label": "Kolkata", "sub_label": "West Bengal", "lineid": 516, "uuid": "5a385050-7233-4e81-9776-c3226669ca8b"}
+{"sub_uri": "Q484748", "obj_uri": "Q966006", "obj_label": "Savannah", "sub_label": "Andrew County", "lineid": 517, "uuid": "646acdd9-c793-4a50-9534-3c631dcea026"}
+{"sub_uri": "Q374604", "obj_uri": "Q606988", "obj_label": "Pratt", "sub_label": "Pratt County", "lineid": 518, "uuid": "f23de1f0-8839-4525-8e9a-fa74f68b6a4f"}
+{"sub_uri": "Q54925", "obj_uri": "Q11953", "obj_label": "Guadalajara", "sub_label": "Guadalajara Province", "lineid": 519, "uuid": "3a0dc821-ca63-425c-af3f-9d3848d0e44d"}
+{"sub_uri": "Q820325", "obj_uri": "Q57278", "obj_label": "Newcastle", "sub_label": "City of Newcastle", "lineid": 520, "uuid": "053c8501-8e35-4d3e-9de3-0be79e79b174"}
+{"sub_uri": "Q736727", "obj_uri": "Q2751", "obj_label": "Siena", "sub_label": "Republic of Siena", "lineid": 521, "uuid": "8f8caad7-4143-45c0-975f-f9c7d67f632a"}
+{"sub_uri": "Q113029", "obj_uri": "Q192517", "obj_label": "Boulder", "sub_label": "Boulder County", "lineid": 522, "uuid": "395ee57c-b2fd-48be-a70d-27fe8069144d"}
+{"sub_uri": "Q42585", "obj_uri": "Q1085", "obj_label": "Prague", "sub_label": "Kingdom of Bohemia", "lineid": 523, "uuid": "669632a7-16d3-4168-b1da-1af84e791e57"}
+{"sub_uri": "Q1697", "obj_uri": "Q649", "obj_label": "Moscow", "sub_label": "Moscow Oblast", "lineid": 524, "uuid": "933a7b35-baa8-419e-bb5f-7986c34b9932"}
+{"sub_uri": "Q58759", "obj_uri": "Q916314", "obj_label": "Parker", "sub_label": "La Paz County", "lineid": 525, "uuid": "e4fb347a-9bc7-41a9-947e-22ae83d2d128"}
+{"sub_uri": "Q822", "obj_uri": "Q3820", "obj_label": "Beirut", "sub_label": "Lebanon", "lineid": 526, "uuid": "5b11c47c-fb54-437d-a493-19e52411c4d7"}
+{"sub_uri": "Q511647", "obj_uri": "Q1905654", "obj_label": "Manchester", "sub_label": "Bennington County", "lineid": 527, "uuid": "6a627c5e-9a84-4eb6-a89b-4e51f31df2a7"}
+{"sub_uri": "Q211", "obj_uri": "Q1773", "obj_label": "Riga", "sub_label": "Latvia", "lineid": 528, "uuid": "36e519d0-8b4c-4a69-868c-97aebcd5689f"}
+{"sub_uri": "Q188712", "obj_uri": "Q1490", "obj_label": "Tokyo", "sub_label": "Empire of Japan", "lineid": 529, "uuid": "d91445d2-d35a-40bc-a317-77dd7752ddcf"}
+{"sub_uri": "Q25", "obj_uri": "Q10690", "obj_label": "Cardiff", "sub_label": "Wales", "lineid": 530, "uuid": "0a5208ee-fbcb-4563-971a-3097e799a8db"}
+{"sub_uri": "Q229411", "obj_uri": "Q1353", "obj_label": "Delhi", "sub_label": "Delhi Sultanate", "lineid": 531, "uuid": "da44703b-c14c-4a14-b00a-74750d50e61e"}
+{"sub_uri": "Q568751", "obj_uri": "Q1720", "obj_label": "Mainz", "sub_label": "Mont-Tonnerre", "lineid": 532, "uuid": "90bf852a-66d0-4300-93a5-6db001007cdb"}
+{"sub_uri": "Q17765809", "obj_uri": "Q1524", "obj_label": "Athens", "sub_label": "Third Hellenic Republic", "lineid": 533, "uuid": "088ba44b-5528-4e5d-bc14-1a5f51a3ed5b"}
+{"sub_uri": "Q156031", "obj_uri": "Q1773", "obj_label": "Riga", "sub_label": "Reichskommissariat Ostland", "lineid": 534, "uuid": "a6ca27fa-dda5-48d1-ac1e-6684c73b60cd"}
+{"sub_uri": "Q470626", "obj_uri": "Q1375037", "obj_label": "Amherst", "sub_label": "Amherst County", "lineid": 535, "uuid": "6f142b33-a989-40f7-9c10-0a296d35efe9"}
+{"sub_uri": "Q476757", "obj_uri": "Q5838", "obj_label": "Kabul", "sub_label": "Democratic Republic of Afghanistan", "lineid": 536, "uuid": "a2f2b6eb-0ab9-4dec-8fc5-78880b6da540"}
+{"sub_uri": "Q36", "obj_uri": "Q270", "obj_label": "Warsaw", "sub_label": "Poland", "lineid": 537, "uuid": "1f3d2534-050f-4186-9f97-0446a40130c4"}
+{"sub_uri": "Q658527", "obj_uri": "Q5687", "obj_label": "Jericho", "sub_label": "Jericho Governorate", "lineid": 538, "uuid": "82d3c701-7ff4-47f3-aa3c-97abccf3fe2b"}
+{"sub_uri": "Q189326", "obj_uri": "Q3616", "obj_label": "Tehran", "sub_label": "Qajar dynasty", "lineid": 539, "uuid": "d280d4c1-392e-45af-8c7e-632425edf2b3"}
+{"sub_uri": "Q12536", "obj_uri": "Q1530", "obj_label": "Baghdad", "sub_label": "Abbasid Caliphate", "lineid": 540, "uuid": "9c0d9389-8c0f-44ed-a983-b63f809c6dbb"}
+{"sub_uri": "Q37211", "obj_uri": "Q8660", "obj_label": "Karachi", "sub_label": "Sindh", "lineid": 541, "uuid": "9211b122-bbb6-4917-bcc1-24d7409aea0b"}
+{"sub_uri": "Q50615", "obj_uri": "Q585", "obj_label": "Oslo", "sub_label": "Akershus", "lineid": 542, "uuid": "377b1f7b-55b0-454e-a434-4858f23dba54"}
+{"sub_uri": "Q506376", "obj_uri": "Q992560", "obj_label": "Warsaw", "sub_label": "Kosciusko County", "lineid": 543, "uuid": "57eb66a2-f2a8-4767-83b1-6432af4b4459"}
+{"sub_uri": "Q486348", "obj_uri": "Q775102", "obj_label": "Franklin", "sub_label": "Heard County", "lineid": 544, "uuid": "b68a549a-4922-4980-bb91-a09d1d690535"}
+{"sub_uri": "Q199841", "obj_uri": "Q131694", "obj_label": "Aden", "sub_label": "South Yemen", "lineid": 545, "uuid": "ab35028d-1b33-4016-936b-f0ea37425da8"}
+{"sub_uri": "Q18678082", "obj_uri": "Q1479", "obj_label": "Bordeaux", "sub_label": "Nouvelle-Aquitaine", "lineid": 546, "uuid": "6979b563-c775-4100-9b09-fabfb3377122"}
+{"sub_uri": "Q110486", "obj_uri": "Q975843", "obj_label": "Kaufman", "sub_label": "Kaufman County", "lineid": 547, "uuid": "fa3a838f-c0c0-4ac8-844a-ebfaffc05414"}
+{"sub_uri": "Q47967", "obj_uri": "Q18125", "obj_label": "Manchester", "sub_label": "North West England", "lineid": 548, "uuid": "20d871a5-9096-4d94-b661-7079dfecc6f3"}
+{"sub_uri": "Q11917", "obj_uri": "Q71", "obj_label": "Geneva", "sub_label": "Canton of Geneva", "lineid": 549, "uuid": "84efc815-98af-41f2-9925-bbff814cbc08"}
+{"sub_uri": "Q925987", "obj_uri": "Q705699", "obj_label": "Gladstone", "sub_label": "Gladstone Region", "lineid": 550, "uuid": "422e371c-540c-4df6-837b-8b01e0d60dc7"}
+{"sub_uri": "Q148", "obj_uri": "Q956", "obj_label": "Beijing", "sub_label": "People's Republic of China", "lineid": 551, "uuid": "bf163c34-ce3c-4d45-ae1e-4a7660fb6115"}
+{"sub_uri": "Q4478", "obj_uri": "Q11739", "obj_label": "Lahore", "sub_label": "Punjab", "lineid": 552, "uuid": "563beae1-2fb9-4d5f-b49b-60385eca7b77"}
+{"sub_uri": "Q177819", "obj_uri": "Q5715", "obj_label": "Memphis", "sub_label": "Old Kingdom of Egypt", "lineid": 553, "uuid": "5febc620-38bb-429f-8bcd-ebba49711070"}
+{"sub_uri": "Q2396442", "obj_uri": "Q36036", "obj_label": "Lviv", "sub_label": "Kingdom of Galicia and Lodomeria", "lineid": 554, "uuid": "2acd9043-8097-4c31-ba0f-548f0debfab8"}
+{"sub_uri": "Q23635", "obj_uri": "Q30985", "obj_label": "Hamilton", "sub_label": "Bermuda", "lineid": 555, "uuid": "2b83adcd-1763-4596-9955-ebc56c031dda"}
+{"sub_uri": "Q192761", "obj_uri": "Q193452", "obj_label": "Armagh", "sub_label": "County Armagh", "lineid": 556, "uuid": "01ddc284-5dcb-401e-98b8-8b155c4dd53b"}
+{"sub_uri": "Q12538", "obj_uri": "Q7880", "obj_label": "Toulouse", "sub_label": "Haute-Garonne", "lineid": 557, "uuid": "087fb319-11c7-45f3-a6e8-c43ba516e845"}
+{"sub_uri": "Q170468", "obj_uri": "Q85", "obj_label": "Cairo", "sub_label": "United Arab Republic", "lineid": 558, "uuid": "019e693a-7dd4-420d-9e33-63eacf8d2432"}
+{"sub_uri": "Q23129", "obj_uri": "Q204720", "obj_label": "Hereford", "sub_label": "Herefordshire", "lineid": 559, "uuid": "f8a7b6a3-3e2f-4cc4-b1cb-a1a421c47281"}
+{"sub_uri": "Q2001966", "obj_uri": "Q1348", "obj_label": "Kolkata", "sub_label": "company rule in India", "lineid": 560, "uuid": "82278936-49f6-4c5c-b2d6-03b4a39c2b85"}
+{"sub_uri": "Q12526", "obj_uri": "Q1479", "obj_label": "Bordeaux", "sub_label": "Gironde", "lineid": 561, "uuid": "73825783-d45d-4f2a-9178-1a04cb610f2d"}
+{"sub_uri": "Q15121", "obj_uri": "Q490", "obj_label": "Milan", "sub_label": "province of Milan", "lineid": 562, "uuid": "1c1a7df6-c61b-416d-8250-7f925f605524"}
+{"sub_uri": "Q497880", "obj_uri": "Q2343167", "obj_label": "Hampton", "sub_label": "Hampton County", "lineid": 563, "uuid": "71abdd70-d330-4483-94ad-44cb4d8ece79"}
+{"sub_uri": "Q33", "obj_uri": "Q1757", "obj_label": "Helsinki", "sub_label": "Finland", "lineid": 564, "uuid": "1a3c9946-a242-437d-97a7-e263c61b6622"}
+{"sub_uri": "Q52502", "obj_uri": "Q25287", "obj_label": "Gothenburg", "sub_label": "Gothenburg Municipality", "lineid": 565, "uuid": "0738356c-ea80-435e-89ca-1fdf44c6f647"}
+{"sub_uri": "Q109804", "obj_uri": "Q981218", "obj_label": "Hereford", "sub_label": "Deaf Smith County", "lineid": 566, "uuid": "d2ddefc4-1f3e-49e7-ba5d-2dea52d473d0"}
+{"sub_uri": "Q696242", "obj_uri": "Q16666", "obj_label": "Nanjing", "sub_label": "Wang Jingwei regime", "lineid": 567, "uuid": "fe0c95ed-7550-4951-a885-3b8ca28b6550"}
+{"sub_uri": "Q485646", "obj_uri": "Q685335", "obj_label": "Portsmouth", "sub_label": "Scioto County", "lineid": 568, "uuid": "131166b0-6169-4e1e-a243-c26f1bce4e92"}
+{"sub_uri": "Q192753", "obj_uri": "Q956048", "obj_label": "Townsend", "sub_label": "Broadwater County", "lineid": 569, "uuid": "859f9933-06f8-400f-9ff3-c1bca5c25918"}
+{"sub_uri": "Q858", "obj_uri": "Q3766", "obj_label": "Damascus", "sub_label": "Syria", "lineid": 570, "uuid": "055ec1a7-9625-41a6-bfd6-781afc018c35"}
+{"sub_uri": "Q304791", "obj_uri": "Q514457", "obj_label": "Stevenson", "sub_label": "Skamania County", "lineid": 571, "uuid": "0a0c4edf-8b82-4540-a398-acfcd8327329"}
+{"sub_uri": "Q5720", "obj_uri": "Q8818", "obj_label": "Valencia", "sub_label": "Community of Valencia", "lineid": 572, "uuid": "1f2b2f65-1d01-407a-ba0d-c4c8ab55c995"}
+{"sub_uri": "Q2895", "obj_uri": "Q2280", "obj_label": "Minsk", "sub_label": "Byelorussian Soviet Socialist Republic", "lineid": 573, "uuid": "2bcde1b7-c1e8-44cc-bdf0-2253e6c8a9b4"}
+{"sub_uri": "Q174306", "obj_uri": "Q1449", "obj_label": "Genoa", "sub_label": "Republic of Genova", "lineid": 574, "uuid": "2a3e3348-e56b-47f5-a6db-5320296ad332"}
+{"sub_uri": "Q192232", "obj_uri": "Q1218", "obj_label": "Jerusalem", "sub_label": "Jerusalem District", "lineid": 575, "uuid": "509df8ee-9ede-45ba-bb93-c70cafd7f470"}
+{"sub_uri": "Q31", "obj_uri": "Q239", "obj_label": "Brussels", "sub_label": "Belgium", "lineid": 576, "uuid": "d5672fe4-0f47-4e56-8928-388e24a5f405"}
+{"sub_uri": "Q201073", "obj_uri": "Q19689", "obj_label": "Tirana", "sub_label": "Tirana District", "lineid": 577, "uuid": "3bbad837-029e-4c0f-971a-45e45581ecba"}
+{"sub_uri": "Q1256", "obj_uri": "Q1449", "obj_label": "Genoa", "sub_label": "Liguria", "lineid": 578, "uuid": "e75d8299-9f49-4c22-952b-011fa87648ac"}
+{"sub_uri": "Q337402", "obj_uri": "Q1022973", "obj_label": "Crowley", "sub_label": "Acadia Parish", "lineid": 579, "uuid": "758d32c2-4516-429c-b5bb-a42b65987f72"}
+{"sub_uri": "Q206926", "obj_uri": "Q1774629", "obj_label": "Irvine", "sub_label": "North Ayrshire", "lineid": 580, "uuid": "4cb2d74d-d192-40ba-87a3-10b37c6efc03"}
+{"sub_uri": "Q1179", "obj_uri": "Q1479", "obj_label": "Bordeaux", "sub_label": "Aquitaine", "lineid": 581, "uuid": "5a1fbede-b30f-4702-8f2c-dcca936bc67e"}
+{"sub_uri": "Q118743", "obj_uri": "Q2054204", "obj_label": "Parsons", "sub_label": "Tucker County", "lineid": 582, "uuid": "78549aad-7ec6-46cb-9693-40aca7e9b797"}
+{"sub_uri": "Q1797336", "obj_uri": "Q1538", "obj_label": "Pune", "sub_label": "Pune district", "lineid": 583, "uuid": "68e36c8c-376b-495b-b480-d74a627e7a02"}
+{"sub_uri": "Q12793", "obj_uri": "Q13855", "obj_label": "Vic", "sub_label": "Osona", "lineid": 584, "uuid": "f7d52f4c-0c3c-4e4d-96e6-24d55660b773"}
+{"sub_uri": "Q484156", "obj_uri": "Q983438", "obj_label": "Douglas", "sub_label": "Converse County", "lineid": 585, "uuid": "df1b5711-98d2-4bea-b853-465012e3e3f9"}
+{"sub_uri": "Q206221", "obj_uri": "Q7880", "obj_label": "Toulouse", "sub_label": "Languedoc", "lineid": 586, "uuid": "c612d150-1694-4c8f-a23b-4bfb1b656e2d"}
+{"sub_uri": "Q28513", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_label": "Austria-Hungary", "lineid": 587, "uuid": "37f0a960-f344-498a-8c09-0a8226f86734"}
+{"sub_uri": "Q15119", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "Province of Rome", "lineid": 588, "uuid": "8414e813-5ba7-451a-9205-1685cf9f9e7b"}
+{"sub_uri": "Q104231", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_label": "Stockholm County", "lineid": 589, "uuid": "b946776a-3b0b-447e-9b5e-ba2450b7e901"}
+{"sub_uri": "Q1140829", "obj_uri": "Q900", "obj_label": "Kazan", "sub_label": "Tatar Autonomous Soviet Socialist Republic", "lineid": 590, "uuid": "14c2c3db-248d-4fd0-a26a-2b9204f75629"}
+{"sub_uri": "Q124943", "obj_uri": "Q85", "obj_label": "Cairo", "sub_label": "Kingdom of Egypt", "lineid": 591, "uuid": "4a2fbd04-8e84-40ed-b3ca-5a2bdd89251b"}
+{"sub_uri": "Q1509", "obj_uri": "Q23197", "obj_label": "Nashville", "sub_label": "Tennessee", "lineid": 592, "uuid": "d6a640a8-b368-46fa-8bbe-6a61b9db3997"}
+{"sub_uri": "Q426398", "obj_uri": "Q935334", "obj_label": "Philadelphia", "sub_label": "Neshoba County", "lineid": 593, "uuid": "85fc8b3a-d9aa-4c6c-8875-1eea1189b279"}
+{"sub_uri": "Q495974", "obj_uri": "Q138391", "obj_label": "Paterson", "sub_label": "Passaic County", "lineid": 594, "uuid": "428625bd-5c6a-4886-bb5e-b544e3e230a0"}
+{"sub_uri": "Q160420", "obj_uri": "Q209766", "obj_label": "Saga", "sub_label": "Saga Prefecture", "lineid": 595, "uuid": "bbe6a6f2-726b-40fd-9a3f-5d39ab7bf602"}
+{"sub_uri": "Q34", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_label": "Sweden", "lineid": 596, "uuid": "a0106aa1-36c9-4a57-ac58-43c22b36938f"}
+{"sub_uri": "Q178038", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_label": "Second Spanish Republic", "lineid": 597, "uuid": "cad04199-2b3f-4b54-91c5-daf458e837ac"}
+{"sub_uri": "Q218272", "obj_uri": "Q3561", "obj_label": "Algiers", "sub_label": "French Algeria", "lineid": 598, "uuid": "cdf391dd-0a27-414f-8332-0a7e7d4ed59d"}
+{"sub_uri": "Q3177715", "obj_uri": "Q3492", "obj_label": "Sumatra", "sub_label": "Pagaruyung Kingdom", "lineid": 599, "uuid": "7392ce02-09e3-4c31-a9cc-9f89c65d88f9"}
+{"sub_uri": "Q210176", "obj_uri": "Q17151", "obj_label": "Thessaloniki", "sub_label": "Thessaloniki Regional Unit", "lineid": 600, "uuid": "169ee8e1-5448-4dca-bad2-b06c9de559c7"}
+{"sub_uri": "Q2425849", "obj_uri": "Q36405", "obj_label": "Aberdeen", "sub_label": "Aberdeen City Council", "lineid": 601, "uuid": "e8b3e0f1-0679-48be-b3d0-62eafcdf4366"}
+{"sub_uri": "Q266923", "obj_uri": "Q10086", "obj_label": "Mysore", "sub_label": "Kingdom of Mysore", "lineid": 602, "uuid": "679be709-3c67-4cd2-99f9-a0856248fa26"}
+{"sub_uri": "Q856010", "obj_uri": "Q23661", "obj_label": "Wellington", "sub_label": "Wellington Region", "lineid": 603, "uuid": "7abc24e9-48ef-4aaa-a548-85f623ba4796"}
+{"sub_uri": "Q1124743", "obj_uri": "Q327012", "obj_label": "Bangor", "sub_label": "Penobscot County", "lineid": 604, "uuid": "0b073fa1-25bf-4034-87cf-6d1e3f00a401"}
+{"sub_uri": "Q2346838", "obj_uri": "Q34647", "obj_label": "Johannesburg", "sub_label": "City of Johannesburg Metropolitan Municipality", "lineid": 605, "uuid": "d805ceb2-2889-4f39-aace-cd0e60b5325b"}
+{"sub_uri": "Q1397", "obj_uri": "Q16567", "obj_label": "Columbus", "sub_label": "Ohio", "lineid": 606, "uuid": "95cff64c-bd04-4b8f-b9b4-c47ee2693c82"}
+{"sub_uri": "Q1456", "obj_uri": "Q38453", "obj_label": "Columbia", "sub_label": "South Carolina", "lineid": 607, "uuid": "b3f8c882-15c0-4ed6-9b17-99b313038934"}
+{"sub_uri": "Q766", "obj_uri": "Q34692", "obj_label": "Kingston", "sub_label": "Jamaica", "lineid": 608, "uuid": "34697f51-47de-4b5f-b92b-849972a5ae6e"}
+{"sub_uri": "Q6412664", "obj_uri": "Q3711", "obj_label": "Belgrade", "sub_label": "Realm of Stefan Dragutin", "lineid": 609, "uuid": "be33cae9-0265-4008-be6d-15b7ff659573"}
+{"sub_uri": "Q1137842", "obj_uri": "Q649", "obj_label": "Moscow", "sub_label": "Moscow Governorate", "lineid": 610, "uuid": "cc7e30ec-c91a-465b-afa9-17d933491759"}
+{"sub_uri": "Q1108445", "obj_uri": "Q1899", "obj_label": "Kiev", "sub_label": "Kyivska Rus'", "lineid": 611, "uuid": "773eb732-83f2-4492-9d49-5e336ac22725"}
+{"sub_uri": "Q3125", "obj_uri": "Q175081", "obj_label": "Gap", "sub_label": "Hautes-Alpes", "lineid": 612, "uuid": "49b7fb49-7113-42d3-88bf-b09cdd2b0c36"}
+{"sub_uri": "Q502587", "obj_uri": "Q1088317", "obj_label": "Salem", "sub_label": "Salem County", "lineid": 613, "uuid": "cda450a9-04c4-4a07-8b76-536890f8baa2"}
+{"sub_uri": "Q179876", "obj_uri": "Q84", "obj_label": "London", "sub_label": "Kingdom of England", "lineid": 614, "uuid": "381b9c02-419a-434f-91ef-bb973b5c485c"}
+{"sub_uri": "Q5705", "obj_uri": "Q1492", "obj_label": "Barcelona", "sub_label": "Catalonia", "lineid": 615, "uuid": "e23d5c87-5bb4-4db4-a3a0-eecc3ce51c42"}
+{"sub_uri": "Q494536", "obj_uri": "Q1518127", "obj_label": "Jerome", "sub_label": "Jerome County", "lineid": 616, "uuid": "147c0536-821a-446a-973c-2dca3793de7c"}
+{"sub_uri": "Q910648", "obj_uri": "Q1461", "obj_label": "Manila", "sub_label": "Spanish East Indies", "lineid": 617, "uuid": "3bb2a7f7-56b5-4adc-bb69-f065fd3598f3"}
+{"sub_uri": "Q133132", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Revolucion Francesa", "lineid": 618, "uuid": "1d3ab203-e368-4e64-a0fa-3875ece8b221"}
+{"sub_uri": "Q1216", "obj_uri": "Q495", "obj_label": "Turin", "sub_label": "Piedmont", "lineid": 619, "uuid": "5b453777-1eb7-4e7e-90f9-f7d48455668b"}
+{"sub_uri": "Q2342822", "obj_uri": "Q8660", "obj_label": "Karachi", "sub_label": "West Pakistan", "lineid": 620, "uuid": "e01baa0d-e062-4c8d-b121-a47251ca5228"}
+{"sub_uri": "Q213", "obj_uri": "Q1085", "obj_label": "Prague", "sub_label": "Czech Republic", "lineid": 621, "uuid": "3bf53e54-010f-436b-bde8-06f74f771236"}
+{"sub_uri": "Q1952", "obj_uri": "Q2141", "obj_label": "Halifax", "sub_label": "Nova Scotia", "lineid": 622, "uuid": "514f1d92-506c-4eed-a739-f6946cd00057"}
+{"sub_uri": "Q23169", "obj_uri": "Q34217", "obj_label": "Oxford", "sub_label": "Oxfordshire", "lineid": 623, "uuid": "18a2b40f-511e-41b8-8a29-6e46603b5bc6"}
+{"sub_uri": "Q651688", "obj_uri": "Q3820", "obj_label": "Beirut", "sub_label": "Beirut Governorate", "lineid": 624, "uuid": "d52570f1-2957-4179-a2ff-83c149b34156"}
+{"sub_uri": "Q458", "obj_uri": "Q239", "obj_label": "Brussels", "sub_label": "European Union", "lineid": 625, "uuid": "c1ccc1c9-17ca-46a8-b523-1ff87e891c17"}
+{"sub_uri": "Q83286", "obj_uri": "Q3711", "obj_label": "Belgrade", "sub_label": "Socialist Federal Republic of Yugoslavia", "lineid": 626, "uuid": "da83301e-b283-499e-a86f-bbd377c87520"}
+{"sub_uri": "Q129286", "obj_uri": "Q1348", "obj_label": "Kolkata", "sub_label": "British India", "lineid": 627, "uuid": "6d39f9db-9bf0-4b0f-9652-6af29553480e"}
+{"sub_uri": "Q8733", "obj_uri": "Q956", "obj_label": "Beijing", "sub_label": "Qing dynasty", "lineid": 628, "uuid": "5b1e5310-53f0-4267-adec-a3af6e6a61a5"}
+{"sub_uri": "Q284840", "obj_uri": "Q499927", "obj_label": "Moscow", "sub_label": "Latah County", "lineid": 629, "uuid": "3616a83c-0f79-4d4a-b4ca-2cd56fe99973"}
+{"sub_uri": "Q49683", "obj_uri": "Q216", "obj_label": "Vilnius", "sub_label": "Grand Duchy of Lithuania", "lineid": 630, "uuid": "cce5636c-d2d1-45c6-bd20-96ebdfe582a5"}
+{"sub_uri": "Q165154", "obj_uri": "Q495", "obj_label": "Turin", "sub_label": "Kingdom of Sardinia", "lineid": 631, "uuid": "75f7a8a0-7401-462d-b5d1-5c70b8466e86"}
+{"sub_uri": "Q258532", "obj_uri": "Q84", "obj_label": "London", "sub_label": "British America", "lineid": 632, "uuid": "abcb49e4-0793-403b-a88b-24b9c73a0341"}
+{"sub_uri": "Q302778", "obj_uri": "Q1085", "obj_label": "Prague", "sub_label": "Prague-West District", "lineid": 633, "uuid": "7f30c92c-389a-4bdb-9357-37062aaabded"}
+{"sub_uri": "Q1391", "obj_uri": "Q28271", "obj_label": "Annapolis", "sub_label": "Maryland", "lineid": 634, "uuid": "890b7a8d-a1a7-47af-9bba-d4ef8dfa0fbf"}
+{"sub_uri": "Q41304", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Weimar Republic", "lineid": 635, "uuid": "d7e9d75c-0637-4d1f-8c4b-01ee4428907c"}
+{"sub_uri": "Q81931", "obj_uri": "Q43421", "obj_label": "Richmond", "sub_label": "Confederate States of America", "lineid": 636, "uuid": "c6fa96d5-1bc7-416d-8c5d-7a42d6e8dc29"}
+{"sub_uri": "Q106577", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Neustria", "lineid": 637, "uuid": "e1f2ed7f-ceb2-4305-98aa-781554a04d54"}
+{"sub_uri": "Q488701", "obj_uri": "Q28271", "obj_label": "Annapolis", "sub_label": "Anne Arundel County", "lineid": 638, "uuid": "e94c5d7f-78fd-43e5-9b5f-c7c52615e1d9"}
+{"sub_uri": "Q32081", "obj_uri": "Q1867", "obj_label": "Taipei", "sub_label": "Taiwan Province", "lineid": 639, "uuid": "d8f7723b-ea50-48eb-8fc0-bac2928f2ca9"}
+{"sub_uri": "Q487016", "obj_uri": "Q994144", "obj_label": "Brunswick", "sub_label": "Glynn County", "lineid": 640, "uuid": "8707aff8-7180-4831-9cb7-a9cb21903e5b"}
+{"sub_uri": "Q980", "obj_uri": "Q1726", "obj_label": "Munich", "sub_label": "Bavaria", "lineid": 641, "uuid": "2f24a18e-7bf9-41ad-93b7-7b727f32e777"}
+{"sub_uri": "Q496900", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_label": "Philadelphia County", "lineid": 642, "uuid": "df640a02-508c-42e8-8a2b-6d54fc3e2ef8"}
+{"sub_uri": "Q495667", "obj_uri": "Q2414602", "obj_label": "Alexandria", "sub_label": "Hanson County", "lineid": 643, "uuid": "412cc78d-8380-4e21-aeee-7c93b3187954"}
+{"sub_uri": "Q782", "obj_uri": "Q18094", "obj_label": "Honolulu", "sub_label": "Hawaii", "lineid": 644, "uuid": "b24c28c7-c73b-475b-b88c-383d011a349f"}
+{"sub_uri": "Q2415901", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Allied-occupied Germany", "lineid": 645, "uuid": "ba026660-3cbc-48c6-ae73-9ea55d5a6edf"}
+{"sub_uri": "Q167360", "obj_uri": "Q597", "obj_label": "Lisbon", "sub_label": "First Portuguese Republic", "lineid": 646, "uuid": "29082c5d-d64c-4d29-bcba-a6e5299b69bb"}
+{"sub_uri": "Q491525", "obj_uri": "Q972506", "obj_label": "Lexington", "sub_label": "Oglethorpe County", "lineid": 647, "uuid": "6587c997-364f-466f-8adf-8e8de2e83da8"}
+{"sub_uri": "Q61468", "obj_uri": "Q79853", "obj_label": "Conway", "sub_label": "Faulkner County", "lineid": 648, "uuid": "7f78ab18-a578-4506-b001-ebc995d496ab"}
+{"sub_uri": "Q178341", "obj_uri": "Q2350996", "obj_label": "Webster", "sub_label": "Day County", "lineid": 649, "uuid": "03994925-9523-4fe5-92f8-e8b498d48a63"}
+{"sub_uri": "Q36074", "obj_uri": "Q34932", "obj_label": "Brisbane", "sub_label": "Queensland", "lineid": 650, "uuid": "18df3d31-9282-4ce4-a31e-d1bc7461a2fc"}
+{"sub_uri": "Q61414", "obj_uri": "Q79844", "obj_label": "Stuttgart", "sub_label": "Arkansas County", "lineid": 651, "uuid": "59d34446-9063-4f38-8242-187aad78e17b"}
+{"sub_uri": "Q39193", "obj_uri": "Q1085", "obj_label": "Prague", "sub_label": "Bohemia", "lineid": 652, "uuid": "1948098d-a4e5-4abf-ba03-373467034c18"}
+{"sub_uri": "Q427941", "obj_uri": "Q5838", "obj_label": "Kabul", "sub_label": "Islamic Emirate of Afghanistan", "lineid": 653, "uuid": "478ae898-8d7b-42c2-a595-e81e1d08cbaf"}
+{"sub_uri": "Q1062072", "obj_uri": "Q11751", "obj_label": "Nagoya", "sub_label": "Owari Domain", "lineid": 654, "uuid": "e5787ceb-a46c-44d0-949d-d2a967231615"}
+{"sub_uri": "Q214094", "obj_uri": "Q3766", "obj_label": "Damascus", "sub_label": "Homs Governorate", "lineid": 655, "uuid": "7ca5fbf8-a8c0-4a05-9260-609de04b5c58"}
+{"sub_uri": "Q1371", "obj_uri": "Q44564", "obj_label": "Charleston", "sub_label": "West Virginia", "lineid": 656, "uuid": "22d6b190-31d3-44ec-801b-8191cb2c98f1"}
+{"sub_uri": "Q114", "obj_uri": "Q3870", "obj_label": "Nairobi", "sub_label": "Kenya", "lineid": 657, "uuid": "773be355-d808-4a77-bdf0-e9a72752f8bb"}
+{"sub_uri": "Q1326742", "obj_uri": "Q16666", "obj_label": "Nanjing", "sub_label": "Southern Tang", "lineid": 658, "uuid": "0eb79ff5-0cbd-439b-81e4-8ab7261591ed"}
+{"sub_uri": "Q713750", "obj_uri": "Q586", "obj_label": "Bonn", "sub_label": "West Germany", "lineid": 659, "uuid": "cebf9e56-ae2b-489d-a0e3-79c5277d8b6a"}
+{"sub_uri": "Q215", "obj_uri": "Q437", "obj_label": "Ljubljana", "sub_label": "Slovenia", "lineid": 660, "uuid": "9a1f73af-1aa4-4ce5-9f97-ed097203b175"}
+{"sub_uri": "Q2354639", "obj_uri": "Q22424", "obj_label": "Punjab", "sub_label": "East Punjab", "lineid": 661, "uuid": "7b6538b8-71e7-44b6-8fb1-6b2969f21fe5"}
+{"sub_uri": "Q666486", "obj_uri": "Q762430", "obj_label": "Hamilton", "sub_label": "Shire of Southern Grampians", "lineid": 662, "uuid": "9dd706cd-fa06-44e1-b63c-0c1401de3e0f"}
+{"sub_uri": "Q1919098", "obj_uri": "Q6811747", "obj_label": "Melbourne", "sub_label": "City of Melbourne", "lineid": 663, "uuid": "4a4a84f7-9700-4949-9c68-691422ae7d9b"}
+{"sub_uri": "Q692912", "obj_uri": "Q133073", "obj_label": "Dunedin", "sub_label": "Otago Region", "lineid": 664, "uuid": "ac807fd3-567e-4f2d-bfad-cd47b604ef3b"}
+{"sub_uri": "Q16963", "obj_uri": "Q16666", "obj_label": "Nanjing", "sub_label": "Jiangsu", "lineid": 665, "uuid": "cf869609-0698-4331-8d36-955a4e5b454b"}
+{"sub_uri": "Q1408", "obj_uri": "Q25330", "obj_label": "Trenton", "sub_label": "New Jersey", "lineid": 666, "uuid": "9663b411-e451-4aca-aa10-b986c7f2fd95"}
+{"sub_uri": "Q824", "obj_uri": "Q43919", "obj_label": "Salem", "sub_label": "Oregon", "lineid": 667, "uuid": "a3fa12e7-d3db-41ab-b35b-ff6d117088e0"}
+{"sub_uri": "Q425924", "obj_uri": "Q80517", "obj_label": "Shreveport", "sub_label": "Ark-La-Tex", "lineid": 668, "uuid": "30253735-c704-4d43-8d10-b3453265edec"}
+{"sub_uri": "Q172579", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "Kingdom of Italy", "lineid": 669, "uuid": "34902401-c1c4-4b04-833a-688dede2ea15"}
+{"sub_uri": "Q1194", "obj_uri": "Q1707", "obj_label": "Kiel", "sub_label": "Schleswig-Holstein", "lineid": 670, "uuid": "81edd07f-1ed8-4b3e-94a2-beb7ff999337"}
+{"sub_uri": "Q37", "obj_uri": "Q216", "obj_label": "Vilnius", "sub_label": "Lithuania", "lineid": 671, "uuid": "70ab1e7b-d90d-4778-be18-cccf7f412c42"}
+{"sub_uri": "Q1494", "obj_uri": "Q28198", "obj_label": "Jackson", "sub_label": "Mississippi", "lineid": 672, "uuid": "d7354ff5-8d7c-4e55-840f-44c4b0accee0"}
+{"sub_uri": "Q1510035", "obj_uri": "Q36433", "obj_label": "Porto", "sub_label": "Grande Porto", "lineid": 673, "uuid": "3494a19e-3929-406a-8f2d-1da889d9f3fb"}
+{"sub_uri": "Q3331869", "obj_uri": "Q3640", "obj_label": "Ankara", "sub_label": "Anatolia Eyalet", "lineid": 674, "uuid": "a23f689f-25f5-448a-adc5-45725ec38e0e"}
+{"sub_uri": "Q504385", "obj_uri": "Q941870", "obj_label": "Columbus", "sub_label": "Bartholomew County", "lineid": 675, "uuid": "a8123365-53bf-481d-ac66-5d2538c15126"}
+{"sub_uri": "Q208279", "obj_uri": "Q160493", "obj_label": "Inverness", "sub_label": "Highland", "lineid": 676, "uuid": "d12c8654-8f81-45c3-ab1f-8481e005c85e"}
+{"sub_uri": "Q11709", "obj_uri": "Q1353", "obj_label": "Delhi", "sub_label": "Lodi dynasty", "lineid": 677, "uuid": "18256181-cb70-47d0-b7fa-b6b03a5e1d55"}
+{"sub_uri": "Q894079", "obj_uri": "Q209096", "obj_label": "Burnley", "sub_label": "Burnley", "lineid": 678, "uuid": "5c35371d-58b6-429e-b832-d63cc54600ec"}
+{"sub_uri": "Q1617704", "obj_uri": "Q213832", "obj_label": "Dudley", "sub_label": "Dudley", "lineid": 679, "uuid": "65325e24-33e3-4fb8-a0e5-937886326ac1"}
+{"sub_uri": "Q28513", "obj_uri": "Q1781", "obj_label": "Budapest", "sub_label": "Austria-Hungary", "lineid": 680, "uuid": "9c8149a0-6ed4-4e8e-83a7-e5d171d03743"}
+{"sub_uri": "Q506220", "obj_uri": "Q1989904", "obj_label": "Greenville", "sub_label": "Pitt County", "lineid": 681, "uuid": "844c302b-a851-4be1-8a05-0fc788d4c3c3"}
+{"sub_uri": "Q192959", "obj_uri": "Q2280", "obj_label": "Minsk", "sub_label": "Minsk Region", "lineid": 682, "uuid": "a220e15c-e175-4abe-90ef-4404349be3da"}
+{"sub_uri": "Q485683", "obj_uri": "Q1798750", "obj_label": "Anand", "sub_label": "Anand district", "lineid": 683, "uuid": "1d45ff18-be1e-462b-a542-7dcf370a8cfb"}
+{"sub_uri": "Q1142326", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "Seine", "lineid": 684, "uuid": "0261a341-3c92-4587-9c12-ba61d053c3a4"}
+{"sub_uri": "Q495344", "obj_uri": "Q944507", "obj_label": "Pendleton", "sub_label": "Umatilla County", "lineid": 685, "uuid": "ba5c0a6a-2a54-4ea1-9919-f54a0e0f2aaf"}
+{"sub_uri": "Q15175", "obj_uri": "Q16572", "obj_label": "Guangzhou", "sub_label": "Guangdong", "lineid": 686, "uuid": "3ec7b5da-852f-4b33-8bb3-c30c4660a3c3"}
+{"sub_uri": "Q192435", "obj_uri": "Q3579", "obj_label": "Tripoli", "sub_label": "Tripolitania", "lineid": 687, "uuid": "171ec4f6-8d28-478a-9b2f-8e643206f9e3"}
+{"sub_uri": "Q17167", "obj_uri": "Q220", "obj_label": "Rome", "sub_label": "Roman Republic", "lineid": 688, "uuid": "dad8bd2c-5124-45f0-a84f-96cf9dfd8f50"}
+{"sub_uri": "Q27306", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Kingdom of Prussia", "lineid": 689, "uuid": "21b4be99-2acf-42f9-9df7-ae5f56b94b3b"}
+{"sub_uri": "Q507000", "obj_uri": "Q2455620", "obj_label": "Many", "sub_label": "Sabine Parish", "lineid": 690, "uuid": "5ce6866e-96e2-4935-b872-0c401d5fc8e4"}
+{"sub_uri": "Q889", "obj_uri": "Q5838", "obj_label": "Kabul", "sub_label": "Afghanistan", "lineid": 691, "uuid": "75d6a6a0-03a8-413d-935a-b7ac3a744656"}
+{"sub_uri": "Q501074", "obj_uri": "Q79247", "obj_label": "Linden", "sub_label": "Marengo County", "lineid": 692, "uuid": "d02824d2-a8d3-4eaa-9f4c-2dc813de63e2"}
+{"sub_uri": "Q298", "obj_uri": "Q2887", "obj_label": "Santiago", "sub_label": "Chile", "lineid": 693, "uuid": "ee10fdc1-8a9a-43c0-b271-4867251f0243"}
+{"sub_uri": "Q36704", "obj_uri": "Q3711", "obj_label": "Belgrade", "sub_label": "Yugoslavia", "lineid": 694, "uuid": "2bd1480a-83ec-4489-ae2a-b613115b541a"}
+{"sub_uri": "Q774015", "obj_uri": "Q39121", "obj_label": "Leeds", "sub_label": "Leeds", "lineid": 695, "uuid": "d49a6f14-75e4-44fb-a43f-d9f82d8f4480"}
+{"sub_uri": "Q8828", "obj_uri": "Q8826", "obj_label": "Palma de Mallorca", "sub_label": "Majorca", "lineid": 696, "uuid": "82a46e59-ec25-490e-814e-ac92d09ad701"}
+{"sub_uri": "Q23109", "obj_uri": "Q130191", "obj_label": "Norwich", "sub_label": "Norfolk", "lineid": 697, "uuid": "c1ebfae8-e883-4736-b5e2-5fcb964bc628"}
+{"sub_uri": "Q1342914", "obj_uri": "Q179406", "obj_label": "Grimsby", "sub_label": "North East Lincolnshire", "lineid": 698, "uuid": "866f10ce-dfe3-4620-a8c9-1902f5ee7eb3"}
+{"sub_uri": "Q54939", "obj_uri": "Q8818", "obj_label": "Valencia", "sub_label": "Valencia Province", "lineid": 699, "uuid": "96cc5442-8a1b-4a56-9bde-fc0b973553b0"}
+{"sub_uri": "Q507365", "obj_uri": "Q638187", "obj_label": "Lafayette", "sub_label": "Tippecanoe County", "lineid": 700, "uuid": "59b89c15-9c2a-4176-bdc1-5bced3aca817"}
+{"sub_uri": "Q54169", "obj_uri": "Q270", "obj_label": "Warsaw", "sub_label": "Masovian Voivodeship", "lineid": 701, "uuid": "3944148c-ecd9-46d5-86c6-3c06da483566"}
+{"sub_uri": "Q234", "obj_uri": "Q239", "obj_label": "Brussels", "sub_label": "Flanders", "lineid": 702, "uuid": "1529bc81-d7bb-4d75-8546-ee866d93ee5d"}

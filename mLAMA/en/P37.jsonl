@@ -1,0 +1,966 @@
+{"sub_uri": "Q200130", "obj_uri": "Q1617", "obj_label": "Urdu", "sub_label": "Azad Kashmir", "lineid": 0, "uuid": "5647faec-0996-4105-9043-14f56b25eeb5"}
+{"sub_uri": "Q69995", "obj_uri": "Q652", "obj_label": "Italian", "sub_label": "Sorengo", "lineid": 1, "uuid": "bd2155cf-0ad0-4191-9473-7f1ca68c13ae"}
+{"sub_uri": "Q1025720", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Padasjoki", "lineid": 2, "uuid": "6f6a5ac5-f89e-4042-a1d5-9bde6a053fb9"}
+{"sub_uri": "Q504637", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Alta Verapaz Department", "lineid": 3, "uuid": "ace6d108-cab3-4a55-9c82-9010e3ff31f9"}
+{"sub_uri": "Q30971", "obj_uri": "Q150", "obj_label": "French", "sub_label": "French Polynesia", "lineid": 4, "uuid": "7e867e82-f41c-457d-a796-5385630097cd"}
+{"sub_uri": "Q938820", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Virrat", "lineid": 5, "uuid": "7430d80d-3ecb-446c-89cd-ac93d783a62d"}
+{"sub_uri": "Q921", "obj_uri": "Q9237", "obj_label": "Malay", "sub_label": "Brunei", "lineid": 6, "uuid": "1f914374-ad4e-42de-ade0-0239ec68c50b"}
+{"sub_uri": "Q1498", "obj_uri": "Q1617", "obj_label": "Urdu", "sub_label": "Uttar Pradesh", "lineid": 7, "uuid": "1f3e7398-63e1-4301-b8df-b6d40f5fe9e4"}
+{"sub_uri": "Q458", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "European Union", "lineid": 8, "uuid": "c191627b-e235-465e-b848-d72062f31252"}
+{"sub_uri": "Q231", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Wallonia", "lineid": 9, "uuid": "f5d68720-9816-4fb3-a810-c2b99ae192e2"}
+{"sub_uri": "Q458", "obj_uri": "Q9063", "obj_label": "Slovene", "sub_label": "European Union", "lineid": 10, "uuid": "fc39743e-8eef-43c9-a4ab-a5050738c5bd"}
+{"sub_uri": "Q790", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Haiti", "lineid": 11, "uuid": "eeb08c78-1e02-44f1-8c11-534cec2c1845"}
+{"sub_uri": "Q193619", "obj_uri": "Q7411", "obj_label": "Dutch", "sub_label": "Union of South Africa", "lineid": 12, "uuid": "dd009265-ed0a-4f8a-b461-d36435fba782"}
+{"sub_uri": "Q12602", "obj_uri": "Q7026", "obj_label": "Catalan", "sub_label": "Val d'Aran", "lineid": 13, "uuid": "7f84dccc-911b-4935-88ae-af32f85126ea"}
+{"sub_uri": "Q64044", "obj_uri": "Q652", "obj_label": "Italian", "sub_label": "Bellinzona", "lineid": 14, "uuid": "67b16e5d-7bff-4f2c-80f8-4c02b6dd33ad"}
+{"sub_uri": "Q1789963", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Kronoby", "lineid": 15, "uuid": "9469486a-0790-4cb9-a4a7-6c0835e21304"}
+{"sub_uri": "Q485207", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Shanghai Cooperation Organisation", "lineid": 16, "uuid": "c29c75fe-5d72-4258-ae9a-391d252cfebd"}
+{"sub_uri": "Q1269234", "obj_uri": "Q7411", "obj_label": "Dutch", "sub_label": "Stellaland", "lineid": 17, "uuid": "e982295e-6a41-4aa3-a7b0-948bd07d5d45"}
+{"sub_uri": "Q1034", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Biel/Bienne", "lineid": 18, "uuid": "bc6a5822-0628-4313-8932-7ecf9a7b5fb2"}
+{"sub_uri": "Q738472", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Sotkamo", "lineid": 19, "uuid": "680b6ddc-66f5-419d-b4fe-6d006aba707f"}
+{"sub_uri": "Q1214", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Wyoming", "lineid": 20, "uuid": "5a075b57-e642-4d72-8d44-287db247141a"}
+{"sub_uri": "Q1025744", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Vesanto", "lineid": 21, "uuid": "4035bf1d-7ea7-4f3f-acb1-a57867932a60"}
+{"sub_uri": "Q1158", "obj_uri": "Q150", "obj_label": "French", "sub_label": "World Athletics", "lineid": 22, "uuid": "3aec437a-ec9d-4ede-abe1-e78ee8673268"}
+{"sub_uri": "Q171852", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Odessa Oblast", "lineid": 23, "uuid": "b29507f4-e9d3-45c0-a00a-dd937c899378"}
+{"sub_uri": "Q159583", "obj_uri": "Q397", "obj_label": "Latin", "sub_label": "Holy See", "lineid": 24, "uuid": "6394e295-0d6f-405e-93e0-db9351932ac7"}
+{"sub_uri": "Q240086", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Parikkala", "lineid": 25, "uuid": "8b0e65e9-09e4-4859-9b4f-205714c53d91"}
+{"sub_uri": "Q216900", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Kerava", "lineid": 26, "uuid": "16d789ce-30c2-461a-a36d-cf95148dbac1"}
+{"sub_uri": "Q77", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Uruguay", "lineid": 27, "uuid": "4e1a7839-f7a3-46ab-be48-6fb713b2f572"}
+{"sub_uri": "Q200054", "obj_uri": "Q1568", "obj_label": "Hindi", "sub_label": "Jamshedpur", "lineid": 28, "uuid": "3d887ffc-bd4b-4963-836f-2ba954e37318"}
+{"sub_uri": "Q917883", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Molina de Segura", "lineid": 29, "uuid": "dbbafaa9-4207-4dd8-9821-51bbedc6279e"}
+{"sub_uri": "Q23427", "obj_uri": "Q8108", "obj_label": "Georgian", "sub_label": "South Ossetia", "lineid": 30, "uuid": "550bcedc-93c5-4689-be95-7ed2014e0414"}
+{"sub_uri": "Q424", "obj_uri": "Q9205", "obj_label": "Khmer", "sub_label": "Cambodia", "lineid": 31, "uuid": "de34b0ba-f794-468d-a2a8-bad74397b383"}
+{"sub_uri": "Q68256", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Porrentruy", "lineid": 32, "uuid": "93a7d11e-1259-4019-8b46-ada91a802049"}
+{"sub_uri": "Q664599", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Nykarleby", "lineid": 33, "uuid": "d79a8006-edd3-4c9b-9d9e-74111dd42852"}
+{"sub_uri": "Q6563", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Krasnoyarsk Krai", "lineid": 34, "uuid": "0b92d549-ced4-424f-bb94-eaf4c7a065bb"}
+{"sub_uri": "Q971", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Republic of the Congo", "lineid": 35, "uuid": "999f4299-65f5-42f4-bfed-ae960b0f127f"}
+{"sub_uri": "Q204920", "obj_uri": "Q7026", "obj_label": "Catalan", "sub_label": "Crown of Aragon", "lineid": 36, "uuid": "16c0041e-5e24-489a-9569-3e7f1e8b511f"}
+{"sub_uri": "Q204920", "obj_uri": "Q397", "obj_label": "Latin", "sub_label": "Crown of Aragon", "lineid": 37, "uuid": "fdeb9503-af54-4f92-b3ef-45512637ea38"}
+{"sub_uri": "Q685", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Solomon Islands", "lineid": 38, "uuid": "5760878c-3a69-41b4-ac8f-12e7648c1974"}
+{"sub_uri": "Q1195", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Meghalaya", "lineid": 39, "uuid": "20cac6e9-2467-4f5a-b3f7-f6f87ab713f7"}
+{"sub_uri": "Q214777", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Lohja", "lineid": 40, "uuid": "49a76c3a-14d3-4e51-9a4a-a3ec88854eb3"}
+{"sub_uri": "Q214021", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Tornio", "lineid": 41, "uuid": "36f5b102-3223-44a7-ade7-2ebcba87c3e0"}
+{"sub_uri": "Q1437", "obj_uri": "Q1568", "obj_label": "Hindi", "sub_label": "Rajasthan", "lineid": 42, "uuid": "c490e746-8b03-4d4a-bdea-8ffc7b3fed30"}
+{"sub_uri": "Q485207", "obj_uri": "Q7850", "obj_label": "Chinese", "sub_label": "Shanghai Cooperation Organisation", "lineid": 43, "uuid": "ff95d33a-0fa8-41eb-aa60-9356043c275f"}
+{"sub_uri": "Q14452", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Easter Island", "lineid": 44, "uuid": "ce308db0-3ad7-4965-bf8d-d008c467bfff"}
+{"sub_uri": "Q8828", "obj_uri": "Q7026", "obj_label": "Catalan", "sub_label": "Majorca", "lineid": 45, "uuid": "e80cf734-4c9f-4c72-8778-2943b9969cd2"}
+{"sub_uri": "Q155", "obj_uri": "Q5146", "obj_label": "Portuguese", "sub_label": "Brazil", "lineid": 46, "uuid": "1d855d70-da49-44f3-8693-5748875b5916"}
+{"sub_uri": "Q96", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Mexico", "lineid": 47, "uuid": "fcea89cc-fb6e-4bff-85a5-7ba95bdd6976"}
+{"sub_uri": "Q530517", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Posio", "lineid": 48, "uuid": "ae702cd0-2b5c-42d3-a885-702e46fa6938"}
+{"sub_uri": "Q5991", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Karijoki", "lineid": 49, "uuid": "c7fd6000-6c3c-451a-8a17-551eb7da21b5"}
+{"sub_uri": "Q1005", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "The Gambia", "lineid": 50, "uuid": "23e8f085-2d8c-4b3b-a40c-a6ace41bc740"}
+{"sub_uri": "Q120730", "obj_uri": "Q5287", "obj_label": "Japanese", "sub_label": "Ky\u014dto Prefecture", "lineid": 51, "uuid": "b11dc0fd-de49-4f0d-b2e2-2646a9b10b54"}
+{"sub_uri": "Q35086", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "South Georgia and the South Sandwich Islands", "lineid": 52, "uuid": "f88acc90-2f2e-4b2a-b4ae-7c33448b4bf4"}
+{"sub_uri": "Q1001927", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Sastamala", "lineid": 53, "uuid": "88c8aecb-9250-402c-b39d-d575452a3b86"}
+{"sub_uri": "Q55502", "obj_uri": "Q652", "obj_label": "Italian", "sub_label": "Kingdom of Jerusalem", "lineid": 54, "uuid": "af861329-24f3-49b1-9ca5-a1c6ddb55fb9"}
+{"sub_uri": "Q9676", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Isle of Man", "lineid": 55, "uuid": "ab1f6e4b-0db6-4ab1-950a-3c06b36a6595"}
+{"sub_uri": "Q1494", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Mississippi", "lineid": 56, "uuid": "86c7b8f5-7603-4cd9-b798-44119c034b28"}
+{"sub_uri": "Q14773", "obj_uri": "Q7850", "obj_label": "Chinese", "sub_label": "Macau", "lineid": 57, "uuid": "e516610d-ef51-4842-8c8a-8dc4d2e3b165"}
+{"sub_uri": "Q247613", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Bernese Jura", "lineid": 58, "uuid": "ce554996-0fbe-44ce-a73d-30d8287e75eb"}
+{"sub_uri": "Q33946", "obj_uri": "Q9058", "obj_label": "Slovak", "sub_label": "Czechoslovakia", "lineid": 59, "uuid": "8897de0f-89ce-4560-8bfe-7f34dd3177dc"}
+{"sub_uri": "Q936067", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Salla", "lineid": 60, "uuid": "5d69243f-b2c0-43f9-af45-9228e430c9aa"}
+{"sub_uri": "Q124919", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Kiuruvesi", "lineid": 61, "uuid": "13a39ab0-998e-462d-941f-160da76986f6"}
+{"sub_uri": "Q853628", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Pirkkala", "lineid": 62, "uuid": "2b24da2b-af43-45e4-8127-b63bc1812eb8"}
+{"sub_uri": "Q1886842", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Malax", "lineid": 63, "uuid": "7348908a-31ea-4c74-9700-dd24afcc42ad"}
+{"sub_uri": "Q2012050", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Donetsk Oblast", "lineid": 64, "uuid": "6dfc27b0-3004-4c9a-860b-72f640bee768"}
+{"sub_uri": "Q915420", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Loimaa", "lineid": 65, "uuid": "1c2e960e-1a26-4d98-aee9-da4186e76665"}
+{"sub_uri": "Q1530721", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "National Film Board of Canada", "lineid": 66, "uuid": "b9a89567-de2e-406c-b170-502d8774b84e"}
+{"sub_uri": "Q801", "obj_uri": "Q9288", "obj_label": "Hebrew", "sub_label": "Israel", "lineid": 67, "uuid": "389e198e-b30f-4b23-bf62-d9acd2e3cc1a"}
+{"sub_uri": "Q683", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Samoa", "lineid": 68, "uuid": "a6d6a120-53d9-439f-b98e-36dc86b3d37f"}
+{"sub_uri": "Q5481", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Republic of Tatarstan", "lineid": 69, "uuid": "606ca948-3c1c-4ea6-8bfd-a8e53a1a0fd4"}
+{"sub_uri": "Q240", "obj_uri": "Q7411", "obj_label": "Dutch", "sub_label": "Brussels region", "lineid": 70, "uuid": "ea9bba55-748e-4a81-b22f-665ba56c9499"}
+{"sub_uri": "Q782", "obj_uri": "Q33569", "obj_label": "Hawaiian", "sub_label": "Hawaii", "lineid": 71, "uuid": "c2720faf-68a5-4008-9b71-6e430bdf5b72"}
+{"sub_uri": "Q39", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Switzerland", "lineid": 72, "uuid": "19eda1c4-4e87-4b20-b4db-77fa575a786c"}
+{"sub_uri": "Q193180", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Kajaani", "lineid": 73, "uuid": "7d8d8c4e-7965-4f8c-9eec-bd578b5b7996"}
+{"sub_uri": "Q837136", "obj_uri": "Q9309", "obj_label": "Welsh", "sub_label": "Kingdom of Deheubarth", "lineid": 74, "uuid": "486c5f12-1e68-4a2f-b9dc-c67932dbfa74"}
+{"sub_uri": "Q31", "obj_uri": "Q188", "obj_label": "German", "sub_label": "Belgium", "lineid": 75, "uuid": "917d1a30-152b-45c1-959d-13203beede0a"}
+{"sub_uri": "Q697", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Nauru", "lineid": 76, "uuid": "75397c2b-7e14-442e-9b79-b1c9a8d28e40"}
+{"sub_uri": "Q1353", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Delhi", "lineid": 77, "uuid": "3be84d53-c2b7-4b3f-8e84-2d2588cc4028"}
+{"sub_uri": "Q4018", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Navarre", "lineid": 78, "uuid": "bd10e91c-2962-4b0c-9275-a0fcfc48af59"}
+{"sub_uri": "Q52631", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Ibiza", "lineid": 79, "uuid": "b11f8419-8bd8-4f7e-93bd-b3fa7084a195"}
+{"sub_uri": "Q176178", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Jomala", "lineid": 80, "uuid": "d7d0ba95-72ac-4cfe-9cb5-50a7e42164ab"}
+{"sub_uri": "Q1186", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Kerala", "lineid": 81, "uuid": "b2f71401-c60c-4a78-bbe7-d71db9eb9ae2"}
+{"sub_uri": "Q9648", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Falkland Islands", "lineid": 82, "uuid": "e22201b5-3b0c-43c0-9e29-4d74f1f5ea88"}
+{"sub_uri": "Q5446", "obj_uri": "Q973685", "obj_label": "Mari", "sub_label": "Mari El Republic", "lineid": 83, "uuid": "232efdcd-8433-40d3-a1fe-b36623d22253"}
+{"sub_uri": "Q216173", "obj_uri": "Q809", "obj_label": "Polish", "sub_label": "Free City of Danzig", "lineid": 84, "uuid": "813725ab-3e1f-4d53-b762-181b90fcc1d9"}
+{"sub_uri": "Q35572", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Union of European Football Associations", "lineid": 85, "uuid": "808a2059-740b-485c-9505-550ad51309ac"}
+{"sub_uri": "Q953432", "obj_uri": "Q5146", "obj_label": "Portuguese", "sub_label": "Couto Misto", "lineid": 86, "uuid": "3039dfb6-9af3-493d-bb68-aa1d59a1b36f"}
+{"sub_uri": "Q770", "obj_uri": "Q7411", "obj_label": "Dutch", "sub_label": "Friesland", "lineid": 87, "uuid": "ad8c1251-9172-441a-a1cf-2a065d269197"}
+{"sub_uri": "Q1006", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Guinea", "lineid": 88, "uuid": "2dc48fba-df76-442c-95e3-719ecada155a"}
+{"sub_uri": "Q1429298", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Udmurt Autonomous Soviet Socialist Republic", "lineid": 89, "uuid": "55f410a2-7dcc-420b-a872-f48eaeefa614"}
+{"sub_uri": "Q9885", "obj_uri": "Q5885", "obj_label": "Tamil", "sub_label": "Coimbatore", "lineid": 90, "uuid": "2746850c-0ae0-43a9-ac1a-2c2259d5e6d8"}
+{"sub_uri": "Q408", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Australia", "lineid": 91, "uuid": "9afed177-c5a9-4663-92d7-6237cf28062c"}
+{"sub_uri": "Q419", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Peru", "lineid": 92, "uuid": "8c75b296-dd5c-4347-a1a7-1e88d5d37c89"}
+{"sub_uri": "Q1353", "obj_uri": "Q58635", "obj_label": "Punjabi", "sub_label": "Delhi", "lineid": 93, "uuid": "aa55056e-586d-49bf-a157-f49906ee7177"}
+{"sub_uri": "Q30921", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Swiss Federal Constitution", "lineid": 94, "uuid": "f6f5069b-2fca-47d6-8ad1-25232edc421f"}
+{"sub_uri": "Q1890", "obj_uri": "Q9240", "obj_label": "Indonesian", "sub_label": "Bengkulu", "lineid": 95, "uuid": "ab211ed3-2fe0-4e63-9729-3138f70b4b4f"}
+{"sub_uri": "Q1013", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Lesotho", "lineid": 96, "uuid": "b62bdf6f-f646-46ea-ac78-0d93d023ff62"}
+{"sub_uri": "Q990548", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Juankoski", "lineid": 97, "uuid": "7a19edd0-eb75-453e-81d8-75bb8ae470ea"}
+{"sub_uri": "Q668", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "India", "lineid": 98, "uuid": "037c1713-6c67-4445-9c21-b39c8c26e3a6"}
+{"sub_uri": "Q35672", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Pitcairn Islands", "lineid": 99, "uuid": "1366a0cc-1a82-40ee-af74-ef126b941653"}
+{"sub_uri": "Q6320", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Khanty-Mansi Autonomous Okrug", "lineid": 100, "uuid": "37b3c4a9-023f-4e0f-a76d-43fe83fdb0da"}
+{"sub_uri": "Q954", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Zimbabwe", "lineid": 101, "uuid": "8f0f948a-7e23-4c04-af3f-bf391bc127e0"}
+{"sub_uri": "Q4191", "obj_uri": "Q188", "obj_label": "German", "sub_label": "Lucerne", "lineid": 102, "uuid": "60e3be26-5a59-4e5b-91e2-0493b91da29d"}
+{"sub_uri": "Q907112", "obj_uri": "Q8798", "obj_label": "Ukrainian", "sub_label": "Transnistria", "lineid": 103, "uuid": "96c88d64-b732-4604-8a22-a0789ae679db"}
+{"sub_uri": "Q977", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Djibouti", "lineid": 104, "uuid": "a41329ec-11c7-49c6-a2d1-a56b398e57c1"}
+{"sub_uri": "Q68587", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Vallorbe", "lineid": 105, "uuid": "13e67d0e-3758-4241-b9aa-941b38ef22e9"}
+{"sub_uri": "Q2031854", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Wappo people", "lineid": 106, "uuid": "30381991-cefc-42e5-9b64-301ed4870e48"}
+{"sub_uri": "Q40362", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Sahrawi Arab Democratic Republic", "lineid": 107, "uuid": "47d692eb-6d74-42f4-a0b3-691b9a7e648a"}
+{"sub_uri": "Q26180", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Sint Eustatius", "lineid": 108, "uuid": "fa7d2926-49f9-44f0-b09d-baa31475004b"}
+{"sub_uri": "Q1212", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Montana", "lineid": 109, "uuid": "8253ec83-56b8-45e6-9d9a-f945415b93d9"}
+{"sub_uri": "Q778", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "The Bahamas", "lineid": 110, "uuid": "ce2a3bb4-4e4e-4226-bcca-d9cfd64552fb"}
+{"sub_uri": "Q5118", "obj_uri": "Q9292", "obj_label": "Azerbaijani", "sub_label": "Republic of Dagestan", "lineid": 111, "uuid": "3b451daa-f711-41be-be2f-08694fd22269"}
+{"sub_uri": "Q221", "obj_uri": "Q9296", "obj_label": "Macedonian", "sub_label": "North Macedonia", "lineid": 112, "uuid": "d745da7e-375b-4ea5-aba4-e80991580276"}
+{"sub_uri": "Q1904", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Ontario", "lineid": 113, "uuid": "f643b188-f801-47c5-a323-8dadb1d566eb"}
+{"sub_uri": "Q1951", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Alberta", "lineid": 114, "uuid": "95bded24-5ada-499e-ba42-36b15886c440"}
+{"sub_uri": "Q236", "obj_uri": "Q9299", "obj_label": "Serbian", "sub_label": "Montenegro", "lineid": 115, "uuid": "faf61a9c-5ff2-4989-a211-3c7e67417e42"}
+{"sub_uri": "Q639054", "obj_uri": "Q8798", "obj_label": "Ukrainian", "sub_label": "Zhovti Vody", "lineid": 116, "uuid": "71d372dc-8420-4c9d-b932-3fe1e673efa7"}
+{"sub_uri": "Q207999", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Kuusamo", "lineid": 117, "uuid": "d9eeee68-1cbb-4122-96a1-d3d94a763070"}
+{"sub_uri": "Q1180", "obj_uri": "Q1617", "obj_label": "Urdu", "sub_label": "Jammu and Kashmir", "lineid": 118, "uuid": "76b3fca2-6d02-4d56-94d8-50034293805b"}
+{"sub_uri": "Q369576", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Nastola", "lineid": 119, "uuid": "642974b6-414b-45ee-954f-2c6e38e3fbe7"}
+{"sub_uri": "Q1050", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Eswatini", "lineid": 120, "uuid": "93ebf9c7-a811-414f-980f-6394da44883d"}
+{"sub_uri": "Q458", "obj_uri": "Q7411", "obj_label": "Dutch", "sub_label": "European Union", "lineid": 121, "uuid": "b779222c-8bfa-47ff-b144-74bb3c41c787"}
+{"sub_uri": "Q769", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Grenada", "lineid": 122, "uuid": "5500556d-e04e-47c4-9bfa-5ceb66d73277"}
+{"sub_uri": "Q179313", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Alderney", "lineid": 123, "uuid": "4858b17f-4e06-4292-ac5e-342570502467"}
+{"sub_uri": "Q11972", "obj_uri": "Q188", "obj_label": "German", "sub_label": "Aargau", "lineid": 124, "uuid": "76c799c5-2620-4e37-9bd7-9785d6a6619b"}
+{"sub_uri": "Q6543", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Republic of Khakassia", "lineid": 125, "uuid": "63b335f3-cc27-4705-a12c-d7823d300199"}
+{"sub_uri": "Q5187", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Chechen Republic", "lineid": 126, "uuid": "0caf1045-e1f0-435e-b12b-7a3d9214cec5"}
+{"sub_uri": "Q181633", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Mykolaiv Oblast", "lineid": 127, "uuid": "f7374ac0-a4fc-4855-9724-20211ba4ab22"}
+{"sub_uri": "Q22424", "obj_uri": "Q58635", "obj_label": "Punjabi", "sub_label": "Punjab", "lineid": 128, "uuid": "282aab37-ffbd-4916-af02-ab8fb5de9363"}
+{"sub_uri": "Q1037", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Rwanda", "lineid": 129, "uuid": "0f9c7b91-6db1-424e-9b01-ca2274e3c350"}
+{"sub_uri": "Q33", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Finland", "lineid": 130, "uuid": "5b37ddf5-0079-4b49-90a0-29ba1b2df642"}
+{"sub_uri": "Q748513", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Loviisa", "lineid": 131, "uuid": "80130f03-73dc-4ac2-8440-8041dddb2986"}
+{"sub_uri": "Q1553", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Nebraska", "lineid": 132, "uuid": "5f5fe29d-ce96-4742-9047-f47882d8847e"}
+{"sub_uri": "Q36", "obj_uri": "Q809", "obj_label": "Polish", "sub_label": "Poland", "lineid": 133, "uuid": "e688ed43-71fd-4aff-af8a-e40e269dab26"}
+{"sub_uri": "Q133356", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Ukrainian Soviet Socialist Republic", "lineid": 134, "uuid": "4f73f6cc-7e06-4e8a-88eb-d5aad0355995"}
+{"sub_uri": "Q64027", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Nyon", "lineid": 135, "uuid": "714a34cb-4ca0-475f-a77b-f576f0c2f48b"}
+{"sub_uri": "Q78", "obj_uri": "Q188", "obj_label": "German", "sub_label": "Basel", "lineid": 136, "uuid": "4dd232be-155c-49b1-9820-e376f12929e5"}
+{"sub_uri": "Q1612", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Arkansas", "lineid": 137, "uuid": "49e20b01-8a62-4ebe-9189-60ba6275c732"}
+{"sub_uri": "Q218", "obj_uri": "Q7913", "obj_label": "Romanian", "sub_label": "Romania", "lineid": 138, "uuid": "41acbe38-47bd-4578-b973-8e849dd1cb2b"}
+{"sub_uri": "Q1735037", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Kaskinen", "lineid": 139, "uuid": "79fe626d-69b6-4d34-b071-b4db1ed01f33"}
+{"sub_uri": "Q854415", "obj_uri": "Q397", "obj_label": "Latin", "sub_label": "Kingdom of the Lombards", "lineid": 140, "uuid": "5f4e5eaa-7244-47a2-b797-47d9f9001e05"}
+{"sub_uri": "Q854", "obj_uri": "Q5885", "obj_label": "Tamil", "sub_label": "Sri Lanka", "lineid": 141, "uuid": "b18f3f80-1a8a-421f-a3e5-e4dcf5cd7f89"}
+{"sub_uri": "Q458", "obj_uri": "Q9129", "obj_label": "Greek", "sub_label": "European Union", "lineid": 142, "uuid": "ef08650c-9d6b-47ed-81ea-586db89e5423"}
+{"sub_uri": "Q984930", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Ylitornio", "lineid": 143, "uuid": "d0fba251-59bf-4cb4-8e2b-56abf01269fc"}
+{"sub_uri": "Q458", "obj_uri": "Q9142", "obj_label": "Irish", "sub_label": "European Union", "lineid": 144, "uuid": "6ac9a04b-0434-4d54-b21e-7fa562e983e1"}
+{"sub_uri": "Q114", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Kenya", "lineid": 145, "uuid": "2dd3adcf-951c-4c80-b22c-0bc918ffa974"}
+{"sub_uri": "Q129003", "obj_uri": "Q150", "obj_label": "French", "sub_label": "French Southern and Antarctic Lands", "lineid": 146, "uuid": "7c9d8256-4690-4778-bc69-f759e91a998a"}
+{"sub_uri": "Q117", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Ghana", "lineid": 147, "uuid": "ec88c078-5244-4420-a3dd-43d042796c18"}
+{"sub_uri": "Q5992", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Kauhajoki", "lineid": 148, "uuid": "0ab549db-2fee-429a-a824-5882f043ba67"}
+{"sub_uri": "Q622592", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Raahe", "lineid": 149, "uuid": "4b66d377-b724-42ea-bc52-46138d1c752e"}
+{"sub_uri": "Q101081", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Provence", "lineid": 150, "uuid": "66a716d2-a9e3-4431-b502-9c6ae9022ef6"}
+{"sub_uri": "Q215", "obj_uri": "Q9063", "obj_label": "Slovene", "sub_label": "Slovenia", "lineid": 151, "uuid": "2f192618-9aa4-4191-9d52-038e56115451"}
+{"sub_uri": "Q1679567", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Jakobstad", "lineid": 152, "uuid": "5f341707-5717-4701-8362-d45994e018e0"}
+{"sub_uri": "Q1124265", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "President of the Basque Autonomous Community", "lineid": 153, "uuid": "a4a4ae66-bb7f-47ae-939d-acc2a8172387"}
+{"sub_uri": "Q990585", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Tervola", "lineid": 154, "uuid": "e514498c-8747-435b-9656-15093580f9e3"}
+{"sub_uri": "Q217", "obj_uri": "Q7913", "obj_label": "Romanian", "sub_label": "Moldova", "lineid": 155, "uuid": "4cc2562b-0f74-4eca-954c-ff9a26924dca"}
+{"sub_uri": "Q510636", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Ruovesi", "lineid": 156, "uuid": "22a2ae9e-4d88-4d77-b32e-4cac0245edd3"}
+{"sub_uri": "Q7768", "obj_uri": "Q33298", "obj_label": "Filipino", "sub_label": "ASEAN", "lineid": 157, "uuid": "efcfe33d-b05b-488b-8146-46d2fac14657"}
+{"sub_uri": "Q300608", "obj_uri": "Q5146", "obj_label": "Portuguese", "sub_label": "A Ver-o-Mar", "lineid": 158, "uuid": "33240ad0-01d7-481c-91b6-e82f8509b174"}
+{"sub_uri": "Q81299", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Organization for Security and Co-operation in Europe", "lineid": 159, "uuid": "7cb9fec2-26c9-4a15-95e2-e135216b2b5c"}
+{"sub_uri": "Q3769", "obj_uri": "Q150", "obj_label": "French", "sub_label": "French Guiana", "lineid": 160, "uuid": "584025ae-fc9c-4b7e-81fb-e23e1e477125"}
+{"sub_uri": "Q37", "obj_uri": "Q9083", "obj_label": "Lithuanian", "sub_label": "Lithuania", "lineid": 161, "uuid": "3eb2fbd4-cd7f-4b63-ab3c-a7a16dc9ab31"}
+{"sub_uri": "Q659642", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Kristinestad", "lineid": 162, "uuid": "ecfb93d7-fd6e-4cb6-9c9f-c02b2d14901b"}
+{"sub_uri": "Q2073", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Komi Republic", "lineid": 163, "uuid": "cfb581ca-ab9d-41ab-98cb-7902a9bebaa8"}
+{"sub_uri": "Q25228", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Anguilla", "lineid": 164, "uuid": "84d7c4d1-9002-42ce-af7c-1d6da81f1e17"}
+{"sub_uri": "Q242", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Belize", "lineid": 165, "uuid": "0e6503a6-cc35-4348-a697-99d81306a549"}
+{"sub_uri": "Q4264", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Mercosur", "lineid": 166, "uuid": "ee74098c-08c9-4ab6-a7b9-b7b03cd14f18"}
+{"sub_uri": "Q29", "obj_uri": "Q7026", "obj_label": "Catalan", "sub_label": "Spain", "lineid": 167, "uuid": "64f31e30-19a7-4de0-b382-fbe665e6f34d"}
+{"sub_uri": "Q935869", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Pelkosenniemi", "lineid": 168, "uuid": "2e258bfc-14fc-4139-855e-99aecabad79b"}
+{"sub_uri": "Q244", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Barbados", "lineid": 169, "uuid": "bb4a2a4f-1366-4fdb-b505-319e2050792e"}
+{"sub_uri": "Q33349", "obj_uri": "Q8798", "obj_label": "Ukrainian", "sub_label": "Melitopol", "lineid": 170, "uuid": "fd6df920-176c-4d7d-95aa-6552646b6201"}
+{"sub_uri": "Q216915", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Sigtuna Municipality", "lineid": 171, "uuid": "a3c9de86-1196-4cdb-8ee0-3651014164b9"}
+{"sub_uri": "Q664599", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Nykarleby", "lineid": 172, "uuid": "f9a36358-5802-4b92-84d8-633587cf006d"}
+{"sub_uri": "Q713750", "obj_uri": "Q188", "obj_label": "German", "sub_label": "West Germany", "lineid": 173, "uuid": "8dff06fb-e5f3-4c01-8ebb-1a585d53f75f"}
+{"sub_uri": "Q2164", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Nenets Autonomous Okrug", "lineid": 174, "uuid": "9d1705c8-2737-4990-838f-9552112ed783"}
+{"sub_uri": "Q27561", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Caribbean Netherlands", "lineid": 175, "uuid": "32a4fb95-fdea-4ef5-ac53-72e7685dd963"}
+{"sub_uri": "Q739", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Colombia", "lineid": 176, "uuid": "1661a260-1343-4123-b83d-6a5b397a58d2"}
+{"sub_uri": "Q6009", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Kauhava", "lineid": 177, "uuid": "b8fce121-c1ef-4193-8ac7-7df8861bb715"}
+{"sub_uri": "Q40430", "obj_uri": "Q5146", "obj_label": "Portuguese", "sub_label": "Bahia", "lineid": 178, "uuid": "7e03840f-5054-4d4b-b00d-976f6dddbf9f"}
+{"sub_uri": "Q921", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Brunei", "lineid": 179, "uuid": "dd7ed638-702f-429f-a901-cdbddcba36dc"}
+{"sub_uri": "Q188586", "obj_uri": "Q397", "obj_label": "Latin", "sub_label": "Kingdom of Sicily", "lineid": 180, "uuid": "371d168c-361c-46db-a6c5-f2bbef543669"}
+{"sub_uri": "Q2012050", "obj_uri": "Q8798", "obj_label": "Ukrainian", "sub_label": "Donetsk Oblast", "lineid": 181, "uuid": "1ebef4df-c5e1-4a0b-8a52-a9c1c1b0748a"}
+{"sub_uri": "Q2051", "obj_uri": "Q9237", "obj_label": "Malay", "sub_label": "Jambi", "lineid": 182, "uuid": "d56dab82-c2b3-41d2-a316-dc27def15385"}
+{"sub_uri": "Q80484", "obj_uri": "Q1568", "obj_label": "Hindi", "sub_label": "Patna", "lineid": 183, "uuid": "2361e2da-34d5-4d26-a751-e6ab6456793d"}
+{"sub_uri": "Q62589", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Union between Sweden and Norway", "lineid": 184, "uuid": "ed4d1a8e-12f0-4874-a591-a8e37d032d43"}
+{"sub_uri": "Q7525", "obj_uri": "Q8798", "obj_label": "Ukrainian", "sub_label": "Sevastopol", "lineid": 185, "uuid": "c8212e80-2a4e-424a-89b1-85043cc3e013"}
+{"sub_uri": "Q2159553", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Royal 22e R\u00e9giment", "lineid": 186, "uuid": "ed2f25d1-d621-4224-bbfd-5f60b6a38087"}
+{"sub_uri": "Q70232", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Les Bois", "lineid": 187, "uuid": "9518f15e-512d-400b-aa3b-634626465eec"}
+{"sub_uri": "Q843", "obj_uri": "Q1617", "obj_label": "Urdu", "sub_label": "Pakistan", "lineid": 188, "uuid": "0a24b4f3-5eab-4cdb-821a-5d93c12ec7fb"}
+{"sub_uri": "Q683525", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Varkaus", "lineid": 189, "uuid": "8d71b70d-2f8e-4d0b-816d-5eba9f0822b5"}
+{"sub_uri": "Q48329", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Mariehamn", "lineid": 190, "uuid": "e13cc16e-da4d-444a-92cc-b069f4bf252b"}
+{"sub_uri": "Q11911", "obj_uri": "Q150", "obj_label": "French", "sub_label": "canton of Bern", "lineid": 191, "uuid": "5f3dffc8-b5a6-462c-a6db-515a369b26ea"}
+{"sub_uri": "Q16746854", "obj_uri": "Q8798", "obj_label": "Ukrainian", "sub_label": "Luhansk People's Republic", "lineid": 192, "uuid": "0e4b773c-431a-4b85-96b9-561b7795224f"}
+{"sub_uri": "Q4492491", "obj_uri": "Q150", "obj_label": "French", "sub_label": "French immersion", "lineid": 193, "uuid": "7203faab-ef48-4f18-9ab6-649cd32137d5"}
+{"sub_uri": "Q68124", "obj_uri": "Q150", "obj_label": "French", "sub_label": "La Chaux-de-Fonds", "lineid": 194, "uuid": "a01c8c42-2843-42f8-b586-fc31ea128d6d"}
+{"sub_uri": "Q735563", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Kaarina", "lineid": 195, "uuid": "cb55bbe2-65d0-469c-944f-f09cc57a6f7a"}
+{"sub_uri": "Q170770", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Grand Duchy of Moscow", "lineid": 196, "uuid": "a35c128e-4161-4d49-b77d-e0c820fddbbe"}
+{"sub_uri": "Q33946", "obj_uri": "Q9056", "obj_label": "Czech", "sub_label": "Czechoslovakia", "lineid": 197, "uuid": "37b1a3b5-5fbc-4b75-ad0f-6817360d4a19"}
+{"sub_uri": "Q1041", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Senegal", "lineid": 198, "uuid": "aa1a70fa-8d8e-4ba9-9626-6b45b3172728"}
+{"sub_uri": "Q64093", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Le Locle", "lineid": 199, "uuid": "195d63ea-21f0-41c5-b103-400072962aa3"}
+{"sub_uri": "Q748092", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Kirkkonummi", "lineid": 200, "uuid": "127aab64-141c-44e6-8b80-8cf850b2e5d3"}
+{"sub_uri": "Q193367", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Porvoo", "lineid": 201, "uuid": "e742b31f-20b4-4601-96a2-01e1425207ff"}
+{"sub_uri": "Q190353", "obj_uri": "Q397", "obj_label": "Latin", "sub_label": "Sovereign Military Order of Malta", "lineid": 202, "uuid": "d583208b-8fff-4e7f-828a-865a2148441d"}
+{"sub_uri": "Q1010550", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Pargas", "lineid": 203, "uuid": "95eeba68-1bda-475f-be70-cbe96f06efdc"}
+{"sub_uri": "Q2023", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Nunavut", "lineid": 204, "uuid": "742f4525-e968-4fda-a4ed-3fb7aeea9295"}
+{"sub_uri": "Q71", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Geneva", "lineid": 205, "uuid": "b618ae8b-7080-42eb-a38c-9ca21af3d2a5"}
+{"sub_uri": "Q458", "obj_uri": "Q7918", "obj_label": "Bulgarian", "sub_label": "European Union", "lineid": 206, "uuid": "c6d3b7ff-ba14-4ce2-a84c-d199856a77c2"}
+{"sub_uri": "Q11911", "obj_uri": "Q188", "obj_label": "German", "sub_label": "canton of Bern", "lineid": 207, "uuid": "7c5bd78d-c5fa-4b6c-9b44-a86d68a09b9f"}
+{"sub_uri": "Q68230", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Meyrin", "lineid": 208, "uuid": "54436340-4bb7-492c-b222-f3d64b285c9a"}
+{"sub_uri": "Q7817", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "World Health Organization", "lineid": 209, "uuid": "9f2377bf-23a0-4fe7-8057-4c2695b9f0c5"}
+{"sub_uri": "Q1060479", "obj_uri": "Q9299", "obj_label": "Serbian", "sub_label": "North Kosovo", "lineid": 210, "uuid": "a798d894-70c1-4cea-8aef-bf3625e1b7eb"}
+{"sub_uri": "Q26180", "obj_uri": "Q7411", "obj_label": "Dutch", "sub_label": "Sint Eustatius", "lineid": 211, "uuid": "e164353c-7569-4c73-a12a-b6aaa32c0ea3"}
+{"sub_uri": "Q225", "obj_uri": "Q9299", "obj_label": "Serbian", "sub_label": "Bosnia and Herzegovina", "lineid": 212, "uuid": "ca1f8012-b345-4b43-8b99-b7b9acd81df7"}
+{"sub_uri": "Q15124", "obj_uri": "Q652", "obj_label": "Italian", "sub_label": "South Tyrol", "lineid": 213, "uuid": "65d7922a-ba7c-414a-ab1d-4e8ae2aba27b"}
+{"sub_uri": "Q33", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Finland", "lineid": 214, "uuid": "2594f8ee-6f99-4ed6-94c1-8047fdc686ca"}
+{"sub_uri": "Q14118", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Savoy", "lineid": 215, "uuid": "a94767ec-f9f5-40ea-b91a-0f4275913f8d"}
+{"sub_uri": "Q691", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Papua New Guinea", "lineid": 216, "uuid": "7bac5c2a-a8ed-49e8-8ede-77c85857e05f"}
+{"sub_uri": "Q12724", "obj_uri": "Q652", "obj_label": "Italian", "sub_label": "Ticino", "lineid": 217, "uuid": "29902c77-00a2-4df2-864c-04d6484d7e9c"}
+{"sub_uri": "Q1017108", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Lieto", "lineid": 218, "uuid": "0d2517d9-21a4-4778-b3a0-5dd4b4032592"}
+{"sub_uri": "Q233", "obj_uri": "Q9166", "obj_label": "Maltese", "sub_label": "Malta", "lineid": 219, "uuid": "b92d86cd-edc3-435a-911a-4d310f6347c0"}
+{"sub_uri": "Q1037", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Rwanda", "lineid": 220, "uuid": "d6d779f2-237e-4448-9b2e-24ff4b3ff901"}
+{"sub_uri": "Q997600", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Jokioinen", "lineid": 221, "uuid": "44d34368-c37d-4473-ba0c-ddb971503cd7"}
+{"sub_uri": "Q748064", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Maaninka", "lineid": 222, "uuid": "cde59cd8-417d-409c-8d3f-9de5811c6214"}
+{"sub_uri": "Q837", "obj_uri": "Q33823", "obj_label": "Nepali", "sub_label": "Nepal", "lineid": 223, "uuid": "8ae9ebbf-4539-4db0-b6fd-36e9d84f2cd9"}
+{"sub_uri": "Q113718", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Botkyrka Municipality", "lineid": 224, "uuid": "f72ddc5f-fc77-4e85-8a7c-4425df81ef9d"}
+{"sub_uri": "Q176196", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Saltvik", "lineid": 225, "uuid": "81e1107a-60ac-4c80-8d88-fd3e7b6b546a"}
+{"sub_uri": "Q3048747", "obj_uri": "Q9237", "obj_label": "Malay", "sub_label": "Pontianak Sultanate", "lineid": 226, "uuid": "6659b874-f58c-4e30-bd6e-2ca066e7d931"}
+{"sub_uri": "Q4948", "obj_uri": "Q652", "obj_label": "Italian", "sub_label": "Republic of Venice", "lineid": 227, "uuid": "64004a33-049d-40fe-bc97-6328a9e0f971"}
+{"sub_uri": "Q657", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Chad", "lineid": 228, "uuid": "41327d3e-eb50-449d-a0c6-ec911233da87"}
+{"sub_uri": "Q67270", "obj_uri": "Q652", "obj_label": "Italian", "sub_label": "Caslano", "lineid": 229, "uuid": "a45cee2e-b60b-4ab0-9254-1a8b887895ca"}
+{"sub_uri": "Q1953", "obj_uri": "Q8785", "obj_label": "Armenian", "sub_label": "Yerevan", "lineid": 230, "uuid": "bdd5b83b-bc6c-4d9e-b7ed-9d0bf3dc8f9f"}
+{"sub_uri": "Q750", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Bolivia", "lineid": 231, "uuid": "8fb17905-b379-4d91-9250-be531caf08a5"}
+{"sub_uri": "Q13116", "obj_uri": "Q7411", "obj_label": "Dutch", "sub_label": "Benelux", "lineid": 232, "uuid": "4fd4bfed-3d4e-445a-97a0-baa4d366fb4a"}
+{"sub_uri": "Q833", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Malaysia", "lineid": 233, "uuid": "3d07671f-2897-47bb-9c28-baa73cc5231b"}
+{"sub_uri": "Q12602", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Val d'Aran", "lineid": 234, "uuid": "55febe3f-46de-491a-88af-9bd464352e4d"}
+{"sub_uri": "Q34266", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Russian Empire", "lineid": 235, "uuid": "7f7ec575-6120-4ae9-af72-14df7a01ec30"}
+{"sub_uri": "Q958", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "South Sudan", "lineid": 236, "uuid": "6493e1d8-13cd-47c3-9bd2-b733081d5a29"}
+{"sub_uri": "Q983", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Equatorial Guinea", "lineid": 237, "uuid": "1d044539-8d2c-4fd1-a555-1b2e5df348f8"}
+{"sub_uri": "Q458", "obj_uri": "Q9067", "obj_label": "Hungarian", "sub_label": "European Union", "lineid": 238, "uuid": "630bca96-8a06-4077-a0ac-9400ab619832"}
+{"sub_uri": "Q3540", "obj_uri": "Q9240", "obj_label": "Indonesian", "sub_label": "Banten", "lineid": 239, "uuid": "7428b176-bf6d-4b9d-b09c-3fdc0395220a"}
+{"sub_uri": "Q52502", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Gothenburg Municipality", "lineid": 240, "uuid": "6918692c-a985-4bbe-9fd3-41f869143d23"}
+{"sub_uri": "Q492575", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Huddinge Municipality", "lineid": 241, "uuid": "2c3ebc22-17a8-4d5d-9453-de85f973fd46"}
+{"sub_uri": "Q636607", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Loppi", "lineid": 242, "uuid": "3380b42b-5987-4202-95f3-9f3a7313835a"}
+{"sub_uri": "Q813", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Kyrgyzstan", "lineid": 243, "uuid": "a6031e96-e9ee-4960-ac81-ef98ad602b2b"}
+{"sub_uri": "Q193367", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Porvoo", "lineid": 244, "uuid": "b6af17ca-ee53-4350-a4aa-be65714e8e71"}
+{"sub_uri": "Q935858", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Vihti", "lineid": 245, "uuid": "95d32234-a24f-4fe6-9b59-b53011408970"}
+{"sub_uri": "Q12172", "obj_uri": "Q188", "obj_label": "German", "sub_label": "Basel-Stadt", "lineid": 246, "uuid": "91216afa-1125-4155-9e7d-026ebae92f1a"}
+{"sub_uri": "Q9337", "obj_uri": "Q7411", "obj_label": "Dutch", "sub_label": "Flemish Region", "lineid": 247, "uuid": "a3d432a9-ae2e-478e-979b-363a95158bcd"}
+{"sub_uri": "Q510198", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Tierp Municipality", "lineid": 248, "uuid": "d1c6c487-e8ce-4b37-87ff-1f2f58f9a0f2"}
+{"sub_uri": "Q17", "obj_uri": "Q5287", "obj_label": "Japanese", "sub_label": "Japan", "lineid": 249, "uuid": "2e4e4f3a-7284-4f4d-a410-5bd9db3561c6"}
+{"sub_uri": "Q5981", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Alavus", "lineid": 250, "uuid": "3e39771c-adbd-4707-bb4a-33a54f38fa0d"}
+{"sub_uri": "Q2895", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Byelorussian Soviet Socialist Republic", "lineid": 251, "uuid": "6278d6f5-0014-4f48-9565-3734d180b129"}
+{"sub_uri": "Q986322", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Kangasala", "lineid": 252, "uuid": "f18cb7a4-1b3a-4759-a542-d014e4d4b4fe"}
+{"sub_uri": "Q794", "obj_uri": "Q9168", "obj_label": "Persian", "sub_label": "Iran", "lineid": 253, "uuid": "366e44ee-e2eb-47c9-af5c-9d03ece2f042"}
+{"sub_uri": "Q40840", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Tampere", "lineid": 254, "uuid": "b55c8f9e-5d56-4ecc-aa97-0795ba43a1ec"}
+{"sub_uri": "Q47048", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Oulu", "lineid": 255, "uuid": "c83df3bc-da48-4787-b13d-e3e15bacab61"}
+{"sub_uri": "Q7318", "obj_uri": "Q188", "obj_label": "German", "sub_label": "Nazi Germany", "lineid": 256, "uuid": "f3b9c546-8f28-463e-b9a4-e11e64d0c6d7"}
+{"sub_uri": "Q47034", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Espoo", "lineid": 257, "uuid": "2403fc09-3b45-4720-820b-3b210ec23b48"}
+{"sub_uri": "Q4040", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Aragon", "lineid": 258, "uuid": "3e438531-994e-49e5-a032-86b801e56099"}
+{"sub_uri": "Q804", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Panama", "lineid": 259, "uuid": "6cfcd4cf-f2fe-48de-acd1-7454da3b7c22"}
+{"sub_uri": "Q176", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Quebec", "lineid": 260, "uuid": "7469c504-9a44-4159-bbc4-1f4b1657d67e"}
+{"sub_uri": "Q2277", "obj_uri": "Q397", "obj_label": "Latin", "sub_label": "Roman Empire", "lineid": 261, "uuid": "165ec805-98f9-4118-b355-38cb680b49ec"}
+{"sub_uri": "Q983", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Equatorial Guinea", "lineid": 262, "uuid": "ff889831-d12d-449b-a0ca-5c765dc730af"}
+{"sub_uri": "Q59778", "obj_uri": "Q9129", "obj_label": "Greek", "sub_label": "Church of Greece", "lineid": 263, "uuid": "bfd71c97-9b32-4c1b-ac3d-b4e98e263ae3"}
+{"sub_uri": "Q2003", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Newfoundland and Labrador", "lineid": 264, "uuid": "b29ef337-9f36-4312-8e9b-c88e3954f7cf"}
+{"sub_uri": "Q1009345", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Kaustinen", "lineid": 265, "uuid": "fa742d91-18e3-4b8a-a33c-6247a301f918"}
+{"sub_uri": "Q6407", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Yamalo-Nenets Autonomous Okrug", "lineid": 266, "uuid": "e2717553-5ad0-4d68-a8d1-3475ad8f4685"}
+{"sub_uri": "Q458", "obj_uri": "Q9072", "obj_label": "Estonian", "sub_label": "European Union", "lineid": 267, "uuid": "2d135c9a-4bbd-436d-8f1f-6f22b808ce38"}
+{"sub_uri": "Q15124", "obj_uri": "Q188", "obj_label": "German", "sub_label": "South Tyrol", "lineid": 268, "uuid": "62925384-4f87-4dbc-b94e-7d78398550f3"}
+{"sub_uri": "Q70202", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Moudon", "lineid": 269, "uuid": "e71c43c3-d909-412d-8b37-8eb384773d18"}
+{"sub_uri": "Q63979", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Versoix", "lineid": 270, "uuid": "d58de924-bfe8-4a9d-a31c-a7f8680c700d"}
+{"sub_uri": "Q4948", "obj_uri": "Q397", "obj_label": "Latin", "sub_label": "Republic of Venice", "lineid": 271, "uuid": "51d84f18-ab9b-491c-b7db-b0645fa3a6e4"}
+{"sub_uri": "Q374677", "obj_uri": "Q150", "obj_label": "French", "sub_label": "International Commission on Illumination", "lineid": 272, "uuid": "5713bb50-e81f-4fe5-8703-ee6ef8f80e33"}
+{"sub_uri": "Q859608", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Keminmaa", "lineid": 273, "uuid": "d847930a-f4a1-43e9-9266-4f03b1d4115d"}
+{"sub_uri": "Q11876909", "obj_uri": "Q5146", "obj_label": "Portuguese", "sub_label": "State of Brazil", "lineid": 274, "uuid": "9abe4ab8-e587-4ccb-b9e2-5696fb93ab89"}
+{"sub_uri": "Q179726", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Kumlinge", "lineid": 275, "uuid": "1d548027-6ed4-4b71-b198-703b90053fac"}
+{"sub_uri": "Q13116", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Benelux", "lineid": 276, "uuid": "16f13954-324b-4c9e-b650-e4124ccc5516"}
+{"sub_uri": "Q52636", "obj_uri": "Q7026", "obj_label": "Catalan", "sub_label": "Menorca", "lineid": 277, "uuid": "fd9f8675-c2f3-4cc1-a1b9-20c1891d109e"}
+{"sub_uri": "Q1065", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "United Nations", "lineid": 278, "uuid": "f2d89b99-85e2-48f8-b6df-6bc498545f2d"}
+{"sub_uri": "Q25528", "obj_uri": "Q7411", "obj_label": "Dutch", "sub_label": "Saba", "lineid": 279, "uuid": "d5a02726-f5ee-445c-a8da-bd6301417d00"}
+{"sub_uri": "Q8733", "obj_uri": "Q34271", "obj_label": "Tibetan", "sub_label": "Qing dynasty", "lineid": 280, "uuid": "d302d8e1-c261-409e-a7bb-80f9c53a83d7"}
+{"sub_uri": "Q1000117", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Juva", "lineid": 281, "uuid": "564ce5c8-880e-40a5-af3a-115a6f6b88b7"}
+{"sub_uri": "Q171965", "obj_uri": "Q8798", "obj_label": "Ukrainian", "sub_label": "Luhansk Oblast", "lineid": 282, "uuid": "f1543d74-87a9-423d-943d-cd616d011d88"}
+{"sub_uri": "Q125080", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Vaasa", "lineid": 283, "uuid": "26267510-e025-4721-b5e5-a4f633bfeca2"}
+{"sub_uri": "Q6605", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Sakha Republic", "lineid": 284, "uuid": "3250b7ce-fed0-4854-aaf8-a44ec4e4dcb1"}
+{"sub_uri": "Q1353", "obj_uri": "Q1568", "obj_label": "Hindi", "sub_label": "Delhi", "lineid": 285, "uuid": "47f46f96-3a85-4038-bbe5-c049d1e68058"}
+{"sub_uri": "Q458", "obj_uri": "Q809", "obj_label": "Polish", "sub_label": "European Union", "lineid": 286, "uuid": "c20bdd04-3d66-4912-bdc0-56cf359d38f4"}
+{"sub_uri": "Q11703", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "United States Virgin Islands", "lineid": 287, "uuid": "6500a9ce-eaa7-43be-a2f1-06550dc60ee3"}
+{"sub_uri": "Q512048", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Jokkmokk Municipality", "lineid": 288, "uuid": "d86e90ca-034e-4300-8e16-3bd30a3e98bd"}
+{"sub_uri": "Q786", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Dominican Republic", "lineid": 289, "uuid": "ee0b1ea4-bd3d-4963-a773-ddbaec193ca4"}
+{"sub_uri": "Q25", "obj_uri": "Q9309", "obj_label": "Welsh", "sub_label": "Wales", "lineid": 290, "uuid": "c77ed967-ed5d-478f-9f30-d1154f5fbf85"}
+{"sub_uri": "Q870499", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Ouchy", "lineid": 291, "uuid": "ebd8de86-e201-40fb-8153-b1beacdfe874"}
+{"sub_uri": "Q47916", "obj_uri": "Q1617", "obj_label": "Urdu", "sub_label": "Lucknow", "lineid": 292, "uuid": "aa85016a-df5e-4368-aec0-f8e762d84552"}
+{"sub_uri": "Q43070", "obj_uri": "Q8798", "obj_label": "Ukrainian", "sub_label": "Donetsk", "lineid": 293, "uuid": "ff7b7f89-7268-4d64-a09f-63c3f34d8c50"}
+{"sub_uri": "Q234", "obj_uri": "Q7411", "obj_label": "Dutch", "sub_label": "Flanders", "lineid": 294, "uuid": "a6324722-bc08-47f1-9e9a-4249aee3a9b5"}
+{"sub_uri": "Q514707", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Krokom Municipality", "lineid": 295, "uuid": "0f4097cb-309c-4dee-ba2a-949617f86766"}
+{"sub_uri": "Q165285", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Huittinen", "lineid": 296, "uuid": "5d5eb3f3-3c2a-4df0-a421-e73ef66c769f"}
+{"sub_uri": "Q6023", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Lapua", "lineid": 297, "uuid": "edbf631b-517c-4338-bb14-42ccc7e2b274"}
+{"sub_uri": "Q7730", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Jewish Autonomous Oblast", "lineid": 298, "uuid": "c4f8d99a-671b-4fdf-a105-1dd43b86df5b"}
+{"sub_uri": "Q129516", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "International Academy of Sciences San Marino", "lineid": 299, "uuid": "d4c4917a-1430-4f4f-ac12-d9307738adc1"}
+{"sub_uri": "Q972564", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Sundbyberg Municipality", "lineid": 300, "uuid": "8abad833-1ea7-4d59-816f-47fa29fd4968"}
+{"sub_uri": "Q1974", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "British Columbia", "lineid": 301, "uuid": "28ae8822-c597-44d0-890c-c621ee5ead61"}
+{"sub_uri": "Q1025714", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Kangasniemi", "lineid": 302, "uuid": "183a5a26-1ed7-4214-a249-bccc853f822d"}
+{"sub_uri": "Q31", "obj_uri": "Q7411", "obj_label": "Dutch", "sub_label": "Belgium", "lineid": 303, "uuid": "6b81ab0b-170e-4f41-93ea-4364906d29ef"}
+{"sub_uri": "Q57111", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Cossonay", "lineid": 304, "uuid": "da030176-b14a-4472-9dd7-1a0dc13f354a"}
+{"sub_uri": "Q221457", "obj_uri": "Q809", "obj_label": "Polish", "sub_label": "Congress Poland", "lineid": 305, "uuid": "551787d1-904f-41b9-88bb-5fc0ba370384"}
+{"sub_uri": "Q334577", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Quetzaltenango", "lineid": 306, "uuid": "70bcf880-2125-41a8-b33e-bc020a9a9b33"}
+{"sub_uri": "Q12544", "obj_uri": "Q397", "obj_label": "Latin", "sub_label": "Byzantine Empire", "lineid": 307, "uuid": "93d70af8-3328-4bc5-a160-63024ac41cb5"}
+{"sub_uri": "Q27", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Ireland", "lineid": 308, "uuid": "96b126ec-d7ac-4de0-bfa8-792b6f54a158"}
+{"sub_uri": "Q55", "obj_uri": "Q7411", "obj_label": "Dutch", "sub_label": "Netherlands", "lineid": 309, "uuid": "dee90050-2f0f-4146-9a0e-2970c112ed7e"}
+{"sub_uri": "Q259636", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Suonenjoki", "lineid": 310, "uuid": "3bd49e79-3700-4337-82f0-fb8b94f8d3b5"}
+{"sub_uri": "Q1558", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Kansas", "lineid": 311, "uuid": "18923b40-5b71-4abd-b4b1-125e2231a1a1"}
+{"sub_uri": "Q127623", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Vantaa", "lineid": 312, "uuid": "58ddb3fa-4d57-4982-b6fc-5ab061dc5a8f"}
+{"sub_uri": "Q258", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "South Africa", "lineid": 313, "uuid": "667cde96-3a2a-4e07-943b-ca67bd50f6ce"}
+{"sub_uri": "Q11935", "obj_uri": "Q652", "obj_label": "Italian", "sub_label": "Locarno", "lineid": 314, "uuid": "fdd3cd81-a2f5-4101-bcce-645612ad3ab5"}
+{"sub_uri": "Q1297894", "obj_uri": "Q7026", "obj_label": "Catalan", "sub_label": "County of Ribagorza", "lineid": 315, "uuid": "a5395395-3723-44b2-a8c5-fd4b9754ebfa"}
+{"sub_uri": "Q686", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Vanuatu", "lineid": 316, "uuid": "0b58fcf7-c6ae-4916-b9f8-1e15de78e4e8"}
+{"sub_uri": "Q984931", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Siuntio", "lineid": 317, "uuid": "68cd9abc-efc1-488f-b288-787f57a67ad4"}
+{"sub_uri": "Q756890", "obj_uri": "Q7026", "obj_label": "Catalan", "sub_label": "Institut d'Estudis Catalans", "lineid": 318, "uuid": "93bad85b-a337-4696-ab3d-4ef2db9a5514"}
+{"sub_uri": "Q68160", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Vevey", "lineid": 319, "uuid": "ad01acc0-ec56-49d5-8004-27ca6a830e9f"}
+{"sub_uri": "Q11917", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Canton of Geneva", "lineid": 320, "uuid": "bc1f4780-a798-46de-b8a9-f95a35746de8"}
+{"sub_uri": "Q236", "obj_uri": "Q6654", "obj_label": "Croatian", "sub_label": "Montenegro", "lineid": 321, "uuid": "5e8baf03-fbb5-4fde-9ff9-58df2d4e4b06"}
+{"sub_uri": "Q730", "obj_uri": "Q7411", "obj_label": "Dutch", "sub_label": "Suriname", "lineid": 322, "uuid": "73a3dd45-331b-4bcd-a9b4-f12765cde8fe"}
+{"sub_uri": "Q1184", "obj_uri": "Q1568", "obj_label": "Hindi", "sub_label": "Jharkhand", "lineid": 323, "uuid": "19246330-daa4-4948-ae4b-56f493ca8c85"}
+{"sub_uri": "Q7024", "obj_uri": "Q652", "obj_label": "Italian", "sub_label": "Lugano", "lineid": 324, "uuid": "5216a40b-4bb0-4ea1-819a-82808f12c4aa"}
+{"sub_uri": "Q5422", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Udmurt Republic", "lineid": 325, "uuid": "b9419c72-0ff0-4d36-84c8-17d99565286a"}
+{"sub_uri": "Q748513", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Loviisa", "lineid": 326, "uuid": "1270318e-d7b4-40be-86d2-8d38d769839b"}
+{"sub_uri": "Q1261", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Colorado", "lineid": 327, "uuid": "8521aa37-fc30-4d7e-9013-aa7712d6007c"}
+{"sub_uri": "Q999264", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Siikainen", "lineid": 328, "uuid": "50ab7004-09e5-41dc-8c2f-c1ca09525f09"}
+{"sub_uri": "Q125080", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Vaasa", "lineid": 329, "uuid": "9ce50c89-e396-40f0-b347-1be376ea3aab"}
+{"sub_uri": "Q30921", "obj_uri": "Q652", "obj_label": "Italian", "sub_label": "Swiss Federal Constitution", "lineid": 330, "uuid": "0f1f0da9-b5dc-4d77-9127-c416f9319561"}
+{"sub_uri": "Q5267", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Kabardino-Balkaria", "lineid": 331, "uuid": "1fca496d-e8af-4627-9ba8-6d5ae03b90ba"}
+{"sub_uri": "Q678", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Tonga", "lineid": 332, "uuid": "b3d8165b-5591-4cbf-9c67-5fc4b5969288"}
+{"sub_uri": "Q519763", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Lapinlahti", "lineid": 333, "uuid": "54577322-2a74-4e91-963a-51b821e7322f"}
+{"sub_uri": "Q21", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "England", "lineid": 334, "uuid": "366c61eb-7c05-4c3b-8db9-2f717fe34518"}
+{"sub_uri": "Q983", "obj_uri": "Q5146", "obj_label": "Portuguese", "sub_label": "Equatorial Guinea", "lineid": 335, "uuid": "7cdb7b94-01f0-4b1f-9054-9adcb4aac485"}
+{"sub_uri": "Q829842", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Forssa", "lineid": 336, "uuid": "d571e6f1-d802-4bb7-a5f1-1b1c4dc86e56"}
+{"sub_uri": "Q907112", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Transnistria", "lineid": 337, "uuid": "3ca5d314-8473-4b5b-8edb-e6aa258f2764"}
+{"sub_uri": "Q2895", "obj_uri": "Q9091", "obj_label": "Belarusian", "sub_label": "Byelorussian Soviet Socialist Republic", "lineid": 338, "uuid": "e20de315-8145-41b7-815a-0629bb2d7316"}
+{"sub_uri": "Q5378621", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "English plural", "lineid": 339, "uuid": "a9bf09f6-4175-4231-9d88-d1736c1f1384"}
+{"sub_uri": "Q69037", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Collonge-Bellerive", "lineid": 340, "uuid": "75633276-958d-4b9c-94ce-474da2de6c2d"}
+{"sub_uri": "Q1112985", "obj_uri": "Q7918", "obj_label": "Bulgarian", "sub_label": "Kyustendil Province", "lineid": 341, "uuid": "68c185a1-03b2-43c8-b4c8-663a1d2b2625"}
+{"sub_uri": "Q939701", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Orimattila", "lineid": 342, "uuid": "9005ecfe-e1eb-4c54-ace4-a7f2d2588579"}
+{"sub_uri": "Q27", "obj_uri": "Q9142", "obj_label": "Irish", "sub_label": "Ireland", "lineid": 343, "uuid": "efd873bf-ecc1-414c-81e2-538018cb8d91"}
+{"sub_uri": "Q1007", "obj_uri": "Q5146", "obj_label": "Portuguese", "sub_label": "Guinea-Bissau", "lineid": 344, "uuid": "8a330454-9e3d-4468-8b8d-8d12767691e4"}
+{"sub_uri": "Q225", "obj_uri": "Q6654", "obj_label": "Croatian", "sub_label": "Bosnia and Herzegovina", "lineid": 345, "uuid": "f874c189-4f1c-4296-a467-c5fb3f3d1b40"}
+{"sub_uri": "Q1415", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Indiana", "lineid": 346, "uuid": "093998dd-e065-42d8-bb46-4da2482d0d4f"}
+{"sub_uri": "Q69745", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Renens", "lineid": 347, "uuid": "e6026589-2691-4e19-bf25-1a44502c973f"}
+{"sub_uri": "Q423", "obj_uri": "Q9176", "obj_label": "Korean", "sub_label": "North Korea", "lineid": 348, "uuid": "fb451947-ca6d-4e33-953f-06053789dcb4"}
+{"sub_uri": "Q16150196", "obj_uri": "Q8798", "obj_label": "Ukrainian", "sub_label": "Donetsk People's Republic", "lineid": 349, "uuid": "d50affaf-7cb5-4c13-8068-e3a2fb66ad46"}
+{"sub_uri": "Q1789963", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Kronoby", "lineid": 350, "uuid": "b0fae7d2-ec7c-4aee-a684-268606b20172"}
+{"sub_uri": "Q67203", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Tavannes", "lineid": 351, "uuid": "a41336aa-2db9-46ce-b49b-5a16445159d5"}
+{"sub_uri": "Q334", "obj_uri": "Q5885", "obj_label": "Tamil", "sub_label": "Singapore", "lineid": 352, "uuid": "e47276a9-d6f9-4e60-aff1-bac718217fad"}
+{"sub_uri": "Q159", "obj_uri": "Q8798", "obj_label": "Ukrainian", "sub_label": "Russia", "lineid": 353, "uuid": "6d3ddd30-5802-45a3-8c47-9e12900fe052"}
+{"sub_uri": "Q188586", "obj_uri": "Q33973", "obj_label": "Sicilian", "sub_label": "Kingdom of Sicily", "lineid": 354, "uuid": "88aaaf0b-d698-4985-bbec-68bb5a5e9e5e"}
+{"sub_uri": "Q318693", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Collective Security Treaty Organisation", "lineid": 355, "uuid": "fc8ce6ec-a013-4d45-b2c6-32a7771cc2d8"}
+{"sub_uri": "Q162279", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Kuopio", "lineid": 356, "uuid": "4007b150-16ea-4712-9f93-a296b256794f"}
+{"sub_uri": "Q208287", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Kauniainen", "lineid": 357, "uuid": "77957928-0933-4c32-9f24-b0df63abd7ab"}
+{"sub_uri": "Q414", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Argentina", "lineid": 358, "uuid": "2cc37b69-a0ba-4bab-8e01-b92616f9101d"}
+{"sub_uri": "Q999868", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Eura", "lineid": 359, "uuid": "d10adeac-7be0-4c4a-9d8f-d6271a069c4b"}
+{"sub_uri": "Q990578", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Hollola", "lineid": 360, "uuid": "5cb6f5f3-a017-4910-a139-32e9baffc5e2"}
+{"sub_uri": "Q190583", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Mikkeli", "lineid": 361, "uuid": "b666ca9c-092c-408a-ae7b-35bfcad67475"}
+{"sub_uri": "Q475403", "obj_uri": "Q188", "obj_label": "German", "sub_label": "Bernese Oberland", "lineid": 362, "uuid": "7f7c86b1-6326-4939-a78b-b29bd2c51af1"}
+{"sub_uri": "Q842091", "obj_uri": "Q33850", "obj_label": "Norman", "sub_label": "Duchy of Normandy", "lineid": 363, "uuid": "957dd4d4-81c9-434b-a25c-c6f2e57be767"}
+{"sub_uri": "Q25227", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Netherlands Antilles", "lineid": 364, "uuid": "c00e94e0-d6c5-4e63-8b8a-332e54109b13"}
+{"sub_uri": "Q737534", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Kontiolahti", "lineid": 365, "uuid": "c3c109b9-eaa3-4ea3-92d5-ad973b82e1e5"}
+{"sub_uri": "Q2157647", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Royal Society of British Artists", "lineid": 366, "uuid": "0c414322-841e-45cd-9be7-5ad1bbe3449d"}
+{"sub_uri": "Q47034", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Espoo", "lineid": 367, "uuid": "dd6e824a-700f-48a1-80ba-ce1178e0bf74"}
+{"sub_uri": "Q14274", "obj_uri": "Q188", "obj_label": "German", "sub_label": "Aarau", "lineid": 368, "uuid": "d46c33d7-ddfd-4008-a4f1-747ad806afc1"}
+{"sub_uri": "Q128499", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Yalta", "lineid": 369, "uuid": "22e650eb-47a7-4865-b53e-eb5b3babce1e"}
+{"sub_uri": "Q639054", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Zhovti Vody", "lineid": 370, "uuid": "e92763d7-4e82-4e31-885e-525836bc939e"}
+{"sub_uri": "Q1952", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Nova Scotia", "lineid": 371, "uuid": "b9177a14-20ab-4f47-adb2-442b2ab7e406"}
+{"sub_uri": "Q41550", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Organisation for Economic Cooperation and Development", "lineid": 372, "uuid": "f26f3d3b-56b1-4bc8-aba6-3a999e24c338"}
+{"sub_uri": "Q782", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Hawaii", "lineid": 373, "uuid": "11644062-e822-4641-a708-330467d9af6e"}
+{"sub_uri": "Q244207", "obj_uri": "Q652", "obj_label": "Italian", "sub_label": "Campione d'Italia", "lineid": 374, "uuid": "add73583-2cbb-4ded-af6e-134c526e06e8"}
+{"sub_uri": "Q127623", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Vantaa", "lineid": 375, "uuid": "348800db-678e-40bc-9e38-28475af611b3"}
+{"sub_uri": "Q186096", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Tsardom of Russia", "lineid": 376, "uuid": "d6ab057a-0780-42d8-ba02-6dc51b2a9466"}
+{"sub_uri": "Q69364", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Carouge", "lineid": 377, "uuid": "39de93bb-31db-4e82-8db8-3538c1a0ebc0"}
+{"sub_uri": "Q53381", "obj_uri": "Q652", "obj_label": "Italian", "sub_label": "Tolmezzo", "lineid": 378, "uuid": "7e930e6e-2db1-44d7-8ef4-46ec5956ff2d"}
+{"sub_uri": "Q7817", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "World Health Organization", "lineid": 379, "uuid": "b46343e0-0f68-4813-bf91-438f515210e4"}
+{"sub_uri": "Q695", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Palau", "lineid": 380, "uuid": "61e9032d-7dff-4ff8-b68d-0ea842bfd6ba"}
+{"sub_uri": "Q162475", "obj_uri": "Q9142", "obj_label": "Irish", "sub_label": "County Cork", "lineid": 381, "uuid": "f6450a9d-09fa-447d-be98-72ff6044b4c1"}
+{"sub_uri": "Q131337", "obj_uri": "Q9292", "obj_label": "Azerbaijani", "sub_label": "Azerbaijan Soviet Socialist Republic", "lineid": 382, "uuid": "99a513b9-0f9f-410c-808f-baf721645a28"}
+{"sub_uri": "Q103717", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Rovaniemi", "lineid": 383, "uuid": "0c968731-cfc1-4618-b5ab-b30280d7f617"}
+{"sub_uri": "Q6171", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Vimpeli", "lineid": 384, "uuid": "ac0992cd-2f5b-459d-8d32-d562255b3d68"}
+{"sub_uri": "Q34020", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Niue", "lineid": 385, "uuid": "6366e3cd-73fb-4010-8e20-5c1fba31c90c"}
+{"sub_uri": "Q177819", "obj_uri": "Q50868", "obj_label": "Egyptian", "sub_label": "Old Kingdom of Egypt", "lineid": 386, "uuid": "50f1202e-fdd9-4314-88b9-86956ee0d80d"}
+{"sub_uri": "Q1008", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Ivory Coast", "lineid": 387, "uuid": "3008d7a4-729c-412b-b1b3-5378f56e26d9"}
+{"sub_uri": "Q783", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Honduras", "lineid": 388, "uuid": "0c59aeec-0f6e-4faa-9cca-7064b264d5dd"}
+{"sub_uri": "Q759", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "New Hampshire", "lineid": 389, "uuid": "6c7d8441-d286-4fd9-8ba5-977dea7bb6d4"}
+{"sub_uri": "Q5785", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Cayman Islands", "lineid": 390, "uuid": "b5fdb4cb-5c89-40a7-8079-ca8687903ac6"}
+{"sub_uri": "Q967", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Burundi", "lineid": 391, "uuid": "2134ebad-8a2a-4ce5-addf-0f1100c1970c"}
+{"sub_uri": "Q748092", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Kirkkonummi", "lineid": 392, "uuid": "c789c8eb-246b-4545-b14a-6c0c721b47fd"}
+{"sub_uri": "Q735133", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Ikaalinen", "lineid": 393, "uuid": "8ad592ab-41d3-4a4f-bcca-e9b03059a3c3"}
+{"sub_uri": "Q1009", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Cameroon", "lineid": 394, "uuid": "aa9ba3fe-7868-44ae-96d6-6229cf7cca67"}
+{"sub_uri": "Q797", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Alaska", "lineid": 395, "uuid": "9f25c277-fa52-47fb-80f4-78e8ef86ca25"}
+{"sub_uri": "Q5986", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Isojoki", "lineid": 396, "uuid": "05c050c9-1559-4b0f-ba69-2a0a51fae7b8"}
+{"sub_uri": "Q237", "obj_uri": "Q652", "obj_label": "Italian", "sub_label": "Vatican City", "lineid": 397, "uuid": "44f04392-3d1a-4f89-8c2f-615b716d6721"}
+{"sub_uri": "Q43070", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Donetsk", "lineid": 398, "uuid": "d91d659c-35e2-4f95-bb32-9f869136e3c6"}
+{"sub_uri": "Q1029", "obj_uri": "Q5146", "obj_label": "Portuguese", "sub_label": "Mozambique", "lineid": 399, "uuid": "3ec17ec6-4888-4a4e-9b4a-3e4c8512eb07"}
+{"sub_uri": "Q574", "obj_uri": "Q5146", "obj_label": "Portuguese", "sub_label": "East Timor", "lineid": 400, "uuid": "25f0b213-ced8-4a1a-a0d8-6f7b89340f3a"}
+{"sub_uri": "Q37362", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Akrotiri and Dhekelia", "lineid": 401, "uuid": "d3dd42df-7d5b-4c35-8ef0-7ca349ed9d92"}
+{"sub_uri": "Q69520", "obj_uri": "Q150", "obj_label": "French", "sub_label": "L'Abbaye", "lineid": 402, "uuid": "20a4ed4f-21ec-42de-9873-06a9c9062598"}
+{"sub_uri": "Q165783", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "British Antarctic Territory", "lineid": 403, "uuid": "dffc63ee-cee3-4994-90eb-772cb5d544d2"}
+{"sub_uri": "Q608752", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Lieksa", "lineid": 404, "uuid": "55a5f524-0d4d-4476-8f76-a66257b87db2"}
+{"sub_uri": "Q69706", "obj_uri": "Q652", "obj_label": "Italian", "sub_label": "Brissago", "lineid": 405, "uuid": "b108c5e0-19d3-4cb6-9602-b0f8fca8afbb"}
+{"sub_uri": "Q34266", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Russian Empire", "lineid": 406, "uuid": "d1634d7d-6443-4781-bb3c-312b9470dda4"}
+{"sub_uri": "Q1033", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Nigeria", "lineid": 407, "uuid": "8249e98e-bc64-4638-98f5-616edc88dbcd"}
+{"sub_uri": "Q29999", "obj_uri": "Q7411", "obj_label": "Dutch", "sub_label": "Kingdom of the Netherlands", "lineid": 408, "uuid": "641437aa-5291-4504-9e65-b014617dbbee"}
+{"sub_uri": "Q23334", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Abkhazia", "lineid": 409, "uuid": "45764328-ef4a-4962-9145-c969b9ad38c9"}
+{"sub_uri": "Q935847", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Viitasaari", "lineid": 410, "uuid": "f907f644-0cb2-4a14-92e6-bcd28aa8eab1"}
+{"sub_uri": "Q8828", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Majorca", "lineid": 411, "uuid": "5b35e7a6-c8db-417f-9d6a-f54f9438d720"}
+{"sub_uri": "Q45", "obj_uri": "Q5146", "obj_label": "Portuguese", "sub_label": "Portugal", "lineid": 412, "uuid": "22b92004-7c77-44c4-bf89-3c31229f6e99"}
+{"sub_uri": "Q939758", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Kalajoki", "lineid": 413, "uuid": "60c729f8-1927-4296-bf5a-423eb41a90b9"}
+{"sub_uri": "Q62589", "obj_uri": "Q9043", "obj_label": "Norwegian", "sub_label": "Union between Sweden and Norway", "lineid": 414, "uuid": "1abd78d8-958d-4820-990e-90a69f6b3261"}
+{"sub_uri": "Q510310", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Haparanda Municipality", "lineid": 415, "uuid": "0e8a42bb-b589-4405-b416-63a991e600b3"}
+{"sub_uri": "Q1948", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Manitoba", "lineid": 416, "uuid": "a82ee3c7-0fa8-41c9-9279-70eebcdb5cdc"}
+{"sub_uri": "Q845930", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Berg Municipality", "lineid": 417, "uuid": "b28efedf-3df8-462f-a420-f6339623840b"}
+{"sub_uri": "Q42262", "obj_uri": "Q150", "obj_label": "French", "sub_label": "European Space Agency", "lineid": 418, "uuid": "52d0913b-e4d6-453b-b129-a2d5204cef4c"}
+{"sub_uri": "Q3818", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Malabo", "lineid": 419, "uuid": "88062d97-4f98-42e7-a1d8-13d8cd99ace0"}
+{"sub_uri": "Q458", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "European Union", "lineid": 420, "uuid": "68646ca1-fc10-4958-a165-9328f17b8205"}
+{"sub_uri": "Q990553", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Laukaa", "lineid": 421, "uuid": "d9a4c646-3926-448e-9ea4-af9fda998b12"}
+{"sub_uri": "Q1025748", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Kaavi", "lineid": 422, "uuid": "97af9bb7-4ecd-477d-9b18-cab4468227d1"}
+{"sub_uri": "Q986320", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Sipoo", "lineid": 423, "uuid": "28fc60fe-7d3c-403c-ad7f-2ed08d56d097"}
+{"sub_uri": "Q5446", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Mari El Republic", "lineid": 424, "uuid": "0877f3f7-44ec-413d-a581-a0b02b0540cb"}
+{"sub_uri": "Q1757", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Helsinki", "lineid": 425, "uuid": "726442e0-794f-4559-bd35-08a7d7ffe12a"}
+{"sub_uri": "Q89959", "obj_uri": "Q150", "obj_label": "French", "sub_label": "French Community of Belgium", "lineid": 426, "uuid": "9243e92e-cbae-4d94-969e-3b14617988b5"}
+{"sub_uri": "Q939771", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Kuhmo", "lineid": 427, "uuid": "26a9a370-c3e9-4770-99cc-cd634947c313"}
+{"sub_uri": "Q5705", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Catalonia", "lineid": 428, "uuid": "041abc44-2894-4b3c-bb2b-a68bc5913753"}
+{"sub_uri": "Q34266", "obj_uri": "Q809", "obj_label": "Polish", "sub_label": "Russian Empire", "lineid": 429, "uuid": "c3909d98-0e9c-4387-ae58-aa7d4557f3cf"}
+{"sub_uri": "Q1168", "obj_uri": "Q1568", "obj_label": "Hindi", "sub_label": "Chhattisgarh", "lineid": 430, "uuid": "72810004-e1ee-4fdf-b9c2-173ee81084a0"}
+{"sub_uri": "Q849934", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Heinola", "lineid": 431, "uuid": "3f5c0653-b3b2-4013-9755-1a8a15619bf2"}
+{"sub_uri": "Q756294", "obj_uri": "Q8798", "obj_label": "Ukrainian", "sub_label": "Autonomous Republic of Crimea", "lineid": 432, "uuid": "9025d8e7-5db2-43b1-bb8d-86ce60cb6d90"}
+{"sub_uri": "Q1042", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Seychelles", "lineid": 433, "uuid": "fe3128db-b74a-4012-856f-327c1869c1f8"}
+{"sub_uri": "Q4018", "obj_uri": "Q8752", "obj_label": "Basque", "sub_label": "Navarre", "lineid": 434, "uuid": "5a0a4df1-0757-4afd-90a4-364137a3978d"}
+{"sub_uri": "Q52698", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Chardonne", "lineid": 435, "uuid": "24601aa0-7c9b-43cf-9bf9-46f5c7ffa822"}
+{"sub_uri": "Q10302194", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "manually coded English", "lineid": 436, "uuid": "8f8cc304-fb53-4452-9445-4ee0b6f876c3"}
+{"sub_uri": "Q80702", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Spanish Empire", "lineid": 437, "uuid": "91d6dea1-2fdf-4d81-9bef-21b2c6c7fea5"}
+{"sub_uri": "Q113692", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Haninge Municipality", "lineid": 438, "uuid": "a267b060-9c2a-427e-86d9-0dfa2163441b"}
+{"sub_uri": "Q1989", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Saskatchewan", "lineid": 439, "uuid": "f1a340f5-703a-4c49-9367-fea289a0831e"}
+{"sub_uri": "Q133356", "obj_uri": "Q8798", "obj_label": "Ukrainian", "sub_label": "Ukrainian Soviet Socialist Republic", "lineid": 440, "uuid": "4b76942b-aa3a-4b22-8574-3f17d715b2c9"}
+{"sub_uri": "Q3934", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Asturias", "lineid": 441, "uuid": "9c594eba-0047-4f26-aa54-e61d31ccc23e"}
+{"sub_uri": "Q3899", "obj_uri": "Q9240", "obj_label": "Indonesian", "sub_label": "East Kalimantan", "lineid": 442, "uuid": "a4e1bbfd-ce61-4949-9747-86870fa22372"}
+{"sub_uri": "Q881", "obj_uri": "Q9199", "obj_label": "Vietnamese", "sub_label": "Vietnam", "lineid": 443, "uuid": "349f775e-744c-4bef-b655-9bba2c54717a"}
+{"sub_uri": "Q1246", "obj_uri": "Q8748", "obj_label": "Albanian", "sub_label": "Kosovo", "lineid": 444, "uuid": "c26f6838-325e-414f-b9d1-e8f838e48a12"}
+{"sub_uri": "Q69790", "obj_uri": "Q652", "obj_label": "Italian", "sub_label": "Cadenazzo", "lineid": 445, "uuid": "1b6d1970-1a7a-4895-8f9b-4280ea205579"}
+{"sub_uri": "Q151831", "obj_uri": "Q188", "obj_label": "German", "sub_label": "Eupen", "lineid": 446, "uuid": "1059f5fa-d667-449e-962f-d6914786885e"}
+{"sub_uri": "Q322126", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Valkeakoski", "lineid": 447, "uuid": "32b0a148-e755-4288-b814-1f350ace40e9"}
+{"sub_uri": "Q581920", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Utsjoki", "lineid": 448, "uuid": "a166293e-7f3c-46b9-a99d-7795a7b52af3"}
+{"sub_uri": "Q7825", "obj_uri": "Q150", "obj_label": "French", "sub_label": "World Trade Organization", "lineid": 449, "uuid": "5e94cb9d-6eba-4b7e-86f2-e88b39360846"}
+{"sub_uri": "Q211853", "obj_uri": "Q9299", "obj_label": "Serbian", "sub_label": "Republic of Serbian Krajina", "lineid": 450, "uuid": "3b54699a-e462-4f88-a0cc-4cf7eee49cc0"}
+{"sub_uri": "Q752470", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Finnish Orthodox Church", "lineid": 451, "uuid": "9890be60-3a5e-4224-8a34-fa63c10b9cac"}
+{"sub_uri": "Q181854", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Lappeenranta", "lineid": 452, "uuid": "34666d7a-db3f-4dfc-8ead-9287faee471f"}
+{"sub_uri": "Q736", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Ecuador", "lineid": 453, "uuid": "47d8ef34-3c16-4a4d-b109-2ea969a308ad"}
+{"sub_uri": "Q171965", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Luhansk Oblast", "lineid": 454, "uuid": "4dcc80a8-6b77-4bed-b0cf-a317ef7653ef"}
+{"sub_uri": "Q1361", "obj_uri": "Q8097", "obj_label": "Telugu", "sub_label": "Hyderabad", "lineid": 455, "uuid": "4d6d1c77-3466-4b11-ac7b-0e4386a54bf7"}
+{"sub_uri": "Q1065", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "United Nations", "lineid": 456, "uuid": "4c36d6a8-2c91-4178-bc96-cbd21aaf1185"}
+{"sub_uri": "Q785", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Jersey", "lineid": 457, "uuid": "f7922bd5-66e6-46ea-ae84-8739a1c08d9f"}
+{"sub_uri": "Q8733", "obj_uri": "Q9246", "obj_label": "Mongolian", "sub_label": "Qing dynasty", "lineid": 458, "uuid": "e6d9bdcd-e8c3-464f-8447-8c62af7dd004"}
+{"sub_uri": "Q472795", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "VASKhNIL", "lineid": 459, "uuid": "b000534a-29ae-4318-9c2b-0d20f5608965"}
+{"sub_uri": "Q734", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Guyana", "lineid": 460, "uuid": "a64ce623-3799-4db1-abcd-c2f8b53a62ab"}
+{"sub_uri": "Q40", "obj_uri": "Q188", "obj_label": "German", "sub_label": "Austria", "lineid": 461, "uuid": "e3c7a676-e343-486c-9683-9a8fb710920e"}
+{"sub_uri": "Q493428", "obj_uri": "Q652", "obj_label": "Italian", "sub_label": "Mistretta", "lineid": 462, "uuid": "43d26b4e-4e0c-4b5b-ae1d-02db9e191389"}
+{"sub_uri": "Q334", "obj_uri": "Q9237", "obj_label": "Malay", "sub_label": "Singapore", "lineid": 463, "uuid": "df07db8c-ebe0-4266-a87e-c90c6cfda22a"}
+{"sub_uri": "Q1569280", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Hailuoto", "lineid": 464, "uuid": "ff70b201-f2dd-46bd-9c07-7f93e33e614e"}
+{"sub_uri": "Q43", "obj_uri": "Q256", "obj_label": "Turkish", "sub_label": "Turkey", "lineid": 465, "uuid": "db5025a8-17b0-4db2-94fa-aaa9a5eabc2c"}
+{"sub_uri": "Q298", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Chile", "lineid": 466, "uuid": "369a729a-a438-408a-9e11-961e7e38027c"}
+{"sub_uri": "Q69587", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Veyrier", "lineid": 467, "uuid": "edd0d484-07d6-41a6-8aa5-342337f3d812"}
+{"sub_uri": "Q984934", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Hyrynsalmi", "lineid": 468, "uuid": "fc4cf5a7-8c33-4207-a09d-409e8d0b2434"}
+{"sub_uri": "Q26273", "obj_uri": "Q7411", "obj_label": "Dutch", "sub_label": "Sint Maarten (Dutch part)", "lineid": 469, "uuid": "37f41216-39fb-40fb-931b-44c52ca4f3aa"}
+{"sub_uri": "Q15028", "obj_uri": "Q150", "obj_label": "French", "sub_label": "International Organization for Standardization", "lineid": 470, "uuid": "8d6c9fb2-2260-4b10-8c05-3a75b96a9ffc"}
+{"sub_uri": "Q458", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "European Union", "lineid": 471, "uuid": "bae5b750-1a6f-4995-bbcd-ae47dbcfea67"}
+{"sub_uri": "Q240", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Brussels region", "lineid": 472, "uuid": "6ba9c8a2-f4b8-4cb8-a2b0-895d8410c2c1"}
+{"sub_uri": "Q834", "obj_uri": "Q150", "obj_label": "French", "sub_label": "canton of Valais", "lineid": 473, "uuid": "7b818321-1bde-400f-a4c0-1da0f01aab78"}
+{"sub_uri": "Q1353", "obj_uri": "Q1617", "obj_label": "Urdu", "sub_label": "Delhi", "lineid": 474, "uuid": "25dca82c-5880-4054-aa94-10dacbf50518"}
+{"sub_uri": "Q215443", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Swedish Empire", "lineid": 475, "uuid": "dafca733-00c5-4218-9a9f-356fa879f6fd"}
+{"sub_uri": "Q633371", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Raseborg", "lineid": 476, "uuid": "7afa0fac-d96f-4260-a503-cd60696a8f2e"}
+{"sub_uri": "Q1751495", "obj_uri": "Q9058", "obj_label": "Slovak", "sub_label": "Slovak Socialist Republic", "lineid": 477, "uuid": "60591cef-752b-400a-b230-ec37a4aa0f07"}
+{"sub_uri": "Q117091", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Kalix Municipality", "lineid": 478, "uuid": "0b45bec8-3fd8-41f2-af1e-7f69fecaef6c"}
+{"sub_uri": "Q633371", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Raseborg", "lineid": 479, "uuid": "0602a77d-cbab-4941-bca5-5544c3f708b7"}
+{"sub_uri": "Q1211", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "South Dakota", "lineid": 480, "uuid": "8d8d4095-a138-45dd-8553-6843ca93fb26"}
+{"sub_uri": "Q173", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Alabama", "lineid": 481, "uuid": "d469be31-5047-4495-88b9-89ba36310663"}
+{"sub_uri": "Q161376", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Miss Universe", "lineid": 482, "uuid": "e0c7e894-289e-4a85-a7f1-f589642652d2"}
+{"sub_uri": "Q99", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "California", "lineid": 483, "uuid": "0dff97dc-dbea-4ca4-ab8f-b6c16b786236"}
+{"sub_uri": "Q7122288", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Pacific Alliance", "lineid": 484, "uuid": "bb6f8b1f-0fe4-4b31-be45-bbd60e791f2c"}
+{"sub_uri": "Q807901", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Laitila", "lineid": 485, "uuid": "8af0c654-d302-4127-802a-4fcf77817384"}
+{"sub_uri": "Q39", "obj_uri": "Q652", "obj_label": "Italian", "sub_label": "Switzerland", "lineid": 486, "uuid": "08986e2b-0fc0-43f5-8bf0-d79697a8c001"}
+{"sub_uri": "Q960", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Tuva Republic", "lineid": 487, "uuid": "30df7a7d-870e-426b-802b-2b7d9ea7b798"}
+{"sub_uri": "Q159", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Russia", "lineid": 488, "uuid": "7b0ab156-7bb2-4836-a78b-a4029d774793"}
+{"sub_uri": "Q156593", "obj_uri": "Q8798", "obj_label": "Ukrainian", "sub_label": "Sambir", "lineid": 489, "uuid": "dee1bfe1-77c9-4b1d-8b0f-bea57668af3d"}
+{"sub_uri": "Q2009", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Yukon", "lineid": 490, "uuid": "dc24c584-ed8d-485a-b328-3aea2b6d606b"}
+{"sub_uri": "Q608803", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Liperi", "lineid": 491, "uuid": "3e350385-a0d6-4b73-ae7b-ff68e4d3df03"}
+{"sub_uri": "Q965", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Burkina Faso", "lineid": 492, "uuid": "0ec8b83a-3e7a-4beb-9dc2-3f09b66d70ca"}
+{"sub_uri": "Q66471", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Sonvilier", "lineid": 493, "uuid": "4870879e-97a7-4bba-af53-f7cc2675a030"}
+{"sub_uri": "Q70328", "obj_uri": "Q652", "obj_label": "Italian", "sub_label": "Bosco Gurin", "lineid": 494, "uuid": "5ae04b8b-d397-44fd-b3ff-7d117a3a6245"}
+{"sub_uri": "Q785", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Jersey", "lineid": 495, "uuid": "5dbb56e9-945c-47f0-89c3-a357174d6c35"}
+{"sub_uri": "Q159", "obj_uri": "Q9292", "obj_label": "Azerbaijani", "sub_label": "Russia", "lineid": 496, "uuid": "1bbc18e1-f31b-40c3-b341-635657536845"}
+{"sub_uri": "Q159", "obj_uri": "Q973685", "obj_label": "Mari", "sub_label": "Russia", "lineid": 497, "uuid": "93be1a47-2c89-40f1-9396-c6e80be601fe"}
+{"sub_uri": "Q2023", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Nunavut", "lineid": 498, "uuid": "2174d07d-262b-4208-ac1b-86d265554a27"}
+{"sub_uri": "Q305440", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Korpo", "lineid": 499, "uuid": "035a89df-a4bf-4472-9389-ee2730f64df4"}
+{"sub_uri": "Q1017104", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Nousiainen", "lineid": 500, "uuid": "bee4514f-902f-4162-9325-8e3130a16191"}
+{"sub_uri": "Q192155", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Kotka", "lineid": 501, "uuid": "4af9c84b-15cb-4671-a0aa-25dc43083b0a"}
+{"sub_uri": "Q18670313", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Army Public School Peshawar", "lineid": 502, "uuid": "862dae86-635e-4229-9761-2bf777e8fc54"}
+{"sub_uri": "Q1246149", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Rabinal", "lineid": 503, "uuid": "fb8007a5-5f75-41bd-8efe-eb889a4a79ea"}
+{"sub_uri": "Q38", "obj_uri": "Q652", "obj_label": "Italian", "sub_label": "Italy", "lineid": 504, "uuid": "a17c61ef-b9a6-456d-9805-b626fd98b2f3"}
+{"sub_uri": "Q68305", "obj_uri": "Q188", "obj_label": "German", "sub_label": "Wetzikon", "lineid": 505, "uuid": "5489bd9f-88f2-429f-8442-523592b9be31"}
+{"sub_uri": "Q8733", "obj_uri": "Q7850", "obj_label": "Chinese", "sub_label": "Qing dynasty", "lineid": 506, "uuid": "3e4f8469-f1ca-4a50-bf30-961d3040987c"}
+{"sub_uri": "Q1454", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "North Carolina", "lineid": 507, "uuid": "3afea8c8-62f0-45a7-b68a-0ccb29c96b62"}
+{"sub_uri": "Q984938", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Savukoski", "lineid": 508, "uuid": "3cf0837f-5c32-4aca-a2ae-bffbcc2a6cd6"}
+{"sub_uri": "Q1010034", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Karvia", "lineid": 509, "uuid": "d928dbd1-7961-4db2-b1cc-b018d0b37b19"}
+{"sub_uri": "Q928", "obj_uri": "Q33298", "obj_label": "Filipino", "sub_label": "Philippines", "lineid": 510, "uuid": "73f69757-f4e0-405f-83cb-d1c22266e50b"}
+{"sub_uri": "Q214777", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Lohja", "lineid": 511, "uuid": "811a6608-1245-4026-8e4b-d12daa881fc8"}
+{"sub_uri": "Q928", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Philippines", "lineid": 512, "uuid": "669f6be9-463e-4453-9c57-7af0e86f2187"}
+{"sub_uri": "Q34", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Sweden", "lineid": 513, "uuid": "870bed64-48b0-4a8d-9095-328a21691e1f"}
+{"sub_uri": "Q1221", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Idaho", "lineid": 514, "uuid": "73615b29-d0a7-4737-8cbf-4a87e16541a4"}
+{"sub_uri": "Q1191", "obj_uri": "Q1571", "obj_label": "Marathi", "sub_label": "Maharashtra", "lineid": 515, "uuid": "5d45030c-4aef-4bc2-a46f-d910980f253d"}
+{"sub_uri": "Q6809", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Republic of Buryatia", "lineid": 516, "uuid": "45ee6c7d-ef22-4e1a-b21a-64aa9ed1273d"}
+{"sub_uri": "Q1032", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Niger", "lineid": 517, "uuid": "04566835-f70b-449a-87cd-f441d19c7b7a"}
+{"sub_uri": "Q109010", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Solna Municipality", "lineid": 518, "uuid": "9184d323-1124-4cad-a514-be11d2a30080"}
+{"sub_uri": "Q47916", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Lucknow", "lineid": 519, "uuid": "a8a14351-9668-4e44-87ac-48de04b2f217"}
+{"sub_uri": "Q2184", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Russian Soviet Federative Socialist Republic", "lineid": 520, "uuid": "605b472f-7da6-421a-9bb6-879bf16ca684"}
+{"sub_uri": "Q69484", "obj_uri": "Q188", "obj_label": "German", "sub_label": "Spiez", "lineid": 521, "uuid": "2f5e675e-e7d2-45d2-9b32-03997e248d23"}
+{"sub_uri": "Q1255", "obj_uri": "Q8748", "obj_label": "Albanian", "sub_label": "Autonomous Province of Kosovo and Metohija", "lineid": 522, "uuid": "bf0ab9c6-3625-4802-866f-6b8305c8547b"}
+{"sub_uri": "Q134685", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Hammarland", "lineid": 523, "uuid": "346f699c-48d5-4a49-84ab-9e8646b145eb"}
+{"sub_uri": "Q984936", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Vaala", "lineid": 524, "uuid": "9127abb8-7ab4-48af-b6fa-9b47fbc63a77"}
+{"sub_uri": "Q1530721", "obj_uri": "Q150", "obj_label": "French", "sub_label": "National Film Board of Canada", "lineid": 525, "uuid": "0ccec3b7-4eaf-4644-891e-c5e3fcc26a1b"}
+{"sub_uri": "Q1679567", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Jakobstad", "lineid": 526, "uuid": "8e254328-ae67-4d92-80bc-4e863d7cd47c"}
+{"sub_uri": "Q193714", "obj_uri": "Q9288", "obj_label": "Hebrew", "sub_label": "Mandatory Palestine", "lineid": 527, "uuid": "9ad75ab3-953f-4aa9-be37-b9c117d6248c"}
+{"sub_uri": "Q7768", "obj_uri": "Q9240", "obj_label": "Indonesian", "sub_label": "ASEAN", "lineid": 528, "uuid": "e627de6f-9fb0-45c9-b617-eb1c05a467d5"}
+{"sub_uri": "Q37024", "obj_uri": "Q9299", "obj_label": "Serbian", "sub_label": "Serbia and Montenegro", "lineid": 529, "uuid": "98123fa6-9329-4696-89ff-d88f620020ee"}
+{"sub_uri": "Q2910242", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Nuevo Santander", "lineid": 530, "uuid": "e950a15e-3783-4fcf-8d38-731d2dbf6ebb"}
+{"sub_uri": "Q15028", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "International Organization for Standardization", "lineid": 531, "uuid": "4563a119-e0bd-46ad-b761-baa4fda9bc3e"}
+{"sub_uri": "Q224", "obj_uri": "Q6654", "obj_label": "Croatian", "sub_label": "Croatia", "lineid": 532, "uuid": "93c76c6a-0a77-4abf-b590-9195b4d5ee6d"}
+{"sub_uri": "Q499474", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Kiruna Municipality", "lineid": 533, "uuid": "58815c7b-1bb2-4084-89a5-baec7b0d3959"}
+{"sub_uri": "Q121157", "obj_uri": "Q9168", "obj_label": "Persian", "sub_label": "Mashhad", "lineid": 534, "uuid": "34fb8933-0fbd-48b6-a0eb-3547d8dad3dd"}
+{"sub_uri": "Q16641", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "American Samoa", "lineid": 535, "uuid": "b781a8c0-c704-45ad-8821-19d19607d0b3"}
+{"sub_uri": "Q208287", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Kauniainen", "lineid": 536, "uuid": "a712d6b9-8a29-415c-8be6-cfe67abba3c9"}
+{"sub_uri": "Q213", "obj_uri": "Q9056", "obj_label": "Czech", "sub_label": "Czech Republic", "lineid": 537, "uuid": "a63f78e3-5ba1-45f9-95c4-9898adab5e58"}
+{"sub_uri": "Q760", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Saint Lucia", "lineid": 538, "uuid": "a8666023-adda-4ab3-8964-783c5f277a92"}
+{"sub_uri": "Q181574", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "North American Free Trade Agreement", "lineid": 539, "uuid": "65c138de-69b1-4c8d-9165-2330faff5a08"}
+{"sub_uri": "Q347", "obj_uri": "Q188", "obj_label": "German", "sub_label": "Liechtenstein", "lineid": 540, "uuid": "3f1b3230-2c08-4cc2-8b2e-5af2478018c3"}
+{"sub_uri": "Q534072", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Virolahti", "lineid": 541, "uuid": "f2261722-6c17-451f-a4a8-96cbba1bb240"}
+{"sub_uri": "Q1036", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Uganda", "lineid": 542, "uuid": "e0d783ed-5579-44c4-ab0f-763aa2332ca9"}
+{"sub_uri": "Q3734", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Republic of Adygea", "lineid": 543, "uuid": "edf02836-4f63-4abc-ae8a-e48196ce8331"}
+{"sub_uri": "Q5466", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Chuvash Republic", "lineid": 544, "uuid": "4c406f28-f03c-4d90-8617-4b3d23586631"}
+{"sub_uri": "Q1042", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Seychelles", "lineid": 545, "uuid": "feb46c0b-2284-4a4d-ba3f-afb9e8367757"}
+{"sub_uri": "Q458", "obj_uri": "Q9056", "obj_label": "Czech", "sub_label": "European Union", "lineid": 546, "uuid": "b1a9a74f-932f-4b56-8be4-c48a727c78f6"}
+{"sub_uri": "Q986", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Eritrea", "lineid": 547, "uuid": "ade58670-1b85-47df-9c60-50b699138b98"}
+{"sub_uri": "Q1027", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Mauritius", "lineid": 548, "uuid": "e2549d9f-ff0e-4153-83c2-5de297ed782a"}
+{"sub_uri": "Q458", "obj_uri": "Q9083", "obj_label": "Lithuanian", "sub_label": "European Union", "lineid": 549, "uuid": "013719e3-2ccf-490b-b75b-717c27a8f857"}
+{"sub_uri": "Q5237", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Republic of North Ossetia-Alania", "lineid": 550, "uuid": "aded6800-d0c7-4aa3-b282-7837ccf61f4c"}
+{"sub_uri": "Q105967", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "La Gomera", "lineid": 551, "uuid": "be7d11c8-3f0b-4f2a-86b5-9d74c59e8725"}
+{"sub_uri": "Q1322229", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Enlightenment in Spain", "lineid": 552, "uuid": "589d5133-8026-4228-882a-341d281a5a2d"}
+{"sub_uri": "Q142", "obj_uri": "Q150", "obj_label": "French", "sub_label": "France", "lineid": 553, "uuid": "7577d72b-e37f-4106-9666-e50955837a65"}
+{"sub_uri": "Q1186", "obj_uri": "Q36236", "obj_label": "Malayalam", "sub_label": "Kerala", "lineid": 554, "uuid": "49c2f3ed-dda7-422b-ab3a-7a12cf1f24c4"}
+{"sub_uri": "Q1009", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Cameroon", "lineid": 555, "uuid": "3ad25567-8925-4fc8-b7be-e7bdef6ff742"}
+{"sub_uri": "Q2145", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Quebec City", "lineid": 556, "uuid": "2a9a6825-d212-46a9-a9dc-1b675e1eb622"}
+{"sub_uri": "Q5720", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Community of Valencia", "lineid": 557, "uuid": "1654c1c9-96f3-41ac-8876-7e1bc6bf75c7"}
+{"sub_uri": "Q869", "obj_uri": "Q9217", "obj_label": "Thai", "sub_label": "Thailand", "lineid": 558, "uuid": "e57627d2-3f84-4a7e-9d05-81085fe53caf"}
+{"sub_uri": "Q730285", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Asikkala", "lineid": 559, "uuid": "d1fb1773-17c2-4c64-aebd-bdec232d6cde"}
+{"sub_uri": "Q694740", "obj_uri": "Q397", "obj_label": "Latin", "sub_label": "Exarchate of Ravenna", "lineid": 560, "uuid": "d9582c6c-4513-4b3b-a3e8-55e6cece2d58"}
+{"sub_uri": "Q81299", "obj_uri": "Q652", "obj_label": "Italian", "sub_label": "Organization for Security and Co-operation in Europe", "lineid": 561, "uuid": "4e920158-0058-4ddb-866c-a3a907becb05"}
+{"sub_uri": "Q974", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Democratic Republic of the Congo", "lineid": 562, "uuid": "7aecbc1a-fcaf-4045-a0cc-73641e220529"}
+{"sub_uri": "Q28", "obj_uri": "Q9067", "obj_label": "Hungarian", "sub_label": "Hungary", "lineid": 563, "uuid": "b285212f-a314-4051-8515-a8a6579af38e"}
+{"sub_uri": "Q693658", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Izabal Department", "lineid": 564, "uuid": "120873e8-abcd-4b6c-bc59-629c9bc0334c"}
+{"sub_uri": "Q683512", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Savonlinna", "lineid": 565, "uuid": "749aae17-3e0e-4c41-9a51-657674b5543d"}
+{"sub_uri": "Q16150196", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Donetsk People's Republic", "lineid": 566, "uuid": "8271b745-7760-4212-974b-8d5e4beb6859"}
+{"sub_uri": "Q686", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Vanuatu", "lineid": 567, "uuid": "491e3afb-e69e-469c-aac4-20c3e6e10bd6"}
+{"sub_uri": "Q191", "obj_uri": "Q9072", "obj_label": "Estonian", "sub_label": "Estonia", "lineid": 568, "uuid": "0fb9d3ae-1a99-486a-a656-e98d24220256"}
+{"sub_uri": "Q1603", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Kentucky", "lineid": 569, "uuid": "d68b443d-2c27-4099-a901-420fe61e9d82"}
+{"sub_uri": "Q499415", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Storuman Municipality", "lineid": 570, "uuid": "a57d1a4a-dc26-43ad-b5fa-f8f1b478162b"}
+{"sub_uri": "Q953081", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Orivesi", "lineid": 571, "uuid": "e3f8aff9-651c-44ce-ba93-4f875a2a4b6c"}
+{"sub_uri": "Q985337", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Paltamo", "lineid": 572, "uuid": "fad61798-65ee-499b-b0b0-122d34151588"}
+{"sub_uri": "Q47916", "obj_uri": "Q1568", "obj_label": "Hindi", "sub_label": "Lucknow", "lineid": 573, "uuid": "fe7ae113-9c6e-4c6c-b951-ff9ec41767f7"}
+{"sub_uri": "Q4648", "obj_uri": "Q9240", "obj_label": "Indonesian", "sub_label": "Bali", "lineid": 574, "uuid": "b412393a-e6be-43fb-b6cf-022f812f6399"}
+{"sub_uri": "Q1207", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "North Dakota", "lineid": 575, "uuid": "0d35da69-ecab-48ee-b79c-64ecd4cb6b6b"}
+{"sub_uri": "Q117091", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Kalix Municipality", "lineid": 576, "uuid": "c134596f-6909-4c06-b937-70f8661a92d4"}
+{"sub_uri": "Q29", "obj_uri": "Q8752", "obj_label": "Basque", "sub_label": "Spain", "lineid": 577, "uuid": "b287bd02-8abb-4a11-9173-7a2fc2b3803f"}
+{"sub_uri": "Q233", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Malta", "lineid": 578, "uuid": "046b5f81-67d9-4919-bdb5-a32d2e9f6594"}
+{"sub_uri": "Q3953", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Republic of Kalmykia", "lineid": 579, "uuid": "ec983ca3-91f0-49ad-a0e1-8504a14c8349"}
+{"sub_uri": "Q6167", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Teuva", "lineid": 580, "uuid": "b7add303-4e14-42d2-bfb3-91e08480e4ae"}
+{"sub_uri": "Q69802", "obj_uri": "Q652", "obj_label": "Italian", "sub_label": "Camorino", "lineid": 581, "uuid": "620e39fc-2bd6-487e-ab13-11c95ba7af39"}
+{"sub_uri": "Q12640", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Canton of Fribourg", "lineid": 582, "uuid": "ebd391df-d8f0-43e7-ae45-556f4f8a7e15"}
+{"sub_uri": "Q2007", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Northwest Territories", "lineid": 583, "uuid": "6a0c649e-ab1e-45e8-9ea1-f23a74a5bd30"}
+{"sub_uri": "Q413747", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Akaa", "lineid": 584, "uuid": "475229de-781e-4271-817f-13a86c39dab3"}
+{"sub_uri": "Q1965", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "New Brunswick", "lineid": 585, "uuid": "c93ae323-f877-41d2-b8d7-c4a3c3350e2a"}
+{"sub_uri": "Q25", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Wales", "lineid": 586, "uuid": "d3f21a38-e017-4fb3-a7bf-665974701d0a"}
+{"sub_uri": "Q367780", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Hamina", "lineid": 587, "uuid": "6f624f9f-54ba-4794-9acd-c17641381c5d"}
+{"sub_uri": "Q970", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Comoros", "lineid": 588, "uuid": "802264b0-678f-453a-ab5c-c4bec357ace9"}
+{"sub_uri": "Q34", "obj_uri": "Q13201", "obj_label": "Romani", "sub_label": "Sweden", "lineid": 589, "uuid": "e90a1aea-66cd-41fc-a6f5-e823f9a3700b"}
+{"sub_uri": "Q504994", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Sundsvall Municipality", "lineid": 590, "uuid": "78764502-ae1b-4ed3-9c25-2394dead174a"}
+{"sub_uri": "Q188586", "obj_uri": "Q9129", "obj_label": "Greek", "sub_label": "Kingdom of Sicily", "lineid": 591, "uuid": "4c328f81-c666-4ec5-935f-b676ae76392e"}
+{"sub_uri": "Q7817", "obj_uri": "Q150", "obj_label": "French", "sub_label": "World Health Organization", "lineid": 592, "uuid": "cf31b1b1-c2d2-40ee-aad6-e9e087752241"}
+{"sub_uri": "Q12640", "obj_uri": "Q188", "obj_label": "German", "sub_label": "Canton of Fribourg", "lineid": 593, "uuid": "e171eb44-da16-4157-817b-06e8edbc6d25"}
+{"sub_uri": "Q125761", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "International Civil Aviation Organization", "lineid": 594, "uuid": "5c0946bc-cccb-4a1c-b6dc-1c9275b88e81"}
+{"sub_uri": "Q90027", "obj_uri": "Q188", "obj_label": "German", "sub_label": "German-speaking Community of Belgium", "lineid": 595, "uuid": "ea38c013-b9e5-4f24-bdcd-2f7159db82d6"}
+{"sub_uri": "Q986722", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Kannonkoski", "lineid": 596, "uuid": "0cc7ca24-aa7a-4bf7-b632-1c9d6eeb06e2"}
+{"sub_uri": "Q1065", "obj_uri": "Q150", "obj_label": "French", "sub_label": "United Nations", "lineid": 597, "uuid": "14c671ce-fc29-4b51-9371-7be7226f0bf2"}
+{"sub_uri": "Q2277", "obj_uri": "Q9129", "obj_label": "Greek", "sub_label": "Roman Empire", "lineid": 598, "uuid": "eb9512f3-d478-4f6b-b3e9-9c077f2d23f6"}
+{"sub_uri": "Q2496397", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Udmurt Autonomous Oblast", "lineid": 599, "uuid": "69b1ebe0-9db9-4eba-9240-5f0ef32f9bb1"}
+{"sub_uri": "Q66616", "obj_uri": "Q1568", "obj_label": "Hindi", "sub_label": "Indore", "lineid": 600, "uuid": "8f2e0b12-478d-4f1e-994d-949ac0d8b44b"}
+{"sub_uri": "Q1410", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Gibraltar", "lineid": 601, "uuid": "eeb26c82-d4ca-41c1-abd4-b1847476f01a"}
+{"sub_uri": "Q2895", "obj_uri": "Q809", "obj_label": "Polish", "sub_label": "Byelorussian Soviet Socialist Republic", "lineid": 602, "uuid": "3a1c326c-af88-4212-919f-e5d1e3fa5d0a"}
+{"sub_uri": "Q29", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Spain", "lineid": 603, "uuid": "6d2557b6-13d4-4961-878e-1e89b234293a"}
+{"sub_uri": "Q643919", "obj_uri": "Q9309", "obj_label": "Welsh", "sub_label": "Torfaen", "lineid": 604, "uuid": "65a1ffd7-9414-4ccb-afb1-8fb7eb853299"}
+{"sub_uri": "Q1445", "obj_uri": "Q5885", "obj_label": "Tamil", "sub_label": "Tamil Nadu", "lineid": 605, "uuid": "0f1aebbb-8744-459c-a599-b95e1f815a05"}
+{"sub_uri": "Q5942", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Altai Krai", "lineid": 606, "uuid": "671c6981-be76-41ed-9f0b-24cb9dc08592"}
+{"sub_uri": "Q69041", "obj_uri": "Q652", "obj_label": "Italian", "sub_label": "Mendrisio", "lineid": 607, "uuid": "7c15e1c1-6424-4c8a-ba51-276fd399eb2c"}
+{"sub_uri": "Q32", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Luxembourg", "lineid": 608, "uuid": "309a460d-f441-432d-8fb0-4a13fb64daf9"}
+{"sub_uri": "Q1823", "obj_uri": "Q9240", "obj_label": "Indonesian", "sub_label": "Aceh", "lineid": 609, "uuid": "1ed7f831-6ca3-4c5a-b53a-1d9b028a60fb"}
+{"sub_uri": "Q792", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "El Salvador", "lineid": 610, "uuid": "84257187-0e83-4236-a4ca-93ed4bcf9842"}
+{"sub_uri": "Q458", "obj_uri": "Q150", "obj_label": "French", "sub_label": "European Union", "lineid": 611, "uuid": "04bb64c7-7838-4e7a-a504-342e2e8f121e"}
+{"sub_uri": "Q145", "obj_uri": "Q9309", "obj_label": "Welsh", "sub_label": "United Kingdom", "lineid": 612, "uuid": "a5cab329-1511-441f-a180-4d210d63e48c"}
+{"sub_uri": "Q643919", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Torfaen", "lineid": 613, "uuid": "b2b8eb85-397d-4871-a44f-ba4bfe545b3e"}
+{"sub_uri": "Q52261", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Bex", "lineid": 614, "uuid": "61ea924d-e4e1-4743-9d25-fd9638d5f5a9"}
+{"sub_uri": "Q2051", "obj_uri": "Q9240", "obj_label": "Indonesian", "sub_label": "Jambi", "lineid": 615, "uuid": "af508798-b8ee-4429-80aa-4d102b011b67"}
+{"sub_uri": "Q69714", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Le Grand-Saconnex", "lineid": 616, "uuid": "0c0f5d79-4559-462c-aa22-36bb4b29c05f"}
+{"sub_uri": "Q35", "obj_uri": "Q9035", "obj_label": "Danish", "sub_label": "Denmark", "lineid": 617, "uuid": "617e9eed-9d36-4e3a-8bb5-6c599ed88762"}
+{"sub_uri": "Q15028", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "International Organization for Standardization", "lineid": 618, "uuid": "95474709-ff79-4922-a582-7cdb4e2ba264"}
+{"sub_uri": "Q543882", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Kolari", "lineid": 619, "uuid": "2d88462f-2499-4d31-ac99-35d63899ed50"}
+{"sub_uri": "Q16", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Canada", "lineid": 620, "uuid": "f0cf85c2-9886-4ac2-8111-eb37734356ad"}
+{"sub_uri": "Q69245", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Cologny", "lineid": 621, "uuid": "45ea2f75-abe7-4834-a8cc-c51e3053f6e2"}
+{"sub_uri": "Q162475", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "County Cork", "lineid": 622, "uuid": "b1c0a7e2-9db7-4b3c-81fa-b0bc58a12f55"}
+{"sub_uri": "Q238", "obj_uri": "Q652", "obj_label": "Italian", "sub_label": "San Marino", "lineid": 623, "uuid": "0047cc25-670e-4ec4-bf21-11256991c2ab"}
+{"sub_uri": "Q843", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Pakistan", "lineid": 624, "uuid": "a6ef28f8-a71f-4791-a783-c07e5e08fa1a"}
+{"sub_uri": "Q206411", "obj_uri": "Q9292", "obj_label": "Azerbaijani", "sub_label": "Azerbaijan Democratic Republic", "lineid": 625, "uuid": "8c457db4-f570-4db9-94ca-7ebaa049ccb8"}
+{"sub_uri": "Q458", "obj_uri": "Q5146", "obj_label": "Portuguese", "sub_label": "European Union", "lineid": 626, "uuid": "7da08246-02f0-4da5-8ae0-7e2fc5f28206"}
+{"sub_uri": "Q25230", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Guernsey", "lineid": 627, "uuid": "cbb8e582-9f48-4fec-b8b0-168cab33584b"}
+{"sub_uri": "Q1009215", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Merikarvia", "lineid": 628, "uuid": "931688f4-89e2-4735-83cb-b71e2925dae7"}
+{"sub_uri": "Q70330", "obj_uri": "Q652", "obj_label": "Italian", "sub_label": "Ligornetto", "lineid": 629, "uuid": "98418d0f-b16f-499b-bc1b-dad0f25e5319"}
+{"sub_uri": "Q81299", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Organization for Security and Co-operation in Europe", "lineid": 630, "uuid": "0478f7fc-40b3-473b-88aa-7e5d53a49c5b"}
+{"sub_uri": "Q64070", "obj_uri": "Q188", "obj_label": "German", "sub_label": "Dietikon", "lineid": 631, "uuid": "330a2673-1f63-4b86-83c6-7ad1ae73b44b"}
+{"sub_uri": "Q140359", "obj_uri": "Q9058", "obj_label": "Slovak", "sub_label": "First Czechoslovak Republic", "lineid": 632, "uuid": "43c1f651-77aa-4926-a4dd-e725f6802767"}
+{"sub_uri": "Q4948", "obj_uri": "Q32724", "obj_label": "Venetian", "sub_label": "Republic of Venice", "lineid": 633, "uuid": "3b94d5ca-170a-4f21-a468-bda933ba2a7d"}
+{"sub_uri": "Q784", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Dominica", "lineid": 634, "uuid": "fdc44f56-4049-4311-be8c-f053039048cb"}
+{"sub_uri": "Q69673", "obj_uri": "Q652", "obj_label": "Italian", "sub_label": "Faido", "lineid": 635, "uuid": "1f2c67fa-6731-4f1c-a1ea-c72b4ddc03d1"}
+{"sub_uri": "Q1158", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "World Athletics", "lineid": 636, "uuid": "e08024f3-e446-489e-bb99-a62949dcbc5e"}
+{"sub_uri": "Q947153", "obj_uri": "Q652", "obj_label": "Italian", "sub_label": "Kingdom of Tavolara", "lineid": 637, "uuid": "9fd7a582-71a8-42ef-9095-a214b5e0b394"}
+{"sub_uri": "Q41984", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "International Atomic Energy Agency", "lineid": 638, "uuid": "08995ecb-b989-4bc1-9a27-9ea17379c349"}
+{"sub_uri": "Q774", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Guatemala", "lineid": 639, "uuid": "7fbd15fe-2881-407e-bdb0-abf3a733b75f"}
+{"sub_uri": "Q184", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Belarus", "lineid": 640, "uuid": "6dda06a8-45c1-49e9-9414-e2fb6271e416"}
+{"sub_uri": "Q1456", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "South Carolina", "lineid": 641, "uuid": "cd0cd978-db0f-418e-8d86-505f2d9ec4bd"}
+{"sub_uri": "Q757", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Saint Vincent and the Grenadines", "lineid": 642, "uuid": "d384efd8-a804-4db4-ac2b-8c3ba9273161"}
+{"sub_uri": "Q43195", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Aigle", "lineid": 643, "uuid": "0206da85-de53-4bd1-870b-490f3823f322"}
+{"sub_uri": "Q1027", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Mauritius", "lineid": 644, "uuid": "b87fb382-e6a7-405e-8e84-277c5b3c67eb"}
+{"sub_uri": "Q484195", "obj_uri": "Q9168", "obj_label": "Persian", "sub_label": "Timurid Empire", "lineid": 645, "uuid": "dfdaf7c1-9403-4c93-a5e9-93dd3a720bd5"}
+{"sub_uri": "Q811", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Nicaragua", "lineid": 646, "uuid": "911bb614-c5f4-44b8-af0e-6d9f9ede10c7"}
+{"sub_uri": "Q13786", "obj_uri": "Q33298", "obj_label": "Filipino", "sub_label": "Cebu", "lineid": 647, "uuid": "1d7242af-1e05-46b1-a607-a0295c775226"}
+{"sub_uri": "Q403", "obj_uri": "Q9299", "obj_label": "Serbian", "sub_label": "Serbia", "lineid": 648, "uuid": "d60abf46-60d3-4fac-aa01-bdcf5be40746"}
+{"sub_uri": "Q38872", "obj_uri": "Q188", "obj_label": "German", "sub_label": "Prussia", "lineid": 649, "uuid": "882c5f93-04a8-40ea-86fd-32d781c7a3ff"}
+{"sub_uri": "Q247128", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Ulvila", "lineid": 650, "uuid": "443790bd-115f-4b1e-acdb-874c016a4015"}
+{"sub_uri": "Q4628", "obj_uri": "Q9035", "obj_label": "Danish", "sub_label": "Faroe Islands", "lineid": 651, "uuid": "a5003de4-7391-4236-aa28-7bea50c52374"}
+{"sub_uri": "Q189", "obj_uri": "Q294", "obj_label": "Icelandic", "sub_label": "Iceland", "lineid": 652, "uuid": "4344084f-2121-4706-8cf7-5588cb10ec93"}
+{"sub_uri": "Q236", "obj_uri": "Q8821", "obj_label": "Montenegrin", "sub_label": "Montenegro", "lineid": 653, "uuid": "15d5afb7-1096-444b-92c0-2a417aa2ad01"}
+{"sub_uri": "Q176186", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Lemland", "lineid": 654, "uuid": "853ce67f-246c-44eb-af73-76f2c0abba82"}
+{"sub_uri": "Q509634", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Karlskoga Municipality", "lineid": 655, "uuid": "8f851ff6-3b77-4b29-aef6-2fb7d36e093b"}
+{"sub_uri": "Q506250", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Stockholm Municipality", "lineid": 656, "uuid": "06d86165-bcd2-4150-b927-ced482891340"}
+{"sub_uri": "Q1784789", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Korsholm", "lineid": 657, "uuid": "4edeb704-f8b7-4b75-ab55-488cdf0b20c4"}
+{"sub_uri": "Q530309", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Karkkila", "lineid": 658, "uuid": "3d1f4792-73a5-40eb-82fb-948d559fcbc4"}
+{"sub_uri": "Q503144", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Eskilstuna Municipality", "lineid": 659, "uuid": "d936a072-b4b1-48c7-9347-6738baa0a9b9"}
+{"sub_uri": "Q69808", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Vichy France", "lineid": 660, "uuid": "7f5b9251-6aea-4f67-aa51-0e0d8027e10c"}
+{"sub_uri": "Q939727", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Somero", "lineid": 661, "uuid": "6914502f-523d-4263-9edb-0afc797c3c91"}
+{"sub_uri": "Q33349", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Melitopol", "lineid": 662, "uuid": "81e514f9-45da-4fc2-8ad6-42c0c0fb824e"}
+{"sub_uri": "Q302717", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Muonio", "lineid": 663, "uuid": "bb307f28-b0f6-4a24-846e-8145c2c8ccda"}
+{"sub_uri": "Q543717", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Hankasalmi", "lineid": 664, "uuid": "116263c1-5c53-49e1-a3d8-ce2f78525de5"}
+{"sub_uri": "Q5985", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Ilmajoki", "lineid": 665, "uuid": "d31ff034-329b-4ece-bb55-8d4451b62035"}
+{"sub_uri": "Q12121", "obj_uri": "Q188", "obj_label": "German", "sub_label": "Canton of Lucerne", "lineid": 666, "uuid": "b4a191e3-6563-4a43-819c-b5edd08774a7"}
+{"sub_uri": "Q1763312", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Pervomaysky District, Yaroslavl Oblast", "lineid": 667, "uuid": "570cee23-0af7-40b1-9028-86226fa4cd54"}
+{"sub_uri": "Q188814", "obj_uri": "Q9299", "obj_label": "Serbian", "sub_label": "Serbian Orthodox Church", "lineid": 668, "uuid": "0e2ccff7-fd66-48d8-8fc3-cdb978380f84"}
+{"sub_uri": "Q8646", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Hong Kong", "lineid": 669, "uuid": "ca6ec5a2-29de-477e-b10c-5bdd74238ef0"}
+{"sub_uri": "Q1124265", "obj_uri": "Q8752", "obj_label": "Basque", "sub_label": "President of the Basque Autonomous Community", "lineid": 670, "uuid": "8f90721d-d0ab-4e40-bec6-f01e38458146"}
+{"sub_uri": "Q458", "obj_uri": "Q7913", "obj_label": "Romanian", "sub_label": "European Union", "lineid": 671, "uuid": "1ce353c2-599b-49f3-bec6-f591da92d58f"}
+{"sub_uri": "Q68972", "obj_uri": "Q188", "obj_label": "German", "sub_label": "Liestal", "lineid": 672, "uuid": "42642b80-4f5b-4b21-913f-7445081df143"}
+{"sub_uri": "Q7405", "obj_uri": "Q7850", "obj_label": "Chinese", "sub_label": "Sui dynasty", "lineid": 673, "uuid": "b0f24ec2-6db9-419e-95d9-81e335aa1f65"}
+{"sub_uri": "Q1361", "obj_uri": "Q1617", "obj_label": "Urdu", "sub_label": "Hyderabad", "lineid": 674, "uuid": "63e9f297-63ba-4357-aa0f-e9ee1cc9c3d0"}
+{"sub_uri": "Q330988", "obj_uri": "Q9205", "obj_label": "Khmer", "sub_label": "Democratic Kampuchea", "lineid": 675, "uuid": "d6130466-8da3-4c95-b759-c94bfd33972a"}
+{"sub_uri": "Q67523", "obj_uri": "Q652", "obj_label": "Italian", "sub_label": "Biasca", "lineid": 676, "uuid": "8ccbe9ab-3cab-42c5-8243-dd9b1096224b"}
+{"sub_uri": "Q681802", "obj_uri": "Q5146", "obj_label": "Portuguese", "sub_label": "Bolama (town)", "lineid": 677, "uuid": "fc99c5fc-fc66-47c2-819a-145723f24bcd"}
+{"sub_uri": "Q23427", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "South Ossetia", "lineid": 678, "uuid": "0a397d47-f724-4f1c-a2f0-f8686190e9af"}
+{"sub_uri": "Q624511", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Aracena", "lineid": 679, "uuid": "96f7d2eb-3ace-4320-9e5f-d6b7903097a2"}
+{"sub_uri": "Q1408", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "New Jersey", "lineid": 680, "uuid": "0d286aa9-d848-4c03-8916-bdf976b3b80c"}
+{"sub_uri": "Q1030", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Namibia", "lineid": 681, "uuid": "6520c7ab-93a2-433a-9db3-e94df5d0aa10"}
+{"sub_uri": "Q25227", "obj_uri": "Q7411", "obj_label": "Dutch", "sub_label": "Netherlands Antilles", "lineid": 682, "uuid": "9b184013-873a-4ad3-8c37-db86924be8b7"}
+{"sub_uri": "Q193272", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Economic Community of West African States", "lineid": 683, "uuid": "d170bf04-f1bc-4174-9fb5-2ca060a49842"}
+{"sub_uri": "Q68111", "obj_uri": "Q652", "obj_label": "Italian", "sub_label": "Chiasso", "lineid": 684, "uuid": "a1382e90-494a-42ab-b894-f449dc715ada"}
+{"sub_uri": "Q458", "obj_uri": "Q9058", "obj_label": "Slovak", "sub_label": "European Union", "lineid": 685, "uuid": "d9f55db7-d6fb-4cd6-8cfe-45375f6443c7"}
+{"sub_uri": "Q69757", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Prilly", "lineid": 686, "uuid": "91b4a54f-e693-41f6-bf0b-64ec2e8626ae"}
+{"sub_uri": "Q2641849", "obj_uri": "Q150", "obj_label": "French", "sub_label": "history of Limousin", "lineid": 687, "uuid": "483315db-4b14-42f3-a4af-d2b970115eb0"}
+{"sub_uri": "Q902", "obj_uri": "Q9610", "obj_label": "Bengali", "sub_label": "Bangladesh", "lineid": 688, "uuid": "6dffc6e5-943a-4392-b06a-ca57a70b2b74"}
+{"sub_uri": "Q70030", "obj_uri": "Q652", "obj_label": "Italian", "sub_label": "Lamone", "lineid": 689, "uuid": "8ac3bca7-f903-4220-b010-29180d14d2fc"}
+{"sub_uri": "Q13669", "obj_uri": "Q33298", "obj_label": "Filipino", "sub_label": "Central Visayas", "lineid": 690, "uuid": "dd5b0eb8-622d-4a4d-b005-ad5819810602"}
+{"sub_uri": "Q485776", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Ranua", "lineid": 691, "uuid": "97da9c2b-9fd5-4bc6-9ae8-41addabccf75"}
+{"sub_uri": "Q228", "obj_uri": "Q7026", "obj_label": "Catalan", "sub_label": "Andorra", "lineid": 692, "uuid": "63bf196b-6308-4264-8a4e-e6252b4fb892"}
+{"sub_uri": "Q754", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Trinidad and Tobago", "lineid": 693, "uuid": "97071dec-c248-4f11-9646-bb3d9e4782b3"}
+{"sub_uri": "Q145", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "United Kingdom", "lineid": 694, "uuid": "769af264-e7fb-40a3-96fc-401b50ca04da"}
+{"sub_uri": "Q7948", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Kamchatka Krai", "lineid": 695, "uuid": "7a589864-aacc-4fc6-a858-937df634fe9e"}
+{"sub_uri": "Q52266", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Blonay", "lineid": 696, "uuid": "c236e5e9-3f71-418f-84e8-3c2b24234cdc"}
+{"sub_uri": "Q68336", "obj_uri": "Q652", "obj_label": "Italian", "sub_label": "Ronco sopra Ascona", "lineid": 697, "uuid": "4cfff3fe-31da-43b3-9603-856130014808"}
+{"sub_uri": "Q183", "obj_uri": "Q188", "obj_label": "German", "sub_label": "Germany", "lineid": 698, "uuid": "a5192f46-8be8-45f7-8cfd-8bd6d0346c00"}
+{"sub_uri": "Q807", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Lausanne", "lineid": 699, "uuid": "8bbde45e-1f74-4e49-b542-403de83a0a2d"}
+{"sub_uri": "Q963", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Botswana", "lineid": 700, "uuid": "5afcabf6-b05a-4ce8-9cb6-d6d6b78effed"}
+{"sub_uri": "Q853673", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Iitti", "lineid": 701, "uuid": "d7f1b2ae-2f36-4d0f-bcc9-741beca7c5f2"}
+{"sub_uri": "Q26273", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Sint Maarten (Dutch part)", "lineid": 702, "uuid": "4688bda2-7b1a-4664-a1f3-463baa64aae7"}
+{"sub_uri": "Q1949336", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Moscow Mathematical Society", "lineid": 703, "uuid": "c30b4015-d264-4dd6-93f5-bd56e169d6bd"}
+{"sub_uri": "Q5207", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Stavropol Krai", "lineid": 704, "uuid": "ecca1a6a-181d-4762-b0a8-158ed1f6fcb7"}
+{"sub_uri": "Q929", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Central African Republic", "lineid": 705, "uuid": "84cd4989-8985-4fba-8ade-eee8bed40ea0"}
+{"sub_uri": "Q231392", "obj_uri": "Q397", "obj_label": "Latin", "sub_label": "Kingdom of Asturias", "lineid": 706, "uuid": "e3e498a0-b4c0-4e8b-8b2e-988623a56b3f"}
+{"sub_uri": "Q164819", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Gagauzia", "lineid": 707, "uuid": "45e1d030-31cd-49e6-8fbc-f18356566a4a"}
+{"sub_uri": "Q7184", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "NATO", "lineid": 708, "uuid": "8e61733b-138d-4741-859f-61054ea3e2f0"}
+{"sub_uri": "Q1341", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Tolyatti", "lineid": 709, "uuid": "fa5669bb-29be-4b55-8ce8-e9cd1b343d84"}
+{"sub_uri": "Q105092", "obj_uri": "Q397", "obj_label": "Latin", "sub_label": "Kingdom of Mercia", "lineid": 710, "uuid": "4887faa4-b6e0-48ad-a8fb-b560da5932ab"}
+{"sub_uri": "Q829", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Utah", "lineid": 711, "uuid": "e002d625-6e3a-454a-8ccc-764d11d9329f"}
+{"sub_uri": "Q550374", "obj_uri": "Q7411", "obj_label": "Dutch", "sub_label": "South African Republic", "lineid": 712, "uuid": "ca82d57e-3843-403d-aa0e-a40a5c310d44"}
+{"sub_uri": "Q123709", "obj_uri": "Q14549", "obj_label": "Scots", "sub_label": "Dundee", "lineid": 713, "uuid": "e931dfe6-c073-4baa-b7ba-96085d0cf1ec"}
+{"sub_uri": "Q204382", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Kouvola", "lineid": 714, "uuid": "d836e8a4-b629-439f-a2b4-79255654cca5"}
+{"sub_uri": "Q193714", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Mandatory Palestine", "lineid": 715, "uuid": "27e38b6d-119e-444c-bd0f-f2a512a62195"}
+{"sub_uri": "Q374324", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Janakkala", "lineid": 716, "uuid": "86d3f293-6ab4-4e4a-ab0e-7282351410d2"}
+{"sub_uri": "Q3680", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Krasnodar Krai", "lineid": 717, "uuid": "c6b01dd3-dfe1-4851-90b6-91ccc0654cd9"}
+{"sub_uri": "Q198210", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Shakhunya", "lineid": 718, "uuid": "72e96614-1931-4fd6-9149-67c640e55e1e"}
+{"sub_uri": "Q945", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Togo", "lineid": 719, "uuid": "27f80733-842f-4913-9ad8-8d61dd82b8c4"}
+{"sub_uri": "Q12146", "obj_uri": "Q188", "obj_label": "German", "sub_label": "Basel-Landschaft", "lineid": 720, "uuid": "4e151be0-c416-4180-b985-db43a1bc2ea9"}
+{"sub_uri": "Q953", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Zambia", "lineid": 721, "uuid": "3111ef22-efdf-4101-a203-e81626268d30"}
+{"sub_uri": "Q1014", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Liberia", "lineid": 722, "uuid": "f1ebdd97-f39b-4bdb-805a-2dd0ffd98f6a"}
+{"sub_uri": "Q1979", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Prince Edward Island", "lineid": 723, "uuid": "f8e24f6a-d49c-4e2d-8d25-26b955df94fe"}
+{"sub_uri": "Q1246", "obj_uri": "Q9299", "obj_label": "Serbian", "sub_label": "Kosovo", "lineid": 724, "uuid": "e0d7eabc-d9c4-4eda-a723-93e0de545d83"}
+{"sub_uri": "Q181633", "obj_uri": "Q8798", "obj_label": "Ukrainian", "sub_label": "Mykolaiv Oblast", "lineid": 725, "uuid": "7c0ab273-0e1e-4330-9a24-214c42bd9ef1"}
+{"sub_uri": "Q55502", "obj_uri": "Q397", "obj_label": "Latin", "sub_label": "Kingdom of Jerusalem", "lineid": 726, "uuid": "f90b92cb-a0de-40c1-bedb-1e720b33fbc3"}
+{"sub_uri": "Q1020", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Malawi", "lineid": 727, "uuid": "c041b5fb-c0c6-44c5-bae7-1bbc3eee8682"}
+{"sub_uri": "Q407199", "obj_uri": "Q9288", "obj_label": "Hebrew", "sub_label": "Palestinian territories", "lineid": 728, "uuid": "22d6ebf2-624b-425c-8a73-e5bbf468295d"}
+{"sub_uri": "Q985443", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Haukipudas", "lineid": 729, "uuid": "9702289c-5375-4886-9d90-ae26bb3784ae"}
+{"sub_uri": "Q3233188", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Stockholm County Council", "lineid": 730, "uuid": "fae9e206-80a4-41d3-9aa6-31dd8cc1dbbb"}
+{"sub_uri": "Q38511", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Turku", "lineid": 731, "uuid": "f1970f69-56b9-445c-b059-0d7c1231cbfa"}
+{"sub_uri": "Q40970", "obj_uri": "Q150", "obj_label": "French", "sub_label": "International Olympic Committee", "lineid": 732, "uuid": "a3b33e89-7ea1-47f3-8bce-4a8873d04862"}
+{"sub_uri": "Q499404", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Arvidsjaur Municipality", "lineid": 733, "uuid": "ed685a16-23ad-4953-9f20-2f1c1833a472"}
+{"sub_uri": "Q9331", "obj_uri": "Q7411", "obj_label": "Dutch", "sub_label": "Flemish Community", "lineid": 734, "uuid": "be910981-2b4b-4852-81f8-a6427b010876"}
+{"sub_uri": "Q916", "obj_uri": "Q5146", "obj_label": "Portuguese", "sub_label": "Angola", "lineid": 735, "uuid": "d4c4cb3c-be23-4d35-99e1-b96ce283aae1"}
+{"sub_uri": "Q38511", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Turku", "lineid": 736, "uuid": "ce1768df-16c2-4100-8ad8-a73e7a491ca0"}
+{"sub_uri": "Q200054", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Jamshedpur", "lineid": 737, "uuid": "e87b011e-6dad-4434-814f-c63e75e879a7"}
+{"sub_uri": "Q200130", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Azad Kashmir", "lineid": 738, "uuid": "31247fde-7fd1-4093-8ca0-28f030fa4380"}
+{"sub_uri": "Q204707", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Suomenniemi", "lineid": 739, "uuid": "8910ed94-1c04-443b-b21f-dac4cc453e98"}
+{"sub_uri": "Q23635", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Bermuda", "lineid": 740, "uuid": "0e127234-e6a7-4324-888c-635e48a9e6b9"}
+{"sub_uri": "Q68799", "obj_uri": "Q652", "obj_label": "Italian", "sub_label": "Bedano", "lineid": 741, "uuid": "177ace50-9f45-42e4-ba1c-802c61080d3f"}
+{"sub_uri": "Q52626", "obj_uri": "Q7026", "obj_label": "Catalan", "sub_label": "Formentera", "lineid": 742, "uuid": "1a5ca55b-bdca-4189-8509-8dfe4cd574e1"}
+{"sub_uri": "Q25396", "obj_uri": "Q7411", "obj_label": "Dutch", "sub_label": "Bonaire", "lineid": 743, "uuid": "94e5588d-8e56-4489-978a-0af5bded5aa8"}
+{"sub_uri": "Q1049", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Sudan", "lineid": 744, "uuid": "28cfeed8-58b2-4900-a06b-826197b31635"}
+{"sub_uri": "Q15180", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Soviet Union", "lineid": 745, "uuid": "b18a8ed3-70bc-4b95-8fe8-f162f61e1f1a"}
+{"sub_uri": "Q1989", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Saskatchewan", "lineid": 746, "uuid": "c21be292-4c5a-4793-9751-6ceda6354ad0"}
+{"sub_uri": "Q510310", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Haparanda Municipality", "lineid": 747, "uuid": "4b2e6502-9df7-41ab-8220-3e25b74764c1"}
+{"sub_uri": "Q21203", "obj_uri": "Q7411", "obj_label": "Dutch", "sub_label": "Aruba", "lineid": 748, "uuid": "667d8086-f33d-4c1a-aa1b-560541ed12b9"}
+{"sub_uri": "Q13353", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Montserrat", "lineid": 749, "uuid": "79db2557-9741-4c99-9ba1-774565d7548e"}
+{"sub_uri": "Q1045", "obj_uri": "Q13275", "obj_label": "Somali", "sub_label": "Somalia", "lineid": 750, "uuid": "692a1b69-941c-442b-b9fc-baa82416c7eb"}
+{"sub_uri": "Q607778", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Hirvensalmi", "lineid": 751, "uuid": "d936530b-8ad7-4fe1-a889-bf28141e518c"}
+{"sub_uri": "Q186230", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Pajala Municipality", "lineid": 752, "uuid": "a0cf802f-095c-4fdc-bbd9-0555ec564c4e"}
+{"sub_uri": "Q81299", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Organization for Security and Co-operation in Europe", "lineid": 753, "uuid": "d10e1dff-f587-4912-a687-4a12fc06b507"}
+{"sub_uri": "Q985459", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Oulainen", "lineid": 754, "uuid": "d5bbb14f-f8ab-48fe-a632-90f67f6eaf62"}
+{"sub_uri": "Q1255", "obj_uri": "Q9299", "obj_label": "Serbian", "sub_label": "Autonomous Province of Kosovo and Metohija", "lineid": 755, "uuid": "42b14ae0-f78b-4374-8fef-b666f175f192"}
+{"sub_uri": "Q5328", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Karachay-Cherkess Republic", "lineid": 756, "uuid": "7931583e-fd65-41de-8af2-b9cede9978d2"}
+{"sub_uri": "Q1757", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Helsinki", "lineid": 757, "uuid": "ab0d9b92-cdbc-4819-ac91-01742bcf96a2"}
+{"sub_uri": "Q42262", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "European Space Agency", "lineid": 758, "uuid": "40f35c91-964b-4ba7-bee6-01f681421d4c"}
+{"sub_uri": "Q207891", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Kokkola", "lineid": 759, "uuid": "4ea60aac-4ccb-4fec-841f-378b24823ea2"}
+{"sub_uri": "Q69401", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Morges", "lineid": 760, "uuid": "287f64cc-f7fc-4e3e-b717-83808653e543"}
+{"sub_uri": "Q816", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Arizona", "lineid": 761, "uuid": "3e5af009-8990-4bd4-9226-fc5f142b7a8f"}
+{"sub_uri": "Q1105893", "obj_uri": "Q9292", "obj_label": "Azerbaijani", "sub_label": "Qazvin Province", "lineid": 762, "uuid": "9f687ccc-8fa5-4ad7-8412-b38ea042a9cf"}
+{"sub_uri": "Q711", "obj_uri": "Q9246", "obj_label": "Mongolian", "sub_label": "Mongolia", "lineid": 763, "uuid": "6f692781-aab6-46cb-921b-2873905cd8cd"}
+{"sub_uri": "Q458", "obj_uri": "Q9078", "obj_label": "Latvian", "sub_label": "European Union", "lineid": 764, "uuid": "87c11a84-0c37-40c2-93a2-f1cbf5f3456b"}
+{"sub_uri": "Q1044", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Sierra Leone", "lineid": 765, "uuid": "ae080a99-8332-49a9-ac1f-d25a8010ed4d"}
+{"sub_uri": "Q52631", "obj_uri": "Q7026", "obj_label": "Catalan", "sub_label": "Ibiza", "lineid": 766, "uuid": "1b927bef-b871-4c86-b71a-2d9b6e62785d"}
+{"sub_uri": "Q733", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Paraguay", "lineid": 767, "uuid": "13cf1ebd-4347-43f4-ae44-35d1bd6ddb53"}
+{"sub_uri": "Q5710", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Republic of Bashkortostan", "lineid": 768, "uuid": "a0d165bc-5700-44ac-9707-176198b72d55"}
+{"sub_uri": "Q252", "obj_uri": "Q9240", "obj_label": "Indonesian", "sub_label": "Indonesia", "lineid": 769, "uuid": "8444aa49-dd1d-42af-9cab-4085f8f8440c"}
+{"sub_uri": "Q984931", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Siuntio", "lineid": 770, "uuid": "95969828-333f-41a5-8aef-57ae80610ea4"}
+{"sub_uri": "Q13786", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Cebu", "lineid": 771, "uuid": "2a18c56d-f05e-46a3-83f0-34fd0865000e"}
+{"sub_uri": "Q235", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Monaco", "lineid": 772, "uuid": "d789c6c8-4f68-4938-b1a3-6ca2ab321da1"}
+{"sub_uri": "Q6838", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Zabaykalsky Krai", "lineid": 773, "uuid": "6067073b-5ab8-4962-8203-0b5b5675b17b"}
+{"sub_uri": "Q16644", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Northern Mariana Islands", "lineid": 774, "uuid": "37819fe7-bce0-45fd-8f9c-13d6f79ae6e3"}
+{"sub_uri": "Q2217404", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Neklinovsky District", "lineid": 775, "uuid": "45bb18ed-9ba8-40dd-b185-d7e272272713"}
+{"sub_uri": "Q227", "obj_uri": "Q9292", "obj_label": "Azerbaijani", "sub_label": "Azerbaijan", "lineid": 776, "uuid": "ec6c7c4b-4c9a-409c-98da-5d252db6bb49"}
+{"sub_uri": "Q12771", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Canton of Vaud", "lineid": 777, "uuid": "85e238fa-2e06-4f5b-8f04-fe67a398813d"}
+{"sub_uri": "Q334", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Singapore", "lineid": 778, "uuid": "0205e63c-e22c-435b-af1f-2b7f73be1230"}
+{"sub_uri": "Q499474", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Kiruna Municipality", "lineid": 779, "uuid": "d266c7cd-bf27-4b69-a5c3-24fea9aed81e"}
+{"sub_uri": "Q41550", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Organisation for Economic Cooperation and Development", "lineid": 780, "uuid": "4c7fbaf0-1af3-4310-9d8c-f2afd62a83a0"}
+{"sub_uri": "Q742854", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Keuruu", "lineid": 781, "uuid": "7f542e6d-edc8-413f-9864-91569406a594"}
+{"sub_uri": "Q63946", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Yverdon-les-Bains", "lineid": 782, "uuid": "ddbf0bdb-7e51-446b-8b49-57ae0cc6597e"}
+{"sub_uri": "Q70", "obj_uri": "Q188", "obj_label": "German", "sub_label": "Bern", "lineid": 783, "uuid": "3a63ef5f-6d18-4e02-ab68-35e9e4b9921b"}
+{"sub_uri": "Q1352", "obj_uri": "Q5885", "obj_label": "Tamil", "sub_label": "Chennai", "lineid": 784, "uuid": "75d04358-50e8-46cf-8b84-d8bacb7aa563"}
+{"sub_uri": "Q712", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Fiji", "lineid": 785, "uuid": "97f683b3-8ad8-4d68-a803-749d155fcbf2"}
+{"sub_uri": "Q668", "obj_uri": "Q1568", "obj_label": "Hindi", "sub_label": "India", "lineid": 786, "uuid": "2505936d-04ec-498e-8e44-2d3a15256c47"}
+{"sub_uri": "Q16", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Canada", "lineid": 787, "uuid": "d1f5c483-cc39-48e4-b847-9de986acc02b"}
+{"sub_uri": "Q212056", "obj_uri": "Q9246", "obj_label": "Mongolian", "sub_label": "Mongolian People's Republic", "lineid": 788, "uuid": "2d12bef1-8829-497b-be07-c8d87d1254a8"}
+{"sub_uri": "Q1065", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "United Nations", "lineid": 789, "uuid": "299f49a6-dbcb-4da2-b437-a4cfdcdc028f"}
+{"sub_uri": "Q967", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Burundi", "lineid": 790, "uuid": "797f7c3e-a30e-48c1-b5f3-9f5a98a07c98"}
+{"sub_uri": "Q152299", "obj_uri": "Q7411", "obj_label": "Dutch", "sub_label": "Dutch Language Union", "lineid": 791, "uuid": "95ef4b28-cd56-412a-8541-0796f75b280f"}
+{"sub_uri": "Q1180627", "obj_uri": "Q9168", "obj_label": "Persian", "sub_label": "Dasht-e Azadegan County", "lineid": 792, "uuid": "b35b4e38-0128-47ab-a194-82ea6c823000"}
+{"sub_uri": "Q167715", "obj_uri": "Q36236", "obj_label": "Malayalam", "sub_label": "Thiruvananthapuram", "lineid": 793, "uuid": "6957ee53-9d8b-48bc-aae0-040eff731de0"}
+{"sub_uri": "Q505064", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Trosa Municipality", "lineid": 794, "uuid": "6de3f267-8523-45a3-b298-8a1bf57fde18"}
+{"sub_uri": "Q40970", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "International Olympic Committee", "lineid": 795, "uuid": "6c49db41-0c54-4576-acf8-4db7cd9581e5"}
+{"sub_uri": "Q6500954", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Zaire", "lineid": 796, "uuid": "f4ce2c6e-1d30-4470-b588-c18420540682"}
+{"sub_uri": "Q26", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Northern Ireland", "lineid": 797, "uuid": "eec8fcf0-5f6a-40cb-add3-59fc0253b75d"}
+{"sub_uri": "Q186230", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Pajala Municipality", "lineid": 798, "uuid": "0559b7c9-d91f-43e9-817d-7da5f6277936"}
+{"sub_uri": "Q912", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Mali", "lineid": 799, "uuid": "4a5087f6-435e-4711-8bee-0a313ece9655"}
+{"sub_uri": "Q763", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Saint Kitts and Nevis", "lineid": 800, "uuid": "f7008d06-eb40-4308-85f5-4e06e68b7461"}
+{"sub_uri": "Q67470", "obj_uri": "Q652", "obj_label": "Italian", "sub_label": "Vacallo", "lineid": 801, "uuid": "35d4793d-9ed8-453f-b578-c7f26438f1bd"}
+{"sub_uri": "Q52626", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Formentera", "lineid": 802, "uuid": "e5b07540-f631-49a5-a78e-81104adabda3"}
+{"sub_uri": "Q13669", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Central Visayas", "lineid": 803, "uuid": "843d7ab6-8749-417d-b9b5-fbda2e0c2609"}
+{"sub_uri": "Q25528", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Saba", "lineid": 804, "uuid": "39c662aa-c305-4c26-9940-70c61a368efb"}
+{"sub_uri": "Q953432", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Couto Misto", "lineid": 805, "uuid": "5a525ae2-eff6-4caa-8596-6001ac0cd8ab"}
+{"sub_uri": "Q171852", "obj_uri": "Q8798", "obj_label": "Ukrainian", "sub_label": "Odessa Oblast", "lineid": 806, "uuid": "187ebbf3-0c3a-4952-97e8-58fa8a43b0d4"}
+{"sub_uri": "Q214773", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Tuusula", "lineid": 807, "uuid": "4af8e50d-0941-44ad-a787-84bcd722171d"}
+{"sub_uri": "Q32", "obj_uri": "Q188", "obj_label": "German", "sub_label": "Luxembourg", "lineid": 808, "uuid": "e2213b94-7373-41cb-a280-d7b4a6fdf233"}
+{"sub_uri": "Q458", "obj_uri": "Q9035", "obj_label": "Danish", "sub_label": "European Union", "lineid": 809, "uuid": "18170f17-a78e-4e37-aa9a-701bcff21364"}
+{"sub_uri": "Q12755", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Canton of Jura", "lineid": 810, "uuid": "7b59e6d2-82c6-4233-bd33-587f73628c4d"}
+{"sub_uri": "Q2110", "obj_uri": "Q9240", "obj_label": "Indonesian", "sub_label": "Lampung", "lineid": 811, "uuid": "e3fdb48c-96ed-4e11-bc8f-8c22a29e1492"}
+{"sub_uri": "Q222", "obj_uri": "Q8748", "obj_label": "Albanian", "sub_label": "Albania", "lineid": 812, "uuid": "af65d2cb-3883-404f-8724-dd4c5cb61475"}
+{"sub_uri": "Q283599", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Ilomantsi", "lineid": 813, "uuid": "589e291a-ae4e-40ac-bf10-6e6738c35a71"}
+{"sub_uri": "Q748533", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Iisalmi", "lineid": 814, "uuid": "05e3e9a8-220d-4219-8a42-0641f1cfc333"}
+{"sub_uri": "Q69697", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Lutry", "lineid": 815, "uuid": "9c27dccc-5a77-4fb4-aca1-508c3f9ec69b"}
+{"sub_uri": "Q192870", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Nokia", "lineid": 816, "uuid": "a8a66dcb-e71e-4141-914a-92e10cd6b4cb"}
+{"sub_uri": "Q69738", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Pully", "lineid": 817, "uuid": "13ce0696-7d0c-4cbc-bca1-8df29bfcfd9b"}
+{"sub_uri": "Q659642", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Kristinestad", "lineid": 818, "uuid": "3353e10e-4285-447e-a622-cc1440bd687a"}
+{"sub_uri": "Q229", "obj_uri": "Q256", "obj_label": "Turkish", "sub_label": "Cyprus", "lineid": 819, "uuid": "0fd84eef-c25e-492d-ba8d-ba15d53d06ec"}
+{"sub_uri": "Q211", "obj_uri": "Q9078", "obj_label": "Latvian", "sub_label": "Latvia", "lineid": 820, "uuid": "e5cdb9c2-46be-40b9-9b28-2c14bbc8c917"}
+{"sub_uri": "Q4264", "obj_uri": "Q5146", "obj_label": "Portuguese", "sub_label": "Mercosur", "lineid": 821, "uuid": "c31ca655-fc88-44cb-bdc6-196b4da519b1"}
+{"sub_uri": "Q5118", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Republic of Dagestan", "lineid": 822, "uuid": "86396a55-c7b5-4165-a9c2-d022de31230f"}
+{"sub_uri": "Q7779", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Commonwealth of Independent States", "lineid": 823, "uuid": "8b57f669-aaca-4f4f-af00-fbc61d43b73b"}
+{"sub_uri": "Q7184", "obj_uri": "Q150", "obj_label": "French", "sub_label": "NATO", "lineid": 824, "uuid": "a095b7e5-811d-4f2e-a1f0-2903dceb7260"}
+{"sub_uri": "Q2505587", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Spanish Texas", "lineid": 825, "uuid": "83e0b01d-b1df-4cd3-a40b-0af53ad6ebe2"}
+{"sub_uri": "Q55502", "obj_uri": "Q9129", "obj_label": "Greek", "sub_label": "Kingdom of Jerusalem", "lineid": 826, "uuid": "9e58d27c-9ddb-42a2-97b5-8f7d42c8fcae"}
+{"sub_uri": "Q68213", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Orbe", "lineid": 827, "uuid": "6ad1b18d-67c5-4cb1-b4cd-b9e253105903"}
+{"sub_uri": "Q2630442", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Reichskommissariat Moskowien", "lineid": 828, "uuid": "3bfcf0c3-fbf0-4515-8d65-508c8840a57d"}
+{"sub_uri": "Q34617", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Saint Pierre and Miquelon", "lineid": 829, "uuid": "91606b34-484a-4a44-8d8c-21a9ee3e36a6"}
+{"sub_uri": "Q80989", "obj_uri": "Q1568", "obj_label": "Hindi", "sub_label": "Bhopal", "lineid": 830, "uuid": "84215e60-553c-4f14-9ec7-0795fd37e9ba"}
+{"sub_uri": "Q399", "obj_uri": "Q8785", "obj_label": "Armenian", "sub_label": "Armenia", "lineid": 831, "uuid": "8e2259df-daeb-4de8-ab03-69447aecb654"}
+{"sub_uri": "Q127167", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Western Cape", "lineid": 832, "uuid": "535c144e-7baa-4c06-b3cd-f75033bd8775"}
+{"sub_uri": "Q147909", "obj_uri": "Q7918", "obj_label": "Bulgarian", "sub_label": "Kingdom of Bulgaria", "lineid": 833, "uuid": "3feaa700-ab27-4d14-aae8-ffb5342d4e3f"}
+{"sub_uri": "Q1000", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Gabon", "lineid": 834, "uuid": "57ac3595-a50c-4195-84e9-2a64401aaa0d"}
+{"sub_uri": "Q1183", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Puerto Rico", "lineid": 835, "uuid": "8bc83d29-7ff1-4578-a316-c451570d556b"}
+{"sub_uri": "Q1183", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Puerto Rico", "lineid": 836, "uuid": "99a9cad3-5970-4f32-861a-8937ce02d78a"}
+{"sub_uri": "Q64108", "obj_uri": "Q188", "obj_label": "German", "sub_label": "Engelberg", "lineid": 837, "uuid": "12177758-e515-40eb-bcf6-af94e9316fb0"}
+{"sub_uri": "Q163798", "obj_uri": "Q36236", "obj_label": "Malayalam", "sub_label": "Thrissur", "lineid": 838, "uuid": "d297b6fa-1f34-4e4b-a051-68427341a9d2"}
+{"sub_uri": "Q242758", "obj_uri": "Q7918", "obj_label": "Bulgarian", "sub_label": "Bulgarian Orthodox Church", "lineid": 839, "uuid": "418f808e-b6ef-4889-9248-eb79dfbc5778"}
+{"sub_uri": "Q672", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Tuvalu", "lineid": 840, "uuid": "42ded509-e4dc-44fc-bb13-d931349aa1e2"}
+{"sub_uri": "Q1546", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Iowa", "lineid": 841, "uuid": "63f8d8b5-b5c8-49bc-87db-10ec7cf8f94e"}
+{"sub_uri": "Q34", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Sweden", "lineid": 842, "uuid": "7248c4b6-15ad-40cc-99e4-4fc67b3a2afe"}
+{"sub_uri": "Q192173", "obj_uri": "Q8108", "obj_label": "Georgian", "sub_label": "Georgian Orthodox Church", "lineid": 843, "uuid": "875ae879-c8b4-4db2-ab45-a3449df7dddb"}
+{"sub_uri": "Q4040", "obj_uri": "Q7026", "obj_label": "Catalan", "sub_label": "Aragon", "lineid": 844, "uuid": "cef1c14c-1d01-424a-87c8-1ae322934c7b"}
+{"sub_uri": "Q16635", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Guam", "lineid": 845, "uuid": "dfc5c736-a34a-456d-9463-5b87d6f7e0b2"}
+{"sub_uri": "Q756294", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Autonomous Republic of Crimea", "lineid": 846, "uuid": "ed7a63d4-fa4e-41a7-9949-2fb505945c63"}
+{"sub_uri": "Q962", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Benin", "lineid": 847, "uuid": "3757034c-a9f1-45e1-98cd-5b0e99119f7f"}
+{"sub_uri": "Q812", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Florida", "lineid": 848, "uuid": "ade5c690-bd3c-414f-b450-d7e40f0c0c99"}
+{"sub_uri": "Q1370", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Virginia", "lineid": 849, "uuid": "e4a254ec-d7cc-4eaa-9a45-ea6b893e19da"}
+{"sub_uri": "Q186237", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Joensuu", "lineid": 850, "uuid": "648274de-5307-4c2e-83f0-b2b3417b8cac"}
+{"sub_uri": "Q59091", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Uppsala Municipality", "lineid": 851, "uuid": "a0bbb5d5-2ff8-4638-b891-1dafde4e96c6"}
+{"sub_uri": "Q781", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Antigua and Barbuda", "lineid": 852, "uuid": "9681e338-4b70-4b2f-b5ec-0d10bbeb624c"}
+{"sub_uri": "Q68387", "obj_uri": "Q150", "obj_label": "French", "sub_label": "L'Isle", "lineid": 853, "uuid": "9e4f0295-138e-42c0-aa2f-9efe54049846"}
+{"sub_uri": "Q7768", "obj_uri": "Q7850", "obj_label": "Chinese", "sub_label": "ASEAN", "lineid": 854, "uuid": "6b17dea3-bbda-40d7-8256-d61c9965e48b"}
+{"sub_uri": "Q31", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Belgium", "lineid": 855, "uuid": "60528b49-abef-4e56-a05b-7ca487980bc3"}
+{"sub_uri": "Q2364784", "obj_uri": "Q33823", "obj_label": "Nepali", "sub_label": "Nepali literature", "lineid": 856, "uuid": "48478bbf-305d-44a8-b481-f66039699a58"}
+{"sub_uri": "Q214054", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Suomussalmi", "lineid": 857, "uuid": "095cddd6-7bd7-49ed-bb1d-e3e9e7702779"}
+{"sub_uri": "Q153128", "obj_uri": "Q6654", "obj_label": "Croatian", "sub_label": "Independent State of Croatia", "lineid": 858, "uuid": "ba12f75c-a1f9-4eb7-aed1-a399006cfd75"}
+{"sub_uri": "Q5705", "obj_uri": "Q7026", "obj_label": "Catalan", "sub_label": "Catalonia", "lineid": 859, "uuid": "fda0034a-c422-4fa9-98ea-f930907c58ad"}
+{"sub_uri": "Q1895", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Petrozavodsk", "lineid": 860, "uuid": "4544dd40-c11b-4419-addb-104e2966f1ba"}
+{"sub_uri": "Q216790", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Hanko", "lineid": 861, "uuid": "18c109ab-f2f9-4965-82fc-f0afc52e6d56"}
+{"sub_uri": "Q7984", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Chukotka Autonomous Okrug", "lineid": 862, "uuid": "a2e5224d-8212-4454-a84c-c671dfae60fd"}
+{"sub_uri": "Q16994", "obj_uri": "Q12107", "obj_label": "Breton", "sub_label": "Pays de la Loire", "lineid": 863, "uuid": "62e9775e-381d-4339-b25f-3c2d8e702d5d"}
+{"sub_uri": "Q1009622", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Ruokolahti", "lineid": 864, "uuid": "d44b8ba0-6200-4211-a43b-74f2ea9b0dab"}
+{"sub_uri": "Q123709", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Dundee", "lineid": 865, "uuid": "3af0943a-bb96-4e66-950e-b82ed543ee0c"}
+{"sub_uri": "Q113673", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Upplands-Bro Municipality", "lineid": 866, "uuid": "57acfb93-7d87-4535-a31e-9dde453627c1"}
+{"sub_uri": "Q503862", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Naantali", "lineid": 867, "uuid": "a5b689f7-6cc8-44ac-9228-ecbaa563e424"}
+{"sub_uri": "Q6016", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Kurikka", "lineid": 868, "uuid": "43698fce-b552-444b-b563-64f717e78224"}
+{"sub_uri": "Q458", "obj_uri": "Q9166", "obj_label": "Maltese", "sub_label": "European Union", "lineid": 869, "uuid": "7ece650f-bb42-4185-a4b5-353a0b0d2c4d"}
+{"sub_uri": "Q1771774", "obj_uri": "Q1571", "obj_label": "Marathi", "sub_label": "Amravati district", "lineid": 870, "uuid": "9b36aeff-56bf-41e6-a195-fdeecd9f0198"}
+{"sub_uri": "Q64099", "obj_uri": "Q188", "obj_label": "German", "sub_label": "Brugg", "lineid": 871, "uuid": "5b9cebbb-67b5-4782-9ffe-64d71eb7b37e"}
+{"sub_uri": "Q180327", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Lemi", "lineid": 872, "uuid": "ecb65b77-7fb3-4f00-9d31-555a3bba7658"}
+{"sub_uri": "Q131337", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Azerbaijan Soviet Socialist Republic", "lineid": 873, "uuid": "81c4b6d7-cc73-4140-8fb5-f96840979b04"}
+{"sub_uri": "Q31057", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Norfolk Island", "lineid": 874, "uuid": "fa91a738-7a1c-4d71-a4a0-399eda757e17"}
+{"sub_uri": "Q22", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Scotland", "lineid": 875, "uuid": "569d18aa-5a77-4918-a3e1-e69193b31a23"}
+{"sub_uri": "Q241", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Cuba", "lineid": 876, "uuid": "8012baa7-559d-4d56-9694-d02e889fbf0c"}
+{"sub_uri": "Q1034", "obj_uri": "Q188", "obj_label": "German", "sub_label": "Biel/Bienne", "lineid": 877, "uuid": "d82631b7-54f8-4239-bae2-6e49597afb71"}
+{"sub_uri": "Q702", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Federated States of Micronesia", "lineid": 878, "uuid": "c46a8cc6-1349-4eb4-8b9b-dd66213dc38b"}
+{"sub_uri": "Q5400", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Perm Krai", "lineid": 879, "uuid": "2b4085a5-37e5-4f28-b19e-f9c16e89370c"}
+{"sub_uri": "Q221457", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Congress Poland", "lineid": 880, "uuid": "d40f5e85-9aae-44b0-ac1b-a3756035039c"}
+{"sub_uri": "Q747261", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Pomarkku", "lineid": 881, "uuid": "449cedf5-eb72-4a24-a59e-3198e0d49700"}
+{"sub_uri": "Q219", "obj_uri": "Q7918", "obj_label": "Bulgarian", "sub_label": "Bulgaria", "lineid": 882, "uuid": "212f3a1f-0112-4493-babb-e45665bb58a7"}
+{"sub_uri": "Q30", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "United States of America", "lineid": 883, "uuid": "690fdb9f-b76c-4d4b-a9e3-2396cd1d6db9"}
+{"sub_uri": "Q372075", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Raisio", "lineid": 884, "uuid": "43bf9245-327f-401c-80bb-bbaa61ec3bb2"}
+{"sub_uri": "Q69525", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Payerne", "lineid": 885, "uuid": "ecce3031-f829-492e-b55d-6fa926fc086e"}
+{"sub_uri": "Q1204", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Illinois", "lineid": 886, "uuid": "f692a49c-f1f7-4109-b238-cfc23d6539dd"}
+{"sub_uri": "Q458", "obj_uri": "Q652", "obj_label": "Italian", "sub_label": "European Union", "lineid": 887, "uuid": "5e858d6b-368b-4f0f-9ffe-f51e36457c3c"}
+{"sub_uri": "Q68076", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Perroy", "lineid": 888, "uuid": "6a8327b5-6c3f-4d28-9019-ee96c11757e5"}
+{"sub_uri": "Q493855", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Arjeplog Municipality", "lineid": 889, "uuid": "8f1f3cda-5ff1-43ea-8579-e12b9c724f71"}
+{"sub_uri": "Q2140", "obj_uri": "Q9240", "obj_label": "Indonesian", "sub_label": "North Sumatra", "lineid": 890, "uuid": "07682806-1ab5-4206-9ed6-2fd4fcba3202"}
+{"sub_uri": "Q1001783", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Eurajoki", "lineid": 891, "uuid": "e1bd2b45-e4f7-4436-aff1-e026532ed55f"}
+{"sub_uri": "Q985461", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Liminka", "lineid": 892, "uuid": "8c1cbac3-bc8a-4f67-95a0-c13cb5d00255"}
+{"sub_uri": "Q7768", "obj_uri": "Q9217", "obj_label": "Thai", "sub_label": "ASEAN", "lineid": 893, "uuid": "4aa4b992-be10-42f9-8e59-3bec0f4c7b72"}
+{"sub_uri": "Q1054923", "obj_uri": "Q7850", "obj_label": "Chinese", "sub_label": "British Hong Kong", "lineid": 894, "uuid": "ffbf3302-4990-4d93-9ff6-8032d039033d"}
+{"sub_uri": "Q148540", "obj_uri": "Q397", "obj_label": "Latin", "sub_label": "Republic of Florence", "lineid": 895, "uuid": "0c486a06-150a-47f7-a9f4-26c224d24b33"}
+{"sub_uri": "Q1509", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Tennessee", "lineid": 896, "uuid": "11a54550-836c-4681-b4e8-d690979d2bb4"}
+{"sub_uri": "Q207295", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Uusikaupunki", "lineid": 897, "uuid": "dcfd3f5d-991a-4d72-9be5-261bc97ed1e2"}
+{"sub_uri": "Q34266", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Russian Empire", "lineid": 898, "uuid": "93651c63-cddd-4706-bee6-43261ab3137c"}
+{"sub_uri": "Q458", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "European Union", "lineid": 899, "uuid": "ca4b4b51-ec3b-4de6-9d1c-57757b67b860"}
+{"sub_uri": "Q1159", "obj_uri": "Q8097", "obj_label": "Telugu", "sub_label": "Andhra Pradesh", "lineid": 900, "uuid": "7af8f044-2e8b-426d-9bc3-730c6b670c68"}
+{"sub_uri": "Q218023", "obj_uri": "Q7411", "obj_label": "Dutch", "sub_label": "Orange Free State", "lineid": 901, "uuid": "58b51795-dd84-4cb2-8f97-c1ef0da573e8"}
+{"sub_uri": "Q1735037", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Kaskinen", "lineid": 902, "uuid": "40c98b27-e9f4-4f46-a659-5c0103f05c59"}
+{"sub_uri": "Q25230", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Guernsey", "lineid": 903, "uuid": "a3ea342e-deb1-4f54-84e9-51e33537ec8c"}
+{"sub_uri": "Q211020", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Imatra", "lineid": 904, "uuid": "ec69036b-bfab-4ce6-880c-75c52b95528b"}
+{"sub_uri": "Q1009109", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Nakkila", "lineid": 905, "uuid": "676b09af-03c4-43b3-9af3-67aba7e62d67"}
+{"sub_uri": "Q5813", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Canary Islands", "lineid": 906, "uuid": "93edafdb-0418-4cea-a20e-06200dc3bf6c"}
+{"sub_uri": "Q5340", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Republic of Mordovia", "lineid": 907, "uuid": "8c856bd2-b66e-440f-84a3-a6dd1bfb22bc"}
+{"sub_uri": "Q14773", "obj_uri": "Q5146", "obj_label": "Portuguese", "sub_label": "Macau", "lineid": 908, "uuid": "31db2955-d844-4092-ad80-081d29371704"}
+{"sub_uri": "Q5971", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Altai Republic", "lineid": 909, "uuid": "b0e5676d-5fde-4d5b-89f7-4115f1ca15a7"}
+{"sub_uri": "Q800", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Costa Rica", "lineid": 910, "uuid": "697842ff-816b-4bef-9cd0-bb465ddb17e8"}
+{"sub_uri": "Q757", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Saint Vincent and the Grenadines", "lineid": 911, "uuid": "8b2a1dab-9ff1-48a6-a2fa-670ac8fd47c4"}
+{"sub_uri": "Q1017129", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Paimio", "lineid": 912, "uuid": "da8b6694-0423-4510-a8a6-1aae2f7ea285"}
+{"sub_uri": "Q491603", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Kitee", "lineid": 913, "uuid": "5b846f22-5daa-4911-85e8-a37837ba1ea4"}
+{"sub_uri": "Q458", "obj_uri": "Q188", "obj_label": "German", "sub_label": "European Union", "lineid": 914, "uuid": "78aed2bd-b82a-412c-a9de-17893ed0cb31"}
+{"sub_uri": "Q47488", "obj_uri": "Q150", "obj_label": "French", "sub_label": "International Criminal Court", "lineid": 915, "uuid": "23ecc95c-c723-42ea-8f64-a9bfb7423aa4"}
+{"sub_uri": "Q180233", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Pori", "lineid": 916, "uuid": "76a0ef92-9008-4017-977c-79b4e1f201ed"}
+{"sub_uri": "Q52636", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Menorca", "lineid": 917, "uuid": "2b71e78d-0ad5-40ac-b9d6-36289a6d0c64"}
+{"sub_uri": "Q236", "obj_uri": "Q8748", "obj_label": "Albanian", "sub_label": "Montenegro", "lineid": 918, "uuid": "861d4ff2-1d72-4f7b-b7f7-730029fec53a"}
+{"sub_uri": "Q954", "obj_uri": "Q34101", "obj_label": "tonga", "sub_label": "Zimbabwe", "lineid": 919, "uuid": "5f4a18b3-6929-41b3-b462-8649dbf8e5c9"}
+{"sub_uri": "Q147804", "obj_uri": "Q809", "obj_label": "Polish", "sub_label": "Kashubia", "lineid": 920, "uuid": "7e97610f-d53c-450f-8e1b-c27528239f45"}
+{"sub_uri": "Q133132", "obj_uri": "Q150", "obj_label": "French", "sub_label": "Revolucion Francesa", "lineid": 921, "uuid": "34f6ffe7-9382-402b-adcf-f983e72d9455"}
+{"sub_uri": "Q717", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Venezuela", "lineid": 922, "uuid": "1e50c880-035c-4ddb-b0f1-337c21088746"}
+{"sub_uri": "Q985445", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Siikajoki", "lineid": 923, "uuid": "bb7b7c2c-d738-4042-a94b-bfea4e502b45"}
+{"sub_uri": "Q709", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Marshall Islands", "lineid": 924, "uuid": "679d66ec-3ec8-47a7-b0ba-b6781f4d93cf"}
+{"sub_uri": "Q1914", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Karelia", "lineid": 925, "uuid": "fb55e0b4-c438-4750-809a-67fe83bc6a7f"}
+{"sub_uri": "Q992275", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Kiiminki", "lineid": 926, "uuid": "05e07e9d-6cb0-4909-8ef9-99b620afa63d"}
+{"sub_uri": "Q216790", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Hanko", "lineid": 927, "uuid": "e8dd4525-69ee-47f9-9d32-86ecdc41238e"}
+{"sub_uri": "Q196357", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Snezhinsk", "lineid": 928, "uuid": "324b82b2-2143-40cd-8194-20a4c48dca9c"}
+{"sub_uri": "Q5720", "obj_uri": "Q7026", "obj_label": "Catalan", "sub_label": "Community of Valencia", "lineid": 929, "uuid": "0fdfa10b-9093-4cf1-a06a-06d4051fe674"}
+{"sub_uri": "Q214", "obj_uri": "Q9058", "obj_label": "Slovak", "sub_label": "Slovakia", "lineid": 930, "uuid": "113c3613-e768-4770-8664-4abc7831b399"}
+{"sub_uri": "Q1174", "obj_uri": "Q1568", "obj_label": "Hindi", "sub_label": "Haryana", "lineid": 931, "uuid": "a718d7b5-10fd-4c5e-bc24-fde504e39064"}
+{"sub_uri": "Q1005129", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Humppila", "lineid": 932, "uuid": "aceb8723-8c05-4411-8236-52dae9b0f7a7"}
+{"sub_uri": "Q884", "obj_uri": "Q9176", "obj_label": "Korean", "sub_label": "South Korea", "lineid": 933, "uuid": "de047da8-be18-42af-80cb-02a480bf0cbc"}
+{"sub_uri": "Q1011", "obj_uri": "Q5146", "obj_label": "Portuguese", "sub_label": "Cape Verde", "lineid": 934, "uuid": "4700fd76-1181-44fb-a5bb-58665a659920"}
+{"sub_uri": "Q83786", "obj_uri": "Q1568", "obj_label": "Hindi", "sub_label": "Shimla", "lineid": 935, "uuid": "87663678-8383-425d-b588-a238bdc0b6cb"}
+{"sub_uri": "Q952374", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Outokumpu", "lineid": 936, "uuid": "d1a0e402-3726-4e49-a6a9-e2b0b9dea033"}
+{"sub_uri": "Q6178890", "obj_uri": "Q9168", "obj_label": "Persian", "sub_label": "Khorasan Province", "lineid": 937, "uuid": "4fd91105-1f40-408e-8619-1cf5d474fcb2"}
+{"sub_uri": "Q140359", "obj_uri": "Q9056", "obj_label": "Czech", "sub_label": "First Czechoslovak Republic", "lineid": 938, "uuid": "b8a96481-793d-499a-84bd-a38d2ae914b3"}
+{"sub_uri": "Q27561", "obj_uri": "Q7411", "obj_label": "Dutch", "sub_label": "Caribbean Netherlands", "lineid": 939, "uuid": "560e86c2-172c-475d-92fe-9cb9ab89a980"}
+{"sub_uri": "Q203619", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Kemi", "lineid": 940, "uuid": "ac232c2e-03f5-4832-b1d0-76c3aa57afa4"}
+{"sub_uri": "Q1649", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Oklahoma", "lineid": 941, "uuid": "582e37d1-4205-4541-8be8-582830b6e0ea"}
+{"sub_uri": "Q34078", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Surahammar Municipality", "lineid": 942, "uuid": "11746979-1624-4e1e-8c78-dd4acb08e207"}
+{"sub_uri": "Q610669", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Governor-General of Australia", "lineid": 943, "uuid": "0eb0f57f-20ba-4756-a8b5-b33124d97844"}
+{"sub_uri": "Q212", "obj_uri": "Q8798", "obj_label": "Ukrainian", "sub_label": "Ukraine", "lineid": 944, "uuid": "f8a123b4-279d-45f5-b038-d5d281278104"}
+{"sub_uri": "Q26988", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Cook Islands", "lineid": 945, "uuid": "1bdc7cd8-c4d9-44e1-9741-c27dc68a430d"}
+{"sub_uri": "Q35572", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Union of European Football Associations", "lineid": 946, "uuid": "da25ec33-d1ac-4593-9bc9-a422c7fef922"}
+{"sub_uri": "Q207891", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Kokkola", "lineid": 947, "uuid": "1c7ec7bf-15a1-4804-93df-1f1cc620245a"}
+{"sub_uri": "Q924", "obj_uri": "Q1860", "obj_label": "English", "sub_label": "Tanzania", "lineid": 948, "uuid": "09674ee4-a9d9-49ab-8125-30521ea02db7"}
+{"sub_uri": "Q874", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Turkmenistan", "lineid": 949, "uuid": "f4fa2c0b-3820-41ae-bc57-8e262d1acbb4"}
+{"sub_uri": "Q34754", "obj_uri": "Q13275", "obj_label": "Somali", "sub_label": "Somaliland", "lineid": 950, "uuid": "eef30d19-9802-4533-ba7e-bde464695181"}
+{"sub_uri": "Q986320", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Sipoo", "lineid": 951, "uuid": "cf2624d0-0ed4-4d32-8e82-00593b5053d4"}
+{"sub_uri": "Q39", "obj_uri": "Q188", "obj_label": "German", "sub_label": "Switzerland", "lineid": 952, "uuid": "31c10102-174a-48d8-aa2a-644fec9b4615"}
+{"sub_uri": "Q7788", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Khabarovsk Krai", "lineid": 953, "uuid": "fdf9423f-d124-47a1-aa69-bebdf04fe89c"}
+{"sub_uri": "Q501442", "obj_uri": "Q9027", "obj_label": "Swedish", "sub_label": "Uddevalla Municipality", "lineid": 954, "uuid": "7cf22a40-6e73-4e80-be7c-1ab702bc54de"}
+{"sub_uri": "Q28911", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Lahti", "lineid": 955, "uuid": "f5727da6-8fec-4560-883e-68714a4d6e47"}
+{"sub_uri": "Q11959", "obj_uri": "Q1321", "obj_label": "Spanish", "sub_label": "Alicante", "lineid": 956, "uuid": "4d443058-68df-4caa-9a83-2ffc769eba91"}
+{"sub_uri": "Q953070", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Parkano", "lineid": 957, "uuid": "0b3c4fcd-b7a4-4bdb-bc1c-9c3fadbad2e4"}
+{"sub_uri": "Q585888", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Kuhmoinen", "lineid": 958, "uuid": "cef424b2-e9d9-45ac-a1c1-c67d17788d7f"}
+{"sub_uri": "Q184", "obj_uri": "Q9091", "obj_label": "Belarusian", "sub_label": "Belarus", "lineid": 959, "uuid": "6a5c50ba-a5d4-44bd-a880-b2cc69042682"}
+{"sub_uri": "Q1498", "obj_uri": "Q1568", "obj_label": "Hindi", "sub_label": "Uttar Pradesh", "lineid": 960, "uuid": "78a19bd8-a9cf-4b0f-9cad-610c601044a5"}
+{"sub_uri": "Q1784789", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Korsholm", "lineid": 961, "uuid": "dfca2ab7-d8f6-4e40-bfd5-bcf47007dc5a"}
+{"sub_uri": "Q16746854", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Luhansk People's Republic", "lineid": 962, "uuid": "aa3f4d2b-a503-467d-8a89-c7c589a1296f"}
+{"sub_uri": "Q819", "obj_uri": "Q9211", "obj_label": "Lao", "sub_label": "Laos", "lineid": 963, "uuid": "9dbb2629-9079-4cd0-ac10-d884ee897e9a"}
+{"sub_uri": "Q1017127", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_label": "Masku", "lineid": 964, "uuid": "0e4a324f-fa3b-4eca-9008-c3e7dc3a9f50"}
+{"sub_uri": "Q5219", "obj_uri": "Q7737", "obj_label": "Russian", "sub_label": "Republic of Ingushetia", "lineid": 965, "uuid": "506e98dd-b39f-4699-bf1e-5e28f729930f"}

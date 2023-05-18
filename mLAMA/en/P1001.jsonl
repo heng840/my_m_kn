@@ -1,0 +1,701 @@
+{"sub_uri": "Q191954", "obj_uri": "Q142", "obj_label": "France", "sub_label": "President of the French Republic", "lineid": 0, "uuid": "3fe3d4da-9df9-45ba-8109-784ce5fba38a"}
+{"sub_uri": "Q839078", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Prime Minister of Canada", "lineid": 1, "uuid": "466cc8c6-8770-4e5f-82e2-096816f17f71"}
+{"sub_uri": "Q216082", "obj_uri": "Q408", "obj_label": "Australia", "sub_label": "Australian Labor Party", "lineid": 2, "uuid": "98d9381e-a748-4d92-9f8c-7912aa79371c"}
+{"sub_uri": "Q628004", "obj_uri": "Q96", "obj_label": "Mexico", "sub_label": "President of Mexico", "lineid": 3, "uuid": "b5630366-2624-48b9-a8a9-2bee22a6ee8e"}
+{"sub_uri": "Q783330", "obj_uri": "Q408", "obj_label": "Australia", "sub_label": "Senate of Australia", "lineid": 4, "uuid": "b5234266-3f8d-4b11-a410-ee938bbc33e2"}
+{"sub_uri": "Q887010", "obj_uri": "Q99", "obj_label": "California", "sub_label": "Governor of California", "lineid": 5, "uuid": "05b34a0a-3c22-467a-ae38-94ae765b5706"}
+{"sub_uri": "Q196615", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Supreme Court of Canada", "lineid": 6, "uuid": "5758661f-951b-4ea4-963f-7d1257021d38"}
+{"sub_uri": "Q56022", "obj_uri": "Q183", "obj_label": "Germany", "sub_label": "Chancellor of Germany", "lineid": 7, "uuid": "e267fccb-cf48-481c-b840-db598f9bc962"}
+{"sub_uri": "Q56045", "obj_uri": "Q183", "obj_label": "Germany", "sub_label": "Basic Law for the Federal Republic of Germany", "lineid": 8, "uuid": "65c3e4f3-bb37-4b57-858f-cdc1349372a8"}
+{"sub_uri": "Q5176750", "obj_uri": "Q155", "obj_label": "Brazil", "sub_label": "President of Brazil", "lineid": 9, "uuid": "5af6c1de-aa70-4290-abab-69115409a939"}
+{"sub_uri": "Q1684080", "obj_uri": "Q902", "obj_label": "Bangladesh", "sub_label": "Jatiya Sangshad", "lineid": 10, "uuid": "7c264713-33a3-4323-81ea-bb1c4ecbea06"}
+{"sub_uri": "Q208487", "obj_uri": "Q801", "obj_label": "Israel", "sub_label": "Prime Minister of Israel", "lineid": 11, "uuid": "42363d6f-7898-409a-88a4-b2a31e16cfad"}
+{"sub_uri": "Q319145", "obj_uri": "Q408", "obj_label": "Australia", "sub_label": "Prime Minister of Australia", "lineid": 12, "uuid": "e1b02028-d626-4e46-b8df-1e933acd4dc4"}
+{"sub_uri": "Q537303", "obj_uri": "Q36", "obj_label": "Poland", "sub_label": "Polish United Workers' Party", "lineid": 13, "uuid": "97db271a-ea8d-48cf-86e5-3026c646038a"}
+{"sub_uri": "Q371576", "obj_uri": "Q224", "obj_label": "Croatia", "sub_label": "Parliament of Croatia", "lineid": 14, "uuid": "816fca58-37ad-4942-833f-57c25d60555f"}
+{"sub_uri": "Q475689", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Parliament of Canada", "lineid": 15, "uuid": "7e4e5c27-b5f0-414c-82d2-1f2689c23e58"}
+{"sub_uri": "Q422404", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Government of Canada", "lineid": 16, "uuid": "47363ed5-d3cb-4c81-a5f4-9d53dd2d5f70"}
+{"sub_uri": "Q868875", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Constitution Act, 1982", "lineid": 17, "uuid": "80a102c1-424c-44ba-a72e-396e0e2b04db"}
+{"sub_uri": "Q736882", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Canada Act 1982", "lineid": 18, "uuid": "a328bb2a-49ae-404e-9e70-166d8a5dc897"}
+{"sub_uri": "Q715869", "obj_uri": "Q865", "obj_label": "Taiwan", "sub_label": "Legislative Yuan", "lineid": 19, "uuid": "7edc7ee4-a8e5-451a-a5ce-27cf631a7c4d"}
+{"sub_uri": "Q899061", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Constitution of Canada", "lineid": 20, "uuid": "e9d57469-d20d-444d-be57-6241bcdbcbe8"}
+{"sub_uri": "Q2865533", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Section Twenty-five of the Canadian Charter of Rights and Freedoms", "lineid": 21, "uuid": "814e5dc3-bb39-4d68-9793-f4c310e03f8b"}
+{"sub_uri": "Q887117", "obj_uri": "Q771", "obj_label": "Massachusetts", "sub_label": "Governor of Massachusetts", "lineid": 22, "uuid": "d5398db9-0f18-4bce-b481-9f04580795ae"}
+{"sub_uri": "Q230003", "obj_uri": "Q668", "obj_label": "India", "sub_label": "Lok Sabha", "lineid": 23, "uuid": "271a2272-d00a-4431-8d05-108bbd88a06a"}
+{"sub_uri": "Q133396", "obj_uri": "Q801", "obj_label": "Israel", "sub_label": "Knesset", "lineid": 24, "uuid": "0061461b-f8f1-413e-b4c9-00be4e06c405"}
+{"sub_uri": "Q1257966", "obj_uri": "Q223", "obj_label": "Greenland", "sub_label": "Parliament of Greenland", "lineid": 25, "uuid": "9370d878-f05f-47f5-ac9d-d2c9e8f44d75"}
+{"sub_uri": "Q796897", "obj_uri": "Q38", "obj_label": "Italy", "sub_label": "Prime Minister of Italy", "lineid": 26, "uuid": "23f0c357-bcae-4f69-8c9e-6830430ea558"}
+{"sub_uri": "Q390776", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Governor General of Canada", "lineid": 27, "uuid": "3a3a7be3-5f41-4a0c-84e5-fbb2f2ec85c8"}
+{"sub_uri": "Q610669", "obj_uri": "Q408", "obj_label": "Australia", "sub_label": "Governor-General of Australia", "lineid": 28, "uuid": "01ca02d2-1826-49d1-bfc8-d5717b699a30"}
+{"sub_uri": "Q669459", "obj_uri": "Q408", "obj_label": "Australia", "sub_label": "Monarchy of Australia", "lineid": 29, "uuid": "057071f2-a2f1-4bb8-8dd5-823a72756793"}
+{"sub_uri": "Q130637", "obj_uri": "Q4093", "obj_label": "Glasgow", "sub_label": "Glasgow City Council", "lineid": 30, "uuid": "885ce2f3-552e-482c-b5b0-09e213d36114"}
+{"sub_uri": "Q223732", "obj_uri": "Q801", "obj_label": "Israel", "sub_label": "Israeli Declaration of Independence", "lineid": 31, "uuid": "0f9a09f9-3c14-4c83-adf6-c24e8dddcbf5"}
+{"sub_uri": "Q191827", "obj_uri": "Q27", "obj_label": "Ireland", "sub_label": "Taoiseach", "lineid": 32, "uuid": "eae3a145-23dc-4239-8fe4-e05cea9b484c"}
+{"sub_uri": "Q6064424", "obj_uri": "Q1546", "obj_label": "Iowa", "sub_label": "Iowa General Assembly", "lineid": 33, "uuid": "5a66114c-2758-454e-854d-3f618412b4fb"}
+{"sub_uri": "Q274948", "obj_uri": "Q17", "obj_label": "Japan", "sub_label": "Prime Minister of Japan", "lineid": 34, "uuid": "e97e884a-3ed6-4933-8665-29e8834ae811"}
+{"sub_uri": "Q5589725", "obj_uri": "Q1439", "obj_label": "Texas", "sub_label": "Governor of Texas", "lineid": 35, "uuid": "a799a41d-4361-4c6b-bcf3-32e82bcf3778"}
+{"sub_uri": "Q1890465", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Manitoba Act, 1870", "lineid": 36, "uuid": "b78f6a08-3cdf-46dd-b70f-55990f579c4f"}
+{"sub_uri": "Q174156", "obj_uri": "Q833", "obj_label": "Malaysia", "sub_label": "Yang di-Pertuan Agong", "lineid": 37, "uuid": "2f29da42-0edc-4209-8df4-545449e88bf0"}
+{"sub_uri": "Q196227", "obj_uri": "Q1166", "obj_label": "Michigan", "sub_label": "Constitution of Michigan", "lineid": 38, "uuid": "38af166d-5c19-4408-93c5-48eabf87bff8"}
+{"sub_uri": "Q98964", "obj_uri": "Q36", "obj_label": "Poland", "sub_label": "Sejm of the Republic of Poland", "lineid": 39, "uuid": "0270f683-5afb-42e2-a214-4a57a866fb32"}
+{"sub_uri": "Q213702", "obj_uri": "Q27", "obj_label": "Ireland", "sub_label": "President of Ireland", "lineid": 40, "uuid": "63266dd8-b0ab-430f-beb7-fb99dbc82262"}
+{"sub_uri": "Q259502", "obj_uri": "Q408", "obj_label": "Australia", "sub_label": "Australian dollar", "lineid": 41, "uuid": "8af9009f-e17a-4233-a3d7-a449bc8216e1"}
+{"sub_uri": "Q2145221", "obj_uri": "Q824", "obj_label": "Oregon", "sub_label": "Oregon House of Representatives", "lineid": 42, "uuid": "541ee456-13cc-4557-bbb4-57ae61d54eae"}
+{"sub_uri": "Q7101257", "obj_uri": "Q824", "obj_label": "Oregon", "sub_label": "Oregon Legislative Assembly", "lineid": 43, "uuid": "039b7dff-63e2-4c05-920c-07d6fd1be338"}
+{"sub_uri": "Q4117119", "obj_uri": "Q796", "obj_label": "Iraq", "sub_label": "Vice President of Iraq", "lineid": 44, "uuid": "fd13e656-74a6-44aa-9e7f-9e4c2ecf8756"}
+{"sub_uri": "Q8039461", "obj_uri": "Q1558", "obj_label": "Kansas", "sub_label": "Wyandotte Constitution", "lineid": 45, "uuid": "391089de-8885-4f03-892f-639c7a8e4b85"}
+{"sub_uri": "Q206171", "obj_uri": "Q22", "obj_label": "Scotland", "sub_label": "Scottish Parliament", "lineid": 46, "uuid": "9ee9af5a-4a13-44a9-8a0d-6238bb00bfab"}
+{"sub_uri": "Q493517", "obj_uri": "Q25", "obj_label": "Wales", "sub_label": "Welsh Parliament", "lineid": 47, "uuid": "4e5f79ac-a1ff-4dca-99c7-a4d662e98959"}
+{"sub_uri": "Q1760078", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_label": "Mayor of Chicago", "lineid": 48, "uuid": "3ae69b5b-1b89-4961-9a67-0511d5cfb0d3"}
+{"sub_uri": "Q473984", "obj_uri": "Q843", "obj_label": "Pakistan", "sub_label": "President of Pakistan", "lineid": 49, "uuid": "91f4ffa5-d3ec-45a9-9c7f-b1d63b6cd408"}
+{"sub_uri": "Q3249579", "obj_uri": "Q843", "obj_label": "Pakistan", "sub_label": "Chief Justice of Pakistan", "lineid": 50, "uuid": "727fc308-fc21-475b-a474-3627ab76e88f"}
+{"sub_uri": "Q1418426", "obj_uri": "Q928", "obj_label": "Philippines", "sub_label": "Senate of the Philippines", "lineid": 51, "uuid": "6259d4e8-e271-4bef-99e8-bb38770fc2d6"}
+{"sub_uri": "Q1672817", "obj_uri": "Q27", "obj_label": "Ireland", "sub_label": "Government of Ireland", "lineid": 52, "uuid": "4e1437da-521e-4cb4-af08-630bd78e34f7"}
+{"sub_uri": "Q2995130", "obj_uri": "Q812", "obj_label": "Florida", "sub_label": "Constitution of Florida", "lineid": 53, "uuid": "9b07f6bd-8418-46b1-9ad8-5169988ddcb9"}
+{"sub_uri": "Q1355042", "obj_uri": "Q31", "obj_label": "Belgium", "sub_label": "Belgian Senate", "lineid": 54, "uuid": "8407f6b2-41d2-40ee-bc4a-76b21634d3b2"}
+{"sub_uri": "Q218295", "obj_uri": "Q159", "obj_label": "Russia", "sub_label": "President of Russia", "lineid": 55, "uuid": "90a03434-65c9-4d19-854f-e40709b394cb"}
+{"sub_uri": "Q1539609", "obj_uri": "Q16551", "obj_label": "Vermont", "sub_label": "Vermont Senate", "lineid": 56, "uuid": "4d23d67f-7ff3-42bc-848d-e6f5e0f7f369"}
+{"sub_uri": "Q2867076", "obj_uri": "Q16551", "obj_label": "Vermont", "sub_label": "Vermont General Assembly", "lineid": 57, "uuid": "bcd21fe9-eea1-4ab0-be8a-4d1cfd32dc97"}
+{"sub_uri": "Q1209571", "obj_uri": "Q928", "obj_label": "Philippines", "sub_label": "President of the Philippines", "lineid": 58, "uuid": "ba48fbc7-b88d-416b-9c20-bbc78844d0b6"}
+{"sub_uri": "Q244730", "obj_uri": "Q668", "obj_label": "India", "sub_label": "Rajya Sabha", "lineid": 59, "uuid": "92b04514-8489-412b-aa89-2aee0e2c50fa"}
+{"sub_uri": "Q422007", "obj_uri": "Q34", "obj_label": "Sweden", "sub_label": "aktiebolag", "lineid": 60, "uuid": "049e3aff-1779-4497-a36c-cd36e9601623"}
+{"sub_uri": "Q1436139", "obj_uri": "Q55", "obj_label": "Netherlands", "sub_label": "Naamloze vennootschap", "lineid": 61, "uuid": "4522a853-514a-48f9-a157-820efab9c8e6"}
+{"sub_uri": "Q13526082", "obj_uri": "Q36074", "obj_label": "Queensland", "sub_label": "Premier of Queensland", "lineid": 62, "uuid": "45cdecd4-56db-49a2-995b-cbd94be9e56a"}
+{"sub_uri": "Q2911019", "obj_uri": "Q176", "obj_label": "Quebec", "sub_label": "Premier of Quebec", "lineid": 63, "uuid": "6d7dc435-856b-4681-9bd2-7ebe58ff0111"}
+{"sub_uri": "Q131279", "obj_uri": "Q189", "obj_label": "Iceland", "sub_label": "Althing", "lineid": 64, "uuid": "2f87ee55-1da1-4243-9b36-31558dc52675"}
+{"sub_uri": "Q1542521", "obj_uri": "Q928", "obj_label": "Philippines", "sub_label": "Governor-General of the Philippines", "lineid": 65, "uuid": "3ee54498-8aa9-4c6c-a097-18bcdc8c856a"}
+{"sub_uri": "Q109016", "obj_uri": "Q20", "obj_label": "Norway", "sub_label": "Stortinget", "lineid": 66, "uuid": "939c2e5f-3a71-4269-ab02-365649bc02e2"}
+{"sub_uri": "Q15042660", "obj_uri": "Q20", "obj_label": "Norway", "sub_label": "aksjeselskap", "lineid": 67, "uuid": "ba69406c-b42a-48df-a01c-ad620ab82772"}
+{"sub_uri": "Q13645132", "obj_uri": "Q1761", "obj_label": "Dublin", "sub_label": "Lord Mayor of Dublin", "lineid": 68, "uuid": "1c533de4-3e43-4dae-b696-97099b8c82d6"}
+{"sub_uri": "Q3112646", "obj_uri": "Q25", "obj_label": "Wales", "sub_label": "Welsh Government", "lineid": 69, "uuid": "720d3946-c760-4ae9-bafb-acdf52541f54"}
+{"sub_uri": "Q3406079", "obj_uri": "Q25", "obj_label": "Wales", "sub_label": "Member of the National Assembly for Wales", "lineid": 70, "uuid": "0acba6de-90f6-486d-bd82-bc4e5c224d66"}
+{"sub_uri": "Q422062", "obj_uri": "Q183", "obj_label": "Germany", "sub_label": "Aktiengesellschaft", "lineid": 71, "uuid": "b2e003ed-e22a-4087-aa75-0adb20559d6b"}
+{"sub_uri": "Q1140706", "obj_uri": "Q889", "obj_label": "Afghanistan", "sub_label": "President of Afghanistan", "lineid": 72, "uuid": "207b2630-a2bc-4362-8f98-fbfffc6fac75"}
+{"sub_uri": "Q2348310", "obj_uri": "Q217169", "obj_label": "Rhodesia", "sub_label": "Prime Minister of Rhodesia", "lineid": 73, "uuid": "6fa456f3-6eb9-40e2-80f5-91b44a7d990c"}
+{"sub_uri": "Q18996", "obj_uri": "Q25", "obj_label": "Wales", "sub_label": "First Minister of Wales", "lineid": 74, "uuid": "655fed37-dd6b-4d4e-8846-acc5759c1235"}
+{"sub_uri": "Q643412", "obj_uri": "Q33", "obj_label": "Finland", "sub_label": "Parliament of Finland", "lineid": 75, "uuid": "69fa872d-f619-409b-b8b3-82c226a492cd"}
+{"sub_uri": "Q2906721", "obj_uri": "Q176", "obj_label": "Quebec", "sub_label": "Bloc pot", "lineid": 76, "uuid": "07d12246-5d0b-4cd5-a682-9d432616c618"}
+{"sub_uri": "Q1492249", "obj_uri": "Q176", "obj_label": "Quebec", "sub_label": "National Assembly of Quebec", "lineid": 77, "uuid": "117d4f7a-3354-4a74-896f-f14db6e041ca"}
+{"sub_uri": "Q1006398", "obj_uri": "Q40", "obj_label": "Austria", "sub_label": "Federal Chancellor of Austria", "lineid": 78, "uuid": "c36c5279-b559-40f6-a6e4-0db64a71c0cf"}
+{"sub_uri": "Q1480166", "obj_uri": "Q17", "obj_label": "Japan", "sub_label": "kabushiki gaisha", "lineid": 79, "uuid": "26ff7450-2bf9-47ac-8526-26021a915280"}
+{"sub_uri": "Q621709", "obj_uri": "Q38872", "obj_label": "Prussia", "sub_label": "Minister President of Prussia", "lineid": 80, "uuid": "edd0e959-8e19-4b33-8638-d7cfa8d37aa8"}
+{"sub_uri": "Q192711", "obj_uri": "Q668", "obj_label": "India", "sub_label": "Prime minister of India", "lineid": 81, "uuid": "f9387e81-ae86-4c32-8376-c9901c1f7b3b"}
+{"sub_uri": "Q6518214", "obj_uri": "Q36074", "obj_label": "Queensland", "sub_label": "Legislative Assembly of Queensland", "lineid": 82, "uuid": "aa52139a-cefa-40b6-a616-388cee13fbe7"}
+{"sub_uri": "Q2390270", "obj_uri": "Q408", "obj_label": "Australia", "sub_label": "Treasurer of Australia", "lineid": 83, "uuid": "c0d8954c-e9a3-4751-b57f-e1c52a9660bc"}
+{"sub_uri": "Q1268572", "obj_uri": "Q34", "obj_label": "Sweden", "sub_label": "Monarch of Sweden", "lineid": 84, "uuid": "69231d84-49a3-4ae9-9d9d-9974000e1251"}
+{"sub_uri": "Q39021", "obj_uri": "Q334", "obj_label": "Singapore", "sub_label": "President of Singapore", "lineid": 85, "uuid": "e17af77d-0f04-40e0-9417-22f62f86f10a"}
+{"sub_uri": "Q2484340", "obj_uri": "Q858", "obj_label": "Syria", "sub_label": "Constitution of Syria", "lineid": 86, "uuid": "d189aa23-c6d1-47c6-9cae-115d42457de7"}
+{"sub_uri": "Q1362216", "obj_uri": "Q22", "obj_label": "Scotland", "sub_label": "First Minister of Scotland", "lineid": 87, "uuid": "6ddd1e17-43c9-4b67-9009-4751b4373655"}
+{"sub_uri": "Q782740", "obj_uri": "Q408", "obj_label": "Australia", "sub_label": "Australian Security Intelligence Organisation", "lineid": 88, "uuid": "4b34c15d-6f1d-4e84-ada1-4be911157a97"}
+{"sub_uri": "Q272930", "obj_uri": "Q34", "obj_label": "Sweden", "sub_label": "Parliament of Sweden", "lineid": 89, "uuid": "aa965170-1503-4986-bbda-13f393d267a5"}
+{"sub_uri": "Q545206", "obj_uri": "Q801", "obj_label": "Israel", "sub_label": "Chief of the General Staff (Israel)", "lineid": 90, "uuid": "e970d57b-514e-42d7-a97e-1e889d1f1d5d"}
+{"sub_uri": "Q910898", "obj_uri": "Q1649", "obj_label": "Oklahoma", "sub_label": "Oklahoma Senate", "lineid": 91, "uuid": "a2f30e7b-deec-41a8-a0d8-f2788708d969"}
+{"sub_uri": "Q2269859", "obj_uri": "Q824", "obj_label": "Oregon", "sub_label": "Oregon State Senate", "lineid": 92, "uuid": "f738b470-664e-4629-b10b-07973b671a8b"}
+{"sub_uri": "Q7199371", "obj_uri": "Q1342", "obj_label": "Pittsburgh", "sub_label": "Pittsburgh Police", "lineid": 93, "uuid": "edead43e-674b-49ba-b252-1718e7e1db93"}
+{"sub_uri": "Q1370482", "obj_uri": "Q241", "obj_label": "Cuba", "sub_label": "President of Cuba", "lineid": 94, "uuid": "925f21e5-3d2a-43e8-842a-f1b88c25f815"}
+{"sub_uri": "Q1494665", "obj_uri": "Q771", "obj_label": "Massachusetts", "sub_label": "Massachusetts Senate", "lineid": 95, "uuid": "3cf4618c-967e-45c1-a601-5a5831bc6d72"}
+{"sub_uri": "Q5589724", "obj_uri": "Q1509", "obj_label": "Tennessee", "sub_label": "Governor of Tennessee", "lineid": 96, "uuid": "fd8a0e28-8907-47fe-8ad9-bd472b8bb6b8"}
+{"sub_uri": "Q1622615", "obj_uri": "Q801", "obj_label": "Israel", "sub_label": "Chief Rabbinate of Israel", "lineid": 97, "uuid": "5f99bdf8-17a1-443e-8f5c-af07580b3a0b"}
+{"sub_uri": "Q1274366", "obj_uri": "Q771", "obj_label": "Massachusetts", "sub_label": "Lieutenant Governor of Massachusetts", "lineid": 98, "uuid": "a995edc3-4b76-443a-b8df-ca68b513c2d6"}
+{"sub_uri": "Q5261073", "obj_uri": "Q833", "obj_label": "Malaysia", "sub_label": "Deputy Prime Minister of Malaysia", "lineid": 99, "uuid": "203ca0a4-4781-4291-b525-87206a7badad"}
+{"sub_uri": "Q349487", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Parks Canada", "lineid": 100, "uuid": "340e056c-5716-484b-904c-4e5ee67101ff"}
+{"sub_uri": "Q1494590", "obj_uri": "Q1166", "obj_label": "Michigan", "sub_label": "Michigan House of Representatives", "lineid": 101, "uuid": "bd4e8ce3-665e-4239-9889-23e49685de29"}
+{"sub_uri": "Q5461319", "obj_uri": "Q812", "obj_label": "Florida", "sub_label": "Florida Department of Law Enforcement", "lineid": 102, "uuid": "39be4038-8bf4-4de0-a761-fc3a5841fe67"}
+{"sub_uri": "Q1772204", "obj_uri": "Q1509", "obj_label": "Tennessee", "sub_label": "Tennessee Senate", "lineid": 103, "uuid": "0dd9ed23-f7bc-4f48-89db-0142141337a6"}
+{"sub_uri": "Q4810766", "obj_uri": "Q1761", "obj_label": "Dublin", "sub_label": "Dublin City Council", "lineid": 104, "uuid": "c75d138a-48ae-4ec9-8d21-426f5d13abc3"}
+{"sub_uri": "Q910613", "obj_uri": "Q829", "obj_label": "Utah", "sub_label": "Utah House of Representatives", "lineid": 105, "uuid": "c949e905-bd11-4efc-90a0-aaae0d72b54f"}
+{"sub_uri": "Q671721", "obj_uri": "Q27", "obj_label": "Ireland", "sub_label": "High Court", "lineid": 106, "uuid": "cb40d4c2-0f4f-4c5d-a3df-93b86d610f43"}
+{"sub_uri": "Q1494554", "obj_uri": "Q779", "obj_label": "Connecticut", "sub_label": "Connecticut Senate", "lineid": 107, "uuid": "0443b5c4-7f92-4595-a994-a71e42f8c784"}
+{"sub_uri": "Q504272", "obj_uri": "Q183", "obj_label": "Germany", "sub_label": "Vice-Chancellor of Germany", "lineid": 108, "uuid": "535a7cae-3b14-4eb5-b32a-ae5f2625e769"}
+{"sub_uri": "Q2560704", "obj_uri": "Q1904", "obj_label": "Ontario", "sub_label": "Premier of Ontario", "lineid": 109, "uuid": "2e7aaba5-fc9e-4e46-b577-be4c232e415d"}
+{"sub_uri": "Q1537375", "obj_uri": "Q1989", "obj_label": "Saskatchewan", "sub_label": "Legislative Assembly of Saskatchewan", "lineid": 110, "uuid": "38875e95-e9f2-4652-85ff-f67e71339d4e"}
+{"sub_uri": "Q1494863", "obj_uri": "Q1221", "obj_label": "Idaho", "sub_label": "Idaho Senate", "lineid": 111, "uuid": "6dd22428-77ef-4e25-97e8-7e38f0372180"}
+{"sub_uri": "Q917311", "obj_uri": "Q1527", "obj_label": "Minnesota", "sub_label": "Minnesota Senate", "lineid": 112, "uuid": "185fbef2-d0c1-4c75-9167-50b1b407abf1"}
+{"sub_uri": "Q1494581", "obj_uri": "Q1588", "obj_label": "Louisiana", "sub_label": "Louisiana House of Representatives", "lineid": 113, "uuid": "48352c67-2c52-41bc-bb3e-2e04d741f31c"}
+{"sub_uri": "Q7182649", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_label": "Philadelphia City Council", "lineid": 114, "uuid": "5e96ac7a-ec2e-462f-b6ae-6054d0cee40b"}
+{"sub_uri": "Q1525955", "obj_uri": "Q1558", "obj_label": "Kansas", "sub_label": "Kansas Senate", "lineid": 115, "uuid": "a85f3fa0-1e01-4caf-b4bb-e835727346da"}
+{"sub_uri": "Q2550683", "obj_uri": "Q1649", "obj_label": "Oklahoma", "sub_label": "Governor of Oklahoma", "lineid": 116, "uuid": "d0938d4d-a889-41a0-8287-7af0621dd4ab"}
+{"sub_uri": "Q378605", "obj_uri": "Q794", "obj_label": "Iran", "sub_label": "Islamic Consultative Assembly", "lineid": 117, "uuid": "d1eea0e0-f8d6-464c-9301-8299a12de799"}
+{"sub_uri": "Q5164205", "obj_uri": "Q1391", "obj_label": "Maryland", "sub_label": "Constitution of Maryland", "lineid": 118, "uuid": "32848e01-c221-4897-bf02-6935a516195f"}
+{"sub_uri": "Q7080745", "obj_uri": "Q1397", "obj_label": "Ohio", "sub_label": "Ohio Attorney General", "lineid": 119, "uuid": "af676b44-fc4c-4fc0-822f-3ff93f20c8bd"}
+{"sub_uri": "Q5440167", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Federal Court of Canada", "lineid": 120, "uuid": "1b19ec04-c04c-473b-80f6-9ff33d040595"}
+{"sub_uri": "Q1658569", "obj_uri": "Q408", "obj_label": "Australia", "sub_label": "Australian Electoral Commission", "lineid": 121, "uuid": "8cf05054-f703-4e2d-826d-031c8fd6a60c"}
+{"sub_uri": "Q1140115", "obj_uri": "Q159", "obj_label": "Russia", "sub_label": "Government of Russia", "lineid": 122, "uuid": "80688f59-bae8-48e9-9248-4c8c96aceaef"}
+{"sub_uri": "Q1641162", "obj_uri": "Q668", "obj_label": "India", "sub_label": "Vice President of India", "lineid": 123, "uuid": "bff5be52-f937-43e6-ac4c-a362df4e402f"}
+{"sub_uri": "Q217799", "obj_uri": "Q191", "obj_label": "Estonia", "sub_label": "Riigikogu", "lineid": 124, "uuid": "19e8a7ae-1992-4a4d-9b8c-59e27d80a363"}
+{"sub_uri": "Q374152", "obj_uri": "Q37", "obj_label": "Lithuania", "sub_label": "Seimas", "lineid": 125, "uuid": "e18d3aa0-bb54-48c8-95a7-7afa1f29dbab"}
+{"sub_uri": "Q4818607", "obj_uri": "Q408", "obj_label": "Australia", "sub_label": "Attorney-General for Australia", "lineid": 126, "uuid": "ccaedeff-8466-4506-94e3-f278781cac1e"}
+{"sub_uri": "Q2408274", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Canada Health Act", "lineid": 127, "uuid": "48255f29-81ff-437a-8a94-5420bd0901bb"}
+{"sub_uri": "Q2269864", "obj_uri": "Q1400", "obj_label": "Pennsylvania", "sub_label": "Pennsylvania State Senate", "lineid": 128, "uuid": "bfdc935e-eb9e-4c1c-b213-01c45d48c465"}
+{"sub_uri": "Q2444341", "obj_uri": "Q172", "obj_label": "Toronto", "sub_label": "Toronto City Council", "lineid": 129, "uuid": "767d175c-ee03-4682-9219-d4651827885d"}
+{"sub_uri": "Q3238284", "obj_uri": "Q99", "obj_label": "California", "sub_label": "Lieutenant Governor of California", "lineid": 130, "uuid": "556ab7df-5775-4dd0-9452-825e36b41ae6"}
+{"sub_uri": "Q121688", "obj_uri": "Q29", "obj_label": "Spain", "sub_label": "flag of Spain", "lineid": 131, "uuid": "14e4841f-ab31-4d1d-b944-b8a218a631a3"}
+{"sub_uri": "Q1476165", "obj_uri": "Q796", "obj_label": "Iraq", "sub_label": "Prime Minister of Iraq", "lineid": 132, "uuid": "a4040f13-b098-4984-8d24-73d7132262b1"}
+{"sub_uri": "Q5176615", "obj_uri": "Q25", "obj_label": "Wales", "sub_label": "Counsel General for Wales", "lineid": 133, "uuid": "359f7607-40ea-4ff3-b449-b5effc4eb21d"}
+{"sub_uri": "Q1494541", "obj_uri": "Q1588", "obj_label": "Louisiana", "sub_label": "Louisiana State Senate", "lineid": 134, "uuid": "5e4c17cd-cef6-4fb7-84f3-8e015388c16b"}
+{"sub_uri": "Q1412814", "obj_uri": "Q1537", "obj_label": "Wisconsin", "sub_label": "Wisconsin State Senate", "lineid": 135, "uuid": "efca6d58-7e2c-4b32-856f-1e12630dfa9d"}
+{"sub_uri": "Q196177", "obj_uri": "Q1439", "obj_label": "Texas", "sub_label": "Constitution of Texas", "lineid": 136, "uuid": "0e116ec7-02a4-47bf-b8b1-73e0a963737d"}
+{"sub_uri": "Q2991162", "obj_uri": "Q408", "obj_label": "Australia", "sub_label": "Australian Government", "lineid": 137, "uuid": "9ff6c1ad-ff43-44a6-9d60-e0e275aeaa32"}
+{"sub_uri": "Q1812866", "obj_uri": "Q1951", "obj_label": "Alberta", "sub_label": "Legislative Assembly of Alberta", "lineid": 138, "uuid": "baf547ce-c949-411d-8203-18b8f1e7296b"}
+{"sub_uri": "Q123199", "obj_uri": "Q812", "obj_label": "Florida", "sub_label": "Florida Senate", "lineid": 139, "uuid": "380527ba-9b59-40c9-ae8c-4ba6e598a0fd"}
+{"sub_uri": "Q207365", "obj_uri": "Q22", "obj_label": "Scotland", "sub_label": "Samhain", "lineid": 140, "uuid": "c7d7d091-3a74-496f-86a3-00191dd2ccb2"}
+{"sub_uri": "Q2289041", "obj_uri": "Q334", "obj_label": "Singapore", "sub_label": "Singapore Democratic Party", "lineid": 141, "uuid": "ece30a2b-07e6-4c2e-a0b0-b8969a235779"}
+{"sub_uri": "Q1026858", "obj_uri": "Q99", "obj_label": "California", "sub_label": "California State Assembly", "lineid": 142, "uuid": "45dc84d1-d07d-4778-8cbd-660e00196762"}
+{"sub_uri": "Q827550", "obj_uri": "Q1439", "obj_label": "Texas", "sub_label": "Texas House of Representatives", "lineid": 143, "uuid": "8dae6ad1-010c-4363-a8ea-718e2ea97acf"}
+{"sub_uri": "Q636947", "obj_uri": "Q794", "obj_label": "Iran", "sub_label": "People's Mujahedin of Iran", "lineid": 144, "uuid": "eb489e5f-fe35-4542-b58a-baff862489ed"}
+{"sub_uri": "Q6392204", "obj_uri": "Q1603", "obj_label": "Kentucky", "sub_label": "Kentucky Constitution", "lineid": 145, "uuid": "2070071f-7fa2-425f-aafb-d00bfdd20382"}
+{"sub_uri": "Q43192", "obj_uri": "Q142", "obj_label": "France", "sub_label": "flag of France", "lineid": 146, "uuid": "b9896a47-cf30-4b54-9281-2d25e7f12256"}
+{"sub_uri": "Q2978540", "obj_uri": "Q155", "obj_label": "Brazil", "sub_label": "Vice President of Brazil", "lineid": 147, "uuid": "80e20cf4-f2e8-4ba5-b94f-bec25239737b"}
+{"sub_uri": "Q1494656", "obj_uri": "Q1391", "obj_label": "Maryland", "sub_label": "Maryland Senate", "lineid": 148, "uuid": "e5a92ec6-bda4-4ce7-ae9d-aad47c2d1f50"}
+{"sub_uri": "Q579677", "obj_uri": "Q212", "obj_label": "Ukraine", "sub_label": "President of Ukraine", "lineid": 149, "uuid": "b847c5bc-764f-4aab-9c6e-a89ca54a3838"}
+{"sub_uri": "Q3112571", "obj_uri": "Q34366", "obj_label": "Tasmania", "sub_label": "Government of Tasmania", "lineid": 150, "uuid": "ce39dd00-5698-4925-9fbc-a9c154543f71"}
+{"sub_uri": "Q2963301", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_label": "Chicago City Council", "lineid": 151, "uuid": "daa46229-42fb-43c9-8879-9b45230b39e8"}
+{"sub_uri": "Q4386693", "obj_uri": "Q36687", "obj_label": "Victoria", "sub_label": "Victorian Legislative Assembly", "lineid": 152, "uuid": "14de029f-8010-42dc-9bdb-f9232a9d48a1"}
+{"sub_uri": "Q1494600", "obj_uri": "Q1166", "obj_label": "Michigan", "sub_label": "Michigan Senate", "lineid": 153, "uuid": "2f3cdd95-b391-4828-8bb8-b7c9a7b5d24b"}
+{"sub_uri": "Q1294765", "obj_uri": "Q20", "obj_label": "Norway", "sub_label": "monarch of Norway", "lineid": 154, "uuid": "362d6311-f434-4ed0-95a1-8c1982cf71b2"}
+{"sub_uri": "Q7241291", "obj_uri": "Q924", "obj_label": "Tanzania", "sub_label": "President of Tanzania", "lineid": 155, "uuid": "c8a39133-fcba-4353-9386-ef4f92a7e9f8"}
+{"sub_uri": "Q2867077", "obj_uri": "Q1400", "obj_label": "Pennsylvania", "sub_label": "Pennsylvania General Assembly", "lineid": 156, "uuid": "edac2e96-2952-4337-b020-0321f05d0319"}
+{"sub_uri": "Q2723485", "obj_uri": "Q928", "obj_label": "Philippines", "sub_label": "Vice President of the Philippines", "lineid": 157, "uuid": "442ac367-23b2-4f72-a90c-0a3f9a926987"}
+{"sub_uri": "Q9302011", "obj_uri": "Q36687", "obj_label": "Victoria", "sub_label": "Victorian Legislative Council", "lineid": 158, "uuid": "7fc3d9ea-de04-4faa-881f-c7e55f9f35a9"}
+{"sub_uri": "Q4346906", "obj_uri": "Q34", "obj_label": "Sweden", "sub_label": "Lord High Constable of Sweden", "lineid": 159, "uuid": "2129886f-4a7c-48b5-a869-ea6d8869b373"}
+{"sub_uri": "Q693032", "obj_uri": "Q1391", "obj_label": "Maryland", "sub_label": "Governor of Maryland", "lineid": 160, "uuid": "20adc634-10cb-4dfe-b351-8670d5fb8975"}
+{"sub_uri": "Q3409778", "obj_uri": "Q928", "obj_label": "Philippines", "sub_label": "Chief Justice of the Supreme Court of the Philippines", "lineid": 161, "uuid": "4873ccd8-2fb7-42fc-b2df-9841d393c253"}
+{"sub_uri": "Q16953796", "obj_uri": "Q23154", "obj_label": "Bristol", "sub_label": "Bristol City Council", "lineid": 162, "uuid": "b587a3d1-1149-4440-82f4-d06bc63a67fa"}
+{"sub_uri": "Q639115", "obj_uri": "Q1439", "obj_label": "Texas", "sub_label": "Lieutenant Governor of Texas", "lineid": 163, "uuid": "cb64ae56-2f4d-4e06-94f0-9eabd3da9a85"}
+{"sub_uri": "Q3509282", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "North American Industry Classification System", "lineid": 164, "uuid": "1065a538-6dbf-4fd6-8bbb-a2ad6451f613"}
+{"sub_uri": "Q3509282", "obj_uri": "Q96", "obj_label": "Mexico", "sub_label": "North American Industry Classification System", "lineid": 165, "uuid": "63908469-5b48-44ee-88b8-67acb47325ee"}
+{"sub_uri": "Q1587677", "obj_uri": "Q142", "obj_label": "France", "sub_label": "Prime Minister of France", "lineid": 166, "uuid": "10655dbd-30d4-43e3-bd59-dcac8b452482"}
+{"sub_uri": "Q5030142", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Canadian Human Rights Act", "lineid": 167, "uuid": "8c562b6b-cf5b-4eb1-990a-ffa699ee41da"}
+{"sub_uri": "Q676078", "obj_uri": "Q39", "obj_label": "Switzerland", "sub_label": "National Council of Switzerland", "lineid": 168, "uuid": "c7a309f9-1270-461e-bebc-347ca79ced2b"}
+{"sub_uri": "Q2994125", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_label": "Ottawa City Council", "lineid": 169, "uuid": "30985990-c182-4460-932f-f7de4dfd34d4"}
+{"sub_uri": "Q1526814", "obj_uri": "Q99", "obj_label": "California", "sub_label": "California State Senate", "lineid": 170, "uuid": "82e6d774-4436-431e-94bf-c70295bddc36"}
+{"sub_uri": "Q1392427", "obj_uri": "Q782", "obj_label": "Hawaii", "sub_label": "Hawaii Senate", "lineid": 171, "uuid": "46a18691-e574-4726-8c1a-d36e622fa781"}
+{"sub_uri": "Q1517713", "obj_uri": "Q1204", "obj_label": "Illinois", "sub_label": "Illinois Senate", "lineid": 172, "uuid": "525c575c-92fe-4fba-98b7-93304e258df6"}
+{"sub_uri": "Q277228", "obj_uri": "Q1397", "obj_label": "Ohio", "sub_label": "Ohio House of Representatives", "lineid": 173, "uuid": "34b6fd82-b69f-4605-8393-73e3f7efbc41"}
+{"sub_uri": "Q584759", "obj_uri": "Q159", "obj_label": "Russia", "sub_label": "Constitutional Court of Russia", "lineid": 174, "uuid": "7c3bf1fb-1280-4f0a-a127-d1d460aad137"}
+{"sub_uri": "Q7961130", "obj_uri": "Q22", "obj_label": "Scotland", "sub_label": "Wakes week", "lineid": 175, "uuid": "bf7a11ae-5e25-4081-b183-4bdc450b020b"}
+{"sub_uri": "Q7741695", "obj_uri": "Q668", "obj_label": "India", "sub_label": "Income-tax Act, 1961", "lineid": 176, "uuid": "ce4bc4ad-f1d2-4b57-b2b6-2f019cb71a08"}
+{"sub_uri": "Q2118303", "obj_uri": "Q414", "obj_label": "Argentina", "sub_label": "Argentine Senate", "lineid": 177, "uuid": "6b195cfd-89c8-4a8c-9cfb-3bb9a2b39024"}
+{"sub_uri": "Q951681", "obj_uri": "Q1581", "obj_label": "Missouri", "sub_label": "Missouri Senate", "lineid": 178, "uuid": "c2115294-d5e4-4025-a552-6905e0f24512"}
+{"sub_uri": "Q629133", "obj_uri": "Q414", "obj_label": "Argentina", "sub_label": "Chamber of Deputies", "lineid": 179, "uuid": "4522ed70-1266-4b86-90ed-1611fd1c3375"}
+{"sub_uri": "Q6879217", "obj_uri": "Q1494", "obj_label": "Mississippi", "sub_label": "Mississippi Legislature", "lineid": 180, "uuid": "d1d0bf20-23b7-4dc5-91e3-40346d885bba"}
+{"sub_uri": "Q60149", "obj_uri": "Q35", "obj_label": "Denmark", "sub_label": "flag of Denmark", "lineid": 181, "uuid": "708806b3-1142-46b2-8922-215ed632857d"}
+{"sub_uri": "Q7644846", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Supreme Court Act", "lineid": 182, "uuid": "849550ee-dd6a-4e4f-9d03-5975ba34a1f9"}
+{"sub_uri": "Q824910", "obj_uri": "Q2009", "obj_label": "Yukon", "sub_label": "Commissioner of Yukon", "lineid": 183, "uuid": "e6b421e1-7011-460c-99a2-500406bc8717"}
+{"sub_uri": "Q14942889", "obj_uri": "Q20", "obj_label": "Norway", "sub_label": "allmennaksjeselskap", "lineid": 184, "uuid": "8a2beb6d-dec7-4508-ba14-8897b81edaef"}
+{"sub_uri": "Q1054799", "obj_uri": "Q36", "obj_label": "Poland", "sub_label": "President of the Republic of Poland", "lineid": 185, "uuid": "d77e9005-056f-4ee9-a73f-9a6b0ccc8cdc"}
+{"sub_uri": "Q154797", "obj_uri": "Q183", "obj_label": "Germany", "sub_label": "Bundestag of Germany", "lineid": 186, "uuid": "fd5b0cba-6878-443b-a506-de2948ceadde"}
+{"sub_uri": "Q82205", "obj_uri": "Q27", "obj_label": "Ireland", "sub_label": "flag of Ireland", "lineid": 187, "uuid": "0aca31a6-5150-4168-974b-4f58af59cce4"}
+{"sub_uri": "Q475658", "obj_uri": "Q40", "obj_label": "Austria", "sub_label": "President of Austria", "lineid": 188, "uuid": "59400427-e751-4e6e-9fc5-ddf91b5d79d3"}
+{"sub_uri": "Q5169221", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Copyright Act of Canada", "lineid": 189, "uuid": "7e21ae00-30cd-4ea1-8088-e78ca52c2414"}
+{"sub_uri": "Q868884", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Constitution Act, 1867", "lineid": 190, "uuid": "01d681ff-6b9c-4aa4-bb4f-c8e9a3dc85ea"}
+{"sub_uri": "Q2865522", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Section One of the Canadian Charter of Rights and Freedoms", "lineid": 191, "uuid": "7b18e040-83a1-448b-a24a-385eebd744c1"}
+{"sub_uri": "Q256608", "obj_uri": "Q405", "obj_label": "Moon", "sub_label": "Outer Space Treaty", "lineid": 192, "uuid": "f439a2d1-83af-448e-8023-659c9f18b50e"}
+{"sub_uri": "Q4376676", "obj_uri": "Q1033", "obj_label": "Nigeria", "sub_label": "President of the Senate of Nigeria", "lineid": 193, "uuid": "18b12ab1-8415-4f74-92db-376a71dcacfc"}
+{"sub_uri": "Q5261035", "obj_uri": "Q22", "obj_label": "Scotland", "sub_label": "Deputy First Minister of Scotland", "lineid": 194, "uuid": "77435cdc-d4e2-4ff6-800b-8adddee6b52d"}
+{"sub_uri": "Q1711695", "obj_uri": "Q22", "obj_label": "Scotland", "sub_label": "Member of the Scottish Parliament", "lineid": 195, "uuid": "0eb8ef92-c539-4498-b845-0c7f6d415b71"}
+{"sub_uri": "Q688230", "obj_uri": "Q39", "obj_label": "Switzerland", "sub_label": "President of the Swiss Confederation", "lineid": 196, "uuid": "ea75a81c-dd9b-441c-b4af-e8b84f4283db"}
+{"sub_uri": "Q1339242", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Chief Justice of Canada", "lineid": 197, "uuid": "07211fa4-2d3f-48e4-a63a-0fc392807ba4"}
+{"sub_uri": "Q930729", "obj_uri": "Q34", "obj_label": "Sweden", "sub_label": "Government of Sweden", "lineid": 198, "uuid": "2cc57999-2657-46dc-88ad-ce2cfc6cc0f0"}
+{"sub_uri": "Q6868157", "obj_uri": "Q1527", "obj_label": "Minnesota", "sub_label": "Minnesota Attorney General", "lineid": 199, "uuid": "3e2c5c4d-3985-497f-949a-df0f4290ca15"}
+{"sub_uri": "Q735575", "obj_uri": "Q843", "obj_label": "Pakistan", "sub_label": "Prime Minister of Pakistan", "lineid": 200, "uuid": "5a7e9c56-9c31-432a-ae05-8691c1f7ca92"}
+{"sub_uri": "Q1779581", "obj_uri": "Q34366", "obj_label": "Tasmania", "sub_label": "Governor of Tasmania", "lineid": 201, "uuid": "9c03c269-7e96-4596-b24a-e8bb9e427655"}
+{"sub_uri": "Q4283840", "obj_uri": "Q399", "obj_label": "Armenia", "sub_label": "President of Armenia", "lineid": 202, "uuid": "81327a67-1faa-4f37-9389-e6f44714b5b1"}
+{"sub_uri": "Q1340186", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_label": "Chicago Police Department", "lineid": 203, "uuid": "71568880-93af-494f-9f8b-523cfc05b1b5"}
+{"sub_uri": "Q25223", "obj_uri": "Q183", "obj_label": "Germany", "sub_label": "president of Germany", "lineid": 204, "uuid": "13e13dee-49f8-4f99-8e22-1457456a78df"}
+{"sub_uri": "Q1815344", "obj_uri": "Q35", "obj_label": "Denmark", "sub_label": "Defence Minister of Denmark", "lineid": 205, "uuid": "1dbc448d-a1f7-409f-986d-753bca90f070"}
+{"sub_uri": "Q6544432", "obj_uri": "Q1904", "obj_label": "Ontario", "sub_label": "Lieutenant Governor of Ontario", "lineid": 206, "uuid": "3e3bca08-eb8d-4810-b3d5-ac1cc7f9396d"}
+{"sub_uri": "Q3033095", "obj_uri": "Q131438", "obj_label": "Munster", "sub_label": "O'Brien dynasty", "lineid": 207, "uuid": "29ec4171-5752-49d3-85dc-e44797283e74"}
+{"sub_uri": "Q639704", "obj_uri": "Q219", "obj_label": "Bulgaria", "sub_label": "National Assembly of Bulgaria", "lineid": 208, "uuid": "64bd5f5a-0b8a-414e-9288-439055ea49b0"}
+{"sub_uri": "Q2011233", "obj_uri": "Q33", "obj_label": "Finland", "sub_label": "Supreme Administrative Court of Finland", "lineid": 209, "uuid": "d411819b-dcad-487b-9b7b-dc02f8d97f05"}
+{"sub_uri": "Q3406491", "obj_uri": "Q1204", "obj_label": "Illinois", "sub_label": "Illinois Attorney General", "lineid": 210, "uuid": "26e3b1fe-0421-4d26-a986-2bbc27679fdf"}
+{"sub_uri": "Q1163330", "obj_uri": "Q668", "obj_label": "India", "sub_label": "Maharaja", "lineid": 211, "uuid": "8d4e1732-ddd8-4090-834f-45021c8f4349"}
+{"sub_uri": "Q641439", "obj_uri": "Q980", "obj_label": "Bavaria", "sub_label": "Landtag of Bavaria", "lineid": 212, "uuid": "b353b8dc-569f-4b7b-b16e-e8bfecec52bc"}
+{"sub_uri": "Q1656259", "obj_uri": "Q1397", "obj_label": "Ohio", "sub_label": "Ohio Senate", "lineid": 213, "uuid": "1248839a-8497-44bd-aa10-0a0149e030d6"}
+{"sub_uri": "Q1747983", "obj_uri": "Q1370", "obj_label": "Virginia", "sub_label": "Senate of Virginia", "lineid": 214, "uuid": "c9171066-6087-41c4-be10-2b5f19615113"}
+{"sub_uri": "Q515426", "obj_uri": "Q1439", "obj_label": "Texas", "sub_label": "Texas Senate", "lineid": 215, "uuid": "60666aa6-bd95-42d1-a028-6b8ebaafbb3b"}
+{"sub_uri": "Q530970", "obj_uri": "Q1370", "obj_label": "Virginia", "sub_label": "Virginia General Assembly", "lineid": 216, "uuid": "bffb8b67-ddd0-4a05-8ec4-fdebc613d147"}
+{"sub_uri": "Q2578249", "obj_uri": "Q801", "obj_label": "Israel", "sub_label": "Cabinet of Israel", "lineid": 217, "uuid": "8a6ac728-0a3f-4b42-900e-3b34622ea9cf"}
+{"sub_uri": "Q2395172", "obj_uri": "Q55", "obj_label": "Netherlands", "sub_label": "Roman-Dutch law", "lineid": 218, "uuid": "dce28929-5b9e-44e9-9d4d-7d538af93ba7"}
+{"sub_uri": "Q2395172", "obj_uri": "Q1030", "obj_label": "Namibia", "sub_label": "Roman-Dutch law", "lineid": 219, "uuid": "59fb9fb3-841f-428f-8b43-a83d66d8b453"}
+{"sub_uri": "Q2395172", "obj_uri": "Q963", "obj_label": "Botswana", "sub_label": "Roman-Dutch law", "lineid": 220, "uuid": "3c79dc0f-8760-4681-a211-619021a2f6b3"}
+{"sub_uri": "Q2395172", "obj_uri": "Q954", "obj_label": "Zimbabwe", "sub_label": "Roman-Dutch law", "lineid": 221, "uuid": "2fbe9c20-86e6-4490-95b6-9b0c1d5297bc"}
+{"sub_uri": "Q2395172", "obj_uri": "Q734", "obj_label": "Guyana", "sub_label": "Roman-Dutch law", "lineid": 222, "uuid": "e961a70f-dbe4-4262-a87b-16b62c9c5872"}
+{"sub_uri": "Q2395172", "obj_uri": "Q252", "obj_label": "Indonesia", "sub_label": "Roman-Dutch law", "lineid": 223, "uuid": "87c7b70a-63c0-455b-b8d0-66736c00f17c"}
+{"sub_uri": "Q177147", "obj_uri": "Q1612", "obj_label": "Arkansas", "sub_label": "Arkansas Senate", "lineid": 224, "uuid": "04d5595e-f5d2-4578-8695-273e8ad6c031"}
+{"sub_uri": "Q909035", "obj_uri": "Q1393", "obj_label": "Delaware", "sub_label": "Delaware Senate", "lineid": 225, "uuid": "30ca7261-4466-4743-8f61-b91e478d3a6a"}
+{"sub_uri": "Q144574", "obj_uri": "Q797", "obj_label": "Alaska", "sub_label": "Alaska Senate", "lineid": 226, "uuid": "d09993f8-dba2-4021-8491-0102fe435856"}
+{"sub_uri": "Q1494527", "obj_uri": "Q1227", "obj_label": "Nevada", "sub_label": "Nevada Assembly", "lineid": 227, "uuid": "3125d1a6-df43-4ac6-bfbe-99cecb6502c1"}
+{"sub_uri": "Q2425849", "obj_uri": "Q36405", "obj_label": "Aberdeen", "sub_label": "Aberdeen City Council", "lineid": 228, "uuid": "2703c435-32b9-4232-8af1-4659ed749ac6"}
+{"sub_uri": "Q177645", "obj_uri": "Q340", "obj_label": "Montreal", "sub_label": "Mayor of Montreal", "lineid": 229, "uuid": "80a1f453-59c3-4bea-9d64-77639b9ec3e8"}
+{"sub_uri": "Q1057992", "obj_uri": "Q14773", "obj_label": "Macau", "sub_label": "Government of Macau", "lineid": 230, "uuid": "0122ce5d-6be5-4281-8772-959cb8cd344f"}
+{"sub_uri": "Q1494453", "obj_uri": "Q1261", "obj_label": "Colorado", "sub_label": "Colorado Senate", "lineid": 231, "uuid": "41b44a26-2ee9-49bf-9684-285d40c60bec"}
+{"sub_uri": "Q1516058", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Indian Act", "lineid": 232, "uuid": "64bf853d-5790-45c2-91e1-bf7a497d9603"}
+{"sub_uri": "Q7063612", "obj_uri": "Q41262", "obj_label": "Nottingham", "sub_label": "Nottingham City Council", "lineid": 233, "uuid": "472cbc22-135f-4c44-920d-c63bd3edff0c"}
+{"sub_uri": "Q3406492", "obj_uri": "Q771", "obj_label": "Massachusetts", "sub_label": "Massachusetts Attorney General", "lineid": 234, "uuid": "4fe09367-b28b-4196-b932-a24f8c655b78"}
+{"sub_uri": "Q2350930", "obj_uri": "Q1166", "obj_label": "Michigan", "sub_label": "Michigan Department of Transportation", "lineid": 235, "uuid": "953ef573-c348-411f-838d-1519bf0562e3"}
+{"sub_uri": "Q3365524", "obj_uri": "Q34366", "obj_label": "Tasmania", "sub_label": "Parliament of Tasmania", "lineid": 236, "uuid": "5909aafe-dfde-4e0d-85b0-23fdc16fb9a5"}
+{"sub_uri": "Q1532983", "obj_uri": "Q1603", "obj_label": "Kentucky", "sub_label": "Lieutenant Governor of Kentucky", "lineid": 237, "uuid": "4644f9af-142c-4b49-8c39-4ef45463f397"}
+{"sub_uri": "Q5157197", "obj_uri": "Q1391", "obj_label": "Maryland", "sub_label": "Comptroller of Maryland", "lineid": 238, "uuid": "bd191d99-cc4c-4924-9f3a-d5e4b285b48b"}
+{"sub_uri": "Q7437912", "obj_uri": "Q22", "obj_label": "Scotland", "sub_label": "Scottish Prison Service", "lineid": 239, "uuid": "91085044-2ea5-411a-bed6-06f913c6bf77"}
+{"sub_uri": "Q5440284", "obj_uri": "Q408", "obj_label": "Australia", "sub_label": "Federal Circuit Court of Australia", "lineid": 240, "uuid": "0b5ff9a5-3b18-4880-a617-55c8caa42123"}
+{"sub_uri": "Q4947808", "obj_uri": "Q100", "obj_label": "Boston", "sub_label": "Boston City Council", "lineid": 241, "uuid": "1029f592-2d99-4c65-8f10-ff9333dee522"}
+{"sub_uri": "Q213107", "obj_uri": "Q31", "obj_label": "Belgium", "sub_label": "Prime Minister of Belgium", "lineid": 242, "uuid": "b45a9f64-152f-412d-b7ff-a8cd1fce42d0"}
+{"sub_uri": "Q4809128", "obj_uri": "Q928", "obj_label": "Philippines", "sub_label": "Associate Justice of the Supreme Court of the Philippines", "lineid": 243, "uuid": "e64868ba-9c5f-4d67-bf3b-5e816ae75897"}
+{"sub_uri": "Q5148810", "obj_uri": "Q1261", "obj_label": "Colorado", "sub_label": "Colorado General Assembly", "lineid": 244, "uuid": "e4e2d268-d83f-445b-90bd-2ab877743df4"}
+{"sub_uri": "Q510785", "obj_uri": "Q31", "obj_label": "Belgium", "sub_label": "association without lucrative purpose", "lineid": 245, "uuid": "986639af-527b-4d7c-a291-ed1673bc7125"}
+{"sub_uri": "Q687075", "obj_uri": "Q34", "obj_label": "Sweden", "sub_label": "Prime Minister of Sweden", "lineid": 246, "uuid": "a56a1782-a3c5-4c56-85b6-6985a1998985"}
+{"sub_uri": "Q328480", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Berlin Police", "lineid": 247, "uuid": "058386ae-af13-4d0a-a69c-9ee3e1024201"}
+{"sub_uri": "Q992460", "obj_uri": "Q29", "obj_label": "Spain", "sub_label": "Himno de Riego", "lineid": 248, "uuid": "a212a18e-9a85-4868-9294-a216d065a1a9"}
+{"sub_uri": "Q707830", "obj_uri": "Q865", "obj_label": "Taiwan", "sub_label": "Vice President of the Republic of China", "lineid": 249, "uuid": "aed93e39-089e-4b7b-a2c4-709220b7d28e"}
+{"sub_uri": "Q3258612", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Civil Marriage Act", "lineid": 250, "uuid": "c9fd67c9-9331-472a-a290-c2ef99563bdc"}
+{"sub_uri": "Q3556884", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Deputy Prime Minister of Canada", "lineid": 251, "uuid": "0ba7e422-1ac9-45ad-ac8d-1fc7ae3d90a5"}
+{"sub_uri": "Q2145217", "obj_uri": "Q1400", "obj_label": "Pennsylvania", "sub_label": "Pennsylvania House of Representatives", "lineid": 252, "uuid": "14dc051a-4830-4df7-a0be-0d85715686fa"}
+{"sub_uri": "Q5261074", "obj_uri": "Q43", "obj_label": "Turkey", "sub_label": "Deputy Prime Minister of Turkey", "lineid": 253, "uuid": "8ef081c8-d502-4daa-9168-51e3c9618be1"}
+{"sub_uri": "Q5340921", "obj_uri": "Q22", "obj_label": "Scotland", "sub_label": "Education Scotland", "lineid": 254, "uuid": "0cc1602b-ee93-4ab2-8269-38f06791d105"}
+{"sub_uri": "Q7079597", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "official party status", "lineid": 255, "uuid": "83b6b078-a88e-41f5-91bd-e1492db4ec5e"}
+{"sub_uri": "Q2994121", "obj_uri": "Q34366", "obj_label": "Tasmania", "sub_label": "Tasmanian Legislative Council", "lineid": 256, "uuid": "0a8cfdbc-0c42-42f2-9575-bb0b44e16356"}
+{"sub_uri": "Q6866264", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Minister of National Revenue", "lineid": 257, "uuid": "bfeceac9-face-4c48-9889-5175b89a739b"}
+{"sub_uri": "Q196171", "obj_uri": "Q771", "obj_label": "Massachusetts", "sub_label": "Constitution of Massachusetts", "lineid": 258, "uuid": "bfb8ae1e-8531-47e1-b713-cbf0266899a3"}
+{"sub_uri": "Q931202", "obj_uri": "Q1370", "obj_label": "Virginia", "sub_label": "Lieutenant Governor of Virginia", "lineid": 259, "uuid": "4fd52131-4da3-4620-a7ee-b68a29631b59"}
+{"sub_uri": "Q640859", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Abgeordnetenhaus of Berlin", "lineid": 260, "uuid": "f4ca0960-f41f-4b09-a82d-06c7a3a27fd8"}
+{"sub_uri": "Q12376089", "obj_uri": "Q869", "obj_label": "Thailand", "sub_label": "Prime Minister of Thailand", "lineid": 261, "uuid": "69ad5da9-fa9a-458b-aab4-1ff59b0f8b29"}
+{"sub_uri": "Q3315094", "obj_uri": "Q28", "obj_label": "Hungary", "sub_label": "Prime Minister of Hungary", "lineid": 262, "uuid": "3cfba521-02e1-4f5b-ac43-d072dae5d49c"}
+{"sub_uri": "Q193582", "obj_uri": "Q142", "obj_label": "France", "sub_label": "French National Assembly", "lineid": 263, "uuid": "6ef760bb-21fb-4f9c-a075-f588e0fe3d44"}
+{"sub_uri": "Q7398505", "obj_uri": "Q1904", "obj_label": "Ontario", "sub_label": "Safe Streets Act", "lineid": 264, "uuid": "7fb24d7b-4545-4dae-83df-0b7831d35e0b"}
+{"sub_uri": "Q7094918", "obj_uri": "Q1904", "obj_label": "Ontario", "sub_label": "Ontario Superior Court of Justice", "lineid": 265, "uuid": "8bb6c74f-3031-4efe-bd30-b627e0c2cf85"}
+{"sub_uri": "Q852448", "obj_uri": "Q811", "obj_label": "Nicaragua", "sub_label": "President of Nicaragua", "lineid": 266, "uuid": "38565919-7b69-438d-b64e-ec6d96ae3afe"}
+{"sub_uri": "Q598101", "obj_uri": "Q829", "obj_label": "Utah", "sub_label": "Utah State Senate", "lineid": 267, "uuid": "7118108e-4f21-4d36-a425-5173e117654b"}
+{"sub_uri": "Q2061228", "obj_uri": "Q159", "obj_label": "Russia", "sub_label": "Executive Order of the President of Russia", "lineid": 268, "uuid": "b7f8d0a4-03eb-4ca8-aa1c-6251e3328726"}
+{"sub_uri": "Q1525558", "obj_uri": "Q1212", "obj_label": "Montana", "sub_label": "Montana Senate", "lineid": 269, "uuid": "d0060616-c252-4d53-b7b0-d4b9b6aee31d"}
+{"sub_uri": "Q313465", "obj_uri": "Q668", "obj_label": "India", "sub_label": "Minister of External Affairs", "lineid": 270, "uuid": "ebfedbfe-3d47-496d-82d2-f5bbfc3d0b87"}
+{"sub_uri": "Q124020", "obj_uri": "Q39", "obj_label": "Switzerland", "sub_label": "flag of Switzerland", "lineid": 271, "uuid": "9677d23b-1d8e-4579-ad07-cdc5834464a7"}
+{"sub_uri": "Q1420322", "obj_uri": "Q1588", "obj_label": "Louisiana", "sub_label": "Lieutenant Governor of Louisiana", "lineid": 272, "uuid": "7c84b0fd-47af-45f5-8d88-d8a8b822a68e"}
+{"sub_uri": "Q2430415", "obj_uri": "Q43", "obj_label": "Turkey", "sub_label": "Prime Minister of Turkey", "lineid": 273, "uuid": "8eb5bc21-c656-42f8-9ec5-eeb706e5c658"}
+{"sub_uri": "Q636377", "obj_uri": "Q1055", "obj_label": "Hamburg", "sub_label": "Hamburg Parliament", "lineid": 274, "uuid": "e00c2109-a2be-4b79-b88c-63ffd5743579"}
+{"sub_uri": "Q3112627", "obj_uri": "Q36074", "obj_label": "Queensland", "sub_label": "Government of Queensland", "lineid": 275, "uuid": "f31684f5-db81-4667-a7d9-e539145c8b7f"}
+{"sub_uri": "Q1494879", "obj_uri": "Q1603", "obj_label": "Kentucky", "sub_label": "Kentucky Senate", "lineid": 276, "uuid": "b02cd5cf-d5af-470f-bdee-d1e46bee5553"}
+{"sub_uri": "Q3520949", "obj_uri": "Q668", "obj_label": "India", "sub_label": "National Security Guard", "lineid": 277, "uuid": "f0995355-42d6-4643-bfd8-2aac2cf96b2b"}
+{"sub_uri": "Q1494716", "obj_uri": "Q1603", "obj_label": "Kentucky", "sub_label": "Kentucky House of Representatives", "lineid": 278, "uuid": "ba2af31d-37ba-4171-9712-f83fa94e2ccb"}
+{"sub_uri": "Q477089", "obj_uri": "Q41", "obj_label": "Greece", "sub_label": "Hellenic Parliament", "lineid": 279, "uuid": "e775d9eb-e1c2-401f-9234-944036ac4142"}
+{"sub_uri": "Q7557767", "obj_uri": "Q27", "obj_label": "Ireland", "sub_label": "Solicitor-General for Ireland", "lineid": 280, "uuid": "2e5c8d3f-4ef8-456b-8cbb-ffc00ea78c54"}
+{"sub_uri": "Q5256775", "obj_uri": "Q232", "obj_label": "Kazakhstan", "sub_label": "President of Kazakhstan", "lineid": 281, "uuid": "187a765d-6bb9-430e-8efd-e8a4aad4c255"}
+{"sub_uri": "Q3046743", "obj_uri": "Q34", "obj_label": "Sweden", "sub_label": "Reinfeldt Cabinet", "lineid": 282, "uuid": "726f0f0e-ac9e-4ccb-9b45-0ec3b50006a6"}
+{"sub_uri": "Q3788793", "obj_uri": "Q1439", "obj_label": "Texas", "sub_label": "Texas Highway Patrol", "lineid": 283, "uuid": "38ac80c3-bbd0-483d-9de3-7279933e1b93"}
+{"sub_uri": "Q909666", "obj_uri": "Q1214", "obj_label": "Wyoming", "sub_label": "Wyoming Senate", "lineid": 284, "uuid": "4c09045d-b565-41a0-87c0-fe8180d79862"}
+{"sub_uri": "Q842386", "obj_uri": "Q159", "obj_label": "Russia", "sub_label": "Prime Minister of Russia", "lineid": 285, "uuid": "c0ee0166-6532-4b16-9bc6-9b8f325e342c"}
+{"sub_uri": "Q1444543", "obj_uri": "Q816", "obj_label": "Arizona", "sub_label": "Arizona House of Representatives", "lineid": 286, "uuid": "f08c5f30-9dfe-431b-86b3-d20c831e283f"}
+{"sub_uri": "Q1809086", "obj_uri": "Q1904", "obj_label": "Ontario", "sub_label": "Legislative Assembly of Ontario", "lineid": 287, "uuid": "c50a572a-bb9b-46c9-ad3d-fcd0f3dbe558"}
+{"sub_uri": "Q1494790", "obj_uri": "Q1546", "obj_label": "Iowa", "sub_label": "Iowa Senate", "lineid": 288, "uuid": "8d4b7af6-85c0-4402-a7eb-7337474923cf"}
+{"sub_uri": "Q1154402", "obj_uri": "Q22", "obj_label": "Scotland", "sub_label": "Solicitor General for Scotland", "lineid": 289, "uuid": "e0fbf58e-5358-4f93-b3b5-6f5bda0b96f4"}
+{"sub_uri": "Q795477", "obj_uri": "Q35", "obj_label": "Denmark", "sub_label": "Prime Minister of Denmark", "lineid": 290, "uuid": "2a8f39fb-40a9-4f54-bfbb-473c6e38f7e3"}
+{"sub_uri": "Q483659", "obj_uri": "Q334", "obj_label": "Singapore", "sub_label": "flag of Singapore", "lineid": 291, "uuid": "95b45098-2eab-42c1-b54c-a5a195a85d1d"}
+{"sub_uri": "Q3409203", "obj_uri": "Q41", "obj_label": "Greece", "sub_label": "President of Greece", "lineid": 292, "uuid": "2ff39983-39b9-4a8e-a723-326c1ede4a14"}
+{"sub_uri": "Q215987", "obj_uri": "Q142", "obj_label": "France", "sub_label": "Senate", "lineid": 293, "uuid": "4dc93dca-8b4e-43ef-a3f9-3f7226a7d766"}
+{"sub_uri": "Q3409782", "obj_uri": "Q928", "obj_label": "Philippines", "sub_label": "Speaker of the House of Representatives of the Philippines", "lineid": 294, "uuid": "9e5a4153-e23b-4037-b21d-db0b2a33464d"}
+{"sub_uri": "Q1145714", "obj_uri": "Q212", "obj_label": "Ukraine", "sub_label": "Prime Minister of Ukraine", "lineid": 295, "uuid": "50a909f3-d257-46fe-b7a0-52344e29fcbf"}
+{"sub_uri": "Q2746377", "obj_uri": "Q234", "obj_label": "Flanders", "sub_label": "Minister-President of Flanders", "lineid": 296, "uuid": "4a236609-6f29-4521-8295-d94e5646baae"}
+{"sub_uri": "Q702650", "obj_uri": "Q865", "obj_label": "Taiwan", "sub_label": "President of the Executive Yuan", "lineid": 297, "uuid": "51204589-b6ca-45a8-9e92-eda106293e72"}
+{"sub_uri": "Q692110", "obj_uri": "Q40", "obj_label": "Austria", "sub_label": "Vice-Chancellor of Austria", "lineid": 298, "uuid": "d1ce4e2b-92fc-4c43-a882-93f281966695"}
+{"sub_uri": "Q1424346", "obj_uri": "Q5705", "obj_label": "Catalonia", "sub_label": "Mossos d'Esquadra", "lineid": 299, "uuid": "ab7e4473-7866-456c-888f-97a94733da0f"}
+{"sub_uri": "Q16611", "obj_uri": "Q159", "obj_label": "Russia", "sub_label": "flag of Russia", "lineid": 300, "uuid": "6ec741de-22f0-448b-83c5-7f6cf3a2b988"}
+{"sub_uri": "Q4112147", "obj_uri": "Q1612", "obj_label": "Arkansas", "sub_label": "Attorney General of Arkansas", "lineid": 301, "uuid": "dd90ff77-691a-4e5a-bfe9-87c6f05e6f96"}
+{"sub_uri": "Q5164165", "obj_uri": "Q1612", "obj_label": "Arkansas", "sub_label": "Constitution of Arkansas", "lineid": 302, "uuid": "b4ca5fc0-3b7d-4800-abb9-5667038a9855"}
+{"sub_uri": "Q466956", "obj_uri": "Q298", "obj_label": "Chile", "sub_label": "President of Chile", "lineid": 303, "uuid": "069716cf-7149-483e-8725-37f8cf0974bc"}
+{"sub_uri": "Q80110", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "flag of Canada", "lineid": 304, "uuid": "67d359ee-5894-4f57-b77f-781f333fda9c"}
+{"sub_uri": "Q15176422", "obj_uri": "Q1951", "obj_label": "Alberta", "sub_label": "Lieutenant Governor of Alberta", "lineid": 305, "uuid": "e6f7bcd4-57c6-4ac8-a1dd-65beb64406bf"}
+{"sub_uri": "Q19000", "obj_uri": "Q1439", "obj_label": "Texas", "sub_label": "flag of Texas", "lineid": 306, "uuid": "ac11b7b8-4c03-46b9-a9fa-9a0ad73181da"}
+{"sub_uri": "Q5164160", "obj_uri": "Q173", "obj_label": "Alabama", "sub_label": "Constitution of Alabama", "lineid": 307, "uuid": "204fd614-885e-450e-b054-189c616fc8fe"}
+{"sub_uri": "Q1494573", "obj_uri": "Q173", "obj_label": "Alabama", "sub_label": "Alabama Senate", "lineid": 308, "uuid": "6a4c32b2-73d6-4f95-877b-202d384a39d5"}
+{"sub_uri": "Q996610", "obj_uri": "Q1553", "obj_label": "Nebraska", "sub_label": "Nebraska Legislature", "lineid": 309, "uuid": "f71b33f4-2954-42f1-b57f-b484ae0afb89"}
+{"sub_uri": "Q6974542", "obj_uri": "Q408", "obj_label": "Australia", "sub_label": "National Native Title Tribunal", "lineid": 310, "uuid": "ad4ce89b-ca1e-4630-856f-a79b538c77b2"}
+{"sub_uri": "Q4818624", "obj_uri": "Q173", "obj_label": "Alabama", "sub_label": "Attorney General of Alabama", "lineid": 311, "uuid": "e51ba78b-9a1c-406b-a31b-723f9ef2cbbf"}
+{"sub_uri": "Q5132092", "obj_uri": "Q37320", "obj_label": "Cleveland", "sub_label": "Cleveland City Council", "lineid": 312, "uuid": "2978fb47-6a19-495e-93c8-a5371d0e3cd8"}
+{"sub_uri": "Q844587", "obj_uri": "Q29", "obj_label": "Spain", "sub_label": "Prime Minister of Spain", "lineid": 313, "uuid": "300abaaf-0d90-43af-a681-16e15b206dfb"}
+{"sub_uri": "Q7927191", "obj_uri": "Q36687", "obj_label": "Victoria", "sub_label": "Victorian Civil and Administrative Tribunal", "lineid": 314, "uuid": "3096e768-0d9f-425f-9190-44d5d8e2593a"}
+{"sub_uri": "Q6837452", "obj_uri": "Q1166", "obj_label": "Michigan", "sub_label": "Michigan Attorney General", "lineid": 315, "uuid": "62bd4eab-af1c-4e38-b0b8-d19f90b0cea5"}
+{"sub_uri": "Q5155381", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Companies' Creditors Arrangement Act", "lineid": 316, "uuid": "0ab5f342-89a1-44c2-9719-8e4486d3f336"}
+{"sub_uri": "Q750182", "obj_uri": "Q96", "obj_label": "Mexico", "sub_label": "Secretariat of Social Development", "lineid": 317, "uuid": "79085187-8c9e-435a-befa-99c16ab5f2e6"}
+{"sub_uri": "Q3410551", "obj_uri": "Q928", "obj_label": "Philippines", "sub_label": "President of the Senate of the Philippines", "lineid": 318, "uuid": "8760c7b2-0a91-4eb5-b865-3372a8da96ba"}
+{"sub_uri": "Q8027332", "obj_uri": "Q1537", "obj_label": "Wisconsin", "sub_label": "Wisconsin Supreme Court", "lineid": 319, "uuid": "6cd0972f-d26d-4710-9adb-24e50ebcd448"}
+{"sub_uri": "Q98975", "obj_uri": "Q36", "obj_label": "Poland", "sub_label": "Senate of Poland", "lineid": 320, "uuid": "57433952-19d3-4b09-9c84-370fa71119a9"}
+{"sub_uri": "Q219726", "obj_uri": "Q782", "obj_label": "Hawaii", "sub_label": "flag of Hawaii", "lineid": 321, "uuid": "ff41bf94-c205-4bf8-9f00-b33c1b1db01d"}
+{"sub_uri": "Q598783", "obj_uri": "Q184", "obj_label": "Belarus", "sub_label": "Belarusian Orthodox Church", "lineid": 322, "uuid": "ba13fdd8-a851-40b8-a9ef-53ca00bae416"}
+{"sub_uri": "Q4151335", "obj_uri": "Q1603", "obj_label": "Kentucky", "sub_label": "Governor of Kentucky", "lineid": 323, "uuid": "c359356d-01a7-4e9f-abbb-0433793b0ac1"}
+{"sub_uri": "Q165752", "obj_uri": "Q1391", "obj_label": "Maryland", "sub_label": "Maryland House of Delegates", "lineid": 324, "uuid": "2cdbd79c-e148-4a94-97a0-d3b75efc7ccc"}
+{"sub_uri": "Q5589335", "obj_uri": "Q36687", "obj_label": "Victoria", "sub_label": "Victoria State Government", "lineid": 325, "uuid": "ab548acf-7733-4a90-8c06-09a63fc87f0c"}
+{"sub_uri": "Q839139", "obj_uri": "Q218", "obj_label": "Romania", "sub_label": "President of Romania", "lineid": 326, "uuid": "ad37bc50-9bc1-482b-ae04-710c1313e621"}
+{"sub_uri": "Q46585", "obj_uri": "Q55", "obj_label": "Netherlands", "sub_label": "flag of the Netherlands", "lineid": 327, "uuid": "a3e1f557-973f-4ab5-b396-a5b47ff89d26"}
+{"sub_uri": "Q332711", "obj_uri": "Q38", "obj_label": "Italy", "sub_label": "President of Italy", "lineid": 328, "uuid": "5d779c75-c9c2-4d14-8a67-05696c0380a6"}
+{"sub_uri": "Q7101039", "obj_uri": "Q824", "obj_label": "Oregon", "sub_label": "Oregon Attorney General", "lineid": 329, "uuid": "d37f540e-594c-4d58-8c1d-8c87352dbdc7"}
+{"sub_uri": "Q862559", "obj_uri": "Q833", "obj_label": "Malaysia", "sub_label": "Prime Minister of Malaysia", "lineid": 330, "uuid": "7098b348-94e1-4397-984f-57d684b6ebda"}
+{"sub_uri": "Q15618993", "obj_uri": "Q79", "obj_label": "Egypt", "sub_label": "President of Egypt", "lineid": 331, "uuid": "1944106c-f84f-47e0-8c25-71ad3b21c85e"}
+{"sub_uri": "Q2869377", "obj_uri": "Q23556", "obj_label": "Atlanta", "sub_label": "Atlanta Police Department", "lineid": 332, "uuid": "ac1b77ab-33f3-4e06-a8cd-0991b221d05d"}
+{"sub_uri": "Q1143194", "obj_uri": "Q29", "obj_label": "Spain", "sub_label": "National Police Corps of Spain", "lineid": 333, "uuid": "acd2ad5c-c7e4-4468-a10a-de86a2ca4d3c"}
+{"sub_uri": "Q1139785", "obj_uri": "Q5705", "obj_label": "Catalonia", "sub_label": "Creu de Sant Jordi", "lineid": 334, "uuid": "9dbe80b3-202b-4bb4-a4a2-e8c68996c268"}
+{"sub_uri": "Q15731961", "obj_uri": "Q252", "obj_label": "Indonesia", "sub_label": "Indonesian nationality law", "lineid": 335, "uuid": "b56ea47d-2ab6-4228-9955-e0545d9074e8"}
+{"sub_uri": "Q878942", "obj_uri": "Q1370", "obj_label": "Virginia", "sub_label": "Governor of Virginia", "lineid": 336, "uuid": "249eaed1-884d-492e-bf0f-65325dbe2b63"}
+{"sub_uri": "Q3258628", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "War Measures Act", "lineid": 337, "uuid": "f89c973c-0cd5-403f-9cb3-5a42f8da4c90"}
+{"sub_uri": "Q5164212", "obj_uri": "Q1227", "obj_label": "Nevada", "sub_label": "Constitution of Nevada", "lineid": 338, "uuid": "e7e737c1-0d90-48d1-9a9f-d2ac3674169c"}
+{"sub_uri": "Q5164210", "obj_uri": "Q1212", "obj_label": "Montana", "sub_label": "Constitution of Montana", "lineid": 339, "uuid": "b25c9687-f167-4855-96f2-ca894112ce09"}
+{"sub_uri": "Q3678382", "obj_uri": "Q17", "obj_label": "Japan", "sub_label": "Japanese nationality law", "lineid": 340, "uuid": "391a67a6-6514-41ef-a6d8-c3c4307ce4da"}
+{"sub_uri": "Q2914452", "obj_uri": "Q262", "obj_label": "Algeria", "sub_label": "President of Algeria", "lineid": 341, "uuid": "c9cf50cf-090a-4f5f-95db-fa460d2cbdc5"}
+{"sub_uri": "Q641159", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Governing Mayor of Berlin", "lineid": 342, "uuid": "229c83d8-5b7f-4506-8c4b-3bb2daca6677"}
+{"sub_uri": "Q609037", "obj_uri": "Q39", "obj_label": "Switzerland", "sub_label": "Council of States of Switzerland", "lineid": 343, "uuid": "127c9647-5812-4cb4-95a5-071b26f0c48a"}
+{"sub_uri": "Q781401", "obj_uri": "Q408", "obj_label": "Australia", "sub_label": "Australian Federal Police", "lineid": 344, "uuid": "4d0c3c3b-3e27-4922-bdb2-ca8d6402ee83"}
+{"sub_uri": "Q172517", "obj_uri": "Q766", "obj_label": "Jamaica", "sub_label": "flag of Jamaica", "lineid": 345, "uuid": "0009473c-a993-457d-8460-420da07ad524"}
+{"sub_uri": "Q130774", "obj_uri": "Q414", "obj_label": "Argentina", "sub_label": "flag of Argentina", "lineid": 346, "uuid": "8527c1ce-9d16-45bc-bf73-2af256faab78"}
+{"sub_uri": "Q17050251", "obj_uri": "Q20", "obj_label": "Norway", "sub_label": "etat", "lineid": 347, "uuid": "a08f731c-1810-4f7b-9da9-03e05d2f6ef6"}
+{"sub_uri": "Q196195", "obj_uri": "Q99", "obj_label": "California", "sub_label": "Constitution of California", "lineid": 348, "uuid": "182c68d0-f924-4754-90dd-0f5ec6bce63e"}
+{"sub_uri": "Q109432", "obj_uri": "Q5690", "obj_label": "Sparta", "sub_label": "Ephor", "lineid": 349, "uuid": "49c021bc-826a-470d-912b-a18cb07bbc95"}
+{"sub_uri": "Q500282", "obj_uri": "Q1033", "obj_label": "Nigeria", "sub_label": "President of Nigeria", "lineid": 350, "uuid": "19597ee4-0197-4342-8c64-c062b5c673a1"}
+{"sub_uri": "Q874407", "obj_uri": "Q22", "obj_label": "Scotland", "sub_label": "Lipton", "lineid": 351, "uuid": "79bc3b47-0b0a-4693-b406-5944696bbdcc"}
+{"sub_uri": "Q1408760", "obj_uri": "Q1415", "obj_label": "Indiana", "sub_label": "Indiana Senate", "lineid": 352, "uuid": "663125ef-932d-4782-9e49-2d90126e7347"}
+{"sub_uri": "Q6689290", "obj_uri": "Q1588", "obj_label": "Louisiana", "sub_label": "Louisiana State Legislature", "lineid": 353, "uuid": "26c20720-1275-4abd-ba08-329c32698f85"}
+{"sub_uri": "Q428276", "obj_uri": "Q142", "obj_label": "France", "sub_label": "Gayssot Act", "lineid": 354, "uuid": "78318383-ce66-4fea-9459-b788112a250b"}
+{"sub_uri": "Q10566065", "obj_uri": "Q1391", "obj_label": "Maryland", "sub_label": "Maryland General Assembly", "lineid": 355, "uuid": "8509cfca-271d-4f72-8eb2-35d32fdcf193"}
+{"sub_uri": "Q83149", "obj_uri": "Q20", "obj_label": "Norway", "sub_label": "flag of Norway", "lineid": 356, "uuid": "764075cc-4a15-4877-bfc4-814ba8dd8dd8"}
+{"sub_uri": "Q7707525", "obj_uri": "Q1439", "obj_label": "Texas", "sub_label": "Texas Attorney General", "lineid": 357, "uuid": "d8c1d79a-44f9-4b6b-ab93-99870c5b0971"}
+{"sub_uri": "Q314496", "obj_uri": "Q183", "obj_label": "Germany", "sub_label": "German Renewable Energy Act", "lineid": 358, "uuid": "09217c82-d4f7-4b08-aa47-cd440d890d30"}
+{"sub_uri": "Q2742602", "obj_uri": "Q4018", "obj_label": "Navarre", "sub_label": "Parliament of Navarre", "lineid": 359, "uuid": "d1230263-3784-47be-965c-f416ad994aec"}
+{"sub_uri": "Q2384499", "obj_uri": "Q829", "obj_label": "Utah", "sub_label": "Utah State Legislature", "lineid": 360, "uuid": "e233e3fa-594b-40ba-8d2f-c7f614dd701d"}
+{"sub_uri": "Q2995097", "obj_uri": "Q1415", "obj_label": "Indiana", "sub_label": "Constitution of Indiana", "lineid": 361, "uuid": "8f90434b-603a-4327-b4d8-114ae1da3338"}
+{"sub_uri": "Q5109064", "obj_uri": "Q79990", "obj_label": "Christchurch", "sub_label": "Christchurch City Council", "lineid": 362, "uuid": "7265c547-631d-4b51-b369-154f3f0f05a6"}
+{"sub_uri": "Q1144837", "obj_uri": "Q43", "obj_label": "Turkey", "sub_label": "Surname Law", "lineid": 363, "uuid": "91c1ec89-ff0d-4e82-a66d-7a8327e24154"}
+{"sub_uri": "Q5589680", "obj_uri": "Q1166", "obj_label": "Michigan", "sub_label": "Governor of Michigan", "lineid": 364, "uuid": "baa2fe05-039f-4ba0-aeeb-092d944d0fd9"}
+{"sub_uri": "Q1503325", "obj_uri": "Q34", "obj_label": "Sweden", "sub_label": "Constitution of Sweden", "lineid": 365, "uuid": "cdceb713-b3e2-466e-b109-646698108d50"}
+{"sub_uri": "Q2430481", "obj_uri": "Q55", "obj_label": "Netherlands", "sub_label": "Deputy Prime Minister of the Netherlands", "lineid": 366, "uuid": "a1a4617d-b6da-4c64-a752-d4d392b6d476"}
+{"sub_uri": "Q1285499", "obj_uri": "Q403", "obj_label": "Serbia", "sub_label": "Government of Serbia", "lineid": 367, "uuid": "3d27546a-5c13-48f6-b4d7-6ba8c787113a"}
+{"sub_uri": "Q5161534", "obj_uri": "Q779", "obj_label": "Connecticut", "sub_label": "Connecticut General Assembly", "lineid": 368, "uuid": "379fc521-ed59-4e05-a0c5-aaf47d0f1fcb"}
+{"sub_uri": "Q5164164", "obj_uri": "Q816", "obj_label": "Arizona", "sub_label": "Constitution of Arizona", "lineid": 369, "uuid": "58f2c64b-4d7e-44b8-8e00-fdb1a4b1d0ab"}
+{"sub_uri": "Q6879488", "obj_uri": "Q1581", "obj_label": "Missouri", "sub_label": "Missouri Attorney General", "lineid": 370, "uuid": "97e463ac-a1af-418c-a003-aba96f01d07d"}
+{"sub_uri": "Q5916428", "obj_uri": "Q16555", "obj_label": "Houston", "sub_label": "Houston City Council", "lineid": 371, "uuid": "fcc642ee-40aa-4412-9aae-c6166493ba14"}
+{"sub_uri": "Q2611987", "obj_uri": "Q34", "obj_label": "Sweden", "sub_label": "Ministry of Health and Social Affairs", "lineid": 372, "uuid": "ad7f9620-754e-480c-8fc8-f935cbe5c681"}
+{"sub_uri": "Q5185486", "obj_uri": "Q408", "obj_label": "Australia", "sub_label": "Crimes Act 1914", "lineid": 373, "uuid": "75871948-96c8-4e41-98af-404a6549e2ee"}
+{"sub_uri": "Q5739021", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Heritage Railway Stations Protection Act", "lineid": 374, "uuid": "b598c2a2-2871-4c6d-bf78-91f56bbb62b5"}
+{"sub_uri": "Q5339025", "obj_uri": "Q2096", "obj_label": "Edmonton", "sub_label": "Edmonton City Council", "lineid": 375, "uuid": "d5c035f7-04a3-4520-80b8-7bd4a5b749e0"}
+{"sub_uri": "Q1525928", "obj_uri": "Q1494", "obj_label": "Mississippi", "sub_label": "Mississippi State Senate", "lineid": 376, "uuid": "55cce111-21b2-466c-a155-735093ef4c41"}
+{"sub_uri": "Q4708496", "obj_uri": "Q797", "obj_label": "Alaska", "sub_label": "Alaska Attorney General", "lineid": 377, "uuid": "b56cbbeb-e5b0-4fef-85c0-05ce7601ccad"}
+{"sub_uri": "Q7163643", "obj_uri": "Q1400", "obj_label": "Pennsylvania", "sub_label": "Pennsylvania Attorney General", "lineid": 378, "uuid": "66825426-0645-4fa2-9f67-fced754ca04e"}
+{"sub_uri": "Q6023060", "obj_uri": "Q1415", "obj_label": "Indiana", "sub_label": "Indiana Attorney General", "lineid": 379, "uuid": "b7b74059-678d-4433-b348-7f48efc91072"}
+{"sub_uri": "Q2001035", "obj_uri": "Q7184", "obj_label": "NATO", "sub_label": "Allied Command Transformation", "lineid": 380, "uuid": "cedea484-ab0c-4d82-84d7-aa56812309e2"}
+{"sub_uri": "Q1044136", "obj_uri": "Q863", "obj_label": "Tajikistan", "sub_label": "president of Tajikistan", "lineid": 381, "uuid": "d5883440-c207-468d-8ab8-16ba9552bb4c"}
+{"sub_uri": "Q7574307", "obj_uri": "Q1400", "obj_label": "Pennsylvania", "sub_label": "Speaker of the Pennsylvania House of Representatives", "lineid": 382, "uuid": "f41aeb3a-5311-48ad-a152-c94a34514597"}
+{"sub_uri": "Q4220207", "obj_uri": "Q1899", "obj_label": "Kiev", "sub_label": "Kiev City Council", "lineid": 383, "uuid": "c25ac647-78c1-4125-b71f-5a3b8571b98a"}
+{"sub_uri": "Q4856453", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Bankruptcy and Insolvency Act", "lineid": 384, "uuid": "691fe77f-cedf-42e4-96e8-0c8ef0dbf6e2"}
+{"sub_uri": "Q868353", "obj_uri": "Q1261", "obj_label": "Colorado", "sub_label": "list of Governors of Colorado", "lineid": 385, "uuid": "f1676c33-ae88-46d8-a436-1f9668f861b6"}
+{"sub_uri": "Q4117101", "obj_uri": "Q1757", "obj_label": "Helsinki", "sub_label": "Helsinki City Council", "lineid": 386, "uuid": "07a08bce-dcca-44c3-beb9-24c267c9d214"}
+{"sub_uri": "Q3406489", "obj_uri": "Q99", "obj_label": "California", "sub_label": "Attorney General of California", "lineid": 387, "uuid": "8883e8a0-a79d-41c4-8d0c-cdaf8a2561e0"}
+{"sub_uri": "Q539149", "obj_uri": "Q29", "obj_label": "Spain", "sub_label": "Congress of Deputies", "lineid": 388, "uuid": "1507f91b-7546-4bc8-985f-2a1b81409c5f"}
+{"sub_uri": "Q208233", "obj_uri": "Q17", "obj_label": "Japan", "sub_label": "Emperor of Japan", "lineid": 389, "uuid": "b41d42c3-cc77-4a1d-a2a2-42473353154b"}
+{"sub_uri": "Q4925016", "obj_uri": "Q1221", "obj_label": "Idaho", "sub_label": "Idaho Transportation Department", "lineid": 390, "uuid": "7724f96f-b692-4f5f-9c14-8b15c1c9a2ea"}
+{"sub_uri": "Q5156315", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Competition Act", "lineid": 391, "uuid": "46eeae35-36fb-4e70-ad44-b082bef0e9bb"}
+{"sub_uri": "Q5165903", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Controlled Drugs and Substances Act", "lineid": 392, "uuid": "4a24d348-752b-480c-be28-dc62ea77b632"}
+{"sub_uri": "Q495552", "obj_uri": "Q5690", "obj_label": "Sparta", "sub_label": "Gerousia", "lineid": 393, "uuid": "d4014842-709f-4756-aba6-9a710d3912d0"}
+{"sub_uri": "Q250949", "obj_uri": "Q816", "obj_label": "Arizona", "sub_label": "Arizona Senate", "lineid": 394, "uuid": "5652f681-5bdf-41a0-a266-5c6ace67641b"}
+{"sub_uri": "Q2826814", "obj_uri": "Q176", "obj_label": "Quebec", "sub_label": "urban agglomeration in Qu\u00e9bec", "lineid": 395, "uuid": "059d74f8-6488-4e18-9f68-e6265e35a09e"}
+{"sub_uri": "Q876594", "obj_uri": "Q234", "obj_label": "Flanders", "sub_label": "De Vlaamse Leeuw", "lineid": 396, "uuid": "7f756438-d13b-40e6-9851-fa59fce86fbe"}
+{"sub_uri": "Q5073483", "obj_uri": "Q408", "obj_label": "Australia", "sub_label": "Chapter III Court", "lineid": 397, "uuid": "c1e3c25c-af46-46c9-95a2-123a59f969df"}
+{"sub_uri": "Q1402980", "obj_uri": "Q1400", "obj_label": "Pennsylvania", "sub_label": "Lieutenant Governor of Pennsylvania", "lineid": 398, "uuid": "c76976ab-c43f-4d9d-89a6-1902ae153b44"}
+{"sub_uri": "Q3473690", "obj_uri": "Q668", "obj_label": "India", "sub_label": "Sarpanch", "lineid": 399, "uuid": "39282a67-f664-43c8-bf0c-4663acfac794"}
+{"sub_uri": "Q205602", "obj_uri": "Q227", "obj_label": "Azerbaijan", "sub_label": "President of Azerbaijan", "lineid": 400, "uuid": "a5f0af19-a092-4d8c-970e-390254733341"}
+{"sub_uri": "Q2993611", "obj_uri": "Q1033", "obj_label": "Nigeria", "sub_label": "Senate of Nigeria", "lineid": 401, "uuid": "6a3b08b1-2ef5-4566-8703-f0e3db45d3ef"}
+{"sub_uri": "Q4852810", "obj_uri": "Q5092", "obj_label": "Baltimore", "sub_label": "Baltimore City Council", "lineid": 402, "uuid": "aa6edb70-a564-4ea2-a5e8-27e8b057e534"}
+{"sub_uri": "Q313383", "obj_uri": "Q668", "obj_label": "India", "sub_label": "President of India", "lineid": 403, "uuid": "7a0c2fb2-714b-4251-85fc-1e3db33aff68"}
+{"sub_uri": "Q4808665", "obj_uri": "Q25", "obj_label": "Wales", "sub_label": "Assembly Commission", "lineid": 404, "uuid": "c3c81415-630c-4ee2-9a2c-143554eb8018"}
+{"sub_uri": "Q890005", "obj_uri": "Q191", "obj_label": "Estonia", "sub_label": "President of Estonia", "lineid": 405, "uuid": "10700bf9-e62a-4e8d-a3a4-87def87fc5d3"}
+{"sub_uri": "Q509714", "obj_uri": "Q142", "obj_label": "France", "sub_label": "HADOPI law", "lineid": 406, "uuid": "a7a27660-d6b8-496a-b7cf-b85e75497ade"}
+{"sub_uri": "Q6733343", "obj_uri": "Q1191", "obj_label": "Maharashtra", "sub_label": "Maharashtra Legislative Assembly", "lineid": 407, "uuid": "3dd1a95f-fd46-42c8-b667-da613c68914e"}
+{"sub_uri": "Q2625960", "obj_uri": "Q1033", "obj_label": "Nigeria", "sub_label": "Vice President of Nigeria", "lineid": 408, "uuid": "b773db89-36f7-4734-a76c-9ea40419510a"}
+{"sub_uri": "Q2386422", "obj_uri": "Q155", "obj_label": "Brazil", "sub_label": "Constitution of Brazil", "lineid": 409, "uuid": "f582c2bb-70a5-4ce7-928c-e873ce377592"}
+{"sub_uri": "Q7437892", "obj_uri": "Q22", "obj_label": "Scotland", "sub_label": "region or constituency of the Scottish Parliament", "lineid": 410, "uuid": "8c54952e-981e-4b94-89dd-628a17ebd364"}
+{"sub_uri": "Q7425176", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Saskatchewan Act", "lineid": 411, "uuid": "64144a49-a6ee-4846-8218-dc88dfe1776a"}
+{"sub_uri": "Q5261430", "obj_uri": "Q43475", "obj_label": "Derby", "sub_label": "Derby City Council", "lineid": 412, "uuid": "d5706a10-cf51-4fd1-81f8-f6455efdb61e"}
+{"sub_uri": "Q908022", "obj_uri": "Q2009", "obj_label": "Yukon", "sub_label": "Yukon Legislative Assembly", "lineid": 413, "uuid": "fe488e44-82e8-4c65-a70b-a2bd72b03f62"}
+{"sub_uri": "Q330517", "obj_uri": "Q99", "obj_label": "California", "sub_label": "flag of California", "lineid": 414, "uuid": "6ef3fed6-21b6-434f-adcc-5df61f4a09bc"}
+{"sub_uri": "Q102392", "obj_uri": "Q22", "obj_label": "Scotland", "sub_label": "flag of Scotland", "lineid": 415, "uuid": "12977c8c-1660-4037-8735-9034495cc294"}
+{"sub_uri": "Q286228", "obj_uri": "Q17", "obj_label": "Japan", "sub_label": "Independent Administrative Institution", "lineid": 416, "uuid": "89befd9a-c4c6-4e9e-a324-4db1903310a9"}
+{"sub_uri": "Q7700018", "obj_uri": "Q1509", "obj_label": "Tennessee", "sub_label": "Tennessee Attorney General", "lineid": 417, "uuid": "6a7e42c9-cd0f-433d-9592-e42a06210341"}
+{"sub_uri": "Q16149111", "obj_uri": "Q824", "obj_label": "Oregon", "sub_label": "Governor of Oregon", "lineid": 418, "uuid": "e6f86e61-4b75-4de4-86db-77379d5fb0d6"}
+{"sub_uri": "Q81477", "obj_uri": "Q37", "obj_label": "Lithuania", "sub_label": "flag of Lithuania", "lineid": 419, "uuid": "7973c4b8-f1f7-457e-9def-8cf209c81670"}
+{"sub_uri": "Q2089528", "obj_uri": "Q1773", "obj_label": "Riga", "sub_label": "Riga City Council", "lineid": 420, "uuid": "71402e8e-5f85-44bd-9748-c4013391fbfa"}
+{"sub_uri": "Q833147", "obj_uri": "Q403", "obj_label": "Serbia", "sub_label": "Vidovdan", "lineid": 421, "uuid": "78542c47-6875-4aad-bca6-dbd876d69af5"}
+{"sub_uri": "Q5164203", "obj_uri": "Q1588", "obj_label": "Louisiana", "sub_label": "Constitution of Louisiana", "lineid": 422, "uuid": "6a24cb33-b3d5-43e8-bdb2-ae0d701cfd5a"}
+{"sub_uri": "Q5029320", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Canada Business Corporations Act", "lineid": 423, "uuid": "871e17ea-5308-4306-af43-88a307c8a056"}
+{"sub_uri": "Q100172", "obj_uri": "Q36", "obj_label": "Poland", "sub_label": "Marshal of the Sejm", "lineid": 424, "uuid": "a26ec8f8-f668-49c0-b3da-2afe61e0f1fc"}
+{"sub_uri": "Q149789", "obj_uri": "Q403", "obj_label": "Serbia", "sub_label": "limited liability company", "lineid": 425, "uuid": "60f4eb1d-ad88-4589-a701-6e74f025e443"}
+{"sub_uri": "Q225360", "obj_uri": "Q219", "obj_label": "Bulgaria", "sub_label": "flag of Bulgaria", "lineid": 426, "uuid": "3b0b1d11-54ae-4fff-aaf4-8542e1f4c027"}
+{"sub_uri": "Q5589688", "obj_uri": "Q1553", "obj_label": "Nebraska", "sub_label": "Governor of Nebraska", "lineid": 427, "uuid": "71c3c0cb-0d32-4b23-adcd-25d227354724"}
+{"sub_uri": "Q6868011", "obj_uri": "Q36091", "obj_label": "Minneapolis", "sub_label": "Minneapolis Police Department", "lineid": 428, "uuid": "0c1878dc-766a-415d-9c15-e182d236742a"}
+{"sub_uri": "Q4818639", "obj_uri": "Q1603", "obj_label": "Kentucky", "sub_label": "Attorney General of Kentucky", "lineid": 429, "uuid": "87a7931f-9206-4345-a386-9262672b10ae"}
+{"sub_uri": "Q5265877", "obj_uri": "Q12439", "obj_label": "Detroit", "sub_label": "Detroit City Council", "lineid": 430, "uuid": "7fc2dabb-26a1-473e-8e10-d15f50b964a6"}
+{"sub_uri": "Q1812858", "obj_uri": "Q176", "obj_label": "Quebec", "sub_label": "Legislative Council of Quebec", "lineid": 431, "uuid": "0cc99d05-fbaf-4e2b-9b7b-0ea1c5623625"}
+{"sub_uri": "Q889817", "obj_uri": "Q796", "obj_label": "Iraq", "sub_label": "President of Iraq", "lineid": 432, "uuid": "f4aee20d-21a6-4710-908c-d2d0af411e58"}
+{"sub_uri": "Q81952", "obj_uri": "Q43", "obj_label": "Turkey", "sub_label": "flag of Turkey", "lineid": 433, "uuid": "f2d51f89-c951-4b46-a63a-418c43859b14"}
+{"sub_uri": "Q1494534", "obj_uri": "Q1227", "obj_label": "Nevada", "sub_label": "Nevada Senate", "lineid": 434, "uuid": "6bf072c2-9056-46a9-8a9a-d16d2e63252e"}
+{"sub_uri": "Q168935", "obj_uri": "Q833", "obj_label": "Malaysia", "sub_label": "flag of Malaysia", "lineid": 435, "uuid": "c49f42ff-5a91-4ccf-bdb7-6ad21d84a401"}
+{"sub_uri": "Q132633", "obj_uri": "Q184", "obj_label": "Belarus", "sub_label": "flag of Belarus", "lineid": 436, "uuid": "8be613de-2ec0-4f3e-b44f-20363ea4f3a0"}
+{"sub_uri": "Q16848605", "obj_uri": "Q27", "obj_label": "Ireland", "sub_label": "Irish Trade Union Congress", "lineid": 437, "uuid": "16f2e01e-2246-4677-a398-f673e10938f5"}
+{"sub_uri": "Q2445140", "obj_uri": "Q212", "obj_label": "Ukraine", "sub_label": "Ministry of Internal Affairs of Ukraine", "lineid": 438, "uuid": "ae732b15-ab34-412c-8271-6eea525bea35"}
+{"sub_uri": "Q2581564", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Clarity Act", "lineid": 439, "uuid": "81e6e164-d987-4c0e-8a1e-910cef9cb9cc"}
+{"sub_uri": "Q1743621", "obj_uri": "Q1061", "obj_label": "Gujarat", "sub_label": "Gujarat Legislative Assembly", "lineid": 440, "uuid": "dc7bfbd3-2fed-4f64-a0a6-ca4af52dc2b9"}
+{"sub_uri": "Q7252627", "obj_uri": "Q1948", "obj_label": "Manitoba", "sub_label": "Provincial Court of Manitoba", "lineid": 441, "uuid": "8517b786-efc7-4743-8853-971601d29952"}
+{"sub_uri": "Q163008", "obj_uri": "Q241", "obj_label": "Cuba", "sub_label": "flag of Cuba", "lineid": 442, "uuid": "fe87abfd-0ee4-484f-a4b5-5741b64a24c6"}
+{"sub_uri": "Q7442079", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_label": "Seattle City Council", "lineid": 443, "uuid": "4e40eb5b-67e5-4e86-b48e-482493ec1f11"}
+{"sub_uri": "Q7252634", "obj_uri": "Q1989", "obj_label": "Saskatchewan", "sub_label": "Provincial Court of Saskatchewan", "lineid": 444, "uuid": "60c8a9ed-6956-4d81-acaa-4992b0b78eb6"}
+{"sub_uri": "Q313827", "obj_uri": "Q183", "obj_label": "Germany", "sub_label": "Cabinet of the Federal Republic of Germany", "lineid": 445, "uuid": "e0775999-2000-4a02-a31a-9a7c11073e99"}
+{"sub_uri": "Q213624", "obj_uri": "Q36", "obj_label": "Poland", "sub_label": "Ministry of Foreign Affairs of Poland", "lineid": 446, "uuid": "33a933f3-5d72-4f5f-8abd-8b7ff08dded3"}
+{"sub_uri": "Q6364574", "obj_uri": "Q1558", "obj_label": "Kansas", "sub_label": "Kansas Attorney General", "lineid": 447, "uuid": "9a0c122d-12f4-4aa4-a430-ebd399cd96fa"}
+{"sub_uri": "Q8563951", "obj_uri": "Q812", "obj_label": "Florida", "sub_label": "Florida Attorney General", "lineid": 448, "uuid": "8b2b9db8-376c-47b5-8abf-21d97a0f53cb"}
+{"sub_uri": "Q1046164", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Agriculture and Agri-Food Canada", "lineid": 449, "uuid": "f5a6f1b0-2bda-4cf1-af64-1bceb8ebfe03"}
+{"sub_uri": "Q128852", "obj_uri": "Q1410", "obj_label": "Gibraltar", "sub_label": "Gibraltar Parliament", "lineid": 450, "uuid": "a813df07-b9c4-475d-80da-5478eb844fb4"}
+{"sub_uri": "Q131204", "obj_uri": "Q881", "obj_label": "Vietnam", "sub_label": "flag of Vietnam", "lineid": 451, "uuid": "c16906f5-412d-4453-b01e-2ddcb55acfaf"}
+{"sub_uri": "Q134874", "obj_uri": "Q750", "obj_label": "Bolivia", "sub_label": "flag of Bolivia", "lineid": 452, "uuid": "93a951ef-dc6a-46ba-b93b-4ab11353bb6f"}
+{"sub_uri": "Q4711569", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Alberta Act", "lineid": 453, "uuid": "450315b7-c3be-4254-8217-204661da1a49"}
+{"sub_uri": "Q7987651", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Western Canada Concept", "lineid": 454, "uuid": "2894cf8c-f3c4-4660-a74b-76ab16b346fe"}
+{"sub_uri": "Q1623403", "obj_uri": "Q22", "obj_label": "Scotland", "sub_label": "Hogmanay", "lineid": 455, "uuid": "de9383c7-b3cf-4e75-b5af-783ddba9e21a"}
+{"sub_uri": "Q41673", "obj_uri": "Q668", "obj_label": "India", "sub_label": "flag of India", "lineid": 456, "uuid": "7d4a646a-f56e-4f5c-b9cb-cd5d85191820"}
+{"sub_uri": "Q5164163", "obj_uri": "Q797", "obj_label": "Alaska", "sub_label": "Constitution of Alaska", "lineid": 457, "uuid": "6a4e6035-ceb3-4623-b2fd-717e2a12372c"}
+{"sub_uri": "Q9299236", "obj_uri": "Q183", "obj_label": "Germany", "sub_label": "registered association", "lineid": 458, "uuid": "056586bf-b81d-44f8-9eb6-bc202ee83461"}
+{"sub_uri": "Q775994", "obj_uri": "Q90", "obj_label": "Paris", "sub_label": "council of Paris", "lineid": 459, "uuid": "d63d7cba-324d-4438-9060-b663d068a497"}
+{"sub_uri": "Q1194749", "obj_uri": "Q29", "obj_label": "Spain", "sub_label": "Government of Spain", "lineid": 460, "uuid": "228222fc-3aea-439b-9997-a2b16ff80d06"}
+{"sub_uri": "Q7877583", "obj_uri": "Q1036", "obj_label": "Uganda", "sub_label": "Uganda Anti-Homosexuality Act, 2014", "lineid": 461, "uuid": "d52bbb4f-4c02-47b7-a75e-db8f418fe42e"}
+{"sub_uri": "Q121731", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Reference re Secession of Quebec", "lineid": 462, "uuid": "12056428-058d-4294-8a44-f48b0c92cde8"}
+{"sub_uri": "Q6793789", "obj_uri": "Q1027", "obj_label": "Mauritius", "sub_label": "Mauritius Police Force", "lineid": 463, "uuid": "c471aac2-353e-4770-af50-8513c26443d5"}
+{"sub_uri": "Q1922067", "obj_uri": "Q43", "obj_label": "Turkey", "sub_label": "President of Turkey", "lineid": 464, "uuid": "c434fd3b-b719-4c48-893a-3eae2a4bd49b"}
+{"sub_uri": "Q5691177", "obj_uri": "Q20", "obj_label": "Norway", "sub_label": "Health trust", "lineid": 465, "uuid": "f69f7c43-d96b-4125-a837-3dddb37d0413"}
+{"sub_uri": "Q492234", "obj_uri": "Q183", "obj_label": "Germany", "sub_label": "Federal Ministry of Education and Research", "lineid": 466, "uuid": "5410e6e2-06ed-4836-b98d-a33a1c456878"}
+{"sub_uri": "Q15020889", "obj_uri": "Q20", "obj_label": "Norway", "sub_label": "Solberg's Cabinet", "lineid": 467, "uuid": "d0d1d13b-6648-4134-8336-70830e26a3a4"}
+{"sub_uri": "Q14784066", "obj_uri": "Q114", "obj_label": "Kenya", "sub_label": "President of Kenya", "lineid": 468, "uuid": "5b380644-2990-40c8-a30e-366595cbe765"}
+{"sub_uri": "Q1355043", "obj_uri": "Q17", "obj_label": "Japan", "sub_label": "Minister for Foreign Affairs", "lineid": 469, "uuid": "74944f82-77db-4025-a8be-4a07f197397b"}
+{"sub_uri": "Q1518944", "obj_uri": "Q142", "obj_label": "France", "sub_label": "1905 French law on the Separation of the Churches and the State", "lineid": 470, "uuid": "fd537ac1-f84f-432c-b868-4bca65a76ed9"}
+{"sub_uri": "Q206834", "obj_uri": "Q39", "obj_label": "Switzerland", "sub_label": "Swiss Civil Code", "lineid": 471, "uuid": "462e5c42-09de-4789-899d-a2913c7deae4"}
+{"sub_uri": "Q163727", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "bachelor's degree", "lineid": 472, "uuid": "440089a9-b582-4362-a27c-f23a63f73a50"}
+{"sub_uri": "Q241214", "obj_uri": "Q14773", "obj_label": "Macau", "sub_label": "Macanese pataca", "lineid": 473, "uuid": "2554b63e-ac8f-4b55-9f5a-6b1781aa17e8"}
+{"sub_uri": "Q4404583", "obj_uri": "Q219", "obj_label": "Bulgaria", "sub_label": "Prime Minister of Bulgaria", "lineid": 474, "uuid": "bc9512f0-f23f-43db-9e96-a717a2e0fe40"}
+{"sub_uri": "Q1749063", "obj_uri": "Q34", "obj_label": "Sweden", "sub_label": "Minister for Foreign Affairs of Sweden", "lineid": 475, "uuid": "046b11d9-7212-4927-888c-0c6a9e27bf50"}
+{"sub_uri": "Q1139204", "obj_uri": "Q214", "obj_label": "Slovakia", "sub_label": "National Council of the Slovak Republic", "lineid": 476, "uuid": "53aa5289-17f5-45e3-99ec-7aa4eeff4629"}
+{"sub_uri": "Q673117", "obj_uri": "Q1415", "obj_label": "Indiana", "sub_label": "flag of Indiana", "lineid": 477, "uuid": "f1854900-b335-48cb-a584-c04cdd9dba56"}
+{"sub_uri": "Q14565638", "obj_uri": "Q902", "obj_label": "Bangladesh", "sub_label": "Prime Minister of Bangladesh", "lineid": 478, "uuid": "9b5616dd-04b5-4c36-a685-29be1e09e5c8"}
+{"sub_uri": "Q159746", "obj_uri": "Q235", "obj_label": "Monaco", "sub_label": "flag of Monaco", "lineid": 479, "uuid": "14ae640a-7bce-4af5-84d2-f2169feb0e8a"}
+{"sub_uri": "Q1837807", "obj_uri": "Q100", "obj_label": "Boston", "sub_label": "Mayor of Boston", "lineid": 480, "uuid": "d97adfb3-2e74-4b2f-9ec9-6cc9c53135c7"}
+{"sub_uri": "Q550133", "obj_uri": "Q14773", "obj_label": "Macau", "sub_label": "Legislative Assembly of Macau", "lineid": 481, "uuid": "c57470f6-2e54-4165-a74e-e56f7ef5e467"}
+{"sub_uri": "Q2635466", "obj_uri": "Q668", "obj_label": "India", "sub_label": "India\u2013Pakistan border", "lineid": 482, "uuid": "50b94fa5-a127-4ed6-9573-6b3c8c773a8a"}
+{"sub_uri": "Q5251230", "obj_uri": "Q1033", "obj_label": "Nigeria", "sub_label": "Ministan Tsaro", "lineid": 483, "uuid": "f51d9bd2-d6e3-45ad-8a4e-a63fe06b6fc5"}
+{"sub_uri": "Q1285463", "obj_uri": "Q142", "obj_label": "France", "sub_label": "prefect", "lineid": 484, "uuid": "82abc7f6-9d3e-49e8-93db-4fbab66f8bdc"}
+{"sub_uri": "Q16955193", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Canada Marine Act", "lineid": 485, "uuid": "725d89ae-2d5e-4285-b9b0-a93da24aeb92"}
+{"sub_uri": "Q5029452", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Canada Wildlife Act", "lineid": 486, "uuid": "f109c906-d55b-4468-b9f5-6ea2646dc303"}
+{"sub_uri": "Q3480080", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Canadian Wildlife Service", "lineid": 487, "uuid": "06ebb537-8211-4940-adb0-1ce5cdceb79b"}
+{"sub_uri": "Q159538", "obj_uri": "Q1045", "obj_label": "Somalia", "sub_label": "flag of Somalia", "lineid": 488, "uuid": "28deb10a-4867-4856-b611-266163044ec4"}
+{"sub_uri": "Q5029361", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Canada Elections Act", "lineid": 489, "uuid": "f483f9a6-848a-4a03-92b4-5c760694af64"}
+{"sub_uri": "Q1469153", "obj_uri": "Q712", "obj_label": "Fiji", "sub_label": "Prime Minister of Fiji", "lineid": 490, "uuid": "e2fbb188-b59e-4313-b27a-fc1a087ea74f"}
+{"sub_uri": "Q2816318", "obj_uri": "Q142", "obj_label": "France", "sub_label": "35-hour workweek", "lineid": 491, "uuid": "cb1f3e8d-ffcf-4fb4-9bfc-eff371c51eb7"}
+{"sub_uri": "Q12969145", "obj_uri": "Q414", "obj_label": "Argentina", "sub_label": "President of Argentina", "lineid": 492, "uuid": "fc01a01d-3f09-4fa0-9ba7-e17601329892"}
+{"sub_uri": "Q327948", "obj_uri": "Q801", "obj_label": "Israel", "sub_label": "President of Israel", "lineid": 493, "uuid": "e2846164-3045-4f0f-83c0-7be6bebd23cd"}
+{"sub_uri": "Q1192838", "obj_uri": "Q159", "obj_label": "Russia", "sub_label": "Ministry of Internal Affairs", "lineid": 494, "uuid": "4957c36d-c293-43c9-89ee-09cb15047a6f"}
+{"sub_uri": "Q11755916", "obj_uri": "Q252", "obj_label": "Indonesia", "sub_label": "President of Indonesia", "lineid": 495, "uuid": "ecb8f657-5e27-4dba-a16f-79d274796bad"}
+{"sub_uri": "Q3339281", "obj_uri": "Q649", "obj_label": "Moscow", "sub_label": "Government of Moscow", "lineid": 496, "uuid": "3353f218-c192-4123-b91e-0c98409f4dde"}
+{"sub_uri": "Q2041767", "obj_uri": "Q649", "obj_label": "Moscow", "sub_label": "Moscow City Duma", "lineid": 497, "uuid": "1ceb1fe9-a9bd-4cd3-b706-b04cfac5d57f"}
+{"sub_uri": "Q222241", "obj_uri": "Q17", "obj_label": "Japan", "sub_label": "Ministry of Foreign Affairs of Japan", "lineid": 498, "uuid": "7c9e994a-1c4a-4d66-9e8d-afdd9c1ecbdf"}
+{"sub_uri": "Q374614", "obj_uri": "Q27", "obj_label": "Ireland", "sub_label": "urban district", "lineid": 499, "uuid": "610d679e-a11f-445f-9600-eafb969f930d"}
+{"sub_uri": "Q887003", "obj_uri": "Q865", "obj_label": "Taiwan", "sub_label": "President of the Republic of China", "lineid": 500, "uuid": "6fc28cb7-7224-49d9-b0be-eb3366e67e33"}
+{"sub_uri": "Q1246562", "obj_uri": "Q1246", "obj_label": "Kosovo", "sub_label": "Assembly of the Republic of Kosovo", "lineid": 501, "uuid": "c8ef81c9-e6fc-4bdb-a1d0-14ef9837f2ed"}
+{"sub_uri": "Q1294303", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Edwards v Canada (Attorney General)", "lineid": 502, "uuid": "1e18243c-0d8b-4c4c-8be0-4c7cae5655d2"}
+{"sub_uri": "Q2865493", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Section Fifteen of the Canadian Charter of Rights and Freedoms", "lineid": 503, "uuid": "79d6e16d-6ba1-4dda-9654-ea0dce247dd1"}
+{"sub_uri": "Q1499064", "obj_uri": "Q183", "obj_label": "Germany", "sub_label": "Ministerium", "lineid": 504, "uuid": "17933ce8-7ff2-4fd0-9b0a-7084ef3cfcbc"}
+{"sub_uri": "Q6867972", "obj_uri": "Q36091", "obj_label": "Minneapolis", "sub_label": "Minneapolis City Council", "lineid": 505, "uuid": "102eb009-e187-4908-90b1-0d1772bc2896"}
+{"sub_uri": "Q555809", "obj_uri": "Q217", "obj_label": "Moldova", "sub_label": "Parliament of the Republic of Moldova", "lineid": 506, "uuid": "c4be8121-8850-41e8-bb1c-30ab23f76576"}
+{"sub_uri": "Q3555619", "obj_uri": "Q1227", "obj_label": "Nevada", "sub_label": "Nevada Legislature", "lineid": 507, "uuid": "cb3170a1-e0a9-4449-ac5d-c172a46f3c16"}
+{"sub_uri": "Q5161480", "obj_uri": "Q779", "obj_label": "Connecticut", "sub_label": "Connecticut Attorney General", "lineid": 508, "uuid": "53dcdf02-320d-4447-8cc0-5b67c3e86c8a"}
+{"sub_uri": "Q1149153", "obj_uri": "Q236", "obj_label": "Montenegro", "sub_label": "President of Montenegro", "lineid": 509, "uuid": "2fea16bc-1879-4938-b10f-59ddd5112436"}
+{"sub_uri": "Q3831968", "obj_uri": "Q38", "obj_label": "Italy", "sub_label": "liceo scientifico", "lineid": 510, "uuid": "bd345fd7-29e3-46e4-b2ed-701c62accc22"}
+{"sub_uri": "Q2903420", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Criminal Law Amendment Act, 1968-69", "lineid": 511, "uuid": "f2a2552f-4360-4324-be96-68f24cecc91e"}
+{"sub_uri": "Q7834896", "obj_uri": "Q22", "obj_label": "Scotland", "sub_label": "Transport Scotland", "lineid": 512, "uuid": "685cf217-1dc6-4d2e-84af-475cdfceddee"}
+{"sub_uri": "Q3254616", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Solicitor General of Canada", "lineid": 513, "uuid": "c18d1881-1758-4218-b083-a81d1518aed5"}
+{"sub_uri": "Q7813951", "obj_uri": "Q1490", "obj_label": "Tokyo", "sub_label": "Tokyo Metropolitan Assembly", "lineid": 514, "uuid": "3f9f4d57-37e6-4ed2-900f-8f437802f8f1"}
+{"sub_uri": "Q81286", "obj_uri": "Q34", "obj_label": "Sweden", "sub_label": "flag of Sweden", "lineid": 515, "uuid": "1610bfbe-e307-45fe-9e47-9b840c755ead"}
+{"sub_uri": "Q6544423", "obj_uri": "Q1494", "obj_label": "Mississippi", "sub_label": "Lieutenant Governor of Mississippi", "lineid": 516, "uuid": "974b6bab-4e95-4fe4-acba-bc37bcd555fa"}
+{"sub_uri": "Q2065336", "obj_uri": "Q20", "obj_label": "Norway", "sub_label": "Stoltenberg's First Cabinet", "lineid": 517, "uuid": "4507a590-26e4-4deb-8764-45185ae0e41f"}
+{"sub_uri": "Q510511", "obj_uri": "Q1199", "obj_label": "Hesse", "sub_label": "Landtag of Hesse", "lineid": 518, "uuid": "e719784f-406e-4ee9-ad84-cd1b95f45564"}
+{"sub_uri": "Q700110", "obj_uri": "Q40", "obj_label": "Austria", "sub_label": "Landeshauptmann", "lineid": 519, "uuid": "0c82d36d-474d-4118-b364-2c48adc926ad"}
+{"sub_uri": "Q5261065", "obj_uri": "Q408", "obj_label": "Australia", "sub_label": "Deputy Prime Minister of Australia", "lineid": 520, "uuid": "2e99c437-2a30-41a4-9d0b-54e2f371a216"}
+{"sub_uri": "Q7987948", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Western Independence Party", "lineid": 521, "uuid": "e5a5aa37-48cd-4d1a-bfc7-f3ccbdaf0212"}
+{"sub_uri": "Q7987951", "obj_uri": "Q1989", "obj_label": "Saskatchewan", "sub_label": "Western Independence Party of Saskatchewan", "lineid": 522, "uuid": "2e75b3e0-0b11-47cf-9e5c-9ffbffb6fd32"}
+{"sub_uri": "Q4816040", "obj_uri": "Q23556", "obj_label": "Atlanta", "sub_label": "Atlanta City Council", "lineid": 523, "uuid": "dce78f38-b231-4339-ae5e-fe454f9f71fd"}
+{"sub_uri": "Q3123537", "obj_uri": "Q114", "obj_label": "Kenya", "sub_label": "Vice-President of Kenya", "lineid": 524, "uuid": "5d141b72-8e6e-4643-a8e3-f3d8e3a3cebe"}
+{"sub_uri": "Q8040304", "obj_uri": "Q1214", "obj_label": "Wyoming", "sub_label": "Wyoming Attorney General", "lineid": 525, "uuid": "64306f2e-856b-4206-88fa-1505b4ab5328"}
+{"sub_uri": "Q7260481", "obj_uri": "Q928", "obj_label": "Philippines", "sub_label": "Barangay Captain", "lineid": 526, "uuid": "c0c6b4fe-7a8b-4f90-9cc5-958221af983c"}
+{"sub_uri": "Q841424", "obj_uri": "Q38", "obj_label": "Italy", "sub_label": "Chamber of Deputies of Italy", "lineid": 527, "uuid": "ec7b9899-36c4-43cf-b017-bbbe2b89c8c2"}
+{"sub_uri": "Q173535", "obj_uri": "Q865", "obj_label": "Taiwan", "sub_label": "flag of Taiwan", "lineid": 528, "uuid": "bac0ecb8-d8d1-4762-9adc-6ef6bc88771e"}
+{"sub_uri": "Q2993517", "obj_uri": "Q45", "obj_label": "Portugal", "sub_label": "Constable of Portugal", "lineid": 529, "uuid": "ba6dead5-701d-43c5-be82-029fb365db7d"}
+{"sub_uri": "Q45758", "obj_uri": "Q215", "obj_label": "Slovenia", "sub_label": "Prime Minister of Slovenia", "lineid": 530, "uuid": "8d0c11a8-7596-4fd6-abd2-347f162bfb29"}
+{"sub_uri": "Q1415342", "obj_uri": "Q1166", "obj_label": "Michigan", "sub_label": "Michigan Supreme Court", "lineid": 531, "uuid": "6498b769-37e0-40f7-a0ec-de6c610979e6"}
+{"sub_uri": "Q15110599", "obj_uri": "Q1227", "obj_label": "Nevada", "sub_label": "Nevada Attorney General", "lineid": 532, "uuid": "605597a1-e5e4-47e1-9fe9-cbf3fbd97466"}
+{"sub_uri": "Q7185019", "obj_uri": "Q928", "obj_label": "Philippines", "sub_label": "Philippine Constabulary", "lineid": 533, "uuid": "abcd0cbb-d521-4baf-b8a1-d0f5738ae66e"}
+{"sub_uri": "Q5449548", "obj_uri": "Q843", "obj_label": "Pakistan", "sub_label": "Finance Secretary of Pakistan", "lineid": 534, "uuid": "2a003df3-932c-4df4-bf9c-a0fd06c3710d"}
+{"sub_uri": "Q4855898", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Bank Act", "lineid": 535, "uuid": "962ae95c-ac98-4a38-a022-87cf812a9334"}
+{"sub_uri": "Q271585", "obj_uri": "Q5705", "obj_label": "Catalonia", "sub_label": "Els Segadors", "lineid": 536, "uuid": "4d33a39f-0a1c-4f4e-b0b4-c647122741cb"}
+{"sub_uri": "Q648716", "obj_uri": "Q28", "obj_label": "Hungary", "sub_label": "National Assembly of Hungary", "lineid": 537, "uuid": "bb971b24-fde6-413d-a462-5e5d02ad9673"}
+{"sub_uri": "Q4249375", "obj_uri": "Q585", "obj_label": "Oslo", "sub_label": "Borgarting Court of Appeal", "lineid": 538, "uuid": "a49c936c-334d-47ed-be5d-95e50050df98"}
+{"sub_uri": "Q81676", "obj_uri": "Q408", "obj_label": "Australia", "sub_label": "flag of Australia", "lineid": 539, "uuid": "7ae7b5d1-735b-486e-8deb-b89e074c46c9"}
+{"sub_uri": "Q127974", "obj_uri": "Q212", "obj_label": "Ukraine", "sub_label": "flag of Ukraine", "lineid": 540, "uuid": "409a1971-1ac9-406b-a37e-3d879721e021"}
+{"sub_uri": "Q7285832", "obj_uri": "Q1437", "obj_label": "Rajasthan", "sub_label": "Rajasthan Legislative Assembly", "lineid": 541, "uuid": "e1c24535-e94c-4202-8f09-8cfef26cf8fd"}
+{"sub_uri": "Q1049659", "obj_uri": "Q184", "obj_label": "Belarus", "sub_label": "President of Belarus", "lineid": 542, "uuid": "eaf2e4f7-be00-491e-a0a9-e3c9bf9af342"}
+{"sub_uri": "Q102987", "obj_uri": "Q790", "obj_label": "Haiti", "sub_label": "flag of Haiti", "lineid": 543, "uuid": "c2148de8-608e-475c-89c5-b92d314bc421"}
+{"sub_uri": "Q1520862", "obj_uri": "Q142", "obj_label": "France", "sub_label": "Sandre", "lineid": 544, "uuid": "13c657b0-f170-437a-bef7-33a387088eb9"}
+{"sub_uri": "Q866680", "obj_uri": "Q881", "obj_label": "Vietnam", "sub_label": "President of Vietnam", "lineid": 545, "uuid": "abd39838-9694-4af6-9104-9d3a6005bd5c"}
+{"sub_uri": "Q4818656", "obj_uri": "Q1370", "obj_label": "Virginia", "sub_label": "Attorney General of Virginia", "lineid": 546, "uuid": "62e8bff6-45a4-455f-bca1-826cbf8e4ff1"}
+{"sub_uri": "Q756265", "obj_uri": "Q711", "obj_label": "Mongolia", "sub_label": "President of Mongolia", "lineid": 547, "uuid": "784ca92a-8417-4030-937f-2870d7374c69"}
+{"sub_uri": "Q1415847", "obj_uri": "Q783", "obj_label": "Honduras", "sub_label": "National Congress of Honduras", "lineid": 548, "uuid": "09074c21-0c98-4d74-8e6d-6600b9afe413"}
+{"sub_uri": "Q672108", "obj_uri": "Q159", "obj_label": "Russia", "sub_label": "Security Council of Russia", "lineid": 549, "uuid": "bf33814c-e49c-4ac6-bc12-3e53c20df7c9"}
+{"sub_uri": "Q640365", "obj_uri": "Q869", "obj_label": "Thailand", "sub_label": "Ministry of Interior of the Kingdom of Thailand", "lineid": 550, "uuid": "38272fd0-abd1-49f7-b5a3-b0b0c5531375"}
+{"sub_uri": "Q2867120", "obj_uri": "Q34366", "obj_label": "Tasmania", "sub_label": "Tasmanian House of Assembly", "lineid": 551, "uuid": "ed5869c6-9003-4480-a7df-2216bb18ebcf"}
+{"sub_uri": "Q7684105", "obj_uri": "Q924", "obj_label": "Tanzania", "sub_label": "Tanzania Airports Authority", "lineid": 552, "uuid": "d66168ff-7678-4eba-a737-dda0ab4ff635"}
+{"sub_uri": "Q648464", "obj_uri": "Q858", "obj_label": "Syria", "sub_label": "President of Syria", "lineid": 553, "uuid": "915635f0-b345-4646-86c4-e4f46e8980b2"}
+{"sub_uri": "Q7646182", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Surgeon General", "lineid": 554, "uuid": "d58bc455-3333-4680-b243-a65361610deb"}
+{"sub_uri": "Q3315114", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Minister of National Defence", "lineid": 555, "uuid": "6b7270b3-87ab-4dc4-964b-147fb445f902"}
+{"sub_uri": "Q4877296", "obj_uri": "Q36074", "obj_label": "Queensland", "sub_label": "Beattie Ministry", "lineid": 556, "uuid": "82486f63-d2b8-4eeb-9f72-b24c8419068e"}
+{"sub_uri": "Q1568676", "obj_uri": "Q215", "obj_label": "Slovenia", "sub_label": "National Assembly", "lineid": 557, "uuid": "bcc1f68e-2f47-434f-8f29-282ffe3764f4"}
+{"sub_uri": "Q5587457", "obj_uri": "Q36074", "obj_label": "Queensland", "sub_label": "Goss Ministry", "lineid": 558, "uuid": "7a4db5cd-f6bc-4ea7-9db3-b49bc2e86f22"}
+{"sub_uri": "Q5449541", "obj_uri": "Q35", "obj_label": "Denmark", "sub_label": "Finance Minister of Denmark", "lineid": 559, "uuid": "883e7a31-3100-472a-87ae-da3967034cbe"}
+{"sub_uri": "Q853036", "obj_uri": "Q813", "obj_label": "Kyrgyzstan", "sub_label": "President of Kyrgyzstan", "lineid": 560, "uuid": "69f56486-6a42-476d-9763-867156e9ae1f"}
+{"sub_uri": "Q2000401", "obj_uri": "Q55", "obj_label": "Netherlands", "sub_label": "Social-Economic Council", "lineid": 561, "uuid": "d89d7584-31e7-4e78-9369-e983da646e70"}
+{"sub_uri": "Q5164196", "obj_uri": "Q782", "obj_label": "Hawaii", "sub_label": "Constitution of Hawaii", "lineid": 562, "uuid": "ace4f4d8-9a40-4642-9dd5-39c8a242450c"}
+{"sub_uri": "Q13341442", "obj_uri": "Q783", "obj_label": "Honduras", "sub_label": "President of Honduras", "lineid": 563, "uuid": "5cf6d7a8-2243-49f0-9cf4-c3e67076c100"}
+{"sub_uri": "Q603838", "obj_uri": "Q889", "obj_label": "Afghanistan", "sub_label": "Cabinet of Afghanistan", "lineid": 564, "uuid": "816b92e3-547d-4924-86c3-bff5287f0c19"}
+{"sub_uri": "Q3258135", "obj_uri": "Q142", "obj_label": "France", "sub_label": "About-Picard law", "lineid": 565, "uuid": "83cc46b2-f8ef-4531-ae35-e4af0d71dc56"}
+{"sub_uri": "Q812372", "obj_uri": "Q980", "obj_label": "Bavaria", "sub_label": "Bavarian Senate", "lineid": 566, "uuid": "7c8442bb-3460-476e-8a61-0468091f064c"}
+{"sub_uri": "Q3258177", "obj_uri": "Q142", "obj_label": "France", "sub_label": "Falloux Laws", "lineid": 567, "uuid": "c76ecd24-3ffd-4401-999c-cc0373814303"}
+{"sub_uri": "Q1430943", "obj_uri": "Q766", "obj_label": "Jamaica", "sub_label": "Prime Minister of Jamaica", "lineid": 568, "uuid": "35169a26-ad52-4e0c-9c81-b01b50f1e710"}
+{"sub_uri": "Q1949547", "obj_uri": "Q4040", "obj_label": "Aragon", "sub_label": "Aragonese Corts", "lineid": 569, "uuid": "8ed87455-a8da-4006-b6ba-9e77833c51ca"}
+{"sub_uri": "Q748607", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Minister of International Trade", "lineid": 570, "uuid": "f407d159-6e59-417a-8d4e-28c9a51d85f9"}
+{"sub_uri": "Q5178256", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Court Martial Appeal Court of Canada", "lineid": 571, "uuid": "918aa97a-2a6f-476c-aec1-5db581d61279"}
+{"sub_uri": "Q2572330", "obj_uri": "Q142", "obj_label": "France", "sub_label": "French Ministry of education", "lineid": 572, "uuid": "1118e6a0-f1fb-40d0-a6ba-66f27d9922a4"}
+{"sub_uri": "Q5253257", "obj_uri": "Q1393", "obj_label": "Delaware", "sub_label": "Delaware Constitution of 1792", "lineid": 573, "uuid": "55c71d89-7bf9-4349-bdd0-88df6a1a0311"}
+{"sub_uri": "Q882239", "obj_uri": "Q1055", "obj_label": "Hamburg", "sub_label": "Hamburg Police", "lineid": 574, "uuid": "f02c907e-54da-4e24-81fe-41587a3d0255"}
+{"sub_uri": "Q170867", "obj_uri": "Q96", "obj_label": "Mexico", "sub_label": "Mexican coat of arms", "lineid": 575, "uuid": "d5ecd591-2e28-4b08-bd3c-ecb8d42b7ece"}
+{"sub_uri": "Q1162751", "obj_uri": "Q28", "obj_label": "Hungary", "sub_label": "Government of Hungary", "lineid": 576, "uuid": "3b07ea14-0bad-4e5d-b305-6cf9fa95462c"}
+{"sub_uri": "Q7101210", "obj_uri": "Q824", "obj_label": "Oregon", "sub_label": "Oregon Geographic Names Board", "lineid": 577, "uuid": "9a910325-c496-4650-bcce-f89b6962c52c"}
+{"sub_uri": "Q738695", "obj_uri": "Q33", "obj_label": "Finland", "sub_label": "Prime Minister of Finland", "lineid": 578, "uuid": "30dea39b-dccb-4091-b76d-7ebd7575777a"}
+{"sub_uri": "Q7458690", "obj_uri": "Q1951", "obj_label": "Alberta", "sub_label": "Sexual Sterilization Act of Alberta", "lineid": 579, "uuid": "74784216-6d93-410a-b348-4ba56a13f62c"}
+{"sub_uri": "Q1136026", "obj_uri": "Q774", "obj_label": "Guatemala", "sub_label": "Congress of Guatemala", "lineid": 580, "uuid": "c91ecd1b-bc75-45b4-b310-3009ed099d88"}
+{"sub_uri": "Q4818646", "obj_uri": "Q1649", "obj_label": "Oklahoma", "sub_label": "Attorney General of Oklahoma", "lineid": 581, "uuid": "351fd6c3-8d63-4e17-83b6-ca73b4574a67"}
+{"sub_uri": "Q5469572", "obj_uri": "Q36074", "obj_label": "Queensland", "sub_label": "Forgan Smith Ministry", "lineid": 582, "uuid": "1a001396-1b16-4170-bae7-bb00152c6893"}
+{"sub_uri": "Q884824", "obj_uri": "Q1202", "obj_label": "Saxony", "sub_label": "Landtag of Saxony", "lineid": 583, "uuid": "6056fb58-d62b-41ac-b4ae-93dc5c939aae"}
+{"sub_uri": "Q540130", "obj_uri": "Q64", "obj_label": "Berlin", "sub_label": "Senate of Berlin", "lineid": 584, "uuid": "c023897d-912d-458f-bee5-d5250d62dd77"}
+{"sub_uri": "Q5517321", "obj_uri": "Q36074", "obj_label": "Queensland", "sub_label": "Gair Ministry", "lineid": 585, "uuid": "3eeae099-54fd-4366-a68b-52ae5a0b08fc"}
+{"sub_uri": "Q971591", "obj_uri": "Q414", "obj_label": "Argentina", "sub_label": "Secretar\u00eda de Inteligencia", "lineid": 586, "uuid": "35149551-8975-444d-a0ab-287940cfab2f"}
+{"sub_uri": "Q312271", "obj_uri": "Q217", "obj_label": "Moldova", "sub_label": "President of Moldova", "lineid": 587, "uuid": "4fda91f2-989d-42a8-8a3b-a49a58215dab"}
+{"sub_uri": "Q7028510", "obj_uri": "Q36074", "obj_label": "Queensland", "sub_label": "Nicklin Ministry", "lineid": 588, "uuid": "24c3c84d-3ca6-45d8-a957-ed0e336b9923"}
+{"sub_uri": "Q1769526", "obj_uri": "Q217", "obj_label": "Moldova", "sub_label": "Prime Minister of Moldova", "lineid": 589, "uuid": "cf0a2d6a-79cd-4682-b413-9130aa032e9d"}
+{"sub_uri": "Q47891", "obj_uri": "Q33", "obj_label": "Finland", "sub_label": "flag of Finland", "lineid": 590, "uuid": "6d4f2514-cefa-4109-bedf-a2c25310bdc7"}
+{"sub_uri": "Q7094791", "obj_uri": "Q1904", "obj_label": "Ontario", "sub_label": "Ontario Human Rights Code", "lineid": 591, "uuid": "be1e5f76-98f2-4fd5-96a7-64e4aa413d34"}
+{"sub_uri": "Q3313240", "obj_uri": "Q34366", "obj_label": "Tasmania", "sub_label": "Tasmania Police", "lineid": 592, "uuid": "4e7f9220-7126-4b01-957f-46554a2440f9"}
+{"sub_uri": "Q159470", "obj_uri": "Q1246", "obj_label": "Kosovo", "sub_label": "Kosovo Force", "lineid": 593, "uuid": "09aa3d2c-0b7d-467a-9be6-1100161099ff"}
+{"sub_uri": "Q3543445", "obj_uri": "Q252", "obj_label": "Indonesia", "sub_label": "Vice President of Indonesia", "lineid": 594, "uuid": "72563032-12d9-4cd1-834d-9dfb6134a0b1"}
+{"sub_uri": "Q4809072", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Assisted Human Reproduction Act", "lineid": 595, "uuid": "8ef9c754-c4ff-40c2-b071-7efcfb5842ea"}
+{"sub_uri": "Q13527933", "obj_uri": "Q34366", "obj_label": "Tasmania", "sub_label": "Premier of Tasmania", "lineid": 596, "uuid": "81dfda40-abd4-4bcf-863f-7c97c8430242"}
+{"sub_uri": "Q1054679", "obj_uri": "Q38", "obj_label": "Italy", "sub_label": "laurea", "lineid": 597, "uuid": "bb804ed4-9e1c-4a99-8c2e-fe04b644c8c9"}
+{"sub_uri": "Q133015", "obj_uri": "Q224", "obj_label": "Croatia", "sub_label": "flag of Croatia", "lineid": 598, "uuid": "54469181-f0f6-480d-a385-a976a72410fb"}
+{"sub_uri": "Q14911897", "obj_uri": "Q948", "obj_label": "Tunisia", "sub_label": "President of Tunisia", "lineid": 599, "uuid": "618101c4-edb0-4ac6-9d7d-5321a2f44ac7"}
+{"sub_uri": "Q1517320", "obj_uri": "Q1948", "obj_label": "Manitoba", "sub_label": "Legislative Assembly of Manitoba", "lineid": 600, "uuid": "28733000-ae01-4ec7-8ba1-4a73f4e37865"}
+{"sub_uri": "Q871363", "obj_uri": "Q40", "obj_label": "Austria", "sub_label": "National Council of Austria", "lineid": 601, "uuid": "6c308947-509d-4d9c-a564-94c52a3e58eb"}
+{"sub_uri": "Q2635466", "obj_uri": "Q843", "obj_label": "Pakistan", "sub_label": "India\u2013Pakistan border", "lineid": 602, "uuid": "d5464264-4939-40b7-ba32-ff37ebbb7e30"}
+{"sub_uri": "Q29558", "obj_uri": "Q33", "obj_label": "Finland", "sub_label": "President of Finland", "lineid": 603, "uuid": "bb813e38-5152-40f5-8ac4-bc99b80c1c2b"}
+{"sub_uri": "Q48409", "obj_uri": "Q222", "obj_label": "Albania", "sub_label": "flag of Albania", "lineid": 604, "uuid": "51a0f822-3049-4d95-8d40-47e585327096"}
+{"sub_uri": "Q135630", "obj_uri": "Q5705", "obj_label": "Catalonia", "sub_label": "Parliament of Catalonia", "lineid": 605, "uuid": "e6814547-4c2c-4547-83b1-c3a9aafcc868"}
+{"sub_uri": "Q910886", "obj_uri": "Q1649", "obj_label": "Oklahoma", "sub_label": "Oklahoma House of Representatives", "lineid": 606, "uuid": "376fd604-e205-45f4-bb6d-408740114eb9"}
+{"sub_uri": "Q2982461", "obj_uri": "Q889", "obj_label": "Afghanistan", "sub_label": "Afghan Ministry of Defense", "lineid": 607, "uuid": "fb7d23a8-f8b5-4adf-b02c-46703af171d8"}
+{"sub_uri": "Q42876", "obj_uri": "Q38", "obj_label": "Italy", "sub_label": "national flag of Italy", "lineid": 608, "uuid": "2988f5dc-9417-4b9b-83fa-fb6312549020"}
+{"sub_uri": "Q514435", "obj_uri": "Q5690", "obj_label": "Sparta", "sub_label": "Apella", "lineid": 609, "uuid": "11c5697f-6f1a-48f9-8c97-8297be89b500"}
+{"sub_uri": "Q5589655", "obj_uri": "Q782", "obj_label": "Hawaii", "sub_label": "Governor of Hawaii", "lineid": 610, "uuid": "fd0abbe2-1005-4a7d-8d72-0637e60f7165"}
+{"sub_uri": "Q48160", "obj_uri": "Q183", "obj_label": "Germany", "sub_label": "flag of Germany", "lineid": 611, "uuid": "5140d1de-f53a-4c79-8fe2-0a331d6e1b1f"}
+{"sub_uri": "Q3462542", "obj_uri": "Q1186", "obj_label": "Kerala", "sub_label": "Kerala Legislative Assembly", "lineid": 612, "uuid": "ebac923d-10f9-4ab0-bc2d-c4b00af32c41"}
+{"sub_uri": "Q2119458", "obj_uri": "Q298", "obj_label": "Chile", "sub_label": "Senate of Chile", "lineid": 613, "uuid": "729fbfe0-b44c-44fd-b157-5b95d6c645ca"}
+{"sub_uri": "Q7466263", "obj_uri": "Q265", "obj_label": "Uzbekistan", "sub_label": "President of Uzbekistan", "lineid": 614, "uuid": "48b5012a-7c09-4866-ba3e-8424db7f2aa5"}
+{"sub_uri": "Q2305282", "obj_uri": "Q668", "obj_label": "India", "sub_label": "States Reorganisation Act, 1956", "lineid": 615, "uuid": "8d5370b1-03a8-4f7d-a558-632ac7fe65f2"}
+{"sub_uri": "Q34599", "obj_uri": "Q1016", "obj_label": "Libya", "sub_label": "flag of Libya", "lineid": 616, "uuid": "729e860d-d76f-4095-92d4-446d35e86a0b"}
+{"sub_uri": "Q7444638", "obj_uri": "Q408", "obj_label": "Australia", "sub_label": "Section 51 of the Constitution of Australia", "lineid": 617, "uuid": "26a7debd-56e2-4767-bfd7-43a0ba172e55"}
+{"sub_uri": "Q1406658", "obj_uri": "Q36687", "obj_label": "Victoria", "sub_label": "Victoria Police", "lineid": 618, "uuid": "50ad9a2c-af14-483a-b927-d93b24e80ee5"}
+{"sub_uri": "Q509816", "obj_uri": "Q142", "obj_label": "France", "sub_label": "Ministry of Justice", "lineid": 619, "uuid": "0f683e22-e246-4a11-ab5c-9cf1f1555f10"}
+{"sub_uri": "Q5185574", "obj_uri": "Q22", "obj_label": "Scotland", "sub_label": "Criminal Justice and Public Order Act 1994", "lineid": 620, "uuid": "b1aaa8c4-38d5-4cb2-8ea7-b0e921e456b8"}
+{"sub_uri": "Q5030350", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Canadian Multiculturalism Act", "lineid": 621, "uuid": "d1e8dd22-a204-4f79-8a1d-48108b115736"}
+{"sub_uri": "Q7048878", "obj_uri": "Q334", "obj_label": "Singapore", "sub_label": "non-constituency Member of Parliament", "lineid": 622, "uuid": "3e869dab-07f7-4b1e-bf13-fa3cc5a6b530"}
+{"sub_uri": "Q909041", "obj_uri": "Q173", "obj_label": "Alabama", "sub_label": "Alabama House of Representatives", "lineid": 623, "uuid": "746f88c3-75aa-440a-b393-e2d08c6e8f3a"}
+{"sub_uri": "Q1571023", "obj_uri": "Q36687", "obj_label": "Victoria", "sub_label": "Governor of Victoria", "lineid": 624, "uuid": "dffb0c88-1585-45aa-b6d9-63083fb1c068"}
+{"sub_uri": "Q3297966", "obj_uri": "Q843", "obj_label": "Pakistan", "sub_label": "Chairman of the Senate of Pakistan", "lineid": 625, "uuid": "fc0f060a-3b58-44fe-9360-ce5ea2fda08a"}
+{"sub_uri": "Q684357", "obj_uri": "Q183", "obj_label": "Germany", "sub_label": "Federal Ministry for Economic Cooperation and Development", "lineid": 626, "uuid": "0793574e-cbb6-49dc-8a5f-0e06e26939df"}
+{"sub_uri": "Q1043568", "obj_uri": "Q881", "obj_label": "Vietnam", "sub_label": "Prime Minister of Vietnam", "lineid": 627, "uuid": "95432ba3-1b05-433b-b8e1-83ae44acdab4"}
+{"sub_uri": "Q6468838", "obj_uri": "Q214", "obj_label": "Slovakia", "sub_label": "President of Slovakia", "lineid": 628, "uuid": "7ccb9dfd-756c-4235-99c1-f532c2efdfc1"}
+{"sub_uri": "Q335827", "obj_uri": "Q142", "obj_label": "France", "sub_label": "Directorate-General for External Security", "lineid": 629, "uuid": "f9b25d00-89a9-46b5-8008-efd4dd0ae797"}
+{"sub_uri": "Q3489387", "obj_uri": "Q408", "obj_label": "Australia", "sub_label": "Solicitor-General of Australia", "lineid": 630, "uuid": "11fd481a-df2d-4c3e-9694-44c3210cf932"}
+{"sub_uri": "Q647198", "obj_uri": "Q1030", "obj_label": "Namibia", "sub_label": "President of the Republic of Namibia", "lineid": 631, "uuid": "0dc1aa38-c737-4f61-a7f8-a4cd3d9bbe06"}
+{"sub_uri": "Q878256", "obj_uri": "Q805", "obj_label": "Yemen", "sub_label": "President of Yemen", "lineid": 632, "uuid": "2f5d5636-72b2-4054-9eb4-9d44f25ab8c5"}
+{"sub_uri": "Q134627", "obj_uri": "Q928", "obj_label": "Philippines", "sub_label": "flag of the Philippines", "lineid": 633, "uuid": "6e822058-a0f6-4a29-8e21-e2ba6c5159cf"}
+{"sub_uri": "Q7307130", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "reference question", "lineid": 634, "uuid": "15d3df2a-65df-489f-8d69-e0c9f960d108"}
+{"sub_uri": "Q37251", "obj_uri": "Q183", "obj_label": "Germany", "sub_label": ".de", "lineid": 635, "uuid": "8919032d-be82-417e-a8e6-dda030d717b7"}
+{"sub_uri": "Q15921529", "obj_uri": "Q1020", "obj_label": "Malawi", "sub_label": "President of Malawi", "lineid": 636, "uuid": "cc87fd46-9d49-4c74-9308-e14b224c6fb2"}
+{"sub_uri": "Q6679769", "obj_uri": "Q24826", "obj_label": "Liverpool", "sub_label": "Lord Mayor of Liverpool", "lineid": 637, "uuid": "44907c64-b8b9-4aba-bc86-536e5377d825"}
+{"sub_uri": "Q838380", "obj_uri": "Q794", "obj_label": "Iran", "sub_label": "President of Iran", "lineid": 638, "uuid": "75d4fe33-3601-4658-bfbc-f8efa0af3a54"}
+{"sub_uri": "Q15401700", "obj_uri": "Q668", "obj_label": "India", "sub_label": "Permanent account number", "lineid": 639, "uuid": "8c62fefc-9fb9-40a8-8454-b754803110e3"}
+{"sub_uri": "Q3108371", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "permanent residency in Canada", "lineid": 640, "uuid": "e2d970ac-b3fc-430f-a688-9df3df3daefb"}
+{"sub_uri": "Q3276107", "obj_uri": "Q677037", "obj_label": "Telangana", "sub_label": "Telangana High Court", "lineid": 641, "uuid": "a851f6d4-c6bc-4a71-93ee-644ddc35a9b0"}
+{"sub_uri": "Q495877", "obj_uri": "Q215", "obj_label": "Slovenia", "sub_label": "President of Slovenia", "lineid": 642, "uuid": "67178d56-4599-4136-a910-969849f6043d"}
+{"sub_uri": "Q1052201", "obj_uri": "Q27", "obj_label": "Ireland", "sub_label": "Ceann Comhairle", "lineid": 643, "uuid": "759e05ca-db90-4adb-86d6-06ca9a6360ee"}
+{"sub_uri": "Q128347", "obj_uri": "Q843", "obj_label": "Pakistan", "sub_label": "flag of Pakistan", "lineid": 644, "uuid": "ca52a80b-b07a-44a8-bfba-566d1c9fe231"}
+{"sub_uri": "Q1311333", "obj_uri": "Q183", "obj_label": "Germany", "sub_label": "Eisenbahn-Bau- und Betriebsordnung", "lineid": 645, "uuid": "0252f39e-721b-4f4d-8bd6-4ff941e33255"}
+{"sub_uri": "Q2366737", "obj_uri": "Q33", "obj_label": "Finland", "sub_label": "Finnish Government", "lineid": 646, "uuid": "8081b003-fddf-4ad2-8766-8489aa858504"}
+{"sub_uri": "Q320275", "obj_uri": "Q1370", "obj_label": "Virginia", "sub_label": "Virginia House of Delegates", "lineid": 647, "uuid": "0395fd67-ccc3-403b-947f-1a5abf2e466b"}
+{"sub_uri": "Q1048495", "obj_uri": "Q613", "obj_label": "Emirates of Dubai", "sub_label": "flydubai", "lineid": 648, "uuid": "0d417535-a5ff-4e54-ae93-0f1f32003b4d"}
+{"sub_uri": "Q5255590", "obj_uri": "Q419", "obj_label": "Peru", "sub_label": "Democratic Constituent Congress", "lineid": 649, "uuid": "f31a5f0d-a6eb-4ed1-93af-7d6305e83717"}
+{"sub_uri": "Q668916", "obj_uri": "Q40", "obj_label": "Austria", "sub_label": "Federal Chancellery of Austria", "lineid": 650, "uuid": "d2de1b64-bad7-4fb9-bcb2-70cd9d58c9da"}
+{"sub_uri": "Q15150769", "obj_uri": "Q1948", "obj_label": "Manitoba", "sub_label": "Legislature of Manitoba", "lineid": 651, "uuid": "9a5ba010-c2c9-49c7-921d-0083389a2871"}
+{"sub_uri": "Q128812", "obj_uri": "Q45", "obj_label": "Portugal", "sub_label": "flag of Portugal", "lineid": 652, "uuid": "1c421b88-54b5-4daf-b974-e12bdb87f3f5"}
+{"sub_uri": "Q1389604", "obj_uri": "Q159", "obj_label": "Russia", "sub_label": "unitary enterprise", "lineid": 653, "uuid": "4ee60355-2c91-49b5-9a64-f481ff378829"}
+{"sub_uri": "Q3774607", "obj_uri": "Q77", "obj_label": "Uruguay", "sub_label": "Constitution of Uruguay", "lineid": 654, "uuid": "9275bfd8-6cda-46d7-97cd-450e64d17dfd"}
+{"sub_uri": "Q4294403", "obj_uri": "Q212", "obj_label": "Ukraine", "sub_label": "Ministry of Foreign Affairs of Ukraine", "lineid": 655, "uuid": "757e03cb-7810-4d2f-a346-7ed8ea53dfaa"}
+{"sub_uri": "Q1973075", "obj_uri": "Q796", "obj_label": "Iraq", "sub_label": "Council of Representatives of Iraq", "lineid": 656, "uuid": "d4df8ce3-c3fe-4c2f-a354-034157877b49"}
+{"sub_uri": "Q4818647", "obj_uri": "Q1391", "obj_label": "Maryland", "sub_label": "Attorney General of Maryland", "lineid": 657, "uuid": "9d5ca5ec-e841-496e-ab13-1056c8702c35"}
+{"sub_uri": "Q1723031", "obj_uri": "Q45", "obj_label": "Portugal", "sub_label": "Prime Minister of Portugal", "lineid": 658, "uuid": "fd0bf4a5-af06-4682-a0c9-61c96152e1d9"}
+{"sub_uri": "Q267707", "obj_uri": "Q408", "obj_label": "Australia", "sub_label": "Australian Signals Directorate", "lineid": 659, "uuid": "39a63175-94b3-44f5-a94a-fb96ff3e07a6"}
+{"sub_uri": "Q6317024", "obj_uri": "Q35", "obj_label": "Denmark", "sub_label": "Justice Minister of Denmark", "lineid": 660, "uuid": "0189d24c-42c6-48ba-bbc3-e8e8739b3334"}
+{"sub_uri": "Q467926", "obj_uri": "Q27", "obj_label": "Ireland", "sub_label": "Cathaoirleach", "lineid": 661, "uuid": "6a791853-fa2f-44ea-bcad-65ca0a977120"}
+{"sub_uri": "Q9143629", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Newfoundland Act 1949", "lineid": 662, "uuid": "6271fc16-f764-4929-b210-f2a8f4e31446"}
+{"sub_uri": "Q129132", "obj_uri": "Q41", "obj_label": "Greece", "sub_label": "flag of Greece", "lineid": 663, "uuid": "4f968f5f-a440-4676-82f5-8fd8fde73fd3"}
+{"sub_uri": "Q1853515", "obj_uri": "Q1612", "obj_label": "Arkansas", "sub_label": "Lieutenant Governor of Arkansas", "lineid": 664, "uuid": "124b4bb2-0c9b-4163-a264-9990812b53d7"}
+{"sub_uri": "Q6984676", "obj_uri": "Q1553", "obj_label": "Nebraska", "sub_label": "Nebraska Attorney General", "lineid": 665, "uuid": "a5df07da-36b8-4dd8-a013-2db7da7aa612"}
+{"sub_uri": "Q7315431", "obj_uri": "Q865", "obj_label": "Taiwan", "sub_label": "Taiwan (ROC) Resident Certificate", "lineid": 666, "uuid": "7cc8e219-f5d0-4f12-a19b-dec13866a4b6"}
+{"sub_uri": "Q835586", "obj_uri": "Q403", "obj_label": "Serbia", "sub_label": "Prime Minister of Serbia", "lineid": 667, "uuid": "70d1f610-fbf8-4f6c-b5c8-815e8a08473f"}
+{"sub_uri": "Q6865904", "obj_uri": "Q27", "obj_label": "Ireland", "sub_label": "Minister for Justice and Equality", "lineid": 668, "uuid": "cadf2385-4a11-46ea-8548-6ff7185c947a"}
+{"sub_uri": "Q3567486", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Western Block Party", "lineid": 669, "uuid": "37175fde-e70b-459a-b6cf-00db8695d5f4"}
+{"sub_uri": "Q752569", "obj_uri": "Q1391", "obj_label": "Maryland", "sub_label": "flag of Maryland", "lineid": 670, "uuid": "a964c8ec-6338-4ead-ae6f-5ca708a5dfc1"}
+{"sub_uri": "Q7315292", "obj_uri": "Q408", "obj_label": "Australia", "sub_label": "Reserved powers doctrine", "lineid": 671, "uuid": "106850d0-d17c-415c-ab7e-6786fec900ec"}
+{"sub_uri": "Q1571396", "obj_uri": "Q79", "obj_label": "Egypt", "sub_label": "Prime Minister of Egypt", "lineid": 672, "uuid": "def2aa1b-6914-4dae-9f56-d3eee362c60c"}
+{"sub_uri": "Q731338", "obj_uri": "Q17252", "obj_label": "Tibet", "sub_label": "flag of Tibet", "lineid": 673, "uuid": "6890d213-3556-4f42-b345-db5b5cc94619"}
+{"sub_uri": "Q1230987", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Patriation Reference", "lineid": 674, "uuid": "394d8715-d2a8-4c3b-8311-16a014b6a0ef"}
+{"sub_uri": "Q5029970", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Canadian Environmental Protection Act, 1999", "lineid": 675, "uuid": "78370867-fdd6-4b26-8ca7-09f84aeb92f3"}
+{"sub_uri": "Q3401750", "obj_uri": "Q1951", "obj_label": "Alberta", "sub_label": "Premier of Alberta", "lineid": 676, "uuid": "209a9af6-deb8-4937-8861-dd441c3b2ee2"}
+{"sub_uri": "Q427048", "obj_uri": "Q176", "obj_label": "Quebec", "sub_label": "coat of arms of Quebec", "lineid": 677, "uuid": "67ab153c-e4e7-412b-ab3b-00a0befc75e0"}
+{"sub_uri": "Q2344772", "obj_uri": "Q921", "obj_label": "Brunei", "sub_label": "Malayan dollar", "lineid": 678, "uuid": "63a6a80e-665f-4433-aa0d-4431d1c39b70"}
+{"sub_uri": "Q2865680", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Section Seven of the Canadian Charter of Rights and Freedoms", "lineid": 679, "uuid": "03cffcc6-f0e6-4e94-9fbe-7925a720628a"}
+{"sub_uri": "Q4377230", "obj_uri": "Q41", "obj_label": "Greece", "sub_label": "Prime Minister of Greece", "lineid": 680, "uuid": "a0d15310-961f-46f4-aeb0-e4e38d9e9b1d"}
+{"sub_uri": "Q2865500", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Section Sixteen of the Canadian Charter of Rights and Freedoms", "lineid": 681, "uuid": "47e11648-2071-4d51-b32e-cd56ada2f037"}
+{"sub_uri": "Q18018541", "obj_uri": "Q20", "obj_label": "Norway", "sub_label": "Foreign Minister of Norway", "lineid": 682, "uuid": "bac7fc30-d28f-49ef-8308-36db6f367c10"}
+{"sub_uri": "Q674827", "obj_uri": "Q183", "obj_label": "Germany", "sub_label": "Strafgesetzbuch", "lineid": 683, "uuid": "4b395ee9-3165-44e8-8719-e962d41ec997"}
+{"sub_uri": "Q2386529", "obj_uri": "Q33", "obj_label": "Finland", "sub_label": "Minister for Foreign Affairs of Finland", "lineid": 684, "uuid": "5c2a4317-f8a9-4fa4-889f-133a13a0de57"}
+{"sub_uri": "Q122462", "obj_uri": "Q96", "obj_label": "Mexico", "sub_label": "flag of Mexico", "lineid": 685, "uuid": "ca100d86-b674-4ac8-92df-4db651a07cf3"}
+{"sub_uri": "Q261760", "obj_uri": "Q183", "obj_label": "Germany", "sub_label": "Eisenbahn-Bundesamt", "lineid": 686, "uuid": "ea35136b-33c5-4174-bf72-cda271c1a8ac"}
+{"sub_uri": "Q17006506", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Heritage Lighthouse Protection Act", "lineid": 687, "uuid": "71d6b930-0f0f-414a-804e-06ee7905fb73"}
+{"sub_uri": "Q16241067", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Canada Labour Code", "lineid": 688, "uuid": "92fc91a1-2494-4115-a392-4e7967ae8280"}
+{"sub_uri": "Q3847734", "obj_uri": "Q142", "obj_label": "France", "sub_label": "Frisking", "lineid": 689, "uuid": "3a85f633-57cf-484a-8a56-119666feb126"}
+{"sub_uri": "Q43175", "obj_uri": "Q17", "obj_label": "Japan", "sub_label": "flag of Japan", "lineid": 690, "uuid": "c345bd12-52f7-49d7-8591-80741d900214"}
+{"sub_uri": "Q1875599", "obj_uri": "Q183", "obj_label": "Germany", "sub_label": "Luftfahrt-Bundesamt", "lineid": 691, "uuid": "7f2edb29-4c67-4294-8702-882eb9fd65a6"}
+{"sub_uri": "Q7574297", "obj_uri": "Q843", "obj_label": "Pakistan", "sub_label": "Speaker of the National Assembly of Pakistan", "lineid": 692, "uuid": "7f130e2b-70db-4d52-b6d9-9582731e4fd4"}
+{"sub_uri": "Q2578933", "obj_uri": "Q16", "obj_label": "Canada", "sub_label": "Canada Permanent Resident Card", "lineid": 693, "uuid": "397f6ef3-c444-4bcc-acf9-63c85d6b7015"}
+{"sub_uri": "Q1162405", "obj_uri": "Q79", "obj_label": "Egypt", "sub_label": "Minister of Foreign Affairs", "lineid": 694, "uuid": "51892db7-a3aa-4df4-a045-3623e1db4985"}
+{"sub_uri": "Q783401", "obj_uri": "Q408", "obj_label": "Australia", "sub_label": "House of Representatives", "lineid": 695, "uuid": "c3b16977-5b85-432a-9a67-2b9d72b245cf"}
+{"sub_uri": "Q720676", "obj_uri": "Q46", "obj_label": "Europe", "sub_label": "Armenian Secret Army for the Liberation of Armenia", "lineid": 696, "uuid": "6f4dabc8-6ae2-4d38-bf18-dd2b338b41a8"}
+{"sub_uri": "Q4791244", "obj_uri": "Q816", "obj_label": "Arizona", "sub_label": "Arizona Attorney General", "lineid": 697, "uuid": "716768db-6c03-41ed-8041-26ec54d08101"}
+{"sub_uri": "Q7444628", "obj_uri": "Q408", "obj_label": "Australia", "sub_label": "Section 51(xx) of the Constitution of Australia", "lineid": 698, "uuid": "90c31687-c196-43ab-aaf6-158814e45768"}
+{"sub_uri": "Q1151589", "obj_uri": "Q142", "obj_label": "France", "sub_label": "DADVSI", "lineid": 699, "uuid": "5f6290f5-c969-44df-97b3-dd277ddfb2cd"}
+{"sub_uri": "Q2660943", "obj_uri": "Q408", "obj_label": "Australia", "sub_label": "Minister for Foreign Affairs", "lineid": 700, "uuid": "1e66befb-0867-4f48-bb9b-6deaf88aa946"}
